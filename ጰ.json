@@ -1,0 +1,436 @@
+[
+    {
+        "phonetics": "podere, poder, pāder, peder",
+        "meaning": "'full-length robe'; from Gk. podērē, acc. sg. of podērēs 'robe that falls to the feet', used in the Septuagint for 'the high priest's robe'.",
+        "origin_explanation": "from Gk. podērē, acc. sg. of podērēs 'robe that falls to the feet', used in the Septuagint for 'the high priest's robe'.",
+        "ethiopic_word": "ጶዴሬ፣ ጶዴር፣ ጳዴር፣ ጴዴር",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pāgmen",
+        "meaning": "'intercalary month (5-10 September)';",
+        "origin_explanation": "from Gk. epagomenai 'intercalated days'; also Chr.-Ar. abīgūmānis, Coptic epagomene.",
+        "ethiopic_word": "ጳጒሜን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pāhen, pāhin",
+        "meaning": "see payon.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጳሔን፣ ጳሒን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pakmas",
+        "meaning": "name of the ninth Coptic month (corresponds to G. ganbot); a corruption of Coptic pakhōn, pašons.",
+        "origin_explanation": "a corruption of Coptic pakhōn, pašons.",
+        "ethiopic_word": "ጰኲምስ፣ ጳኲምስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paksimā, pāksimā",
+        "meaning": "'small loaf of bread, small mouthful';",
+        "origin_explanation": "from Gk. paksamās 'biscuit'; also in Tna. baq'asmat, Te. baqsāwit, Har. buqsumāt, Ar. buqsumāt. See also paskimā.",
+        "ethiopic_word": "ጰኲሲማ፣ ጳኲሲማ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pekson, peksān",
+        "meaning": "'box tree';",
+        "origin_explanation": "from Gk. pykson, gen. pl. of pyksos 'box tree'; see also tekson. For the alternance p:t, see pngl:tngl.",
+        "ethiopic_word": "ጴክሶን፣ ጴክሳን፣ ጲክሶን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palānos",
+        "meaning": "see palānyos.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጰላኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palantayā, palantiyā, palantayu",
+        "meaning": "'brick kiln, brick oven, (T) brick';",
+        "origin_explanation": "either from Gk. plintheion, pl. plintheia 'brickworks', or from Gk. plinthion 'brick mold'. Tayyā's translation 'brick' is not precise.",
+        "ethiopic_word": "ጰልንትያ፣ ጵልንቲያ፣ ጵልንትዩ፣ ጵላንቲያ፣ ጰለንቲያ፣ ጰላንቲያ፣ ጰላንትያ፣ ጵልትንያ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palānatos",
+        "meaning": "(T) 'plane tree';",
+        "origin_explanation": "see also palātanos.",
+        "ethiopic_word": "ጵላነጦስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palānyos, palānos",
+        "meaning": "(T) 'perfume'; perhaps confused with pīltānos.",
+        "origin_explanation": "perhaps confused with pīltānos.",
+        "ethiopic_word": "ጰላንዮስ፣ ጰላኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palqān",
+        "meaning": "(Lt) 'pelican' (Hommel 1887: xxx, 49).",
+        "origin_explanation": "from Gk. pelekan 'pelican' (Hommel 1887: xxx, 49).",
+        "ethiopic_word": "ጰልቃን፣ ጳልቃን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "polis",
+        "meaning": "(T) palis 'capital city, (T) bishop'; The meaning 'bishop' is either due to a scribal error or it is an abbreviation of mētropolitēs 'the bishop of the capital'.",
+        "origin_explanation": "from Gk. polis 'town, city'. The meaning 'bishop' is either due to a scribal error or it is an abbreviation of mētropolitēs 'the bishop of the capital'.",
+        "ethiopic_word": "ጶሊስ፣ ጰሊስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palṭanyā",
+        "meaning": "(T); see palantayā.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጵልትንያ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palṭanyu",
+        "meaning": "(T) 'shackles'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጵልትንዩ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palāṭanos, palāṭonos",
+        "meaning": "(K*) '(T) palāṭanos 'plane tree';",
+        "origin_explanation": "from Gk. platanos 'plane tree'. See also palānatos, pīlṭānos, balṭonos.",
+        "ethiopic_word": "ጵላጣኖስ፣ ጵላጦኖስ፣ ጰላጢኖስ፣ ጵልጣኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pīlṭānos",
+        "meaning": "(T) 'perfume'; could it be confused with palāṭānos?",
+        "origin_explanation": "could it be confused with palāṭānos?",
+        "ethiopic_word": "ጲልጣኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pelṭās",
+        "meaning": "'shield';",
+        "origin_explanation": "from Gk. peltās, acc. pl. of peltē 'shield'.",
+        "ethiopic_word": "ጴልጣስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "palyon",
+        "meaning": "(Gr.351) 'iron'; perhaps instead of peryon I, below.",
+        "origin_explanation": "perhaps instead of peryon I, below.",
+        "ethiopic_word": "ጵልዮን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pngl, spangala",
+        "meaning": "(T.M) 'comment, ex-pound, translate, recite, interpret, repeat from memory';",
+        "origin_explanation": "pangālē (K*) 'commentary, report, translation, interpretation';",
+        "ethiopic_word": "አጰንገለ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mapangal",
+        "meaning": "act. participle of 'apangala; also 'read-er';",
+        "origin_explanation": "from Gk. apangellein 'announce, inform, expound, interpret'. Note the creation of the Geez forms pangālē, mapangal. See also tngl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "panino",
+        "meaning": "(K*) 'precious stone'; transcription of Heb. panīnā 'pearl'.",
+        "origin_explanation": "transcription of Heb. panīnā 'pearl'.",
+        "ethiopic_word": "ጵኒኖ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pantaqoste, pantaqaste, panta qoste, panteqaste",
+        "meaning": "(K*) 'Pentecost';",
+        "origin_explanation": "from Gk. pentēkostē (sc. hēmera) 'the fiftieth day', Pentecost'; also Chr.-Ar. bantīqistī.",
+        "ethiopic_word": "ጰንጠቆስጤ፣ ጰንጠቄስጤ፣ ጰንጠ ፡ ቆስጤ፣ ጰንጤቈስጤ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pappa",
+        "meaning": "(MA) 'chat'; seems to be onomatopoetic.",
+        "origin_explanation": "seems to be onomatopoetic.",
+        "ethiopic_word": "ጰጰ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pappafinā",
+        "meaning": "(T) 'sorghum'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጰጰፊና",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "papperā",
+        "meaning": "(T) pappirā 'purple, purple powder, red dye used for dyeing cloth or fly whisks';",
+        "origin_explanation": "see also papirā.",
+        "ethiopic_word": "ጰጴራ፣ ጰጲራ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pappās",
+        "meaning": "(pl. pāppāsāt, pāppāsāwəst) 'metropolitan, patriarch (of the church), bishop'; liqa pāppās, liqa pāppāsāt 'archbishop'; 'apappāsa, 'apāppāsa 'appoint an archbishop'; pappus 'an appointed metropolitan'; pappāsē 'episcopate, patriarchate'; pappāsannā 'episcopacy, office of the patriarch'; liqa pappāsannā 'archbishopric';",
+        "origin_explanation": "from Gk. papas 'father, title of priests'; also Chr.-Ar. bābā.",
+        "ethiopic_word": "ጳጳስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "perbāṭeqe",
+        "meaning": "see pirupāṭqe.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጴርባጤቄ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "perdakayse",
+        "meaning": "'partridge';",
+        "origin_explanation": "from Gk. perdiks 'partridge'.",
+        "ethiopic_word": "ጵርድክይሴ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "perfānā",
+        "meaning": "(T) 'kind of bird'; corrupt from porfaryonā.",
+        "origin_explanation": "corrupt from porfaryonā.",
+        "ethiopic_word": "ጵርፋና",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "porfaryonā, porfariyānā",
+        "meaning": "'water hen, sea bird';",
+        "origin_explanation": "from Gk. porphyrion 'water hen'. See also parfānā.",
+        "ethiopic_word": "ጵርፍርዮና፣ ጶርፍሪየና፣ ጶርፍርዮን፣ ጰርፍሪዮና",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pirāhī",
+        "meaning": "(T) parāhī 'sanctuary';",
+        "origin_explanation": "",
+        "ethiopic_word": "ጳራሂ፣ ጰራሂ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "perkā",
+        "meaning": "(T) 'chickpea';",
+        "origin_explanation": "see also perkā.",
+        "ethiopic_word": "ጴርካ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parālayā, parāliyā, parālayās",
+        "meaning": "'seacoast';",
+        "origin_explanation": "from Gk. paralia (sc. gē 'land') 'land by the sea'.",
+        "ethiopic_word": "ጰራልያ፣ ጰራሊያ፣ ጰራልዩ፣ ጰራልያስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pārenu",
+        "meaning": "(K*) 'white stone, precious stone';",
+        "origin_explanation": "from Gk. parinos 'from Paros', the Greek island famous for its marble. See also paranso.",
+        "ethiopic_word": "ጳሬኑ፣ ጰሪኑ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paranso",
+        "meaning": "(K) 'precious stone'; variant or misreading of pārenu.",
+        "origin_explanation": "variant or misreading of pārenu.",
+        "ethiopic_word": "ጵርንሶ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parpalō",
+        "meaning": "(Lt) 'kind of stone';",
+        "origin_explanation": "from Gk. pyrobolou, gen. sg. of pyrobolos 'flint stone'.",
+        "ethiopic_word": "ጰርጰሎ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pərupāṭā",
+        "meaning": "(K*) 'sheep';",
+        "origin_explanation": "from Gk. probata, pl. of probaton 'sheep, goats'. See also pirupāṭqe, below.",
+        "ethiopic_word": "ጵሩጳጣ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pirupāṭqe, pərupāṭqe, pərupāṭqe, perbāṭqe",
+        "meaning": "'of the sheep';",
+        "origin_explanation": "from Gk. probatikē, fem. of probatikos 'of the sheep'. See also perbāṭeqe, pərupāṭā.",
+        "ethiopic_word": "ጲሩጳጥቄ፣ ጵሮጳጥቄ፣ ጵሩጳጥቄ፣ ጴርባጥቄ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parāqlīṭos, parāqlīṭos",
+        "meaning": "the Holy Spirit as intercessor, Pentecost, Transfiguration (celebrated the 13th of Nahāsē);",
+        "origin_explanation": "from Gk. paraklētos 'intercessor, the Holy Spirit as intercessor'; also Chr.-Ar. bārāqlīṭ.",
+        "ethiopic_word": "ጰራቅሊጦስ፣ ጳራቅሊጦስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parq'ama",
+        "meaning": "(T.M) 'write'; perhaps from Gk. programma 'written order, edict' (G. Salinger). In this case Geez may have created a denominative.",
+        "origin_explanation": "perhaps from Gk. programma 'written order, edict' (G. Salinger). In this case Geez may have created a denominative.",
+        "ethiopic_word": "ጰርቈመ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parsāforā, parsəforā, pərosforā",
+        "meaning": "'offering, consecrated oblation, Eucharist';",
+        "origin_explanation": "from Gk. prosphorā 'offering, Eucharist'; also in Chr.-Ar. 'abrusfār.",
+        "ethiopic_word": "ጵርስፎራ፣ ጵራስፎራ፣ ጰሮስፎራ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parsaqəlā",
+        "meaning": "(T) 'perfume'.",
+        "origin_explanation": "perhaps from Gk. periokhē 'circumscribed place' (Salinger).",
+        "ethiopic_word": "ጰርስቅቅላ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parāsas",
+        "meaning": "(T) 'precious stone'",
+        "origin_explanation": "from Gk. prasios (sc. lithos) 'light-green stone, emerald'",
+        "ethiopic_word": "ጰራስስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paryon I, paryoni, paryonos",
+        "meaning": "'saw', serra marina (kind of animal), (T.K) 'shackles'",
+        "origin_explanation": "from Gk. prionos, prioni, gen. and dat. sg. of priōn 'saw' (see also Hommel 1877:xxix, 84). As for 'shackles', it is an interpretation of the original meaning 'saw'.",
+        "ethiopic_word": "I ጵርዮን፣ ጵርዮኒ፣ ጰርዮኒ፣ ጵርዮኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paryon II, paryun, paryion",
+        "meaning": "(T) paryon 'kind of oak, (T.Sw. in D 1252) pomegranate'",
+        "origin_explanation": "from Gk. prinos, acc. prinon 'holm oak'. The meaning 'pomegranate' seems to be a misunderstanding.",
+        "ethiopic_word": "II ጵርዮን፣ ጰርዩን፣ ጵሪዮን፣ ጰርዮን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paryonin",
+        "meaning": "(T) 'exile, emigration, scattering'",
+        "origin_explanation": "",
+        "ethiopic_word": "ጵርዮኒን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "paryonos",
+        "meaning": "see paryon I.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጵርዮኖስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "parāzporos, parāzporās",
+        "meaning": "(Lt) 'priest'",
+        "origin_explanation": "corrupt from Gk. presbyteros 'elder, priest'. See also porezbiṭar, ṭarbezēr.",
+        "ethiopic_word": "ጰራዝጶሮስ፣ ጰራዝጶራስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pasada",
+        "meaning": "(T) 'brew beer'",
+        "origin_explanation": "",
+        "ethiopic_word": "ጰሰደ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pāsikā, pasikā, pāskā, paskā",
+        "meaning": "'Passover, Easter'",
+        "origin_explanation": "from Gk. paskha, transcription of Aram. pashā. See also pāsikā.",
+        "ethiopic_word": "ጳሶካ፣ ጰሲካ፣ ጳስካ፣ ጰስካ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pastoforayā",
+        "meaning": "(K) 'chamber, store-house'",
+        "origin_explanation": "from Gk. pastophoria, nom. acc. pl. of pastophorion 'priest's quarters, sacristy'.",
+        "ethiopic_word": "ጰስጦፎርያ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pastama",
+        "meaning": "(T.M) 'cut in strips, tear'",
+        "origin_explanation": "Grimme 1914:261 identifies it with Heb. pašaṭ 'strip off'. Aram. Syr. pašaṭ 'spread out'.",
+        "ethiopic_word": "ጰስጠመ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pastaqis",
+        "meaning": "(K.DTW 1007) 'pure perfume'; pastages nardos (Gr.351) 'genuine spikenard'; it refers to the Holy Spirit;",
+        "origin_explanation": "from Gk. pistikēs, gen. sg. fem. of pistikos 'genuine, of pure quality'; also in Amh. fəsṭəq 'kind of perfume'.",
+        "ethiopic_word": "ጵስጥቂስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "piton, peten",
+        "meaning": "'pine tree'; 'əda pityās (D), peṭyās (K), piṭas (T) 'pine tree'",
+        "origin_explanation": "from Gk. pitys 'pine tree', acc. pl. pityas.",
+        "ethiopic_word": "ጲጦን፣ ጴጤን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "patromā",
+        "meaning": "'church'",
+        "origin_explanation": "",
+        "ethiopic_word": "ጰጥሮማ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pāṭos, patos",
+        "meaning": "'bramble bush'; 'əda pāṭos 'bush, 'bramble bush'",
+        "origin_explanation": "from Gk. batos 'bramble bush'. See also bāṭos.",
+        "ethiopic_word": "ጳጦስ፣ ጰጦስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "piṭas",
+        "meaning": "see piṭon.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጲጥስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "peṭyās, pityās",
+        "meaning": "see piṭon.",
+        "origin_explanation": "",
+        "ethiopic_word": "ጴጥያስ፣ ጲጥያስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pawqinā, pawqenā, pawqena, pewqenā, pewqinos",
+        "meaning": "(T) pawqino '(of) pine wood, (of) fir'",
+        "origin_explanation": "from Gk. peukinos 'made from pine wood', peukina '(things) made from pine wood'.",
+        "ethiopic_word": "ጰውቂና፣ ጰውቄና፣ ጳውቄና፣ ጰውቄኔ፣ ጴውቄና፣ ጴውቂኖስ፣ ጰውቂኖ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "payon",
+        "meaning": "name of the tenth Coptic month (corresponds to G. sane)",
+        "origin_explanation": "from Coptic paōne, paane. See also pāhen, barunāh.",
+        "ethiopic_word": "ጵዮን",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pazforās",
+        "meaning": "(Lt) 'Egyptian priest'",
+        "origin_explanation": "from Gk. pastophoros, lit. 'carrier of a shrine' (L. Guerrier-S. Grébaut, Le testament en Galilée de notre-Seigneur Jesus-Christ, p. 134).",
+        "ethiopic_word": "ጰዝፎራስ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "pāzayon, pāzewon",
+        "meaning": "'topaz'",
+        "origin_explanation": "from Gk. topazion 'chrysolite, topaz', with the loss of to wrongly mistaken for the Greek article.",
+        "ethiopic_word": "ጳዝዮን፣ ጳዜዎን",
+        "amharic_meaning": ""
+    }
+]

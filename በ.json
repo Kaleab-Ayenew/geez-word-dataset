@@ -1,0 +1,3670 @@
+[
+    {
+        "phonetics": "ba",
+        "meaning": "'in, at, into, on, by, through, with (by means of), after (kind and means), by reason of, because of, out of, on account of, accord-ing to, concerning, against (contiguity)'; is used with suffix pronouns; e.g. baka 'in you'; with suffix pronouns it also expresses posses-sion; e.g. baka 'you have'; bo, bottu 'he has' (that is, ba with the suffix pronoun of the 3rd masc. sg) also means 'there is, there are'; the negative 'there is not, there are not' is expressed by albo (see above); bo+za+verb means 'someone, something'; bo+za+verb...wabo+za+verb 'one who... the other who; some...some'; bo'ama 'sometimes'; bo'ama...wabo'ama 'one time...and another time'; babba- (that is, repeated ba) serves for the expression of the distributive 'each'; e.g. wa-nasu babbadinär 'they took a dinar each'; babba 'ahadu 'one by one'; babba boheru 'in diverse lands'. bohu, honu (that is, bo with the interrogative element -hu) is used in a rhetorical ques-tion; e.g. bonu 'ita'ammaru 'don't you know?'; for more details, see Dillmann 1907:374-90, 407, 437, 493, 510ff, 513, 532; for the ex-pression of the distributive, see Dillmann 1907: 373-5.",
+        "origin_explanation": "SEMITIC: ba, bi (Arabic); for this preposition in Semitic, see Brockelmann 1913:363ff. ETHIOPIC: bä, Te. 'ab, Tna. 'ab, bä (as in bäyä 'I have', lit. 'in me').",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bo'a",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'ama (MA)",
+        "meaning": "'arrange, put in order'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'unäh, bo'unäh",
+        "meaning": "tenth Coptic month (corresponds to G. šane) from Coptic pa'one through Chr.-Ar. a'unä. Also bäwänt, payon.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'anta",
+        "meaning": "see anta I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bä'asa I (yäb'as)",
+        "meaning": "(T) bä'asa 'be bad, become worse, be vicious, be irritable, ful, be unsatisfactory, be severe or a (pain)'. 'ab'asa, causative; also 'do harm, harass, treat severely'. tabä'asa, tabä'asa 'fight with one struggle, use force, do violence, a fiercely, wrangle, quarrel, contend, compete, exert oneself, be in conflict another, be antagonistic toward'. 'astabä'asa (K), caus. of tabä'asa; ba'äsi (K*) 'bad, harmful'. bä'us 'bad, vile, unsuccessful'. bä's (T) bä's 'contention, conflict, fighting, altercation, contest, quarrel'. bä'sat (K*), verbal noun of bä'sa; mab'as, mab'as, part. of 'ab'asa; also mab'as which is rough, rugged, bad, disabled, a little, abrupt, litigant'; mahä'ast pl. (Lt) 'who attack one another, mastabä'as 'combative, rival, antagonist, warrior, who stirs up a fight'.",
+        "origin_explanation": "SEMITIC: Ar. ba'isa 'be wretched, be unfortunate', Sar. b's, 'be bad', Heb. bä'aš 'smell bad', bä'eš 'be bad, unpleasant, wicked', Syr. b's, b'iš, Ug. b's, Akk. ba'ašu 'be of bad quality, smell bad'. ETHIOPIC: Te. bä'asä 'be angry', Tna. bä'asä 'be worse', Amh. basä 'get worse, get aggravated (pain)', bäššäta 'disease', Gur. bä'asä 'become worse'. The meaning of G. tabä'asa 'fight with one another' is not to be connected with b's 'be strong, intrepid' (for which see bä'asa II, below), as against Barth 1911:23, n. 1. The root is perhaps common with Cushitic (Bil. bis 'get angry', Aw. bas 'be worse') rather than being considered a borrowing from Cushitic, as suggested by Cerulli 1938:196.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bä'asa II (K*)",
+        "meaning": "'grow, grow mature, strong, be swift' (denominative from bä'asi 'man, male, husband, person, someone' (bä'ase nägus 'a certain king'); bä'asit 'woman, wife, (Lt) female (animal)').",
+        "origin_explanation": "SEMITIC: Ar. ba'usa 'be strong, be intrepid'; for the passage of meaning, cp. Ethiopic tb'e 'be a man', Amh. täbat 'male'. ETHIOPIC: Te. bä'as 'husband', G. bä'asit is formed from the masc. bä'asi through the suffixing of the feminine marker -t. The identification of bä'as 'man' with Gur. mas 'male' suggested by Praetorius 1879:50 is unlikely.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'at (K*)",
+        "meaning": "bu'at 'entry, entrance, beginning (of month, fast)'; see bw', bo'a, below. See also ba'ata, bavatt.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'att (Lt)",
+        "meaning": "ba'att 'cave, den'; see bw', bo'a, below. Note the geminated t of ba'att as against the non-geminated t of ba'at 'entrance'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'ata (Lt)",
+        "meaning": "'begin (month)'; denominative of ba'at 'entry', above.",
+        "origin_explanation": "ETHIOPIC: Amh. batä 'begin (month)', Tna. bä'atä, bähatä. It is not to be connected with 'anbäta 'begin', as suggested by Brockelmann 1950:37, nor is it Cushitic, as stated by Brauner-Plazikowski 1953:265.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bä's",
+        "meaning": "'palm of hand, cubit'; bä'a (K*) 'measure with the arm span' (de-nominative).",
+        "origin_explanation": "from Ar. bä' 'cubit'; also Te. bä'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'ada (yäb'ad)",
+        "meaning": "'change, alter, distinguish, separate, render alien, be altered, be separated'; 'ab'ada, causative; tabä'ada 'be a stranger, be separated, move away, emigrate, change the dwelling place, change (intr), be changed, be alien, be unfamiliar, deviate from, become other'; tabä'ada 'be estranged from one another, be alienated from one another'; 'astabä'ada (T) 'astabä'ada, caus. of tabä'ada; ba'ädi (K*), act. part. of ba'ada; ba'ud 'different, diverse, foreign, alien, alienated, strange, unusual, changed, of various col-ors, undecided, disturbed (mind)'; bä'd 'other, different, strange, alien, outsider, foreign'; bu'äde (Gr.190) bu'äde 'change, difference, variation, diversity, separation'; bä'dännä 'change, difference, mutability, varia-tion, diversity, separation'; mastabä'ad, part. of 'astabä'ada.",
+        "origin_explanation": "SEMITIC: Ar. ba'uda 'be distant', ba'ida 'after', Sar. b'd 'remove to a distance', b'd 'after', Soq. ba'ad 'after', Heb. (mib)bä'ad 'from behind' (lit. 'from out of the distance of'), Syr. (qä)b'ed 'drive far away', mab'edä 'distant, remote', Ug. b'd 'behind'. Driver, VT 4 (1954):244 interprets Heb. bä'ad as meaning 'in exchange for, in place of' coming close to Ethiopic b'd. ETHIOPIC: Tna. bä'di 'another, stranger', Te. bäda 'stranger' (probably from Amh. bäda), bä'ad 'another', Amh. bädä 'be separated, isolated', bä'ad, bäda 'stranger, non-relative', Gur. bäda 'passed into Cushitic: Bil. bädi 'foreigner', Qem. bäda 'stranger'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'al I (pl. 'ab'alt, bä'awalt)",
+        "meaning": "'owner, head of family, husband'; is also used in various compounds in the con-struct state, as in ba'äla 'ädä 'creditor', ba'äla wäddet 'calumniator', and so on; see ba'la I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'al II",
+        "meaning": "ba'el 'the Phoenician god Baal'.",
+        "origin_explanation": "from Gk. baal, Heb. ba'al.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ba'al III",
+        "meaning": "'festival, feast day, feast, banquet'; ba'äl täkält 'fixed festival'; ba'äl täkält 'movable festival'; (gabra ba'äla 'celebrate a festival'); 'ab'äla 'celebrate a festival'; tabä'la 'be celebrated (festival)'; bä'ul 'festival'.",
+        "origin_explanation": "ETHIOPIC: Te. Tna. bä'al 'festival', Amh.Arg. bal, Gur. ba'al, bal; passed into Cushitic: Sa. bal, Mo. bär'o.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəb'al)",
+        "meaning": "'be rich, be wealthy'; 'ab'ala 'make rich, enrich'; 'astab'ala 'acquire wealth, covet wealth'; bā'əl (pl. 'ab'əlt) 'rich, wealthy, owner, possessor, master, head of family'; (bā'əla səggā 'generous'); (bā'əla mašaf 'skilled in writing'); bā'əlī (fem. of bā'əl) 'mistress of the house'; bā'əlī (pl. 'ab'əlt) 'owner, possessor, master, head of family'; ba'əl 'rich, wealthy'; ba'əl 'wealth, riches'; bā'əlay 'rich, wealthy'; mab'alī 'one who makes rich'; mab'əl 'that which serves to honor'.",
+        "origin_explanation": "SEMITIC: Ar. ba'l 'husband, master, owner' (for 'master', as a possible loanword from South Arabia, see Rabin 26, no. 2). SAr. b'l 'master, owner', Soq. ba'al 'master, lord', Heb. ba'al 'owner, husband', Aram. ba'ālā, Md. bīl 'lord, master, husband', Ug.Ph. b'l 'master', Akk. bēlu 'master, owner'. ETHIOPIC: Tna. bā'əl, ba'al 'master', Te. bā'al, Amh.Gaf.Gur. bal, passed into Cushitic: Sa.Af. ba'ela 'master, husband'. For 'wealth', cp. Tna. ba'əl 'rich', ba'əlī 'wealth'; denominative barlāyā 'be rich'. With Ar. f-l, Heb. p'l. Rabin HS:91 also compares G. b'l, the root of mab'al, with Ar. fa'ala, Heb. pā'al. ETHIOPIC: Gur. bal 'action' (see Leslau 1979:138), Dillmann 983 (followed by Brockelmann 1908:273) considers it a metathesis of ma'əbal, for which see 'abbala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'ab'ala",
+        "meaning": "see ba'əlā III.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see ba'əla I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəb'ar) (K*)",
+        "meaning": "'eat up completely, burn up, set (a field of grass) on fire, set ablaze'.",
+        "origin_explanation": "SEMITIC: Heb. bā'ar 'burn', Ug. b'r (Moor 109, Caquot 203). Geez b'r may be a transcription of the Hebrew root b'r taken from a biblical passage; cp., however, Te. barā'e (with metathesis) 'the fire broke out and spread', barā' 'fire in the wilderness'. See also ba'ara II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəb'ar) (K*)",
+        "meaning": "'be stupid, be ignorant, be a fool'.",
+        "origin_explanation": "SEMITIC: Heb. bā'ar likewise has the meaning 'be stupid', and Geez b'r may have been taken from a biblical passage (see also ba'ara I). For the relation between b'r 'be stupid' and baṣər 'horned cattle' (below), see bahma, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəb'ar) (K*)",
+        "meaning": "'dig, plough, break clods'.",
+        "origin_explanation": "mab'ər (K*) 'one who ploughs, plough (n), instrument for digging'; mab'ər (K*) 'instrument for digging'. SEMITIC: Heb. b'r 'remove, sweep', Neo-Syr. b'r, Syr. ba'ar 'pluck one by one, pick out', Šh. embayrer 'destroy, spoil' (from b'r with the prefix əm < an).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(pl. 'ab'āṣər) (K*)",
+        "meaning": "'ox, bull, horned cattle, (K) stupid person'.",
+        "origin_explanation": "SEMITIC: Ar. ba'īr 'camel', SAR. b'r 'cattle', Soq. be'er 'camel', Heb. ba'īr 'cattle', Aram.Syr. ba'īrā, Md. bira, Akk. bīru 'young calf'. ETHIOPIC: Tna.Te. bə'əray 'ox, bull', Amh. bəre, Ba.Ara. Harg. Har. bā'əra, Gur. bora, Te. bəre 'young camel', from Ar. ba'īr. The root is common to Ethiopic and Cushitic (so also Cohen 1947:no.386). Bil.Kham. birā, Sa.Af. be'ēra, Be. berāy. Qem. birā, Had. ba'ara. See also Conti Rossini 1912:178-9, and ba'ara II, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bə'əṣərī, bə(ə)rāy",
+        "meaning": "see bə'əṣər.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'calf of leg'.",
+        "origin_explanation": "baṣātāwī (K*) 'big-calved'. seem to be reconstructed from Amh. baṭ 'calf of leg'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(M)",
+        "meaning": "'lead away, carry away'.",
+        "origin_explanation": "the form is unusual.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) ba'əza",
+        "meaning": "'kind of antelope, gazelle'.",
+        "origin_explanation": "ETHIOPIC: Te. ba'əzza 'kind of antelope', bə'əza, bə'əzaya probably from Cushitic: Sa.Af. 'antelope', Som. ba'īd (with alternance d:z). See ba'əza II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(L) ba'əza (Gr.190) ba'əza (T) bə'əzā",
+        "meaning": "'kind of musical instrument (horn, trumpet, flute), small bell, cymbals'.",
+        "origin_explanation": "ETHIOPIC: Amh. bə'əza 'trumpet, flute' (from Geez) so called because the horn (as musical instrument) resembles the horn of the antelope (Ludolf 247; Hommel 390). See also bəhənzā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'gate, door'.",
+        "origin_explanation": "from Ar. bāb < Aram. (Fraenkel 14).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.Mk)",
+        "meaning": "'goat's milk'.",
+        "origin_explanation": "perhaps an onomatopoetic expression from the sound of the goat (see babbaya).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.457)",
+        "meaning": "'bishop, pope, high ecclesiastic, patriarch'.",
+        "origin_explanation": "from Ar. bābā 'pope' < Gk. papas (Graf 19).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'grandfather, ancestor'.",
+        "origin_explanation": "SEMITIC: Ar. bābā 'father, grandfather'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see bābāh.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see bābāh.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.190)",
+        "meaning": "'go around'.",
+        "origin_explanation": "to be identified with bəbaya II 'roam restlessly' (see below).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "name of the second Coptic month (corresponds to G. təqəmt).",
+        "origin_explanation": "from Coptic paape, poope through Chr.-Ar. bāba.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D.K)",
+        "meaning": "'fruit of the tree of Paradise which Adam was not supposed to eat'.",
+        "origin_explanation": "ETHIOPIC: K and DTW 168 (under biyaḥ) connect it with Amh. biyəkbiyaḥ alä 'consider worthless, unclean, disgusting'. Note that E. Trumpp, Der Kampf Adams, p.28 corrects it to fəlməḥ baṭik 'watermelon' (equivalent to fəlməḥ baṭiḥ) on the basis of the Arabic Vorlage.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K.DTW)",
+        "meaning": "'be mixed up, be messed up, be confused, be scattered'; 'abəbbəla (K) 'mix, confuse'; bābəl (T) 'being confused (n), being scattered'.",
+        "origin_explanation": "from balbala becoming bbl by assimilation, going back to bll (see bll II). It may also stem from an interpretation of the Tower of Babel symbolizing confusion. See also bablāt I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "name of a fictitious bird.",
+        "origin_explanation": "from Ar. 'abābīl (Qur'ān 106:3; see Jeffery 43-4); perhaps also Amh. bab(ba)liya 'brown and black bird'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'salty and muddy spring'.",
+        "origin_explanation": "for the meaning 'muddy spring', cp. bəbbəla 'be mixed up' (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M), bablāt (D 1396)",
+        "meaning": "'chiseled and smoothed trunk of tree'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'river'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D 1396,K*M)",
+        "meaning": "'tortoise, turtle'.",
+        "origin_explanation": "ETHIOPIC: Amh. babuṭ, same. See also bəbūṭe.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'wheaten bread baked in an oblong shape (like a tortoise shell)'.",
+        "origin_explanation": "ETHIOPIC: Amh. babuṭe; see bəbūṭ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "babbaya, bəbaya",
+        "meaning": "'jubilate, be happy'.",
+        "origin_explanation": "ETHIOPIC, onomatopoetic: Tna. bub bälä 'produce a sound (flowing water, or an angry person)', Te. bubb bəla 'bark', Amh. baba alä 'shout', ('an)babba 'make shout', ('an)b'abb'a 'make a noise', bu alä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bubba alā",
+        "meaning": "Som. bībi 'sound of the flute'",
+        "origin_explanation": "(for which see Reinisch 1902:70). The Geez root is also related to yababa (Dillmann 516).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bebaya I",
+        "meaning": "(Y.M) 'stretch out, lengthen, (M.TS 114) separate'; bibuy (KG) 'separated'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bebaya II",
+        "meaning": "(T.K*.D 1396) 'go around, roam aimlessly here and there, rave, lust after, crave (food, drink)'; 'anbebaya (T.Y.M.D 1396) 'roam aimlessly';",
+        "origin_explanation": "ETHIOPIC: Amh. (an)babba 'incite sexual desire'. See also beba.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baddā",
+        "meaning": "see bdd.",
+        "origin_explanation": "see bdd.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badā",
+        "meaning": "'desert, wasteland'",
+        "origin_explanation": "see badwa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badā I",
+        "meaning": "(K*) 'white, yellow'",
+        "origin_explanation": "from Ar. baydā, fem. of 'abyad 'white'. See also byd, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "budā",
+        "meaning": "(Lt) 'one who causes harm by means of the evil eye';",
+        "origin_explanation": "ETHIOPIC: Tna.Amh.Har.Gur. buda 'magician, man who has the power of casting the evil eye', Te. bozzay 'magician' (with alternation of d:z); also in Cushitic: Bil. bōda, Or.Sa.Af. budā, Ka. bādo 'potter'. Cerulli 1951:411 considers the root to be of Nilotic origin: Silluk bōdo 'ironsmith'. Tanners and ironsmiths are considered to be buda; see Walker 20, Worrell III 128, M. Griaule 1930:139-42. Rodin-son 58.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badbada",
+        "meaning": "'perish, disappear, decay, (T.K*.Y.M) weaken, get sick, die, get rusty'; 'abadbada (K*)', causative; also 'soil, kill'; 'bədbud (Gr.457) 'destroyed, ruined'; 'badbad 'plague, pestilence, calamity, (K) rust';",
+        "origin_explanation": "SEMITIC: Syr. badbed 'perturb, trouble' (Rabin, JSS 18[1973].58). The connection with Ar. bidda 'strength', Heb. *badd-im suggested by Rabin, ib. is less convincing. For the meaning 'perish' the root is related to Ar. bada (byd) 'perish'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bdbd, 'anbadbada",
+        "meaning": "(K*) 'fear, shake';",
+        "origin_explanation": "ETHIOPIC: Tna. bädädä, 'anbädabäda, Amh. tänädabäda, tänədəbəddəbäda; passed into Cushitic: tänbädäbäd.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badibalu",
+        "meaning": "(T.M) name of the devil",
+        "origin_explanation": "reflects diyablos 'devil' (see below), perhaps preposition ba 'by', and badibalu would then mean 'in the name of the devil'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bədəd, badada, badda (yəbdəd)",
+        "meaning": "'separate, detach, make single';",
+        "origin_explanation": "SEMITIC: Ar. badda 'separate', Mh. bedīd, Heb. bādad 'be isolated', bādād 'isolated', PBH. bādād 'separate, sever', Ph. bdd, Akk. badādu, buddudu 'waste, squander'. ETHIOPIC: Te. bädäd bela 'scatter'. The root is common with Cushitic: Bil. bid 'open', 'furrow' (that is, 'split'). Sid. badī 'separated' baddā (ye) 'split wood'. The root is related to btt (see batata), and batbata.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badado",
+        "meaning": "(D 1396,K.T) 'smallpox'",
+        "origin_explanation": "ETHIOPIC: Tna. bädädo, bädīdo 'smallpox', Te. bädīdo; from Cushitic: Kham. bidīd, Aw. buzi (with alternation d:z).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badal, badl",
+        "meaning": "(Gr.428), (D 1396,T.M) 'bean'",
+        "origin_explanation": "perhaps to be identified with Sid. badila 'kind of maize'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badala I",
+        "meaning": "(K*) 'do wrong, commit an injustice, inflict (pain)';",
+        "origin_explanation": "SEMITIC: Ar. badhala 'damage' (that is augmented h), badila 'suffer from pain in the joints' (that is, 'be afflicted with pain'), SAr. bdl 'offend'. ETHIOPIC: Tna.Amh. bädälä 'mistreat, offend', Arg. beddälä, Gaf. bäddälä, Gur. bäddälä; passed into Cushitic: Aw. bedälu-, Sid. badali.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badala II",
+        "meaning": "(K*) 'exchange';",
+        "origin_explanation": "from Ar. badala 'exchange'; also in Te. bädälä, Tna. bädälä, Amh. bädälä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badəläḥ",
+        "meaning": "(T*) 'mushroom'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badn I",
+        "meaning": "(Lt) 'linen';",
+        "origin_explanation": "from Gk. baddin (see Löfgren 1927:143), transcription of Heb. baddīm, pl. of bad 'piece of cloth'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badn II",
+        "meaning": "see badna.",
+        "origin_explanation": "see badna.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badna (yəbdən)",
+        "meaning": "(T) badana 'be-come a corpse' (denominative); 'abədəna (K*)', causative; 'tabadana, tabaddana 'become a corpse, be life-less'; 'bədn (pl. 'abədənt) 'corpse, dead person, body, carcass'; 'bədun (Gr.191) 'corpse-like, cadaverous';",
+        "origin_explanation": "SEMITIC: Ar. badan 'body', Mh. bedēn. ETHIOPIC: Tna. bädni 'corpse', Te. bädən, Amh. bädan; passed into Cushitic: Sa. bodənā 'corpse', Bil. bäddän 'stink'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bədən",
+        "meaning": "(K.OT 579) 'spear, dagger';",
+        "origin_explanation": "seem to be a misreading of Heb. kīdōn 'spear' by confusing ⊃ k with ⊃ b.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badaqa",
+        "meaning": "(K*) 'renew, repair, restore'; 'bedeq, bedaq (D 1403,K.T.M) 'cracks in a wall about to collapse, anything to be repaired or restored, chapel, treasury, (T) storehouse, warehouse';",
+        "origin_explanation": "the original meaning is probably that of the 'breach, crack', and the verb 'repair, mend' is denominative. The situation is perhaps the Heb. bedeq 'crack', Aram. bidqā, where Heb. 'repair', Aram. Syr. bedaq would be denominatives. The Geez noun bedeq, bedaq transcribes Heb. bedeq (so also transcribed in the Septuagint as bedek) 'crack in the temple > wall about to collapse', it is possibly generalized to mean a special part of the temple, such as the chapel or the treasury. In addition to Heb.Aram. bdq 'split', cp. also Md. bdaqa, Ug. bdq-t (Moor, Aistleitner). For a related root, see bataka, below. TOPIC: Amh. bedeq 'treasury' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badara (yəbdər)",
+        "meaning": "(T) 'be swift, hurry, precede, advance, surpass, be preeminent, arrive first in a race (T), be early'; 'abədara, causative; also 'prefer, give preference, choose, select, favor, give priority, esteem highly, do something eagerly'; 'tabadara 'compete, rival, hasten, run a race, run with eagerness, get ahead of'; 'vastabādara (K.Gr.187) 'surpass, excel, compete'; 'badārī, act. part. of badara; 'badur (K*) 'that precedes, preferred';",
+        "origin_explanation": "badr 'race, contest, strife, life (of a saint)'; 'tabādaro (Lt) 'race'; 'tabādərot (Lt) 'competition'; SEMITIC: Ar. badara 'precede, arrive unexpectedly, be first, rush', Hars. bedōr 'outstrip all others', Tham. bdr 'hurry'. ETHIOPIC: Te. bädra 'hasten, go ahead', Amh. bädärä 'hasten, win a race', Gur. bäddärä; passed into Cushitic: Bil. badar.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badr I",
+        "meaning": "see badara.",
+        "origin_explanation": "see badara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badr II",
+        "meaning": "'holiday celebrated by the Jews in the month of Tishri' (first month of the year);",
+        "origin_explanation": "it seems to refer to the Day of Atonement (see Mauro de Leonessa, RSE 3[1943].305-6).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badr III",
+        "meaning": "(K*.T.Lt) 'a certain quantity of money';",
+        "origin_explanation": "from Ar. badra 'sum of money, purse'. See also batr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bādos",
+        "meaning": "'measure of fluids';",
+        "origin_explanation": "from Gk. batos, transcription of Heb. bat 'measure of liquids'; also in Amh. bados, beddo, bedu. For the measure bādos, see Pankhurst 1969, II:159. See also bāt, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badut",
+        "meaning": "see (badwa), badəw.",
+        "origin_explanation": "see (badwa), badəw.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badwa (yəbdəw)",
+        "meaning": "(Lt) 'be a desert, be a wasteland, be desolate'; 'abədawa, causative; also 'lay waste'; 'tabadwa (Gr.457) 'be a desert, be ruined, become desolate, dwell in the desert'; 'tabädawa 'be dispersed in the desert, become desolate'; 'badw 'desert, wasteland, wilderness, uncultivated area, desolate place, desolation'; 'badwä 'desert, wasteland'; 'badəw (fem. badut) 'desolate, deserted, laid waste'; 'badwat 'desolation, ruin';",
+        "origin_explanation": "SEMITIC: Ar. badw 'desert', badā 'live in a desert' (denominative), SAr. *bdw, bdt 'open country'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bādāwā",
+        "meaning": "become a desert, bādā, bādū 'desert', Te. bādā 'perish', abādā 'destroy', bādāw 'fallow ground', bādāb 'desert' (augmented with the Bilin element b), Amh. bādā, bādāw 'uncultivated land, desert', Gur. bādā",
+        "origin_explanation": "Some of the forms, such as bādā, bādāw, are probably borrowed from Arabic. The root passed into Cushitic: Bil. bādā 'desert', Sa. bādāw. See also badaya, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badaya",
+        "meaning": "be a desert",
+        "origin_explanation": "See badwa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badyon",
+        "meaning": "quail",
+        "origin_explanation": "see badyos, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badyos",
+        "meaning": "quail",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bādāwā",
+        "meaning": "magic, divining spirit, divination of magicians and ventriloquists, omens",
+        "origin_explanation": "badāwā (pl. badāwā'āt) 'magician, diviner, worker, conjurer, ventriloquist' of Gr.428 and T 156 undoubtedly stands for za-badāwā, lit. 'that (the one) of divination, omens'. The form badāwā has the appearance of an internal plural of *bad, *badī. There is perhaps a connection between this root and ba'ā 'make a vow'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bādāwā",
+        "meaning": "tomb, grave",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagga",
+        "meaning": "sheep, ram, bagga (pl. abāgga') 'sheep, ram', (bagga anast 'ewe lamb'), (māhsa bagga' 'suckling lamb, calf'), bagga't 'ewe lamb, sheep'",
+        "origin_explanation": "Te. baggu 'sheep', Tna. bāg'ī, bāg. Arg. bāgī; from Cushitic: Qem. bāgga, Bāgga, Qua. bagā. Conti Rossini 1912:175 states that \"l'origine de cet animal en Ethiopie est de plus douteuse. Peut-être, l'animal est arrivé de plusieurs pays aux différents peuples éthiopio-hamitiques\", but he thinks that the Cushitic root is taken from Semitic, while Cerulli 1951:411 is of the opinion that the Semitic-Ethiopic bg' is taken from Cushitic. See also Dolgopolsky 29, and baggā'a I, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badā'a (yəbdər)",
+        "meaning": "make a vow, consecrate, badər 'vowed, dedicated, (Lt) one who keeps his promise', badā'(ə) 'vow', badər't 'offering', bad'at, bad'āt 'vow, votive offering'",
+        "origin_explanation": "SEMİTİC: from the original meaning 'cut, cut off > separate (or put aside)': Ar. badā'a 'cut, decide', SAr. bd' 'decree', Heb. bāsa' (pi'el) 'cut off, fulfill (one's words)', Aram. başa' 'break', Ug. bs' 'tear up'. ETHİOPİC: Tna. bās'e 'make a vow', Te. bās'a. See also badāwā I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "badawa (yəbdu)",
+        "meaning": "be sleepy, fall asleep, be drowsy, doze, stretch out, (K) rave, tell things that are not true, jest, (T 160 renders it 'mix' referring the reader to p. 48 but on p. 48 he does not give any example with this meaning), badāw (T) bəṣāw 'slumber (n), sleep, delirium, jest', məbdāw, (T) məbṣāw 'place where one sleeps'",
+        "origin_explanation": "SEMİTİC: related to Heb. bāḍā (bṭy, bṭ') 'speak thoughtlessly', Ar. bathata 'gossip, chatter' (reduplicative root of bṭ, bṭ', or bṭw). While the meanings 'rave, tell things that are not true' could be derived from 'fall asleep, doze', it is also possible that one should consider the existence of two roots: badawa and badawa II. ETHİOPİC: Tna. baça 'jest, joke', from a root bṭy < bṣy, bḍy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baggā'a I",
+        "meaning": "be good, be righteous, baggā'u (T) 'just, righteous, good'",
+        "origin_explanation": "is either a denominative of bagga' 'lamb' (see above) with the meaning 'be like a lamb', or it is perhaps a reconstructed form with a last radical ' from Amh. bəggo 'good, healthy', Tna. bəggə' 'innāt 'goodness'. For the Cushitic origin of Amh. bəggo, see Leslau 1979:134, under bōge.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baggā'a II",
+        "meaning": "be the dry season",
+        "origin_explanation": "probably a denominative from Amh. bāggā 'dry season' in a reconstructed Geez form.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagbagha",
+        "meaning": "be sick, (T.Y.M) calumniate, slander",
+        "origin_explanation": "ETHİOPİC: Amh. bāgbāggā 'eat away the skin (disease), slander', from the basic meaning bāgbāggā 'consume (of fire) > consume someone by slander'. For the development of meaning cp. Ar. bāga (bwg) 'flash (lightning)', bawwāg 'squalling, bawling'. For 'flash', cp. Te. bāgbāg bela 'flash, shine', Tna. bāgg bālā, bāgbāgā, bogg bālā. Amh. bōggā 'flash', (tān) bōgbōgbālā. (tān) bōgbōgbōgā 'blaze, burn', Har. hāg bāya, bāgbūg bāya 'flare up', Gur. b'āgg bea.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagedān",
+        "meaning": "leather belt, cartridge belt",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagg(a)ana I",
+        "meaning": "play the baganā-harp (denominative), baganā 'ten-stringed harp'",
+        "origin_explanation": "ETHİOPİC: Amh. bāggānā 'play the harp', Te.Tna. Amh. bāgānā 'harp'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baggana II",
+        "meaning": "be angry, burn with anger, bagan (K*) 'gonorrhea'",
+        "origin_explanation": "from Amh. bāggānā 'be angry', bāgān 'rough burned skin, gonorrhea'; also in Te. bāgān, bāgān 'gonorrhea'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagara I (yəbgər)",
+        "meaning": "grow, become physically developed, bagor (K*) 'young man'",
+        "origin_explanation": "ETHİOPİC: Amh. bāggārā 'become physically developed'. While it has the same meaning as PBh. bər 'become an adult', it is perhaps to be considered a denominative of Amh. bag'ər, bagār 'pimple' if one keeps in mind the definition of Amh. bag'ər, namely 'pimples, something that appears on the face and forehead of a young man' (KBT 538). The Geez verb would then mean 'he has pimples', that is, 'he is a grown-up'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bagara II",
+        "meaning": "draw a design, measure (land), bagār 'calipers, a pair of compasses'",
+        "origin_explanation": "from Amh. bāggār 'calipers' < Ar. bikār, or (birkār) origin. The G. verb is a denominative bagār, that is, 'use calipers in measuring'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bag'oryamā",
+        "meaning": "honey",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhəd",
+        "meaning": "eve of a feast",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahla (impf. yəbəl, yobe, yəss. yəbəl)",
+        "meaning": "say, speak, call, announce, command, (see Dillmann 1907:179, 351; Lambdin 181-2), (za-yəbəl 'the following'), 'abala (for 'abhala), causative, tabahla 'be spoken, be said, be mentioned, be named, be spoken of', tabāhalā 'speak with one another, debate, discuss, (Gr.181) argue, contradict one another, disagree', 'astabahālā (K), causative of tabahālā, bahālī, act. part. of bahla, bahūl, pass. part. of bahla, bāhl 'a saying, statement, word, speech, discussion, (empty) talk, mode of expression, meaning', (bāhla 'agar 'custom of country'), bahīl 'saying, statement, that is, that is to say', bahīlot 'expression', 'abhālī, mabhalī, mabhal, part. of 'abala, mabhal (Gt) 'spokesman', mabhalī 'contradiction'",
+        "origin_explanation": "SEMİTİC: Akk. ba'ālu 'beseech', Pray, Ar. (bhl), 'ibtahala 'implore, beseech', Mh. behl-īt 'word, thing', Hars. behelēt. Fronzaroli 1966 II:253 264 compares Ar. bahala 'pronounce a curse', Heb. (ni)bhal 'be frightened', Aram. bihel 'frighten'. ETHİOPİC: Tna. bālā 'say', Te. bela, Gaf. balā, Har. bāya. Amh. alā, Arg. ala. Note that Amh. alā does not come directly from balā as suggested by Praetorius 1879:57; rather, the b is lost in a form such as the imperfect yəbəl > *yəbəl > yāl, and it is from the imperfect yāl that alā is reconstructed. On the changes that the root bhl underwent in the various Ethiopian languages, see Leslau Word 25 (1969). 188. The root passed into Cushitic: Be. behāl 'say', bahāl 'custom, tradition'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhma (yəbham)",
+        "meaning": "be mute, be dumb, speak with difficulty, 'abhama (K*Gr.181), causative, bəhūm 'mute, dumb', bāhm (Gr.181) 'mute', bāhəm 'mute, dumb, speechless, one who speaks with difficulty'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahmat",
+        "meaning": "muteness, dumbness, difficulty in speaking'",
+        "origin_explanation": "SEMITIC: Ar. 'abham 'bereft of articulate speech', Heb. bohemā 'animal, without speech'. Ar. bahīma 'animal' is considered by Jeffery 85 a Hebrew loan-word. ETHIOPIC: Tna. bāhmā 'be dumb', Te. bāhama, Tna. bāhəm 'bālā 'speak in a low voice'. For the relation between 'be dumb, be mute' and 'animal' as in Heb. bohemā, see ba'ara II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahanzā",
+        "meaning": "(T.M) 'kind of flute'",
+        "origin_explanation": "to be identified with bərəzā (see above) augmented n and h.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhrara",
+        "meaning": "see bāhrara II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baharus",
+        "meaning": "variant of biros 'cypress'",
+        "origin_explanation": "Note that is quoted in Dillmann 494 under bāhrus.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāh, bāhā, bāhā",
+        "meaning": "(T) 'greetings!, hail!' bāh bāhla (yabe) 'greet'",
+        "origin_explanation": "also used with the suffixes of the 2nd person: bāhā-ka, bāhā-ki 'hail to you!'. SEMITIC: Ar. bah bāh 'bravo!, well done!'. ETHIOPIC: Amh. bāhā 'feeling of joy', Te. bah bela 'rejoice', Tna. bah bālā, bah bālā 'take pleasure, be pleased'; passed into Cushitic: Bil. bāh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baha, in abaha",
+        "meaning": "see bwh.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bīh, bahe",
+        "meaning": "see bahe.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "boha",
+        "meaning": "see bwh.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahemot, bahemot",
+        "meaning": "'hippopotamus'",
+        "origin_explanation": "from Heb. behemōt 'hippopotamus'; Amh. bahemot comes from Geez. For Heb. behemōt, see G.R. Driver in Levi Vida 1956:234ff.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahana (yəbhan)",
+        "meaning": "(K*) 'fly in the air (smoke, dust)'",
+        "origin_explanation": "bāhan (K*), act. participle; see bāhnana II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhnana I (K.Y.M), bāhnana",
+        "meaning": "(T) 'loaf, roam, vanish, go to waste, evaporate, withdraw, escape, perish'; 'abāhnana, causative; also 'destroy'; tabāhnana 'be void, be rendered void, be invalid, be of no effect, withdraw, fail'; bāhnun 'one who loafs, empty, void'",
+        "origin_explanation": "ETHIOPIC: Te. bāhnānā 'evaporate, become useless, become spoiled'. Te. bāhanāna. If bāhnana I is to be identified with bāhnana II (see below), the root is bhn (see bahana, above) with a reduplicated last radical. Stade 30 likewise considers a triradical root with a reduplicated n, but he did not record a triradical bhn. See also (ta)bahna.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhnana II (K.Y.M), bāhnana",
+        "meaning": "(T) 'rise in the air, wake with a start'",
+        "origin_explanation": "ETHIOPIC: Tna. ba'nānā 'start up', bəhnān bālā 'rise (smoke)', Amh. bənnānā 'wake up with a start', bənnānā, bunn alā 'fly here and there'. Gur. bunn alā 'rise (dust, smoke)', Har. bənānā 'be sprinkled', bīnībi āsa 'scatter'; passed into Cushitic: Qem. bā-nan 'become panicky'. It is also possible that the meanings of bāhnana I and bāhnana II can be reduced to one root, namely, 'loaf, rise in the air' developing into 'wake up with a start'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bhhh I, bāhbaha",
+        "meaning": "(instead of bahbaha M) 'flow roaring, rumble'; 'anbāhbaha 'flow roaring, rumble, roar, sound, well up'",
+        "origin_explanation": "manbāhbaha (T) 'flow roaring, drip'; nabāhbāh (K*) 'roaring of water'; manbāhbāht, manbāhbāht (pl. mənəbāhbāht, mənəbāhbāht, mənəbāhbāhat) 'waterfall, flood-gate, cataract'. SEMITIC: Ar. bh, bh expresses noise: bahha 'a hoarse voice', bahbūha 'hoarseness', bahha, bahbaha (camel) 'bahbaha 'pool of water'. ETHIOPIC: Tna. bahbāhe, bahbāhe 'flow roaring, b'ah bālā 'flow (a waterfall)', Har. buh bāya 'flow'. Amh. (tän)b'abb'a 'a gush, bubble, be poured in large quantity', babba alā 'make noise'. For the basic meaning 'roar, make noise', cp. Te. bubu bela 'bark', 'əmba bela 'low'. Tna. bubb bālā 'make noise', 'əmbābā 'flow'. Amh. bu alā 'gurgle', 'əmb'a alā 'low'. Har. bāya 'moo'. Gur. 'əmbabba 'pop'. For the con-tion with the root nbh 'bark', see Conti 1980:74. The root also occurs in Cushitic: Qem. boh y be spilled', Qua. bogu. See also yənbahāhət.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bhhh II, bāhbaha",
+        "meaning": "(instead of bahbaha of K*) 'paint, draw, portray, create, make'",
+        "origin_explanation": "tabāhbaha (K*), passive; bahbāhe 'form, formation, forming, creation'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bhhh III, bāhbaha",
+        "meaning": "see bāh \"bah\"",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahak (pl. 'abhāk*, 'abəhāk*)",
+        "meaning": "(Lt) 'male of cattle, ram, billy goat'",
+        "origin_explanation": "from Cushitic: Be. bōk 'billy goat'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bəha (yəbhā)",
+        "meaning": "(T) 'be fermented, ferment (intr), turn sour'",
+        "origin_explanation": "'abhəz'a 'ferment' (tr); tabah'a 'ferment' (intr); bahu', fem. bahə't, (T) bahu 'fermented, sour, leaven, yeast'; bəhə'a 'leaven'; bəhī 'vinegar, acid'; (hamla bəhī 'bitter herbs'); bəhə'at 'fermentation'. ETHIOPIC: Tna. bəhāq'a 'ferment' (with alternation to Tna. bāk'e, bokbok bālā 'rise (dough)'). Amh. b'əkka, bokka. Gur. b'äkka, proba-bly also Har. bug bāya. Littmann-Höfner Compare Tna. bāk'e 'rise (dough)' with Te. (ta)-b'akka 'burst, crack'. It is possible that the Geez root bh became *bhr, bh > bk, bk, with false reconstruction. Praetorius 1879:67 likewise thinks that h of bh became k, but without considering a false reconstruction. The root also occurs in Cushitic: Qem. baqū 'be fermented'. Kham. baq. The root with k occurs in Qem. buk'ata 'dough'. Or. bukō, bukko. Cerulli 1936:249, under guohoh, thinks that the Semitic-Ethiopic root is taken from Cushitic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bhn, tabahna",
+        "meaning": "(T.M) 'be extinguished, be lost'",
+        "origin_explanation": "another spelling for tabahna; see bāhnana I, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bəhqaqa",
+        "meaning": "(K*) 'soil, dirty (tr), mix, confuse'",
+        "origin_explanation": "tabəhqa'aq (T.M) 'be mixed, be confused'; metathesis of habqaqa (see below).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bhqw, 'anbəhqaqa (D 1395,K*T)",
+        "meaning": "'open, yawn, gape, release'",
+        "origin_explanation": "nabəhqaqw (K*) 'opening, yawning' (n). ETHIOPIC: Tna. 'anbəhaq'a, 'anbəhaq'a 'yawn'; Amh. 'amb'aqqāqā, tābaqqāqā; a quadriradical augmented by h (h) in relation to bqw (see baqaqa).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhr (pl. bāhrāt)",
+        "meaning": "(Lt) 'sea, lake, ocean, large river; west, northwest, north'; bāhrāwī, bāhrāyāwī 'marine, maritime, pertaining to the sea'; (həmām bāhrāyāwī 'seasickness')",
+        "origin_explanation": "SEMITIC: Ar. bahr 'sea, large river', SAr. bhr. Syr. bahrā is an Arabic loanword. Akkadian bērtu, berā-tu 'swamps(?), \"etwa 'Wasserlauf'\" (von Soden 122) is connected by Fronzaroli 1968, V, p. 288 with bhr, but the connection with Sem. b'r 'well' should not be excluded. ETHIOPIC: Te. bahr 'sea', Tna. bahri, Har. bahar, Arg. bāhar, Amh. bahar, bar 'sea'. The root passed into Cushitic: Bil. bāhar, Sa. bāhəra, Be. behār, Qem. bār. See also bəhra, bāhəra, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bəhər (pl. bəhāwərt, bəhāwərtāt)",
+        "meaning": "(Lt) 'region, province, district, country, homeland, land, place, nation; part of a text, individual book of a collection (as, for instance, the Bible)'; is also used in expressions about weather, light, as in masya bəhər 'it is evening', səbha bəhər 'it is morning', səhəw bəhər 'fair weather' (cp. a similar usage with Amh. mādər 'earth', Ar. dunyā 'world'; e.g. 'əmsat 'addunyā 'it is dark')",
+        "origin_explanation": "bəhər also occurs in 'əgzī'abəhər 'God', from 'əgzī 'Lord', and bəhər 'world'; bəhāwərt (pl. of bəhər) 'countrymen, inhabitants or people of a country'; (bəhāwərta 'alam [Lt] 'secular domain'); bəhərāwī, fem. bəhərāwīt (Gr.456) 'regional'. SEMITIC: Ar. bahrā 'coastal region, flatland', SAr. bhr. Noeldeke 1910:60, n.2 considers G. bəhər a diminutive of bāhr, above. Brockelmann, ZS 6 (1928).113 considers G. bəhər a 'Kontrastbildung' to bāhr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāhri, bāhray (pl. bāhrāyāt)",
+        "meaning": "(Lt) 'pearl, precious stone, essence, element, nature, substance, quality, hypostasis'; bāhraya malakot (Lt) 'divine nature'; bāhraya śəgā (Lt) 'human nature'; ('əna bāhray 'pearl'); ('əna bāhray 'mother-of-pearl'); (in a construct state structure it means 'precious', as in 'əmda bāhray 'precious mast'); bāhrāyāwī 'jeweled, substantial, natural'; bāhrāyāwīt 'substance, essence'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähra (yäbhar)",
+        "meaning": "'be wide, be extended'",
+        "origin_explanation": "denominative from bähr 'sea, large river'; cp. also Ar. bähira (V form) 'become broad, become deep'. It could also be a denominative from bäher.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bährara I",
+        "meaning": "'sink (intr), seek to jump in a lake'",
+        "origin_explanation": "denominative from bähr 'sea', with reduplication of the last radical; cp. also Ar. bähira (X form) 'be covered with water'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bährara II",
+        "meaning": "'be startled, fear, be frightened, bolt'",
+        "origin_explanation": "ETHIOPIC: Tna. bährarä, bährarä 'be frightened, startle', Te. bähärära. In view of the fact that bhrr, a 1.2.3 root, could be derived from a 1.2.3 root with reduplication of the last radical (for which cp. Ar. bähira 'be startled'), the G. and Tna. root is bhrr rather than bhrr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bährus, bähruš",
+        "meaning": "'reed, cane, stubble'",
+        "origin_explanation": "some of the biblical passages quoted by Dillmann 494 render it 'stubble'; other passages (as in 4 Kings 18:21 = 2 Kings 18:21) render it 'reed'. See bär, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähray",
+        "meaning": "see bähri.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bht I, bähata",
+        "meaning": "'be alone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähuta",
+        "meaning": "'alone, unique, solitary'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähutawi",
+        "meaning": "'solitary, anchorite'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähättu, wabähättu",
+        "meaning": "'only, but, however, yet, nevertheless, other than, but rather, on the contrary, moreover'",
+        "origin_explanation": "(see also Dillmann 1907: 414);",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähättat",
+        "meaning": "'moreover'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähättät",
+        "meaning": "'solitude'",
+        "origin_explanation": "with suffix pronouns (e.g. bähättu, and so on; see Dillmann 1907:363)",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähättu",
+        "meaning": "'alone, only, merely, sole, solitary, privately, oneself, individually'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yänta bähättit- [with suffix pronouns])",
+        "meaning": "'separately, apart, by oneself, alone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(ba-bähättit-u 'he apart, he alone, he merely, he privately')",
+        "meaning": "'he apart, he alone, he merely, he privately'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(ʼakko bähättitu...ʼädi (waʼädi, ʼädi-ni)",
+        "meaning": "'not only...but also'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(ʼakko bähättitu...ʼallä (ʼallä-ni)",
+        "meaning": "'not only...but also'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(babbabähättit- (with suffix pronouns))",
+        "meaning": "'each alone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätäwi",
+        "meaning": "'hermit, anchorite, one who lives in solitude, solitary, deserted'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätännä (Lt)",
+        "meaning": "'solitude'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätännawi",
+        "meaning": "'pertaining to solitude'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mabhat, (Lt) mabhat",
+        "meaning": "'that which is pure, unmixed, unviolated, whole'",
+        "origin_explanation": "SEMITIC: Ar. baht 'unmixed, anything that is eaten without seasoning' developed into the meaning of 'alone, only'. ETHIOPIC: Tna. bähätä, bähätäwä 'be alone', bahtu 'only', Te. bähata 'be alone', Amh. bäčča 'only', bähätäwi 'monk, hermit' (from Geez). The derivation of bahata from ba 'with' and 'ahatti 'one' suggested by Praetorius 1879:140 and by Bravmann 1977:554 is unlikely. See also bähätäwa, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bht II, bähata (yäbhat)",
+        "meaning": "'have power, have capability, have capacity, have means, prevail'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'abhatä",
+        "meaning": "'give means, give power'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabähätä",
+        "meaning": "'have the power or means (of attacking), fight, attack'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähut",
+        "meaning": "'one who has power, one who has authority'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähät waddad (T)",
+        "meaning": "'honorific title given to someone who has full power'",
+        "origin_explanation": "(cp. Amh. bitwädäd)",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätat",
+        "meaning": "same as mabhat",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mabhat, (Lt) mabäht",
+        "meaning": "'capacity, power, fullness of power, authority, permission, consent'",
+        "origin_explanation": "ETHIOPIC: Te. bähata 'own a thing alone, take oneself', Tna. bähätä 'acquire, have power', bähätä 'dominate, take possession', mäbt 'privilege, right, authority'. Dillmann 495 considers bähata denominative of mabäht, from boha (see bwh, below). The root passed into Cushitic: Bil. Sa. ba 'take possession of'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bht III, bähata",
+        "meaning": "'begin'",
+        "origin_explanation": "variant of bavata, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätit, bähätitu",
+        "meaning": "see bht I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätot",
+        "meaning": "see bähätäwa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätäwa",
+        "meaning": "'be alone, be solitary, be separated'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabähätäwa",
+        "meaning": "'be alone, be solitary, lead a solitary life'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätäw (fem. bähutut)",
+        "meaning": "'alone, solitary, segregated, isolated, one who leads a solitary life'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätot (Gr.184)",
+        "meaning": "'oneness, uniqueness, unity'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähutot (from bähätäw-t)",
+        "meaning": "'oneness, integrity, uniqueness, the only one, the only begotten'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(bähätut [Lt] 'alone')",
+        "meaning": "'alone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätäwe (K)",
+        "meaning": "'the being alone, seclusion, solitariness'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätäwannä",
+        "meaning": "'anchoritism, solitude, solitary life'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähätännawi",
+        "meaning": "'pertaining to solitude or anchoritism'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabähätäwi",
+        "meaning": "'one who leads a solitary life, anchorite'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabähätäwo",
+        "meaning": "'solitude, solitary life'",
+        "origin_explanation": "the verb is a denominative of bähätäwi, for which see bht I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähäw",
+        "meaning": "'forest, woodland'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähäwart",
+        "meaning": "see bäher.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähäwwas",
+        "meaning": "'useless kind of plant, (K) excrement of chicken, leaf that has a bad smell'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bähäyzän",
+        "meaning": "'topaz'",
+        "origin_explanation": "corrupt form of päzäyon (see below), from Gk. topazion 'topaz'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahe, bih, bih",
+        "meaning": "'hippopotamus'",
+        "origin_explanation": "Hommel 381 considers it a Coptic loanword, but he does not give the Coptic form. It is either the Coptic ih 'demon > monster' (with the agglutinated article p), or Coptic (p) ehe 'cow', passing throug Ar. (Egyptian) bih. Note that Littmann, Z.4 21 (1908) 63 considers Ar. bih an ancient Egyptian loanword.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bah 'bah 'a",
+        "meaning": "'decay, become putrid, be worm-eaten, rot, stink, perish, be destroyed'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'abah 'bah 'a",
+        "meaning": "'produce purulent matter'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahbah, bah 'bah",
+        "meaning": "'putrid, decayed, rotten, worm-eaten'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahbah (Lt)",
+        "meaning": "'rot, putrefaction'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bahbähe (one would expect bah 'bah 'e), bah 'bähe, (K) bah 'bäh 'e",
+        "meaning": "'putrefaction, bad smell'",
+        "origin_explanation": "SEMITIC: Ar. bahw 'dates beginning to rot', bähä 'rot' (Dillmann 517). ETHIOPIC: Tna. bahbähe 'rot', Te. bähbäha 'putrefy'; also in Cushitic: Sa. bah 'putrefy', Qua. bohä, Som. baq (Dolgopolsky 283). The root is related to Tna. bäkä 'bäk 'a, bok 'bok 'a 'be worm-eaten', Amh. bokbäkä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bak",
+        "meaning": "'scab, wound'",
+        "origin_explanation": "the connection with Heb. bohaq 'scab' suggested by Dillmann 1430 and accepted in the various dictionaries of Hebrew is doubtful. D. Cohen 1976:49 likewise expresses doubts about this connection.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bakk",
+        "meaning": "see bkk.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bake",
+        "meaning": "see bakaya.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bak 'ha",
+        "meaning": "'blow on the fire by mouth or with bellows'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'abk 'äha",
+        "meaning": "'blow on the fire, inflate the bellows, blow upon, exhale'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mäbk 'äh, mäbk 'äh, (Lt) mäbk 'äh",
+        "meaning": "'a blowing, bellows'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mäbk 'ähi",
+        "meaning": "'one who causes to blow, one who blows with the bellows'",
+        "origin_explanation": "ETHIOPIC: related to Tna. bäkä 'e 'blow on the udders of a cow to make her give milk', also in Cushitic: Sa. bawak 'blow on the fire', qbäk 'blow on the udder of a cow'. See also mbk 'h.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbək'ək')",
+        "meaning": "vanish, fade away, disappear, become void, become futile; bakk (D.T.M) 'being void, vacuity, solitude, idleness, emptiness, nothingness; void, empty, single (not married), devoid, (Lt) useless'; (babakk, labakk [Lt] 'in vain'); bakka (T.K) 'in vain, uselessly, for nothing, fortuitously, without cause, for no purpose, in idleness, by mere chance';",
+        "origin_explanation": "SEMİTİC: perhaps Ar. bakka 'tear, break, lower the value of something' > 'being nothing'. ETHIOPIC: Tna. bäkki 'just so, useless'. Amh. bäkkäkäs 'be destroyed, ruined, useless', bäkk 'useless, valueless, vain', Gur. bäkäk bälä 'exhaust oneself, become tired because of making an effort'; also in Cushitic: Sa. bakk 'ruin'. See also bakaya II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbək'ər)",
+        "meaning": "see tabak'ra; bakk'arä (Mk) 'offer a first-born animal to the church'; denominative of bak'r, below; 'abak'arä (Lt) 'give birth for the first time'; tabak'ra 'be a first-born, give birth for the first time, have a first-born'; bak'r (pl. bak'rāt, 'abk'ər, 'abk'är) 'first-born, firstling, first fruits'; bak'rənnā, bak'rənnāt 'primogeniture, status of first-born, birthright';",
+        "origin_explanation": "SEMİTİC: Ar. bikr 'first-born', SAr. bkr, Soq. bekir, Heb. bəkōr, Aram. bukrā, Md. bukra, Ug. bkr, Akk. bukru. For 'first fruit', cp. Syr. bəkār 'bring forth early fruit', Heb. bikkūrīm 'first fruit'. ETHIOPIC: Tna. täbäk'arä 'give birth for the first time', Te. täbäkkärä, Amh. 'abäkkärä. For 'first-born', cp. Tna. bäk'ri, Te.Gur. bäkor, Amh. bähor, Arg. bəhər; passed into Cushitic: Bil. Qua. bäger, Kham. bəir.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.M), bakora",
+        "meaning": "(T) 'be suspended, be put off, fail to occur, stop (intr)'; 'abk'arä (K) 'suspend, put off, hold back, stop (tr), give up'; tabak'arä (K) 'be suspended'; bak'arä (K*), act. part. of bak'arä; bakur (K) 'that which is put off or suspended';",
+        "origin_explanation": "ETHIOPIC: Tna. bäkä'arä 'be absent', Te. bäkrä 'neglect, not work, delay'. Amh. bäkkärä 'be suspended, fail to be held' (rather than bäkkärä",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.189)",
+        "meaning": "virgin",
+        "origin_explanation": "from Ar. bikr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.427)",
+        "meaning": "stagnant water",
+        "origin_explanation": "ETHIOPIC: Tna. bokra, bukra 'rigole autour du mou' où s'arrête et tombe la farine moulue'; not to be identified with Ar. birka 'pond', as suggested by D. Cohen 1976:65.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbki)",
+        "meaning": "weep, mourn, bewail'; abakaya, causative; also 'move to tears'; tabakaya (D.1430) 'pretend to weep'; tabäkaya 'weep together, mourn mutually'; 'astabäkaya (K) 'make weep (mourn) together'; bäkāyi 'one who weeps, who laments'; bäkuy (K*) 'mourner'; bäkāy, (Lt) bäke 'weeping, lamentation'; mabäkay, mabäki, mabäkäy 'mourner'; məbkäy 'place of mourning';",
+        "origin_explanation": "SEMİTİC: Ar. bakā (bky) 'weep'. Mh. bekā, Heb. bākā (bky), Aram.-Syr. bakā, Ug. bky, Akk. bakū. ETHIOPIC: Te.Har. bäkā 'weep', Tna. bäkāyä, Gur. Gaf. bässā (ky > š); perhaps also Cushitic. Bih 'cry' (with k > h).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "vanish",
+        "origin_explanation": "see also bkk.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "imperative of bəhla, above.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see bll.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "in abala",
+        "origin_explanation": "see bəhla, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbəlā')",
+        "meaning": "eat, consume, devour; (figurative) accuse, calumniate'; 'abala 'he violated the oath'); 'abəlā'a 'feed, give to eat'; tabala 'be eaten, be consumed'; (zayatballa 'edible'); tabala 'devour one another'; 'astabala 'incite to one another, urge to eat'; balā'i 'one who eats, voracious, gluttonous, consuming'; balu 'eaten, corroded'; balla 'food, that which is eaten up, leftover, residue of food, fodder';",
+        "origin_explanation": "SEMİTİC: Ar. balia 'swallow', Sh. belā', Heb. balā', Aram.-Syr. balā', Md. blā. ETHIOPIC: Te. bäl'a 'eat', Tna. bäl'e, Amh.Arg. bälä, Gaf. bällä, Har. bälä'a, Gur. bälä. The root passed into Cushitic: Bil. belä', Sa. balā'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.Y.K.M)",
+        "meaning": "become old; bälbalä, bälbäle 'tattered clothes, sack, soiled garment';",
+        "origin_explanation": "a reduplicative root of bly (see balya, below). SEMİTİC: Md. bulbulaiā 'marks of deterioration', likewise a reduplicative root of blā 'wear out'. For the cognates of the root bly, see balya. ETHIOPIC: Amh. bäläbälä 'become old, become tattered (clothes)', bəläbəllä 'become threadbare'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "blaze, emit flames, kindle into a blaze, let glitter, flash; (D 650 lists it under nəbləl); 'ənbulbul 'that which blazes'; nəbalbul (M) 'inflamed'; nabalbāl 'flame'; nabalbāläwi 'flaming, fiery';",
+        "origin_explanation": "ETHIOPIC: Tna. bälbälä, bälbäl bälä, tənbalbälä 'flame, blaze, flicker', näbälbäl 'flame' (n.), Amh. tänbälbälä, tänboläbbolä 'blaze, emit flames', bəläbäl bälä 'burn quickly', näbälbäl 'flame' (n.), Gur. bälbälä 'blaze, flicker'. This root is common with Cushitic: Or. belbel 'flame'. Som. Be. balōl, Sa. bolol, Bil. birbir, bur (with alternation of liquids). Som. also belbel 'flame'. Cerulli 1936:259 (under lablab) thinks that this Ethiopic is a Cushitic loanword. Dillmann considers n-blbl a metathesis of lblb (for which see lahaba, below). The meaning 'flicker, blaze' is connected with 'shake, sway', for which cp. Amh. bäläbälä 'shake, sway in the wind', Tna. bäläbälä 'shake, sway in the wind'. Amh. 'abälbälä (augmented by ') 'flutter, quiver, fro'; also in Cushitic: Sa. bäl 'tremble', bälbäl 'hover, float'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "predict through omens",
+        "origin_explanation": "ETHIOPIC: Te. (ə)bälbälä 'talk like one possessed'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(KG)",
+        "meaning": "dish(es)'; corrupt form of labesät.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "rebel",
+        "origin_explanation": "from Amh. bolläd 'person who lives alone in an area he has settled'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "coat",
+        "origin_explanation": "see also biländayos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "season of light rains",
+        "origin_explanation": "from Amh. bälg.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "kind of precious stone",
+        "origin_explanation": "see balagīr, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M), balagīr (M)",
+        "meaning": "silken garment, velvet",
+        "origin_explanation": "the basic meaning of the root is probably 'something precious'; see also balgar 'kind of precious stone', above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "liberate, rescue, save'; tabäläha, passive; also 'escape, get rid of'; 'astabäläha 'give an order to liberate, order to be liberated'; bälähi, act. part. of bäl(ə)ha; also 'liberator'; bäluh, pass. part. of bäl(ə)ha; bälhat, bäləhot (D), bälhat (Gr.455) 'liberation, deliverance'; mabäləhi, (Mk) mabäləh 'liberator'.",
+        "origin_explanation": "ETHIOPIC: Te. balha 'loosen, free', Tna. balhe.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y)",
+        "meaning": "hide, conceal",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D), balahor (T.M)",
+        "meaning": "name of Satan",
+        "origin_explanation": "to be identified with baryal (see below), from *balyal > *balyar > bələhər, balahor. R.H. Charles, The Ascension of Isaiah (1900), p.15, quotes Gesenius who derives balhor from Heb. ba'al qiryā 'Lord of the world'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "white quartz that sparkles in the sun",
+        "origin_explanation": "instead of bəlhit, from balha 'be sharp' (see below).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbəläh) (KG)",
+        "meaning": "sharp, (KBT) be smart, be clever, be quick",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ablǝha",
+        "meaning": "sharpen",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balliṭ",
+        "meaning": "sharp, quick, swift, violent, penetrating, fierce (lion), smart",
+        "origin_explanation": "(qälil q'eloquent')",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälḥ",
+        "meaning": "sharp, sharp point, sharp edge, sharpness, cleverness, acuteness",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälḥat",
+        "meaning": "brightness, sharpness, cleverness",
+        "origin_explanation": "(Gr. 424) lightning",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mabläḥ (pl. mabälǝḥat)",
+        "meaning": "implement of iron",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mabläḥi (K*)",
+        "meaning": "one who sharpens",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mabläḥ (K*)",
+        "meaning": "instrument serving to sharpen",
+        "origin_explanation": "ETHIOPIC: Tna. bälḥe 'be sharp', Te. bälḥa, Har. bälḥa, Amh. bälḥa 'be sharp', bälṭho 'knife, some-thing sharp', Gur. (a)bälla 'sharpen', passed into Cushitic: Bil. bälah 'spear'. For the passage of meaning 'be sharp > be smart', cp. Amh.Gur. bälah 'clever, smart'. Tna. bälḥatä 'be smart', denomina-tive from bälḥat. See also bälḥit, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bll I, balla (yäblal) በለለ (K*)",
+        "meaning": "moisten, wet, immerse in a liquid",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'ablala (K*)",
+        "meaning": "causative",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balul (K*)",
+        "meaning": "humid, wet, moistened, dampened",
+        "origin_explanation": "SEMITIC: Ar. balla 'moisten', Heb. balal, Ug. bll, Syr. bal (bll), Akk. balālu, related to Syr. pal (pll) 'sprinkle'. It is also possible that G. balla simply transcribes Heb. balal. See also bll II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bll II, ballala (yäblalal) በለለለ (K*)",
+        "meaning": "spoil, ruin, de-stroy, mix, confuse",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'ablala (K*)",
+        "meaning": "causative",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balul (K*)",
+        "meaning": "mixed up, mixture, motley",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balbal",
+        "meaning": "beer",
+        "origin_explanation": "SEMITIC: Ar. balbala 'mix, confuse', Heb. balal, PBH. bilbel, Syr. bal 'confuse', bälil 'mixed, confused > disorderly', balbel 'confuse, spoil', Md. bilila 'confused, idle, useless', Akk. balālu 'mix, brew beer'. ETHIOPIC: Amh. boläbbälä 'combine nug-seeds with flax seeds', Te. 'abäläla 'be confused'. For the meaning 'be spoiled', cp. Tna. bäläla 'be spoiled', bäläla 'without importance', Te. bäläla 'lose color', tabäläla 'be weakened', Amh. bäläla 'be spoiled, not succeed, become nothing', bäläla 'in vain', Har. bäläla 'get spoiled'. Gur. (bä)bälal 'in vain, gratis, for nothing'. The root passed into Cushitic: Or. ballaw 'be spoiled'. It is also possible that the meaning of bll II 'be mixed' could be derived from bll I 'moisten, wet', the notion of wetting or moisten-ing bringing about the meaning of things being mixed up as a result. See also bäbäla.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ballama በለመ (MA.Mk)",
+        "meaning": "write",
+        "origin_explanation": "probably from French plume 'pen', denominative ballama (with p > b), created by an Ethiopian scholar familiar with French.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balan, baläno, bolän, boläno, bälänon በለነ በለኖ ቦለነ ቦለኖ በለኖን በለነ (T)",
+        "meaning": "oak tree, (T) acacia tree",
+        "origin_explanation": "from Gk. balanos 'acorn'. Note that Amh. läbät given by Tayyä is probably a misprint for balan 'acorn'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balane በለነ (Lt)",
+        "meaning": "bath, christening font",
+        "origin_explanation": "beta balane 'public bath'; from Gk. balaneion 'bathing establishment'; also in Ar. balān 'a hot bath', Syr. balānā, Amh. balane, betä balane 'place for immersion'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälen I በለን (K*)",
+        "meaning": "pupil of the eye",
+        "origin_explanation": "from Amh. bolen; see also bolen II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälen II በለን",
+        "meaning": "spatula with which one applies antimony to the eyelashes",
+        "origin_explanation": "would it be connected with bälen I 'pupil' and come to mean 'an instrument for applying antimony to the eye'?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälen III, balino, balinon በለን በሊኖ በሊኖን",
+        "meaning": "veil with which women cover their faces when appearing in public, linen garment worn by women, cover",
+        "origin_explanation": "from Gk. pallion 'cloak' from Lat. pallium, through Chr.-Ar. ballin.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "biländayos በለንደዮስ (Lt)",
+        "meaning": "coat",
+        "origin_explanation": "see also balädayos. One recognizes bolen III with an additional element.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälänon, balänon በለኖን",
+        "meaning": "",
+        "origin_explanation": "see balan.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balänoq በለኖቅ",
+        "meaning": "",
+        "origin_explanation": "see bälen III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balaq, bälaq, bälaq (pl. 'abläq) በለቀ በለቅ",
+        "meaning": "marble, alabaster, onyx",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'abläq (pl. of balaq)",
+        "meaning": "tablets of stone",
+        "origin_explanation": "SEMITIC: Ar. balaq 'marble', SAr. blq 'limestone'. Hommel 56 connects Ar. and G. balaq with Ar. 'abläq 'dappled black and white'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälqat በለቀጥ (T.M)",
+        "meaning": "rock",
+        "origin_explanation": "Tna. bäläq 'marble', Amh. bäläq. It is also possible that the expressions are borrowed from Ar. balaq. Amh. bälqät 'obsidian' derives from bls > bäläs (D 1979:140) and is not connected with balaq as sug-gested in Rabin 1980:17.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäläq በለቅ (T.M)",
+        "meaning": "fragrance, odoriferous",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "beleq በለቅ (D 1403)",
+        "meaning": "",
+        "origin_explanation": "see ṭarzabelq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "blq I, balaqa በለቀ (K*)",
+        "meaning": "grow up, become sexually mature",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baluq (K*)",
+        "meaning": "mature, adult, old enough for inter-course",
+        "origin_explanation": "from Ar. balāğa 'become mature'; also in Amh. baläqa, Te. 'abläqa (contrary to Wajnberg 1937c:200, D. Cohen 1976:69), Gur. balāgä, bäläxa; in Cushitic: Qab.Al. bāliqi.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "blq II, bälaqa በለቀ (T.M)",
+        "meaning": "perform a military dance",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälqe (T)",
+        "meaning": "military dance",
+        "origin_explanation": "SEMITIC: the notion of movement is to be compared with Ar. balaqa 'go rapidly'. ETHIOPIC: Tna. bäläq 'bäläq gush out', Amh. bäläq, alä, balläqa 'gush out, burst forth (spring).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balqam በለቀም",
+        "meaning": "phlegm",
+        "origin_explanation": "from Gk. phlegma through Ar. balgam; also in Neo-Syr.Md. balqam, Syr. palegmā, Amh. balqam. For Ar. balgam, a secondary singular of *balāğim < Gk. phlegma, see Spitaler 217.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balur በለር",
+        "meaning": "beryl crystal",
+        "origin_explanation": "from Gk. bēryllos 'beryl', with metathesis through Ar. ballūr; also Syr. belūrā, Md. bilur, Amh. bälur, Tna. bälur, bänur, Amh. bähur; in Af. banur. See also bǝralle. On its Tamil origin, see Rabin 1968:436.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balas (pl. balasāt, 'abläs) በለስ",
+        "meaning": "fig tree, fig, sycamore (tree and fruit)",
+        "origin_explanation": "perhaps from Ar. balas 'fig tree' (considered Yemenite; see Blachère 797); in Heb. as de-nominative bālas 'nip the unripe sycamore figs' (see spahn 105-6); in Ethiopic: Te.Tna.Amh.G. bäläs 'fig'; passed into Cushitic: Bil. bäläsa, Sa. balas.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balasa በለሰ (Lt)",
+        "meaning": "kind of measure",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balasan, balsan, balason በለሰን በለሰን በለሶን",
+        "meaning": "balsam, balsam tree, balm tree, chrism (holy oil)",
+        "origin_explanation": "from Gk. balsamon 'balsam tree' through Ar. bala-sān; also in Tna. Amh. balsan, Som. bilsin, Syr. balsāmīn, Aram. balsmōn. For Gk. balsamon de-rived from Heb. bāśām, see D. Cohen 1976:88; Masson 77-8. For Gk. is representing the lateral pronunciation of Heb. ś, see Steiner 124ff.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balasa I በለሰ (M)",
+        "meaning": "sparkle, glitter",
+        "origin_explanation": "SEMITIC: Ar. (Chado-Sudanese) balas 'sparkle', Syr. balas 'flourish', balsisītā 'sparkle', Neo-Syr. balbiş 'shine, sparkle', Akk. balāsu 'stand out, be promi-nent' (from a meaning 'shine'). ETHIOPIC: Te. baläce bälä, bäläcäqa 'flash, glitter', Tna. baläce bälä, bälacällaqe bälä, Amh. baläcca, baläce alä, täbäläcäqa, Arg. baläce alä, Har. bilic bilic bäya, Gur. balläc alä. It is from this root that Amh. balčǝt 'obsidian' derives (see boltata, below). The root passed into Cushitic: Kam. billič-ye, Bil. bilic y, contrary to Brockelmann 1950:32 who con-siders the Ethiopian-Semitic root taken from Cushitic. See also baraṣa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabalasa (M)",
+        "meaning": "glitter, shine",
+        "origin_explanation": "the meaning of 'shatter, break to pieces' given by Dillmann 492 to tabalasa undoubtedly refers to his read-ing ṭafalāsa; SEMITIC: Ar. (Chado-Sudanese) balas 'sparkle', Syr. balas 'flourish', balsisītā 'sparkle', Neo-Syr. balbiş 'shine, sparkle', Akk. balāsu 'stand out, be promi-nent' (from a meaning 'shine'). ETHIOPIC: Te. baläce bälä, bäläcäqa 'flash, glitter', Tna. baläce bälä, bälacällaqe bälä, Amh. baläcca, baläce alä, täbäläcäqa, Arg. baläce alä, Har. bilic bilic bäya, Gur. balläc alä. It is from this root that Amh. balčǝt 'obsidian' derives (see boltata, below). The root passed into Cushitic: Kam. billič-ye, Bil. bilic y, contrary to Brockelmann 1950:32 who con-siders the Ethiopian-Semitic root taken from Cushitic. See also baraṣa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balasa II በለሰ (Y)",
+        "meaning": "be shrewd, be cunning, be smart",
+        "origin_explanation": "from the Ethiopian root blṣ, blt 'be superior, exceed' passing into the meaning 'be clever, cheat, outwit'. Tna. bäläsa 'exceed, outwit', (tä)bälasi 'cunning', Te. tabällasa 'cheat', Amh. bällätä 'exceed, be supe-rior', bält 'cunning', Har. bäläṭa 'cheat, be cunning', Gaf. bälṭä 'cunning', Gur. bällätä 'be superior, ex-ceed, cheat, outwit'. The root passed into Cushitic: Qab. balti-yo 'surpass'. Arabic balasa 'oppress, ex-tort' is not to be identified with the Ethiopic root, as suggested by D. Cohen 1976:69, since the mean-ing 'cheat, be shrewd' of the Ethiopic root is second-ary.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ballata በለተ (K*)",
+        "meaning": "separate, cut meat into pieces",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "taballata (K*)",
+        "meaning": "be separated, be lonely, be poor",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ballati (K*)",
+        "meaning": "one who separates, butcher (one who cuts meat into various cuts)",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balluṭ (K*)",
+        "meaning": "'cut, separated, lonely'; maballat, see below",
+        "origin_explanation": "Source: Ar. balata 'cut short, break off', Ug. blt 'break through' (for which see Aistleitner 50). ETHIOPIC: Har. (is)bälät 'separately, separate', Amh. bällätä 'cut meat into various cuts, dismember, render lonely, render poor'. The root passed into Cushitic: Aw. bellet 'chop up'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baloṭä (Lt)",
+        "meaning": "'knobby club'",
+        "origin_explanation": "from Amh. bälotäna.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälit (NAP)",
+        "meaning": "'see (balya), bäluy.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälätännä (Lt)",
+        "meaning": "'page, servant'",
+        "origin_explanation": "from Amh. blatenna.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälätäna'äsä (OT 578), bälätäna'äsä (K), bälätäna'äsä (NAP)",
+        "meaning": "'constellation of the Bear'",
+        "origin_explanation": "From Ar. banāt na'š 'the bearers of a bier (when the corpse is on it)'; so called because they (the stars) are likened to the bearers of a bier since they form a square (Lane 2816). According to Kunitzsch 1959: 149 the meaning is not clear. See also bälṭänäs.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälṭänäs (T)",
+        "meaning": "'moon'",
+        "origin_explanation": "undoubtedly to be connected with bälätäna'äsä; the difference in meaning is due to a misunderstanding of the noun.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(ə)bälṭaribon (NAP)",
+        "meaning": "'Pater Noster'",
+        "origin_explanation": "a corrupt form of Gk. patēr hēmōn 'The Pater Noster' through Chr.-Ar. bälṭarimūn, bälṭarimūn; note the Arabic article əl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bälṭiṭ (NAP)",
+        "meaning": "'see bolṭaṭa.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bolṭaṭa (T.M)",
+        "meaning": "'make an obsidian blade, scintillate' (denominative); bolṭiṭ, (T.) bolṭuṭ 'flint, (T.M) white quartz that sparkles in the sun'",
+        "origin_explanation": "ETHIOPIC: Amh. bälṭiṭ 'sharp piece of obsidian used for shaving the head or cutting veins for cupping'. Te. bälṭoṭ 'pointed stone'; related to Amh. bälčuṭ, bälčaṭ 'obsidian', Gur. bäläčča; also in Cushitic: Or. bälčita, Had. bänča (with alternance of liquids). Dillmann 488 derives it from blt 'cut' (see ballata, above). See also bälṭiṭ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baluṭ (K*)",
+        "meaning": "'oak tree'",
+        "origin_explanation": "From Ar. ballūṭ (taken from Aram. baļļūṭā, see Fraenkel 139); also in Te.Amh. baluṭ (see also Noeldeke 10:44, n. 1); in other Semitic languages: PbH. bāļūṭ 'acorn', Syr. baļļūṭā, Md. baluda.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balṭanos (D 1251), balṭānos (D 1403), balāṭonos (T)",
+        "meaning": "'plane tree'",
+        "origin_explanation": "from Gk. platanos 'plane tree'; see also palāṭanos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balaw (D 1395,T.M)",
+        "meaning": "'silken garment, velvet, wide trousers'",
+        "origin_explanation": "ETHIOPIC: Amh. bäläw 'wide trousers'; Amh. bolale 'wide trousers' is probably borrowed from Gurage.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balya (yäblay, yäbļi) (NAP)",
+        "meaning": "'be old, grow old, be age, be worn-out, be decrepit, be obsolete, be antiquated'",
+        "origin_explanation": "SEMITIC: Ar. baliya 'be old, be worn-out', Heb. bālā 'be worn-out', Md. bla, Ug. bļy-m 'worn-out', Akk. balā, belū 'come to an end'. The connection with SAR. bļy-t 'be buried', bļwt 'tomb' suggested by W. Müller 1962:29, 1963:307 is doubtful. ETHIOPIC: Tna. bäļäyä 'be old, be worn-out', Te. bäla, Amh. bäluy 'old' (in bäluy kidan 'Old Testament', from Geez). The root passed into Som. bäļi 'worn-out thing', Bil. bäl. See also balba-la I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balaz (K)",
+        "meaning": "'name of pillar in Solomon's temple, (D 1403) straight, (K) uprightness'",
+        "origin_explanation": "From Gk. bolōz; also Amh. bäläz 'pillar of the church sanctuary' (from Geez). Note that the Hebrew name of the column (in 3 Kings 7:21, in The Hebrew Bible 1 Kings 7:21) is bo'az, a proper name. The Gk. bolōz is then a corrupt transcription. See also balaza, and yäqum.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "balaza (T.Y.M)",
+        "meaning": "'be hard, be strong'",
+        "origin_explanation": "the verb is a denominative from balaz 'pillar' (see above). As for the meanings 'hard, strong', they are interpretations of the qualities of a column.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāmā (NAP)",
+        "meaning": "'high place, place of worship'",
+        "origin_explanation": "From Heb. bāmā(h).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bonu (NAP)",
+        "meaning": "'is there?, are there?'",
+        "origin_explanation": "see ba, nu.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bən'oni (T)",
+        "meaning": "'son of affliction'",
+        "origin_explanation": "transcription and translation of Heb. bən 'ōni.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "banana (Lt)",
+        "meaning": "'rise (dust), ascend (smoke from a fire)'",
+        "origin_explanation": "ETHIOPIC: Tna. bänänä bäļä 'rise (smoke), bännänä, bännänä, bənnä bäļä, bunn bäļä 'fly there (smoke, dust)', Har. bänäna 'be sprinkled', Gur. bunn *balä 'rise (dust, smoke)'. See a-na II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bänase (Lt)",
+        "meaning": "'a name of the moon'",
+        "origin_explanation": "the interpretation of Halévy, JA 9 (1867), 385 for this noun as coming from Heb. bən kese, i.e., ksy 'cover' is unlikely. The noun bänase is perhaps a corruption of bälṭänas.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bannata (NAP)",
+        "meaning": "'make a gift, pay tithe, pay tribute'",
+        "origin_explanation": "SEMITIC: Sar. (Qataban) bnt 'tax, duty'. Zimmern 10 compares G. bənnat, with reservations, with Aram. bālō 'taxes', coming from Akk. biltu 'tax'. However, Akk. biltu 'tax' is derived from wabālu 'carry'. The connection with Heb. mənāt 'portion, share' (from mny 'count') suggested by Reinisch 1887:80 is doubtful. ETHIOPIC, common with Cushitic: Bil. bän 'pay tribute', Kham. bin 'reward for a job well done'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "benäṭi (NAP)",
+        "meaning": "'see bayna.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bənt, in bənta 'ayn (NAP)",
+        "meaning": "'pupil of the eye, eyeball', lit. 'daughter of the eye'",
+        "origin_explanation": "this is the only example in Geez where Semitic bənt 'daughter' is used. Noeldeke 1910:135, n. 5 thinks that bənta 'ayn is taken from Ar. bintu-l-'ayn; cp. also Heb. bat 'ayin 'eyeball, pupil of the eye', 'pupil of the eye' expressed by 'daughter of the eye'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bänṭale (D 1396), bänṭale (Lt)",
+        "meaning": "",
+        "origin_explanation": "D 1396 quotes a passage wəzəxəxəwə fälfäla wäbänṭale without translating bänṭale. J. Halévy, Təəzāza Sanbat (p. 78, translation, p. 194) renders it 'panthers' (?). J. Tubiana, GLECS 9 (1960-63), 102 translates it 'hare'; he derives it from Cushitic: Qem. bänṭära, and identifies it with G. manṭale (for which see below). However, since bänṭale, bənṭale follows fälfäl 'elephant' (D 1396), fälfälät 'elephants' (Halévy, ib), it is not likely that bänṭale could mean 'hare'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bänyän (Lt)",
+        "meaning": "'Indian trader'",
+        "origin_explanation": "from Sindhi vānyāni through Ar. (Yemen) bāniyān (W. Müller, ZDMG 122[1972],306); also in Amh. banyian, Tna. banyan, baynan, Te. bäynani, Som. banyāl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqqa (NAP)",
+        "meaning": "'see byq.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "beqa (NAP)",
+        "meaning": "'see byq.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "buq (NAP)",
+        "meaning": "'see bwq.'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq°a I (yäbəq°ä'ä) (NAP)",
+        "meaning": "'be useful, be of use, benefit, be of benefit, be serviceable, serve, be profitable, have advantage, fit, be fit, be suitable, be appropriate, be gratifying, be worthy, be capable of'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq'a",
+        "meaning": "'useful, beneficial, salutary, benefactor who bestows, worthy, fit'; baq'a 'useful, beneficial'; baq'u 'useful, beneficial, suitable, worthy (of), fit, effective'; baq'a 'use, usefulness, profit, advantage, comfort, efficiency, favor, asking favor (Lt) interest on a loan'; baq'awi, baq'etawi (Lt) 'useful, beneficial'; baq'an, baq'wan, same as baq'et; mastabq'a'i, (Gr) mastabq'a'i 'supplicant, mediator, intercessor'; 'astabq'a'ot 'entreaty'; mastabq'u 'supplicant, one who beseeches urgently, one who intercedes; supplication, prayer of intercession (liturgy), solemn prayer', see Velat 187, 198; mastabq'a'a (Gr.188) 'intercession, mediation, plea';",
+        "origin_explanation": "ETHIOPIC: Te. baq'a 'be useful, do things well', Tna. baq'a 'be sufficient, be suitable'. Amh. Arg. baqqa 'be sufficient, be enough, be competent'. Gaf. baqqa. The comparison between Amh. abakk-ah 'please!' and G. baq'a'anni 'I pray you, please!' suggested by D'Abbadie 355 presents difficulties. Praetorius 1879: 72 likewise suggests, with reservations, the derivation of Amh. abakkah from a Geez form such as 'astabq'a-akka. Littmann-Höfner 285 connect Te. baq'a 'be strong' with the Geez root bq' 'be useful'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqbaqa II, in anbaqbaqa (K*)",
+        "meaning": "'cause to gargle, bubble';",
+        "origin_explanation": "SEMITIC: Onomatopoetic: Ar. baqbaqa 'gargle, bubble', Heb. baqbuq 'bottle', PBH. biqbuq 'bling', Syr. baqbeq 'boil, bubble', baqbuqa 'gargle'. ETHIOPIC: Te. bäqbaqä 'churn', Amh. (tän)bäqbaqä 'gargle', boqq allo 'make a sound (water) when being poured from a container into another', Gur. b'äq b'äq epä 'gargle'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqqala A (K*)",
+        "meaning": "see tabaqqala; tabaqqala 'punish, take vengeance, seek vengeance, avenge, vindicate, plead, be avenged'; 'abqala (D), 'abqaqqala (K), causative 'astabaqqala (K*M), causative of tabaqqal 'revenge, taking (n) revenge, vengeance'; (fadaya baqala 'take revenge'); baqala, see below; 'astabaqqali (Gr) 'avenger, vengeful, vindictive seeker of vengeance'; mabaqqal, mastabaqqal, same; tabaqqali 'avenger, one who is seeking revenge'; tabaqqalo 'punishment, chastisement, vengeance';",
+        "origin_explanation": "SEMITIC: Akk. baqaru 'take vengeance' (with alteration of the liquids l:r). For the interpretation of Heb. biqqoret, from bqr 'vindicate, make economic damage', see E.A. Speiser, \"Leviticus and the critics\", in Yehezkiel Kaufmann Jubilee Volume (1960).33-36. ETHIOPIC: Tna. täbäqälä 'take vengeance', täbäqqälä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq'a II (yäbq'a') (M)",
+        "meaning": "'scratch, tear, scrape, rake';",
+        "origin_explanation": "SEMITIC: Ar. buq'a 'piece, part, portion (Lane), depressed ground, place between mountains', Ar. baq'a 'split' (with metathesis, according to Barth 1893:2), Heb. bäqa 'split', biq'a 'valley'. Aram. baqa 'split'. Ug. bq'. The root is related to pq', fq'. Ar. faqa'a 'pierce', Heb. päqa 'burst open, split', Syr. paqa. ETHIOPIC: Te. (t)bäq'a 'sharpen'. See also bqq, baqbaqa I, baqawa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqbaqa I (K*)",
+        "meaning": "'cultivate the soil';",
+        "origin_explanation": "ETHIOPIC: Amh. bäqäbäqä 'break the soil', a reduplicated root of bqq 'split open'. See also baq'a II, and bqq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq'al (Lt)",
+        "meaning": "'vegetable garden'; baq'alawi 'pertaining to plants'; baq'al 'date palm, trunk of a palm tree'; 'abq'al (pl. of baq'l) 'vegetables'; 'abq'alt, pl. of baq'l (K) 'creeping ivy'; mabq'ali (Gr.187) 'that which causes germination';",
+        "origin_explanation": "SEMITIC: Ar. baqala 'grow (plants)', SAr. bql 'plant', Hars. baqel 'vegetation', Syr. bäqülä 'offshoot, bud', Ug. bql 'groats', Akk. baqlu 'sprouted'. ETHIOPIC: Tna. bäq'älä 'germinate, sprout', bäqäla, Amh. bäqqälä, Har. bäqäla, Arg. bäqqaqa passed into Cushitic: Bil. baq'al, Sa. baqal, baqäla 'germinated grain'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqela (K)",
+        "meaning": "'bean';",
+        "origin_explanation": "From Ar. bäqila 'bean'; also Amh.Te.Tna.Gur. baqe-la; Cushitic: Kham. bäqilä, Or. bakela, Sid. baqela, Mo. bäqero.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baql (pl. 'abqäl, 'abqält)",
+        "meaning": "'a mule'; mastabaq(q)al (K) 'owner of a mule, one who breeds mules';",
+        "origin_explanation": "SEMITIC: Ar. baql 'mule' is considered a Geez loanword (Hommel 113; Noeldeke 1910:58). However, a Geez loanword is less likely in view of SAr. Synac baqla is borrowed from Arabic. ETHIOPIC: Te.Har. bäqäl, Tna. bäqli, Amh. bäqəl, Gaf. bäqälä, Gur. b'äqla; also in Cushitic: baqla, Som. bagal, Be. bagal, Had. baqulla, Qem. bayla (pl. bäkäsl).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqalt, baq'alt (pl. baqalät, baqaltät)",
+        "meaning": "'date palm, trunk of a palm tree';",
+        "origin_explanation": "SEMITIC: Mh. baqlät (pl.) 'date palms'. ETHIOPIC: Amh. bäqält 'date palm' (probably Geez); see baq'ala, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bqq, baqqa (yäbqq) (K*)",
+        "meaning": "'split, break up (clods of earth)';",
+        "origin_explanation": "SEMITIC: Ar. baqq 'split', Heb. bäqaq 'lay waste', Syr.Md. bqq 'be corroded, be worm-eaten, putrefy'. ETHIOPIC: Amh. bäqqaqä 'gape, be opened', an bäqqaqä 'yawn, open the mouth wide', Te. bäqq 'abäla 'hit', (tän)bäqäbäqa 'be ploughed deeply', Tna. bärq 'äq'ä (with augmented r) 'uproot, tear out', ('am)bähaq 'a 'yawn', Gur. b'äqaqa 'crack in the ground after the rainy season'; also in Cushitic: Or. baqaqa 'crack in the ground', Kam. Bäqaqa. See also baqawa, baqbaqa I, baq'a II. See also Conti 1980:77.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq'asa (Y.M)",
+        "meaning": "'dig out, uproot';",
+        "origin_explanation": "ETHIOPIC: Tna. bäq'äsä 'pull out', passed into Cushitic: Kham. bqes 'pull out', Bil. baqus.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baq'a (Y), baq'a (Y.K) baq'a (Y) baq'ada",
+        "meaning": "'put together live coals and kindle a fire, blow (on coals), poke (the fire), rake coals, singe, make a fire (of coals)'; tabq'a 'sa (K*), passive; baq'as 'heaped and kindled, ardent, scraped together (coal), poked (fire), singed'; (baqus fähim [Gr] 'charcoal fire'); mäbq'äs (K*) 'instrument for kindling or poking a fire';",
+        "origin_explanation": "For the action of poking, cp. Tna. bäq'äsä 'husk grain, rub the grain to husk it', Te. bäqäsa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baqawa (yäbqu) (T.K.M)",
+        "meaning": "'separate, split, open, break, cut, (K) be wide open'; 'abqawa 'stretch asunder, disjoin, open (the mouth), crack open, split'; tabaqawa (Lt) 'open the mouth wide, yawn, split (intr)'; bäqaw 'one who opens the mouth, one who yawns, open (mouth)'; bäqwat (K*) 'yawning, opening of the mouth'; 'abqaw (K.Lt) 'throat, organ of speech'; tabqaw (L) 'gaping (n), opening of the mouth';",
+        "origin_explanation": "The root baqawa is related to bqq, baqbaqa I, bhqw, and baq'a II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barr (K*)",
+        "meaning": "'gate, passage';",
+        "origin_explanation": "see brr III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barra",
+        "meaning": "see brr I, II, III, IV.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barra (yäbrär) (K*)",
+        "meaning": "'tremble, shake, be agitated';",
+        "origin_explanation": "ETHIOPIC: Te. bärä 'fear'. Littmann-Höfner 278 compare the Te. root with Ar. warara 'fear', cp. rather Syrian-Ar. barba 'frighten', with inserted b of the root br'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bär (pl. 'abrä') (K*)",
+        "meaning": "'reed, reed pen, branch of a chandelier, stalk, stem of fruit, stubble';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(coda bärä [Lt] 'cane plantation')",
+        "meaning": "'cane plantation'",
+        "origin_explanation": "SEM. Von Soden 141 connects G. bar, with reservations, with Akk. buru 'reed mat' > Syr. büryā. See also Brockelmann 1928:95. ETHIOPIC: Tna. bärī 'reed, reed pen', Te. bärā', Amh. bäräbäre 'stubble, stalk of wheat, reed pen', Har. bir.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäräbä NCD (D 1403,T.M)",
+        "meaning": "'temple of idol'",
+        "origin_explanation": "from Coptic perpē (that is, erpē with the agglutinated article p) through Chr.-Ar. barbā, birbā 'ancient temple of Egyptians'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baräbä NCD (T.M)",
+        "meaning": "'east'",
+        "origin_explanation": "(subra barbar [Lt] 'barbarians')",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbar NCNC",
+        "meaning": "'barbarians'",
+        "origin_explanation": "from Ar. barbar 'barbarians', of Greek (barbaros) origin; also in Syr. barbārā. See on this root Land-berg 1920:145-6.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbara NCNC",
+        "meaning": "'pillage, plunder, ravage, ran-sack, (Y) search carefully, rummage, confis-cate'",
+        "origin_explanation": "(tabarbara (K*.Gr.185) causative; also 'give an order to pillage'; tabarbara, pass. of barbara; barbārī, act. part. of barbara; also 'plunderer, robber'; bärbur (K*), pass. part. of barbara; barbārbar, barbār, (Lt) barbār 'booty, prey, spoils, plunderer'; (sabra bärbär 'plunderers, pillagers, robbers'); barbärä 'plundering, robbing'; barbäryā, barbäryā 'booty, prey'; SEMITIC: Sar. brr 'make a sally', Neo-Syr. barber 'attack, assail'. Dillmann 503 compares Ar. barra (8th form); while Wahrmund 193 translates it 'be-rauben'. Kazimīrski 103 by 'dépouiller, priver', Bla-chère 529 renders it by 'rise above the others, dominate'. Stade 14 and Brockelmann 1950:35-6 connect G. brbr 'pillage', originally 'ausziehen', with Heb. bārar 'set apart, choose', for which see Brr II, below. ETHIOPIC: Tna. bärbärā 'pillage', Te. bärbärā, Amh. bärbärā, Gur. bärbärā. Praetorius 1879:56 compares G. barbara with the root wrr 'invade, pillage'. Tna. wärärā, Te. wärärā, Amh. wärärā, Gur. wärär dänäqä 'attack the enemy boldly'. The root passed into Cushitic: Kham. birbir 'pillage', Dem. bärbär, Bil. bärbär 'take the honey from a beehive'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbäre NCNC",
+        "meaning": "'pepper'",
+        "origin_explanation": "SEM. Ar. barbāriyy 'black pepper', ETHIOPIC: Te.Tna.Arg.Gur. bärbär(r), Amh. bärbäre; also in Cushitic: Sa.Or. Bil. bärbärī, Kham. birberā, Mo. baro. W. Müller 1981:199 states that \"der Name für den Pfeffer, der in den äthiopischen Sprachen von den Wörtern für dieses Produkt in den übrigen semitischen Sprachen abweicht (see, however, Ar. barbāriyy), ist vielleicht von Berbera, dem einstigen Einfuhrhafen, beein-flusst worden\". The root is related to pipl, fflfl: Heb. pilpel 'pepper', Ar. filfil, from Sanskrit pippala > peperi, Latin piper (see Buck 382). See also papare, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbär NCNC (K*)",
+        "meaning": "'kind of bush whose seeds are used to stun fish'",
+        "origin_explanation": "ETHIOPIC: Tna.Amh. barbärra 'kind of bush' (for which see Strelcyn 1973:no.49, and Rodinson 95, n.6). Is there any connection with Gur. (a)bräbärä 'be drunk'?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbir NCNC (T) bärbir NCNC",
+        "meaning": "'cistern, well, pit, latrine'",
+        "origin_explanation": "SEMITIC: Dillmann 503 compares it with Heb. bə'er 'well', bōr 'hole'. ETHIOPIC: Amh. barbir 'latrine'; perhaps derived from brbr represented in Amh. as boräbbärä 'make a hole', Gur. bäräbärä. Leslau 1979:150 connects G. barbir, with reservations, with Gur. b°är, bur 'pit, well'. Amh. bir, Har. buwur, bur 'deep'. The root also occurs in Cushitic: Had. bare 'well', pit, Som.Or. bōr 'dig', and is common to Semitic and Cushitic rather than being considered a Cushitic loanword, as suggested by Cerulli 1938:194, under bälä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbor NCNC (L.Gr.186)",
+        "meaning": "'brown color, blackish color of ashes'",
+        "origin_explanation": "ETHIOPIC: perhaps a reduplicative of Amh. bora 'horse or mule whose muzzle and forehead are white, the rest of the coat being dark', Gur. b°ära 'cow that has a white spot on the forehead', Har. Amh. boräbor 'red soil', Gur. barbura (even though it may go back to balbula); from Cushitic: Or. bōra 'brown', Kam. bora, Af. bora 'white-faced animal'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "borbärä NCNC",
+        "meaning": "'subterranean region'",
+        "origin_explanation": "see also barbäros, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barbäros NCNC (K*T*)",
+        "meaning": "'deep and wide hole, the pit, inferno'",
+        "origin_explanation": "from Ar. tartarus (instead of the expected tartarus, Gk. tartaros, see əntortos) being mispelled barbärūs by confusing ب b for ت t, but perhaps connected with barbir (Salinger).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brd I, barada (yäbräd) NCD (K*M)",
+        "meaning": "'be cold, be covered with hail'",
+        "origin_explanation": "abräda 'cool (tr), cause to hail'; barädi, bərud (K*) 'cold, cool'; barad 'hail, snow, hoarfrost, (Lt) crystal'; (əbna barad 'hailstone'); 'abräd (pl. of barad) 'hailstones'; SEMITIC: Ar. baruda 'be cold', SAr. brd 'cold weather, hail', Hars. berēd 'hail, frost', 'hail', Syr.Aram. bardā, Md. bardā 'cold, hail'. ETHIOPIC: Tna.Gur. bärädä 'be cold', Amh. bärrädä, Arg. bärrädä, Gaf. bärrädä 'hail', cp. Te.Tna.Har. bäräd, Amh.Arg. bäräd, Gaf. bärädä, Gur. bäräd, boroda, bärädäda bardada I, II, III, IV.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brd II, mabrad NCD (K*)",
+        "meaning": "'file, rasp'",
+        "origin_explanation": "from Ar. mibrad 'file, razor'; also Amh. bärrädä 'off', moräd 'file', denominative morrädä, 'to polish, file off', mäbräd 'file'. Tna. mäbräd, mäbräd 'file'; passed into Cushitic: Bil. mäbräd.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bärid NCD (T.D 1396)",
+        "meaning": "'distance of about 3 miles'",
+        "origin_explanation": "mabärdin (Lt) 'express messenger, courier'; from Ar. barīd 'distance traversed by a messenger', mubrīd-in 'messengers'. See also Noeldeke, WZKM 19 (1905).405; Praetorius, ZA 19 (1905-6).187.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bardada I NCD (K*)",
+        "meaning": "'calm down, be settled, be stable, be firm, be heavy'",
+        "origin_explanation": "ETHIOPIC: Te. bärdädä 'cool off', from brd 'calm down' (cp. Amh. bärrädä 'cool off' > calm down, see brd I, above), with a reduplicated last radical. For 'be heavy', cp. Amh. bäräddädä 'outweigh'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bardada II NCD",
+        "meaning": "'pelt with stones, crush with stones, (K) hit, hammer, pound'",
+        "origin_explanation": "ETHIOPIC: Amh. bärdädä 'hammer, pound'; a de-nominative of barad 'hail' (see brd I), with a redupli-cated last radical, from an original meaning 'crush with hail' extended to 'crush with stones, hammer'. See also bardada III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bardada III NCD",
+        "meaning": "'cover as with hail, (T.M) cover, bury'",
+        "origin_explanation": "ETHIOPIC: Amh. bärdäddädä 'conceal, hide'. The orig-inal meaning could be that of covering with hail (denominative of barad 'hail', with reduplicated last radical) extended to a general meaning of covering, hiding. See also bardada II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bardada IV NCD (T.Y.M)",
+        "meaning": "'set in order, ar-range one thing near another or one thing on top of another'",
+        "origin_explanation": "the meaning 'arrange one thing on top of another' could be identified with bardada III 'cover'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bardayos NCD",
+        "meaning": "'see barayodas'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brd I, tabarada NCD (T)",
+        "meaning": "'be scattered'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brd II, tabärada NCD (T)",
+        "meaning": "'be annoyed, be angry'",
+        "origin_explanation": "ETHIOPIC: perhaps Te. bars belä 'be frightened, shrink back suddenly'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barforikon NCD (T) barforikon NCD (KG) borforikon NCD",
+        "meaning": "'uttered words'",
+        "origin_explanation": "from Gk. prophorikon, acc. sg. of prophorikos 'ex-pressed (Logos)', probably through Arabic; also in Amharic barforikon, from Geez.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bärqänä NCD (T.M), borqäno NCD (Lt)",
+        "meaning": "'kind of bird'",
+        "origin_explanation": "ETHIOPIC: Tna. bärniqgo, boräniqgo 'quail', Te. fa-räq, fänäq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bärq NCD (Lt)",
+        "meaning": "sign of the zodiac",
+        "origin_explanation": "from Ar. burq < Gk. pyrgos 'tower'; also in Amh. burq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barha (yäbräh) NCD, (T) barha NCD",
+        "meaning": "'shine, be bright, be light, light up, be clear'",
+        "origin_explanation": "abräha, causative; also 'illuminate, emit light, enlighten, give light, make see the light, make clear, explain'; tabarha 'be illuminated'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bərūh",
+        "meaning": "bright, shining, shiny, brilliant, lit, splendid, clear (voice), cheerful, happy'; (barūh-a, baharūh 'clearly'); barūhāwī 'pertaining to bright things'; barūhān, see below. ubrūhī (Gr.) part. of ubrūhī; mabrahāt (pl.) 'that which gives light, lamp, candlestick'; mabrahāt (K) 'that which gives light, enlightener'; mabrahāt (K*) 'that which throws light, that which is bright'; mabrahāt (Gr.459) 'luminous (angels)'; 'should it read mabrahāt'?",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barāhāt (fem.)",
+        "meaning": "'glittering, sparkling'; barāhāt (K) 'spots of leprosy';",
+        "origin_explanation": "from brh 'be light, shine' (see barha, above) with the repetition of the last two radicals. For 'spots of leprosy', cp. Heb. baheret (with metathesis) 'white spot on the skin', Aram. bahartā, Akk. bi'ru.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barhus",
+        "meaning": "'cypress';",
+        "origin_explanation": "variant of baharus (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barihot (T.D 1396)",
+        "meaning": "'jaw';",
+        "origin_explanation": "see also barisat.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barhaya (D 1430, T.Y.M)",
+        "meaning": "'be dry, become uninhabited, become devastated';",
+        "origin_explanation": "instead of barhaya, denominative from barahā 'desert, uninhabited place', Amh. bäräha (see II); see also H. Schlobies, in Cohen 1939:40. Stade connects the G. root with Ar. bahā 'be deserted' with augmented r.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barrāh I (K*)",
+        "meaning": "'be bald'; barrāh, (Gr.425) barrāh, (L) barrāh, (T) barrāh 'bald, having a high forehead'; barhat (Gr.425) barhat 'baldness';",
+        "origin_explanation": "SEMITIC: Ar. barāh 'bare stretch of land' (Brockelmann 1928:96), Syr. barrah 'make clear, transparent'. ETHIOPIC: Tna. bärhe 'be bald', Te. bärha, Amh. bäräha 'be bald', Gur. bər'ära 'baldness', passed into Cushitic. See also barrāha II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "barrāha II (K*)",
+        "meaning": "'enter the wilderness, take to the woods, flee, escape, run' (denominative from barahā); barahā (K*) 'wilderness, uninhabited place' (from Amharic); barhāh (K*) 'desert dweller, hunter, monk' (both the hunter and the monk frequenting the desert); barhāh (K*) 'taking to the woods';",
+        "origin_explanation": "SEMITIC: it is tempting to connect G. barahā 'wilderness' with Ar. barāh 'bare stretch of land' (see barrāha I above), but Te. and Tna. have a root brk (see below). While k can become h through spirantization > h, an original h becoming k > k would have to be considered an inverse process (see Leslau 1979:LXXXII). ETHIOPIC: Amh. Gur. bäräha 'desert', Tna. bäräka, Te. bäräka. The root passed into Cushitic: Sa. barakā 'wilderness', Bil. bäraga, Kham. barega.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brk I, baraka (yəbərak)",
+        "meaning": "'kneel, bend the knee, make genuflection' (denominative from bərk); abəraka, causative; astabəraka 'make kneel down, kneel down, bend the knees, fall on one's knees'; bərk (K*) 'one who kneels'; bərk (pl. bərak, 'abərk) 'knee'; 'astabərako 'genuflection';",
+        "origin_explanation": "SEMITIC: Ar. baraka 'crouch down, kneel down', Hars. berōk, Heb. berek, Syr. bərāk, Md. bərk 'knee', cp. Heb. berek, Aram. birkā, Akk. birku, burku; with metathesis in Ar. rukkba, Ug. rkb, Akk. rkb, Aram. 'arkubtā. ETHIOPIC: Te. bäräka 'kneel', Tna. bäräka, bäräkka, bäräkkäka, Amh. (tän)bäräkkäka, Arg. (əm)bäräkkäka, Gaf. (tän)birräkka, Gur. (ən)birräka. For 'knee', cp. Te. bərk, Tna. bərki, Gur. bərk, Amh. bərk (from Geez), Har. bərxi, bəxri. The root passed into Cushitic: Bil. bərk, Sa. bərak.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "brk II, bäräka",
+        "meaning": "'bless, praise, worship, celebrate, salute, bid farewell, congratulate, (K.T) offend, calumniate, curse'; 'abäräka, causative; tabäräka, passive; also 'receive benediction, bless one another, ask for benediction'; 'astabäräka, caus. of tabäräka; bäräki (Gr.186,M), act. part. of bäräka; buruk (fem. burəkt) 'blessed, praised, consecrated, fortunate, happy, good, excellent, outstanding'; bərakē (pl. buräkäyāt) 'blessing, ceremony of blessing, benediction, prayer of benediction, praising, gifts from God'; bäräka 'blessing, benediction, praise, gift, expressive of a blessing, offering, fortunate things, (Gr.186) blessed object, blessed relic'; for bäräkat used as a form of gematria, see Neugebauer 162; (gəssa bäräkat 'gift'); (ba-bäräkat 'bountifully');",
+        "origin_explanation": "the sense of blessing is derived from that of kneeling (see brk I). For the bibliography dealing with the connection between 'kneel' and 'bless', see D. Cohen 1976:84. SEMITIC: Ar. baraka 'bless', Sar. brk (on Sabean krbt 'blessings', see A.F. Beeston, in Maria Höfner 1981:21ff), Soq. borik, Heb. bārek, Md.Ug. brk; with metathesis in Akk. karābu 'bless, praise'. Jeffery 75 suggests that the meaning 'bless' is originally North Semitic and it was taken over by South Semitic. ETHIOPIC: Te. bäräka 'bless', Tna. bäräka, Amh. bäräka, Gur. bäräka. Getatchew in Leslau 1983: 164 suggests the possibility of connecting Amh. bäräka in a form such as yəbärakkä'əhu 'he blesses you' with Amh. əbäkkakkə'əhu 'I ask you, please!'. For G. bäräkat 'gift, fortune', cp. Te. bäräkata 'yield much produce, become copious', Tna. bäräkäta 'be plentiful', Amh. bäräkkäta 'be plentifully'. The verbs are denominatives from bäräkat. The meanings 'offend, calumniate' are euphemistic expressions; cp. G. dahara 'bless, curse', Heb. bārek 'bless, curse' (see Noeldeke 1910:89). Aram. qalles 'praise', Heb. qilles 'disdain'. It is possible that the opposite meanings of these roots lie in the structure with different prepositions (see D. Cohen, Arabica 8[1961]9).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bərkə'el (T)",
+        "meaning": "'name of a star';",
+        "origin_explanation": "from bərk and 'el. Would it be an inversion of Ar. 'al-buruk 'die niederknienden Kamele' (name of stars; see Kunitzsch 1961:no.67), or can it be explained from bərk 'blessing' and 'el from Heb. 'el 'God'?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bərkʷət (T)",
+        "meaning": "'stone block, heavy chunk of metal';",
+        "origin_explanation": "ETHIOPIC: undoubtedly connected with Amh. bərkʷət 'barkot 'wooden headrest', since the headrest is carved from a block of wood.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bərkʷətta (K*)",
+        "meaning": "'bread made by wrapping dough around a heated stone';",
+        "origin_explanation": "probably from Amh. bərkʷətta, same meaning; Te. bərkʷətta 'unleavened bread', Tna. bərkʷətta; from Cushitic: Bil. bərkʷata, Kham. bərkʷata, Sa.Af. bərkʷa tä. The derivation of Amh. bərkʷətta from bʷəkka 'be fermented', with an inserted r, as suggested by Praetorius 1879:91, is unlikely. For a detailed description of preparing the bərkʷətta, see Coulbeaux-Schreiber 393-4; Littmann 1910, vol. 1, 190-2, vol. 2, 229-32.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M) 'camel saddle'",
+        "meaning": "KBT 529 also records berkatān, stating that it is Geez but without giving its meaning. It is probably to be identified with bersekān, below.",
+        "origin_explanation": "KBT 529 also records berkatān, stating that it is Geez but without giving its meaning. It is probably to be identified with bersekān, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baralle, baralle (L.Gr.425) barel 'a beryl, crystal'",
+        "meaning": "'a beryl, crystal'",
+        "origin_explanation": "From Gk. *béryllos* 'beryl', from Middle Indic of Dravidian origin, from *vēḷur*, place name (Franke, ZDMG 47[1893],600); also in Semitic: Ar. *ballūr* (with metathesis), Syr. *berull(ā)*, *bel(l)ūrā*, Aram. *būrlā*, Md. *bilaur*, Akk. *burallu*. ETHIOPIC: Te. *baralle*, *bannur*, Tna. *baralle*, *borallē*, Amh.Gur. *baralle*; passed into Cushitic: Bil. *biralē*, Kham. *birilli*, Or. *bilālē*. See also *balur*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) barmudāh",
+        "meaning": "the eighth month of the Coptic calendar (corresponding to G. *miyāziyā*)",
+        "origin_explanation": "from Coptic (*Saidic*) *parmoute* through Chr.-Ar. *barmudā*. See also *fāmūnī*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K) baramhāt",
+        "meaning": "the seventh month of the Coptic calendar (corresponding to G. *maggābit*)",
+        "origin_explanation": "from Coptic *paramhat* through Chr.-Ar. *baramhāt*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K) 'parchment'",
+        "meaning": "'parchment'",
+        "origin_explanation": "from Amh. *bārannā*. See also *bērhānnā*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*T.) 'cat, kind of civet cat'",
+        "meaning": "'cat, kind of civet cat'",
+        "origin_explanation": "from Ar. (Sudanese-Ar.) *burra* 'cat' with final -n in Bari (Sudan) *burān*. W. Müller suggests the possibility of a misprint for *šārni* 'civet', written wrongly *pōrni*, with a variant *barni*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) 'precious stone'",
+        "meaning": "'precious stone'",
+        "origin_explanation": "gives the impression of being a compound of two words.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) 'one who has reached the age of manhood, robust young man, virile'",
+        "meaning": "'one who has reached the age of manhood, robust young man, virile'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.456) 'black felt cloak with an attached pointed hood worn by men and women of nobility'",
+        "meaning": "'black felt cloak with an attached pointed hood worn by men and women of nobility'",
+        "origin_explanation": "from Amh. *bārnus*, *barnos*, coming from Ar. *burnus*, *burnūs*, for which see Dozy 1845:73-80. For the Latin (*burrus*, *burrus*) origin of Ar. *burnus*, see Vollers 1897:312.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabraq) 'flash, lighten, scintillate, shine, become shining, sparkle'",
+        "meaning": "'flash, lighten, scintillate, shine, become shining, sparkle'",
+        "origin_explanation": "*abraqa*, causative; *tabāraqa* 'flash, lighten intermittently' *baraq* (Gr.456) 'light, bright light' (from Arabic); *mabraq*, *mabraq* (pl. *mabāreqat*) 'lightning, thunderbolt, bright light'. SEMITIC: Ar. *baraqa* 'lighten', SAr. *brq* 'lighten', Heb. *bāraq* 'flash, sparkle', Syr. *braq*, Md. *brq*, Ug. *brq* 'lightning', Akk. *baraqu* 'lighten'. ETHIOPIC: Te. *bāraqa* 'to lighten, scintillate', *bārāqā*, *bāraqrāq bālā*, Amh. *bārrāqā*, *bārāqā* (augmented by *š*), Har. *biriq bāya*, Gur. *bāraqa*; passed into Cushitic: Kham. *bireq*, Bil. *baraq*, *baraq*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'white stone or soil used for whitewash'",
+        "meaning": "'white stone or soil used for whitewash'",
+        "origin_explanation": "from Ar. *būraq*, *bawraq* 'borax' (of Persian origin) also in Amh. *borāq*, Tna. *bārāq*, *bālāq*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr) 'leaf, sheet'",
+        "meaning": "'leaf, sheet'",
+        "origin_explanation": "from Ar. *waraq* (Grébaut, Aethiopica 4[1936],39).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'scarce, rare, strange'",
+        "meaning": "'scarce, rare, strange'",
+        "origin_explanation": "from Amh. *barq*, same, also Tna. *barqi*, Gur. *barq*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.D 1403,M) *barāqīnīm* (K) 'kind of plant with thorny leaves'",
+        "meaning": "'kind of plant with thorny leaves'",
+        "origin_explanation": "from Gk. *barkēnīm*, transcription of Heb. *barqōnīm* 'thorns', also in Amh. *barqone* 'plant used in the manufacture of buttons' (from Geez). See also *arqa-min*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabraq) (K*) 'purify, make white'",
+        "meaning": "'purify, make white'",
+        "origin_explanation": "*tabarra* (K*) 'be purified'; *barur* 'silver, money'; (*nahābe barur* 'silversmith'); *barurāt* 'silver pieces'; SEMITIC: Ar. *barrara* 'clear, consider to be pure or innocent', SAr. *h-brr* 'perform a duty faithfully', Heb. *bārar* 'purify', Aram. *barar* (on A. *brr* see Guidi 1879:16, n. 8), Ug. *brr* 'be pure', *brr* 'a metal', Akk. *barru* 'pure' (von Soden). ETHIOPIC: Tna. *barur* 'silver', *barrī* 'taler', *barrāq* 'regular, straight', Amh. *barr* 'taler, silver', Ar. *barr*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabraq) (K*) 'separate, choose, select'",
+        "meaning": "'separate, choose, select'",
+        "origin_explanation": "*tabarra* (K*) 'separated, chosen'; *bərur* (K*) 'separated, chosen'. SEMITIC: Ar. *brr* (8th form) 'be separated from one's friends', Heb. *bārar* 'separate, select, choose', *bārar* 'separate, choose', Syr. *bar*. ETHIOPIC: in Cushitic: *bārār* 'separate'. For connection with *brr I*, see above. See also *brr III*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabraq) (T.Y) *barara* 'pierce, penetrate, go through'",
+        "meaning": "'pierce, penetrate, go through'",
+        "origin_explanation": "*abrara* (Gr.456), causative; *barārī* (K*), act. part. of *barra*; *barar* (T.M) 'opening'; *barr* (K*) 'gate, passage'. SEMITIC: SAr. *brr* 'erupt', perhaps also Heb. *in heṣ bārūr* 'a penetrating arrow' even though the form has the appearance of a passive participle (suggestion by M. Goshen-Gottstein); cp. also Heb. *bar* 'open country, outside'. ETHIOPIC: Amh. *bārrārā* 'pierce, make a hole in a water jug', *bārr* 'door, gate', Tna. *bārri* 'entrance', Te.Gaf.Arg.Gur. *bār(r)*, Har. *bor*. Root is also to be identified with Amh. *borābbōrā* 'dig', Tna. *bārbārā* 'cut the flesh to heal a wound', Te. *babārāba* 'pierce'. The root *brr III* is to be connected with *brr II* 'separate > pierce'. It occurs in Cushitic: Som. *burur* 'broken piece', Sa. *burbur*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K.T.M) 'fly, run fast'",
+        "meaning": "'fly, run fast'",
+        "origin_explanation": "*barārī* (K*), act. participle. SEMITIC: Md. *brr* 'chase, expel', probably also Ug. *brr* 'be free'. The connection between *brr* 'fly' and Heb. *brr* 'open country, outside' suggested by Brockelmann 1928:88 is doubtful. For Har. *bar*, see *brr III*. ETHIOPIC: Tna. *bārārā* 'fly', Te. *bārra*, *bārrārā*, *bārr alā*, Arg. *barr alā*, Har. *bārārā*, *bār(r)ārā*; also in Cushitic: Sa. *barar*, Aw. *barāru*. The root is related to Semitic *frr*: Ar. *farra* 'to run away', Syr. *par* 'in Ethiopia: Te. *farra* 'fly', Tna. *farārā*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) 'announce good news'",
+        "meaning": "'announce good news'",
+        "origin_explanation": "a misprint for *absara*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'silver, money'",
+        "meaning": "'silver, money'",
+        "origin_explanation": "see *brr I*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*T.D 1403,M), *berasaktān* (D 1403) 'box, leather bag, coffer, bamboo basket'",
+        "meaning": "'box, leather bag, coffer, bamboo basket'",
+        "origin_explanation": "Amh. *korāga* 'linen cloth placed on the back of a saddle'; the Greek text in 1 Kings 6:8 has *bersekhkathan*, a corrupt transcription of Heb. *bavargāz* 'in the box' (Ludolf 232; Henry Preserved Smith's Commentary on Samuel [New York, 1909], p. 46). See also *berkatān*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K.T) *berusim* 'cypress'",
+        "meaning": "'cypress'",
+        "origin_explanation": "from Heb. *barōšīm*; see also *biroš*, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'lentil, (Gr.185) pea, chickpea, pulse'",
+        "meaning": "'lentil, (Gr.185) pea, chickpea, pulse'",
+        "origin_explanation": "probably from Ar. *bulsun* (with alternance *l:r*) also in Te.Tna. *barsan*; passed into Cushitic: Sa. *birsin*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M) 'myrtle'",
+        "meaning": "'myrtle'",
+        "origin_explanation": "ETHIOPIC: Amh. *bārsānāt* 'myrtle'; see also *barsayun*, *marsane*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.D 1396) 'jaw'",
+        "meaning": "'jaw'",
+        "origin_explanation": "is a misprint for *barihot* or the other way around.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(M) 'myrtle'",
+        "meaning": "'myrtle'",
+        "origin_explanation": "see also *barsanot*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K) *biruš* 'cypress, (K) juniper'",
+        "meaning": "'cypress, (K) juniper'",
+        "origin_explanation": "from Heb. *barōš* (the consonant *š* of G. *biroš* indicates that the noun is not Geez). See also *birusim*, *burāt*, *baharus*, *barhus*.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'leprosy'",
+        "meaning": "'leprosy'",
+        "origin_explanation": "from Ar. *baras* 'leprosy'; also Te. *abrāš* 'tertiary syphilis', Gur. *bars* 'furuncle', Har. *bursi*. For Ar. *baras*, see *baraṣa*, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) see *tabāraṣa*",
+        "meaning": "see *tabāraṣa*",
+        "origin_explanation": "*tabāraṣa* 'scintillate, flash, redden'",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "Ar. baris 'shining, glistening' (Noeldeke 1910:88, n.2 connects Ar. 'abras 'leper' with this root because of the shiny appearance of leprosy; so also Rundgren, Orientalia 32[1963].181). Amh. barăšä 'sparkle, shine brightly'.",
+        "meaning": "shining, glistening",
+        "origin_explanation": "Noeldeke 1910:88, n.2 connects Ar. 'abras 'leper' with this root because of the shiny appearance of leprosy; so also Rundgren, Orientalia 32[1963].181). Amh. barăšä 'sparkle, shine brightly'. ETHIOPIC: Tna. bäršäšä 'shine, flash' (from brš with a reduplicated last radical), Gur. (a)brata 'be smooth and shiny' (from a root brt?), brš?), and probably also Amh. boräboč, borboč 'multicolored smooth pebbles'. The root is related to balaša 1 (see above), and nabaršaw, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt), equivalent of a small sum",
+        "meaning": "a small sum",
+        "origin_explanation": "probably from Amh. bäräyyä 'flee', related to br IV.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'iron'",
+        "meaning": "iron",
+        "origin_explanation": "from Amh. brät 'iron'; also Tna.Har. brät, Gur. brät, bräd, Arg. bräd. Cerulli 1936:241 suggests a Cushitic origin for brät: Sa.Af. birtä, Kham. birät (but see bərt, below). The derivation from G. brr 'penetrate' (see brr II) suggested by Praetorius 1879:162 is doubtful. For Semitic, cp. Ar. burt 'axe' (Yemenite according to Blachère 497).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "copper, brass",
+        "meaning": "copper, brass",
+        "origin_explanation": "(bärtä libänos 'fine brass, yellow copper', lit. 'copper of Lebanon'); (za-bart 'brazen'); bartät 'articles of brass'. ETHIOPIC: Tna. barti, Amh. bart 'metal basin'; possibly borrowed from Cushitic: Sa.Af. birtä, Kham. birät (see also barat, above). Noeldeke 1910:158 asks whether Ar. bura(t) 'ring made of brass fixed through a camel's nostrils' could not be compared with G. bart. Lagarde 78 compares G. bart with Coptic barôt. Hintze 84, no.402 derives G. bart, Amh. brät from Egyptian bjr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M.K*) buräte 'kind or tree, olive tree'",
+        "meaning": "kind or tree, olive tree",
+        "origin_explanation": "from Gk. brathy (Lat. bratus); it renders Heb. borôt (considered an Aramaic loanword; see Wagner 38, no. 49), a secondary form of borôš; cp. also Akk. burašu, Syr.Aram. bərôtā, Md. bərātā. Gurage has also burat, but it is difficult to establish whether Geez burät and Gurage burat designate the same tree.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see burät.",
+        "meaning": "see burät.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'bolt and flee (mount)'",
+        "meaning": "bolt and flee (mount)",
+        "origin_explanation": "S. Euringer, ZS 6[1928].306) also Syr. baryal. In the Falasha text 'The Book of Angels', baryal has the same role as Barnā'ēl (also known as Bärhāna 'the light of El') and it is possible that Baryal is remodeled into Barnā'ēl (see Leslau 1951:144, n.29). See also belhor, above. On the literature baryāl, see Dobberahn 150-1.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "follow successively, do turns, alternate with one another, relay one another'",
+        "meaning": "follow successively, do turns, alternate with one another, relay one another",
+        "origin_explanation": "astabäräya 'replace, change alternately, cause to alternate with one another, do something in turn with others, take turns, relieve one'; tabäräyo (Gr.186) 'action of alternating, alternation, doing things alternately'; (ba-tabäräyo 'alternately, in turns'); əbəret ('əbret) 'alternation, successive turns, vicissitude, tour of duty or office, office, tenure, succession, course, change'; (ba'əbəret 'during the administration count of, for the sake of'); (babba'əbəret, with suffix pronouns, 'each in turn'). SEMITIC: Ar. bārā (bry) 'vie, compete with one another'. Note that the əbəret is to be considered a prothetic (so also Dillmann 507). Dillmann 1907:255 connects G. əbəret (also spelled əbret) with Heb. 'ābūr 'on account of'. Rundgren 1955:115, n.7 states: \"vielleicht liegt im Geez ineinandergehen der Wurzel bry and br (with which he compared Heb. ba-'ābūr 'on account of') vor\". ETHIOPIC: Tna. (tä)bäräyä 'do successively, help one another', Amh. əbərit 'turn, taking turns', täbäryo 'working in shifts' (from Geez); passed into Cushitic: Sa. baray 'alternation'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'slave, one who is in ice of a demon, epilepsy'",
+        "meaning": "slave, one who is in ice of a demon, epilepsy",
+        "origin_explanation": "ETHIOPIC: Tna.Amh.Gur. baryä 'slave', originally a name of a population. The word in the meaning of epilepsy occurs in magical texts (Strelcyn 1955:346). According to the popular belief, the baryä is a spirit that brings on epilepsy. The derivation from baryāl suggested by Grébaut, ROC 21 (1918-19).319 is unlikely. See also Worrell II 62, n. 2; III 134.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "the four-year cycle of the Ethiopian calendar'",
+        "meaning": "the four-year cycle of the Ethiopian calendar",
+        "origin_explanation": "from Gk. periodos 'period'; also Amh. bäräydus. See also baradyos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "name of Satan",
+        "meaning": "name of Satan",
+        "origin_explanation": "from Gk. beliar going back to Heb. baliyya'al (see",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "in alata baraymun (D 1403), bayramun (KG) 'eve of a festi val'",
+        "meaning": "eve of a festival",
+        "origin_explanation": "from Gk. paramonē through Chr.-Ar. barāmūn 'eve of a festival'",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "Chronicles, Paralipome na'",
+        "meaning": "Chronicles, Paralipomena",
+        "origin_explanation": "from doryämin, below; also Chr.-Ar. baryūmīn, baryūmīn, Syr. beryāmīn.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see bärət.",
+        "meaning": "see bärət.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbəraz) (K*) 'separate aside, evacuate the bowels'",
+        "meaning": "separate aside, evacuate the bowels",
+        "origin_explanation": "tabarza (K*), passive; tabäräza (K*M) 'evacuate the bowels, after evacuating the bowels'; tabäraz (T.M; perhaps rather tabäräz), raz (Lt) 'urine'; tabriz (K*) 'excrement, dregs, lees'; from Ar. (ta)bāraza 'evacuate the bowels' Amh. täbäraz 'urine'. See also tarbiz.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbəraz) (K*) 'dilute with water, mix two kinds of beverage together'",
+        "meaning": "dilute with water, mix two kinds of beverage together",
+        "origin_explanation": "tabaraza (K*), passive; tabäräza (K*) 'be mixed with one another'; baruz (K*) 'diluted'; barz (K*) 'honeyed water'. ETHIOPIC: Amh.Gur. barz 'honeyed water', Tna. Barzi, Har. birzi; also in Cushitic: Qab. barzi-ta, Qem. barz, Or. barzi. For barz, see Conti Rossini 1912:180. For G. mazar, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) 'emerald'",
+        "meaning": "emerald",
+        "origin_explanation": "the consonant ž indicates that it is a loanword; probably corruption of Ar. zabarğad 'topaz', Persian origin (Hava 283).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'flay alive'",
+        "meaning": "flay alive",
+        "origin_explanation": "ETHIOPIC: Tna. bäs'e 'pierce', Amh. bässa 'perfo rate, puncture'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'be wet, be drenched, decay'",
+        "meaning": "be wet, be drenched, decay",
+        "origin_explanation": "SEMITIC: Ar. (Magrib) m-basbäs 'drenched' (for which see D. Cohen 1976:72, under bšbš). ETHIOPIC: Tna. bäsbäsa 'become moist, become moldy', Tna. bäsbäsä 'be rotten', Amh. bäšäbäšä 'decay, be wet'; passed into Cushitic: Qem. bäsbäs 'be wet'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'open wide (the eyes), wink, twinkle, move, shake, wag (the tail), overthrow'",
+        "meaning": "open wide (the eyes), wink, twinkle, move, shake, wag (the tail), overthrow",
+        "origin_explanation": "anbasbäsa 'leap, jump, skip, move quickly, run rapidly, go here and there, glitter, sparkle (eyes), flash light up, gleam, move the eyelids, wink, twitch, blink, palpitate, be shaken'; nabasbäs, näbäsbaš 'a leap, quick motion (such as the movement of the eyes or of the wind), blinking, twitch, tremulous movement'. ETHIOPIC: Amh. (tä)bäšäbäšä 'throw down one another'. For 'light up, move the eyelids, wag (the tail)', the G. root is related to Ar. bassa, basbasa 'show, open the eyes, wag the tail' (Ludolf 237, Dillmann 509). Conti 1980:78 compares Ar. basbasa 'run out (liquid)'. See also fsfs.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'tear, rip'",
+        "meaning": "tear, rip",
+        "origin_explanation": "from Amh. bässäkä, same.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbəsal) 'be cooked, be ripe'",
+        "meaning": "be cooked, be ripe",
+        "origin_explanation": "absala 'cook'; tabasala 'be cooked'; bəsul 'cooked, ripe'; bəslo, (Lt) baslä 'cooked food'; bäslat (Lt) 'decoction, mixture'; abäsäli (K*) 'cook' (n); mabsal, mabassal, mabsali 'cook' (n); mabsal, mabsal 'cooking pot'; (beta mabsäl 'kitchen, oven'); mabsälät 'dish, cooked dish'; tabsəl, täbsəl, see below. SEMITIC: Ar. (ra)bšala 'boil dates and dry them', Ar. (Dat) basal 'cooked meat', SAr. m-bs,l 'cooking place', Soq. behel 'be cooked' (with h corresponding to s), Šh. bešal, Heb. bāšal 'boil' (intr), Syr. bəšal, Aram. bəšal, Md. bšl, Akk. bašālu. ETHIOPIC: Tna. bäsälä 'be cooked', Te. bäsäla, Amh.Gaf. bäsälä, Har. bäsälä, Gur. bäsälä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'red onion'; combined of bisal (for baṣal) 'onion' (see baṣal, above) and of tumā 'garlic' (from Ar. tūm).",
+        "origin_explanation": "combined of bisal (for baṣal) 'onion' (see baṣal, above) and of tumā 'garlic' (from Ar. tūm).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.428)",
+        "meaning": "'big'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'glistening white stone', lit. 'spittle of the moon'.",
+        "origin_explanation": "From Ar. busūq, in busūq al-qamar 'glistening white stone', lit. 'spittle of the moon'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.Y)",
+        "meaning": "'separate, detach, tear';",
+        "origin_explanation": "SEMITIC: Ar. baṣara 'cut', Soq. bḍr 'rend asunder', Heb. bāṣar 'harvest a vintage, cut off', Aram.Syr. baṣṣār 'tear off'. The meanings 'lessen, lack, diminish, subdue' of bṣr (Heb.Syr.Aram.Md) are to be derived from bṣr 'cut' (so also, with reservations, Baumgartner 142, as against Koehler 142). ETHIOPIC: Amh. abāṭṭārā 'separate the good from the bad'. The root is related to baṣṣala 'tear, lacerate' (with alternance of liquids); see above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see baḍawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'be a companion'; denominative of his 'companion'; see bṣy I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see baḍawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'measure of fluid';",
+        "origin_explanation": "From Heb. baṭ, or from Gk. batos going back to Hebrew; also in Te.Amh. bat. See also bāḍos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "see bṭy I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'hollow out, eat the inside, rend with the teeth, consume';",
+        "origin_explanation": "SEMITIC: a reduplicative root bṭṭ: Ar baṭṭa 'cut off', Heb. bāṭaṭ. ETHIOPIC: Tna. bāṭbāṭā 'gnaw, nibble', Amh. bāṭbāṭā. The root is related to bḍḍ (see baḍḍa), and bṭṭ (see baṭaṭa).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭak)",
+        "meaning": "'break, tear apart, burst, tear off, remove, displace, turn over (a big stone)';",
+        "origin_explanation": "abṭaka, causative; also 'cause to settle a quarrel'. taṭabaka, pass. of baṭaka; also 'break' (intr); baṭuk, pass. part. of baṭaka.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.188)",
+        "meaning": "'broken thing, a cut, a slash, gap, animal that has been torn apart', 'fracture, breaking'.",
+        "origin_explanation": "SEMITIC: Ar. baṭaka 'cut off'. ETHIOPIC: Te. bāṭka 'cut off', Tna. bāṭkā 'be torn', abṭākāṭkā 'tear to pieces', bāṭākā 'uproot, pull out', bōṭṭayhā 'cut of', passed into Cushitic: Qab. buṭukko 'cut', Bil. bāṭāk. The root is related to ftk, ftq, bdq, btq 'split, kill, slaughter': Ar. fataka, fataqa, Soq. bdq, Ar. badaka, Heb. biṭṭeq, Akk. baṭaqu; Amh. bāččāqā. See also badaqa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D 1403,T.K.M)",
+        "meaning": "'virgin';",
+        "origin_explanation": "From Ar. baṭūl 'virgin'. In other Semitic languages: Heb. bəṭūlā 'virgin', Aram.Syr. baṭūl-tā, Ug. bt-l, baṭūlū 'young man', baṭūl-tu 'adolescent nubile girl'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭan) (K*)",
+        "meaning": "'disperse, scatter';",
+        "origin_explanation": "SEMITIC: the root is related to Ar. baṭala 'separate, detach' (with alternance of liquids). ETHIOPIC: Tna. bāṭānā 'disperse, scatter', Amh. bāṭānā, Arg. bāṭānna, Har. bēṭāna; passed into Cushitic: Qua.Bil. bāṭān, Kham. biṭen, Qem. bāṭān.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭar) (K*)",
+        "meaning": "'cut, hit, straighten out';",
+        "origin_explanation": "SEMITIC: Ar. baṭara 'cut', Heb. bāṭar, Aram. biṭrā 'piece', Akk. buṭṭuru 'mutilate' (?). ETHIOPIC: Te. bāṭray 'deprived of everything', bāṭārā 'separate'. The root is related to matara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(pl. 'abṭōr, 'abṭār)",
+        "meaning": "'branch, shoot, rod, scepter, stave, tribe, race, offspring'; (baṭra nagad 'tribe, race, offspring');",
+        "origin_explanation": "ETHIOPIC: Te. bāṭor 'stick', Tna. bāṭri, Amh. bāṭṭār, Arg. baṭṭor, Gur. bāṭṭor; with metathesis in Har. bāṭri, Gaf. bārṭā, Gur. bārṭ. For 'rod, scepter' and 'tribe', cp. Heb. šēbeṭ, maṭṭe(h), and Ar. 'aṣā (for which see Landberg 1909:1755).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lṭ)",
+        "meaning": "'a certain quantity of money';",
+        "origin_explanation": "see baḍr III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.KB.T.M)",
+        "meaning": "'thin air';",
+        "origin_explanation": "ETHIOPIC: Amh. baṭerā 'invisible gas which is in the atmosphere' (probably from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "a misprint",
+        "origin_explanation": "see baṭrayārk, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.457)",
+        "meaning": "'Fathers of the Church';",
+        "origin_explanation": "from Gk. paterikon, acc.sg. of paterikos 'pertaining to the Fathers of the Church'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'forefathers';",
+        "origin_explanation": "from Gk. paterōn, gen. pl. of patēr 'father'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'patriarch';",
+        "origin_explanation": "from Gk. patriarkhēs 'patriarch'; also Amh. bāṭrāyrak, Tna. bāṭrayārk, baṭaryarak.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭat) (K*)",
+        "meaning": "'wear out, become old and worn-out';",
+        "origin_explanation": "ETHIOPIC: Amh. bāṭṭāṭā 'wear out', buṭuṭṭo 'worn-out clothes', Har. buṭuṭṭu, Gur. buṭoṭo, Tna. 'grow old' (refers to a person, but could probably also be applied to a thing); also in Cushitic buṭuṭṭu 'worn-out cloth', Al. buṭuṭṭo, Mo. (see Leslau 1979:164, under buṭaṭo). See also ta.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.190)",
+        "meaning": "'persevere, persist, last, stay';",
+        "origin_explanation": "from beta 'spend the night, stay', with reduplication of the last radical. For the root bṭṭ augment t, cp. also Aram. baṭaṭ 'stay, dwell'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'mix up by stirring vigorously (e.g. honey in water)';",
+        "origin_explanation": "in view of Tna. bāṣbāṣā, with ṣ (but also bāṭbāṭā). G. baṭbaṭa is undoubtedly an Amharism from bāṭbāṭā. The original root is bṣbṣ; see baṣbaṣa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭaḥ)",
+        "meaning": "'make an incision, make gashes, scarify, scratch open, cut with a scalpel';",
+        "origin_explanation": "ETHIOPIC: Tna. bāṭḥā 'make an incision', Amh. bāṭṭa (from bṭḥ), b'aṭṭāṭā 'scratch, tear', Te. bālṭaḥa (augmented by l); passed into Cushitic: Bil. bālṭeḥ (from Tigre). Be. beḍḥa 'cupping'. See also baṭḥa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*.T.M)",
+        "meaning": "'melon, squash';",
+        "origin_explanation": "from Ar. baṭṭīḥ, of Syriac origin (Fraenkel 140), also in Amh. bāṭṭiḥ. Ar. baṭṭiḥ passed into Som. barṭīḥ. The root also occurs in Heb. 'abaṭṭīḥ, Aram. 'abaṭṭīḥā. See also bāṭiq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'be deaf, be dumb';",
+        "origin_explanation": "perhaps for baṭha 'cut, make an incision' (see above), the cutting suggesting a defect in the ear.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yabṭal)",
+        "meaning": "'be useless, be idle, be futile, be void, fail, be without aim and reason, be of no effect, be annulled, be reduced to nothing, be invalid, be abolished, be in vain, come to nothing';",
+        "origin_explanation": "SEMITIC: Ar. baṭala 'be vain, be useless, be invalid', SAR. bṭl-t 'uselessness', S.h. bṭol 'be reduced to nothing', Heb. bāṭal 'cease working', Syr. baṭel, Md. biṭil, Akk. baṭālu 'stop, cease, come to an end'. ETHIOPIC: Te. bāṭala 'be useless, be vain', bāṭāllā 'stop' (tr), Amh. bāṭṭālā 'be spoiled, be ruined, be abolished', Har. abāṭālā 'abolish'. Gur. baṭil 'unjust', and Har. bāṭil are taken from Arabic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'cut';",
+        "origin_explanation": "ETHIOPIC: Amh. bāṭṭālā 'be torn, be uprooted'. Note the rare form with o after the 1st radical.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'Melchite'",
+        "meaning": "corrupt form of basīlāwī (see below) through confusion with bīsōlīs 'Basil'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'Melchite'",
+        "meaning": "related to Gk. basileus 'king'. The Melchites are so named because they adopted the dogmatic defini-tion of the court. On the Melchites, see Asfalg-Krüger 261. See also bisəlisat, above.",
+        "origin_explanation": "related to Gk. basileus 'king'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.K) bisom 'balsam tree', (T) = Amh. bamba 'bao-bab, (KG) fig tree'",
+        "meaning": "",
+        "origin_explanation": "from Heb. bōśem, beśem; note Te. bäsäm, from Ar. bašām. In the other Semitic languages: Aram. buśmā, Syr. hesmā, Ph. bśm. See also balasān, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see basnā.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'cotton stuff, fine linen'",
+        "meaning": "",
+        "origin_explanation": "see bisos, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'belching'",
+        "meaning": "",
+        "origin_explanation": "ETHIOPIC: Tna. bäsnäwā 'bring out bad breath', Te. bäsna wäda 'belch', Amh. bäsänna 'have bad breath due to indigestion'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see basən(ə)s.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) basənsos 'the ninth month of the Cop-tic calendar (corresponds to G. gənboť)'",
+        "meaning": "",
+        "origin_explanation": "from Coptic pašons through Chr.-Ar. bašans.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T) 'green, azure'",
+        "meaning": "",
+        "origin_explanation": "see bisos, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see basən(ə)s.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbśər), baśśara (K*)",
+        "meaning": "see 'absara",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'announce good tidings'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'be announced (good news)'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "caus. of 'absara",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.456) 'good news'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'good news, gospel'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'one who brings good news, evange-list'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'one who announces good news'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "same",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*), part. of 'astabsara",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "",
+        "origin_explanation": "SEMETIC: Ar. baśśara 'announce good news', Sar. t-Soq. ibšir, Heb. biśśer, Aram. baśśar, baśśar (with metathesis), Ug. bśr 'good tidings', Akk. buššuru 'bring good news'. ETHIOPIC: Tna. 'abśārā 'announce good news', bäśśāra (from Arabic), Amh. abäśśärä 'announce good news', yämäśrač, exclamation on hearing good news (for the alternation b:m, see Cohen 1931:387-9); passed into Cushitic: Sa. basar 'announce good news', Be. basāra 'good news'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K) bäsər 'flesh'",
+        "meaning": "",
+        "origin_explanation": "from Heb. bāśār 'flesh' (so Dillmann 509 Praetorius 1879:14), while Har.Gur. bäsər, Gaf. bäsärä are cognates with the Semitic 'flesh': Ar. basar-at 'human skin, human flesh', SaR. bsr, Heb. bāśār 'flesh', Aram. bisrā, bisrā, Syr. besrā 'flesh, body', Ug. bśr 'flesh'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(KG) 'colored cloth'",
+        "meaning": "perhaps corruption of bisos, below.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'spy, investigate, hunt'",
+        "meaning": "",
+        "origin_explanation": "from Ar. (Egypt) baṣṣa; also Amh. bäsäsä. The meaning 'hunt' would come from the meaning 'look and there'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) busus, basus, basīs 'cotton stuff, green linen, fine linen'",
+        "meaning": "",
+        "origin_explanation": "from Gk. byssos 'byssus'; also Tna. biso 'green (leather, velvet)'. On the origin of Gk. byssos in connection with Heb. būṣ, Akk. būṣu, Aram.-Syr. būṣ, see Buhl 89, D. Cohen 1976:52, and Masson 22. For Ar. bisa(t), see Vollers 1897:295. For the Egyptian origin of Heb. būṣ, see T. Lam-din, JAOS 73 (1953).147-8. On the Sanskrit origin of this root, see Rabin 1968:436. See also bisən, bisənso.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'carpet, rug'",
+        "meaning": "",
+        "origin_explanation": "from Ar. bisāt; also Amh. bast, Har. bisāt.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.426) 'cross'",
+        "meaning": "",
+        "origin_explanation": "from Gk. stauros 'cross' through Coptic pestawros, pe being the article, through Arabic where a foreign b becomes b.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see bys I, III.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "see bys I.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(L.K) bad-a ñdo 'value, define, determine, esteem, evaluate, be fortunate, be blessed, be honored'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'declare or make blessed, proclaim bless-ed, become happy, become blessed, honor'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'be valued, be honored, be pro-claimed blessed'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'consider oneself blessed, blessed, make blessed, honor, call one to felicitate, give thanks, proclaim beatitude, esteem, admire'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(fem. basə't) 'fortunate, blessed, happy'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'honor, blessedness, beatitude'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "basu'āt 'state of grace, blessedness'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'beatific, pertaining to the blessed'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'beatification, beatitude, blessed state, happiness'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'beatitude'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "ETHIOPIC: Tna. bäs'e 'be blessed', Te. bäs'a (with >), Amh. bäs'w 'blessed, His Holiness' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) 'mix up by stirring vigorously, (Lt) confuse'",
+        "meaning": "",
+        "origin_explanation": "on the basis of Tna. bäśbäśä 'mix up by stirring putrid'. G. baśbāśa has perhaps also the meaning 'be putrid' and is to be compared with Ar. bassa 'ooze', Heb. bissā 'oozy place'. ETHIOPIC: Tna. bäśbäśä, see above, Amh. bäśbāṭä 'mix up by stirring, become turbid', Arg. bäṭbäṭä 'mix up by stirring, become turbid', Amh. bäṭbäṭä 'stir, dilute'. See also baṭbaṭa, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəbśāh) (T) baśha 'arrive, happen, befall, come to pass, occur, fall to one's lot, appear (in court), reach, amount to, result in, pervade, extend, be accomplished, (K) reach a mature age'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'attain')",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'be near death')",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'bring (charges against), (charges)'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "causative; also 'bring, bring forward, deliver, lead, make ready, convey, demon-strate, explain, prove'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'come upon, be connected with, be associated with, bring before a judge, summon one another'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'cause to come'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "caus. of tabaśśəha; also 'summon'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) act. part. of baśha",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'one who arrives, one who is ready, matured'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'one who has reached the age of maturity, mature')",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'share'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'arrival, completion, bringing proof, re-sult (in arithmetic)'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "part. of 'abśəha",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) mabśəh 'place of arrival, destina-tion, result (in arithmetic)'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*) 'place of arrival, place of meet-ing'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Gr.457) 'opportunity, that which oc-curs, that which happens'",
+        "meaning": "",
+        "origin_explanation": "SEMETIC: Sar. wśh 'reach, come to' (Conti Rossini 1931:139; W. Müller 1983:285). ETHIOPIC: Te. bäśha 'arrive', Tna. bäśhe; Te. bäśih 'youth', that is, 'a person who has reached (bäśha) the age of maturity', Tna. bäśhi; passed into Cushitic: Bil. bäṭeḥ 'youth' (from Te. bäśih), Be. bedah 'come'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M) boṣal (not bosal as in Guidi 1906:920) 'onion, (T) garlic'",
+        "meaning": "",
+        "origin_explanation": "from Ar. baṣal; also Te. bäsäl. Dillmann 545 seems to connect it with bassala 'tear', below. In other Semitic languages: Sar. bṣl 'onion', Soq. biṣle, Heb. bāṣāl, Syr. beṣlā, Aram. buṣlā, Ph. bṣl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'tear, lacerate, cut, separate, strip, peel, dissolve'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabassala, passive",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'piece, (K) torn part, stripped part, rag'",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'torn part'",
+        "meaning": "",
+        "origin_explanation": "SEMETIC: Ar. bassaļa 'strip of clothes or posses-sions', Sar. bṣl 'torn' (see M. Höfner, in Baum-gartner 1967:108), Aram. baṣṣal 'split, peel'. ETHIOPIC: Tna. bäsṣäl 'stub, cut piece', Amh. bäṭ-ṭälä 'be torn, be uprooted'. The root is related to fṣl: Ar. faṣala 'split', Heb. pīṣṣel 'bark, peel', Aram. paṣṣel, Syr. paṣal, Md. pṣl; Te. fänṣäla 'separate', Tna. fänṣälä (with augmented n). See also basara, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭalsāt, baṭlasāt, baṭlasāt",
+        "meaning": "'flatten' related to Ar. (ta)baṭa 'lie on the stomach', and (yin)baṭaḥa 'lie prone'. Heb. bāṭaḥ 'lie flat on one's belly'. See on Root Driver 1957:59, Kopf 7ff., Barr 90ff. and in Baumgartner 1967:225ff.",
+        "origin_explanation": "SEMITIC: Ar. baṭaṭa 'flatten', related to Ar. (ta)baṭa 'lie on the stomach', and (yin)baṭaḥa 'lie prone'. Heb. bāṭaḥ 'lie flat on one's belly'. See on Root Driver 1957:59, Kopf 7ff., Barr 90ff. and in Baumgartner 1967:225ff. ETHIOPIC: Tna. baṭṭā bālā 'lie down, be stretched out', Te. baṭṭa bela, Amh. bāṭṭāṭā 'stretch out' in Cushitic: Bil. baṭ y 'lie down, stretch out'. Sa. baṭaḥ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭm, buṭm",
+        "meaning": "'terebinth tree';",
+        "origin_explanation": "From Ar. buṭm (from Aramaic; see Fraenkel 139), Low 68-70. Akk. buṭnu. For m:n in the various languages, see Růžička 128.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭīq",
+        "meaning": "'cucumber';",
+        "origin_explanation": "see baṭṭiḥ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭara (yǝbṭar)",
+        "meaning": "'winnow, comb';",
+        "origin_explanation": "probably from Amh. abāṭṭārā 'winnow'; also in Arg. abeṭṭārā, Gaf.Gur. abiṭṭārā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭrīq, baṭrāq",
+        "meaning": "'patrician, patriarch';",
+        "origin_explanation": "From Gk. patrikios, fem. patrikia 'patrician' (of Latin [patricius] origin) through Ar. baṭrīq, baṭrīqa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭrasīn",
+        "meaning": "'stole';",
+        "origin_explanation": "From Ar. baṭrasīn, baṭraṣīl < Gk. epitrakhēlion 'stole' (Vollers 1897:295).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭriṭā",
+        "meaning": "'nobleman';",
+        "origin_explanation": "From Lat. patricius through Gk. patrikios; note, however the enigmatic ending -ṭā of G. baṭriṭā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭasa (yǝbṭas)",
+        "meaning": "'break, detach, cut off';",
+        "origin_explanation": "SEMITIC: Ar. baṭaša 'hit, strike, behave in a brutal way', Aram. baṭaš 'stamp'. Syr. buṭšāṭā 'striking with the heels', Md. bṭš 'tread down, trample, treat violently'. ETHIOPIC: Amh. bāṭṭāšā 'break off by pulling', Gaf. biṭṭāšā. Arg. beṭṭāšā, Gur. bāṭāšā, Har. bāṭāša.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭos",
+        "meaning": "'bramble bush';",
+        "origin_explanation": "From Gk. batos 'bramble bush'; also Amh. baṭos, Ar. bāṭūs. See also ṭaṭos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭaṭa I (yǝbṭaṭ)",
+        "meaning": "'lie on the stom-ach';",
+        "origin_explanation": "SEMITIC: Ar. baṭaṭa 'flatten' related to Ar. (ta)baṭa 'lie on the stomach', and (yin)baṭaḥa 'lie prone'. Heb. bāṭaḥ 'lie flat on one's belly'. See on Root Driver 1957:59, Kopf 7ff., Barr 90ff. and in Baumgartner 1967:225ff. ETHIOPIC: Tna. baṭṭā bālā 'lie down, be stretched out', Te. baṭṭa bela, Amh. bāṭṭāṭā 'stretch out' in Cushitic: Bil. baṭ y 'lie down, stretch out'. Sa. baṭaḥ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭaṭa II (yǝbṭaṭ)",
+        "meaning": "'jump up (animal), hop';",
+        "origin_explanation": "ETHIOPIC: Te. beṭṭa bela (in Reinisch 1902:71) Amh. bāṭṭāṭā, baṭṭ alā; also in Cushitic: Som. bōd 'a jump'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baṭaṭa III (yǝbṭaṭ)",
+        "meaning": "'defecate (ani-mal)';",
+        "origin_explanation": "SEMITIC: Ar. (Syria) baṭbaṭ 'defecate'. ETHIOPIC: Te. bāṭṭāṭ bela, Amh. bāṭṭāṭā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bw, boɔa (impf. yǝbawwǝ), subj. yǝbā",
+        "meaning": "'enter, penetrate, proceed, frequent, be involved, intermingle, have intercourse';",
+        "origin_explanation": "SEMITIC: Ar. bāɔa 'return' (also 'come' according to Noeldekke, ZDMG 40[1886].726), SAR. bh 'enter'. Heb. bā 'come', Ug. bɔa, Ph. bɔ, Akk. bā 'come alongside, come in'. ETHIOPIC: Tna. boɔe 'enter', Te. boɔa, Har. probably also Gur. bɔɔā 'go down to a lower place'. For G. mabāɔ, cp. Amh. māba (from For G. baɔat, cp. Amh. bāɔat 'entering, entrance', baɔata 'presentation of the Virgin in the temple', lit. 'her entering' (from Geez), Tna. baɔata. For baɔatt 'cave', cp. Te. bāɔat, bāɔat, bāɔatti, baḥɔata. For the denominative baɔata, see above. The root passed into Cushitic: Be. biɔ 'return home'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bwh I, boha (yǝbāh)",
+        "meaning": "'be seen, be revealed, be clear';",
+        "origin_explanation": "SEMITIC: Ar. bāḥa (bwh) 'be revealed, become public'. ETHIOPIC: Amh. bāḥa (KBT) 'be visible, be seen' (from Geez), buh (DTW) 'that which is seen'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bwh II, boha (yǝbāh)",
+        "meaning": "'receive authority, receive permission';",
+        "origin_explanation": "SEMITIC: Ar. (ɔa)bāḥa (bwh) 'permit'. See also bḥt II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bəwāni",
+        "meaning": "see baɔunāḥ.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bwq, boqa (yǝbuq)",
+        "meaning": "'blow the trumpet' (denominative from buq);",
+        "origin_explanation": "from Ar. buq 'trumpet', considered to be of Latin (buccina) origin; also late Gk. būkīnē.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bwz, boza (yǝboz)",
+        "meaning": "'be dull, be stupid, become bleary (eyes)';",
+        "origin_explanation": "ETHIOPIC: Amh. bozā 'be dull, be stupid', Gur. buz 'ignorant, stupid', Har. bāzāy 'idle'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "byd, abyād",
+        "meaning": "'white';",
+        "origin_explanation": "from Ar. abyad. See also badā, and bys III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "beyādār",
+        "meaning": "the seventh month of the year;",
+        "origin_explanation": "from Ar. bayādir, pl. of baydar 'threshing floor', zamānu-l-baydar 'threshing season'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bay(y)ama (yǝbaym)",
+        "meaning": "'become a monk'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bayyana",
+        "meaning": "'discern, distinguish, remark, pay attention, notice, recognize, consider, demonstrate, decide, (Y.T) judge, pass judgment, expound';",
+        "origin_explanation": "The basic meaning is that of 'separate, distinguish > discern, know'. SEMITIC: Ar. bāna 'be separated, be clear, be evident', Sar. byn 'separate, know' (Müller 1963:307), Heb. (byn), he-bīn 'understand', Syr. bayyen 'show, discern', Md. ban 'separate', Ug. byn 'know'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "Te. (ta)bäyyäna",
+        "meaning": "'become evident, become clear', Tna. bäyyänä 'discern, decide', Amh. bäyyänä 'distinguish, give a verdict'; passed into Cushitic: Qem. bäyän 'decide'.",
+        "origin_explanation": "Te. (ta)bäyyäna 'become evident, become clear', Tna. bäyyänä 'discern, decide', Amh. bäyyänä 'distinguish, give a verdict'; passed into Cushitic: Qem. bäyän 'decide'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bayna",
+        "meaning": "'between'; əmbayna, əmbayna, see above; babayna 'for, because of, for the sake of, on account of'; babayna zä 'because of this, therefore, about this'; babayna mənt 'why?'; babayna-, babaynäti- (with suffix pronouns) 'between, among, to one another'; babaynom 'between them, together'.",
+        "origin_explanation": "from the basic meaning of bayyana 'separate' (see above). For more details, see Dillmann 1907:374, 389-90, 403. SEMITIC: Ar. bayn 'interval', bayna 'between', Sar. byn 'between', Heb. ben, Aram. ben, be, Syr. bayna(y), Md. binat-, binia, Ph.Ug. bn. ETHIOPIC: Te. bäyn 'separate' (adj), əb bäyn 'between', bän- (with suffix pronouns) 'alone, by oneself', Tna. bäyn- (with suffix pronouns) 'alone, apart'. For Te. bäyn, see Rundgren, OS 16 (1961). 134-6.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "baynät-",
+        "meaning": "see bayna.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "byq, beqa",
+        "meaning": "(MA) 'give a name'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bayramun",
+        "meaning": "see baryamun.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bys I, besa (yəbis)",
+        "meaning": "(K*T.M) 'separate, cut in equal parts, choose'; bayyasa 'separate, distinguish, discern, mark out'; tabayasa (K*), passive of besa; bayyasi, act. part. of bayyasa; bayyus (K*) 'separated'; bis (pl. abyas) 'single, individual, a certain piece, some, friend, fellow, companion, comrade, equal, neighbor, intimate'; (bis labisu 'one to another'); bisa (Gr.428) 'near, at the side of, beside'.",
+        "origin_explanation": "SEMITIC: Dillmann 539, and Praetorius 1890:30 compare the Geez root with bs', bd' 'cut'. For bys, bsw 'cut, separate', see D. Cohen 1976:76, under bs/d. The Geez root is perhaps related to bsy >",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bys II, tabäyäsa",
+        "meaning": "become companions (to one another), become friends, become equal'; astabäyäsa, causative; tabäyäsi (one would expect tabäyäsi) yäsi (M) 'companion'; mastabäyäs 'companion, participant'; denominative of bis (see bys I). For the denominative, cp. also Amh. täbäyyätä 'become friends'. For another form of the G. denominative, see above.",
+        "origin_explanation": "denominative of bis (see bys I). For the denominative, cp. also Amh. täbäyyätä 'become friends'. For another form of the G. denominative, see above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bys III, besa (K*)",
+        "meaning": "become white, besä, bäsä (K*) 'yellow';",
+        "origin_explanation": "SEMITIC: Ar. bäda (byd) 'grow yellow', bayyada 'make white'. Dietrich 294 compares Akk. 'white'. ETHIOPIC: Te. bäyyäsa 'be bright, be brilliant', Amh. bačča 'yellow'; also in Cushitic: Kham. bečča 'be yellow'. For the relation between 'white' and 'yellow', cp. Amh. näṭṭa 'become white, pale, turn (cereal)'. The root bys 'become white' is the origin of the noun 'egg' in the various Semitic languages: Ar. bayda, Heb. beṣa. F. Rosenthal (private communication) prefers to derive Ar. bäda 'be white' from bayda 'egg'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "byt I, beta (yəbit)",
+        "meaning": "spend the night, remain overnight, remain, stay in a house, dwell' (probably denominative);",
+        "origin_explanation": "SEMITIC: Ar. bayt 'house', Sar. byt, Soq. beyt, Heb. bayit, Aram.Syr. bayta, Ug.Ph. bt, Akk. bitu. For 'spend the night', cp. Ar. bāta, Sar. byt, Aram.Syr. bāt, Md. but, Ug. bt, Akk. bātu. ETHIOPIC: Te.Tna.Amh. bet 'house'; Te. beta 'spend the night'. See also betata.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "byt II, abeta",
+        "meaning": "(T) 'cause to kneel'",
+        "origin_explanation": "it is perhaps connected with byt I and the causing to kneel would then refer to the cattle that spend the night in their respective places while resting or kneeling.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazza",
+        "meaning": "see bzz.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bezä I (K*)",
+        "meaning": "'shine' (denominative); bez (Li) 'shining star, morning star';",
+        "origin_explanation": "From Cushitic: Al. bez-ečču 'morning star', Bil. (with alternance d:z). Qem. bez 'make clear'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bezä II",
+        "meaning": "'ransom, redemption, propitiation, substitute, (Lt) expiation; in exchange for, for the sake of'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "boz (K*)",
+        "meaning": "'harp string';",
+        "origin_explanation": "ETHIOPIC: Amh. boz 'harp string'; is there any connection with Te. boza 'a certain tune of the flute played at games'?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "boza",
+        "meaning": "see bwz.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazbaza I (T.K.M)",
+        "meaning": "'pillage';",
+        "origin_explanation": "SEMITIC: Ar. bazza, bazbaza 'wrest, snatch', Heb. bazaz 'take spoils', Aram. bazaz, bazbez 'pillage', Syr. Md. baz. ETHIOPIC: Tna. bäzbäzä 'pillage', Te. bäzbäza, bäzäbbäzä, Gur. bäzäbbäzä; passed into Cushitic: Qem. bäzäbäzä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazbaza II (K*)",
+        "meaning": "'spread, waste';",
+        "origin_explanation": "SEMITIC: PbH. bizbez 'waste', Aram. bazbez. The bazbaza is perhaps a transcription of the Hebrew verb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazbaza III (K*)",
+        "meaning": "'calumniate, offend, despise';",
+        "origin_explanation": "SEMITIC: Ar. bazā (bzw) 'subdue, consider oneself superior to another', Heb. bāzā (bzy), bāz 'despise', Aram. bazā, basā, Akk. buzzuwu 'treat unjustly'. See also bzz (bazza).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazganä, bäzganä, bazgänä, bäzgänä",
+        "meaning": "'necklace, collar, (T) fringe, ruffle, ornament'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazha (yəbəzh)",
+        "meaning": "(T) 'be numerous, be abundant, be much, be many, increase' (intr); 'abəzəha 'multiply, make numerous, increase' (tr), 'augment, produce a lot of, have a lot of'; tabəzəha 'increase, multiply' (intr); tabäzəha 'be multiplied, multiply together'; 'astabäzəha, caus. of. of tabäzəha; bəzuh 'many, much, numerous, abundant'; (bəzuha, babəzuh 'much, in large numbers'); bəzəh 'multitude, large number, large amount'; bəzhat 'multitude'; 'abəzəhi, 'abəzəhi, part. of 'abəzəha; mabzəhi, same; mabzəht, mabzəht 'major part, majority of, most of the most, large part, the greatest part, multitude'; (mabzəhta, mabzəhto 'often, frequently, most of it').",
+        "origin_explanation": "SEMITIC: Ar. bazh 'abundance of wealth'. The connection with Ar. bādih 'high, proud' suggested by Noeldeke, ZDMG 66 (1912).788 is unlikely. ETHIOPIC: Tna. bäzhe 'be abundant, be numerous', Te.Har. bäzäha, Arg. bäzzaha, Amh.Gur. bäzza; passed into Cushitic: Bil. bäggag 'be numerous', Kham. biqeq, Qua. bägağ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäziqä I",
+        "meaning": "'quicksilver, mercury';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäziqä II (M)",
+        "meaning": "'harmonium';",
+        "origin_explanation": "perhaps from Gk. mousikē (Lat. musica); also Tna. bäzeqa 'music, harmonium', Amh. maziqa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäzeqä I (K*)",
+        "meaning": "'quicksilver, mercury';",
+        "origin_explanation": "from Ar. zibāq, zābiq, of Persian (ziva) origin.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäzeqä II (D 1403,OT 579), bäziqä II",
+        "meaning": "(K) 'lightning';",
+        "origin_explanation": "it renders Heb. bäzāq, translated 'lightning'. For Heb. bäzāq, cp. Jud.-Aram. bəzaq (J. Blau, VT 1956].97).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bäziqä III (T.M)",
+        "meaning": "'belt, girdle of fiber worn by monks'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bezeqā (T.M), bezaq (D 1403)",
+        "meaning": "'pearl, precious stone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bāzrā (K*)",
+        "meaning": "'mare'",
+        "origin_explanation": "from Amh. bazra; also Te.Tna.Gur.Arg. bazra; also in Cushitic: Sid. bāzra, Bil. badra (pl. bazir), Af. badira.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazr (K*)",
+        "meaning": "'seed, grain'",
+        "origin_explanation": "from Ar. badr, bazr. For the root in Semitic, cp. Sh. bedər 'seed', Heb. bāzar 'scatter', Aram. bizrā 'seed', Syr. baḏar 'strew, disperse'; related to pzr: Heb. pizzer 'scatter'. See also Wagner 33, under bzr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bazzata",
+        "meaning": "'fluff up cotton for carding'",
+        "origin_explanation": "ETHIOPIC: Tna.Amh. bāzzātā, bozzātā 'gin cotton', Te. bāzzātā, Amh. bazzət 'wool'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bezawa",
+        "meaning": "'redeem, ransom, (Y) save, rescue'",
+        "origin_explanation": "SEMITIC: Ar. bāza (byz) 'be saved, live'. ETHIOPIC: Tna. beza, bāğa 'ransom' (n), Te. beza 'redeem', Amh. bāzā, bezzā 'ransom, rescue, save', beza 'ransom' (n). The connection between bezawa and bazbaza 'pillage' suggested by Praetorius 1890:33 is doubtful. Since many verbs ending in -wa are denominatives, it is possible that bezawa is a denominative from bezā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bəzyāhu (T.M)",
+        "meaning": "= Amh. sābāz 'kind of plant from which one makes baskets'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "bzz, bazza (K*)",
+        "meaning": "'threaten, boast, put on airs'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    }
+]

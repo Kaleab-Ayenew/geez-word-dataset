@@ -1,0 +1,803 @@
+[
+    {
+        "phonetics": "däʿa",
+        "meaning": "see ṣyʿ, ṣeʿa.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፄአ",
+        "amharic_translation": "ይመልከቱ ṣyʿ, ṣeʿa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däʾdaʾ, (T) gäʾdäʾ",
+        "meaning": "abortion, aborted foetus, stunted, shoots, cost, expenses, troublesome matter, problem; dāʾdǝʾa (MA,M), sāʾdǝʾa (T) 'abort, miscarry, bear expenses, remain uncompleted, be little' (denominative); tadäʾdǝʾa, tasäʾdǝʾa, (T) tadäʾadäʾa 'remain uncompleted, be little, (T) be impure'; ʾadäʾdǝʾa, ʾasäʾdǝʾa 'hire' (lit. 'cause to bear expenses');",
+        "origin_explanation": "däʾdäʾ with the meanings stated above comes from the root wḍʾ 'go out' (see below). This root explains the meanings 'aborted foetus, expenses'; cp. Heb. ṣeʾĕṣāʾīm 'offspring, descendants', likewise from the root yṣʾ 'go out'. Ar. duʾduʾ, diʾdiʾ 'many descendants' even though there is no Arabic root wdʾ meaning 'go out'. Praetorius 1879:94 connects G. däʾdäʾ with Amh. č̣uč̣ut 'young of chicken'; however, č̣uč̣ut probably derives from an onomatopoetic expression č̣č̣. For the connection between däʾdäʾ 'problem' and tadäʾdäʾa 'remain uncompleted, be incomplete', cp. Amh. gudday 'problem, matter', from gʷäddälä 'be wanting', that is, 'something that is wanting, that is to be done, matter, affair'. The meaning 'be little, become little' could be derived from 'bear the expenses > spend > become little'. For the meaning 'troublesome matter', cp. Amh. fäṭa.",
+        "ethiopic_script": "ፃእፃእ፣ ፃዕፃዕ፣ ጻእጻእ",
+        "amharic_translation": "ውርጃ፣ የተጨናገፈ ፅንስ፣ የደረቀ፣ ቡቃያ፣ ወጪ፣ ችግር ያለበት ጉዳይ፣ ችግር፤ dāʾdǝʾa (MA,M), sāʾdǝʾa (T) 'ማቋረጥ፣ ማስወረድ፣ ወጪ መሸከም፣ ሳይጠናቀቅ መቅረት፣ ትንሽ መሆን' (ስም); tadäʾdǝʾa, tasäʾdǝʾa, (T) tadäʾadäʾa 'ሳይጠናቀቅ መቅረት፣ ትንሽ መሆን፣ (T) ንፁህ አለመሆን'; ʾadäʾdǝʾa, ʾasäʾdǝʾa 'መቅጠር' (በትርጉሙ 'ወጪ እንዲሸከም ማድረግ');",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "daʾat",
+        "meaning": "see wadʿa.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀአት",
+        "amharic_translation": "ይመልከቱ wadʿa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dīyot, sīyot",
+        "meaning": "low grounds, valley, meadow, pasture",
+        "origin_explanation": "SEMITIC: Ar. dayʿa 'village, countryside, field', for which a Geez origin was suggested by Noeldeke 1910:59.",
+        "ethiopic_script": "ፂኦት፣ ጺኦት፣ ጺአት",
+        "amharic_translation": "ዝቅተኛ ቦታዎች፣ ሸለቆ፣ ሜዳ፣ የግጦሽ መሬት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "daʾaṣa, (T) ṣaʾda",
+        "meaning": "thunder, lighten",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀዕዐ፣ ፀዕዐ፣ ጸዕዐ፣ ጻዕዐ",
+        "amharic_translation": "ነጎድጓድ፣ መብረቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "daʾaṣ (pl. daʿaṣāt)",
+        "meaning": "thunderstorm, crash of thunder, thunderbolt, thundering, lightning, (KG) glittering, sparkling",
+        "origin_explanation": "ETHIOPIC: Gur. tat, tʾat 'thunder, lightning', Amh. ta alä 'make noise, crack', tat alä 'crackle'. Tna. taʿtaʿ bälä 'crackle', Te. čäčäʿ 'crash'; also in Cushitic: Bed. tēw 'crash of thunder', and in Moča fēyo 'crackle'.",
+        "ethiopic_script": "ፀዕዐ፣ ፀዕዐ፣ ጸዕዐ፣ ጻዕዐ",
+        "amharic_translation": "ነጎድጓድ፣ የነጎድጓድ ድምፅ፣ መብረቅ፣ ነጎድጓድ፣ መብረቅ፣ (KG) የሚያብረቀርቅ፣ የሚያንፀባርቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däʿla",
+        "meaning": "Amh. dänäqqʷärä 'be deaf, be stupid'.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀዕለ",
+        "amharic_translation": "አምሃ. ደነቀረ 'መስማት የተሳነው፣ ደደብ መሆን'።",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dabʿ (pl. ʾadbāʿāt)",
+        "meaning": "hyena",
+        "origin_explanation": "SEMITIC: Ar. ḍabuʿ, ḍabʿ 'hyena', Soq. ḍabwəh, Heb. ṣābūʿ, PHH. ṣābōʿ 'hyena, leopard', Aram.-Syr. ʾaḇʿā 'hyena' (Brockelmann 1908:136). Von Soden 143 (followed by Fronzaroli 1969, V, 23) also compares Akk. būṣu 'hyena'. For the origin of Heb. ṣābūʿ, see Buhl 672. See also ṣ-b.",
+        "ethiopic_script": "ፅብዕ",
+        "amharic_translation": "ጅብ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dabdana",
+        "meaning": "put on a dress",
+        "origin_explanation": "see tabdan, tabnada.",
+        "ethiopic_script": "ፀብደነ",
+        "amharic_translation": "ልብስ መልበስ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däbn (pl. daban, ʾadbān)",
+        "meaning": "handle, ring attached to a box or to another utensil",
+        "origin_explanation": null,
+        "ethiopic_script": "ፅብን፣ ጽብን",
+        "amharic_translation": "እጀታ፣ ከሳጥን ወይም ከሌላ ዕቃ ጋር የተያያዘ ቀለበት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dabart",
+        "meaning": "the koso-plant",
+        "origin_explanation": "if there is a lack of precision, dabart may then be connected with ṣäbart 'palm' (for which see below).",
+        "ethiopic_script": "ፀበርት",
+        "amharic_translation": "የኮሶ ተክል",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dabsa (yədbas)",
+        "meaning": "be slack, become withered, be limp, become weak, become infirm, be powerless, become paralytic, be intimidated",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀብሰ፣ ጸብሰ",
+        "amharic_translation": "መላላት፣ መድረቅ፣ መዝለፍለፍ፣ መዳከም፣ መታመም፣ ኃይል ማጣት፣ ሽባ መሆን፣ መፍራት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däbṭa",
+        "meaning": "weaking, sickly, cowardly, one with withered members, lame",
+        "origin_explanation": "B 90 Zəhab kəfəl was wrongly copied for zəhab kəfəl.",
+        "ethiopic_script": "ፀበጠ፣ ጸበጠ",
+        "amharic_translation": "የደከመ፣ የታመመ፣ ፈሪ፣ የደረቁ እግሮች ያሉት፣ አንካሳ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəbṭa",
+        "meaning": "infirmity, thickness, limpness, lassitude",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀበጠ፣ ጸበጠ",
+        "amharic_translation": "ድካም፣ ውፍረት፣ መዝለፍለፍ፣ ድካም",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəbəṭ",
+        "meaning": "verbal noun of däbṭa; also 'infirmity, weakness'",
+        "origin_explanation": "SEMITIC: Ar. ḍabṭ 'weak'. Barth 1903 b compares Heb. ʾābhā 'seizure of feebleness' (with metathesis). See also dəwaṣa.",
+        "ethiopic_script": "ፀበጠ፣ ጸበጠ",
+        "amharic_translation": "የ däbṭa ግስ ስም፤ እንዲሁም 'ድካም፣ ድክመት'",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däbäṭa (yədbəṭ)",
+        "meaning": "grasp, take hold of, lay hands on",
+        "origin_explanation": "SEMITIC: Ar. ḍabaṭa 'seize'. Ms. dəybeṭ, Heb. ṣābaṭ 'seize' is perhaps a loanword. Akk. ṣabātu 'seize' is perhaps also Md. ṣbṭ, also associate with < Akk. ṣabātu (according to Dterich 302). A related form also occurs in Heb. ʾeby 'bundle of ears of corn', PHH ṣebet 'node' (for Aram.-Syr. ṣbṭ, see Justi 1875, 43, n. 1, Greenfield, JAOS 82 (1962) 292).",
+        "ethiopic_script": "ፀበጠ፣ ጸበጠ",
+        "amharic_translation": "መያዝ፣ መያዝ፣ እጅ መጫን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däbṭäḥa",
+        "meaning": "seize, catch, hold fast",
+        "origin_explanation": "ETHIOPIC: Te. ṣäbḥa 'seize', Amh. č̣äbbäṭä, Gaf. č̣äbbäṭä, Arg. č̣ebäṭä 'squeeze', Gur. č̣äbbäṭä, č̣äbäṭä 'seize, hold'. See also däbṭ.",
+        "ethiopic_script": "ፀበጠ፣ ጸበጠ",
+        "amharic_translation": "መያዝ፣ መያዝ፣ አጥብቆ መያዝ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däbṭ (dəbṭ)",
+        "meaning": "gonorrhea",
+        "origin_explanation": "ETHIOPIC: Tna. dəbṭi 'gonorrhea', Amh. č̣äbṭ, č̣äbṭ from the root č̣bṭ of something that seizes one (see däbṭäḥa, above), cp. also Te. čaʾəbṭay 'be smitten by calamity'.",
+        "ethiopic_script": "ፀብጥ",
+        "amharic_translation": "ጨብጥ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dədä",
+        "meaning": "moth, worm",
+        "origin_explanation": "SEMITIC: Buhl 541 (followed by Koehler 662, Baumgartner 718, von Soden 1032) compares Ar. sūs 'moth-worm', Heb. sās, Aram.-Syr. sāsā, Md. sus, Akk. sāsu. The identification D (Geez) s (Semitic) is not convincing.",
+        "ethiopic_script": "ፃፄ",
+        "amharic_translation": "ብል፣ ትል",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəfʿ",
+        "meaning": "a sort of ant",
+        "origin_explanation": "Te. ṣəf, Amh. ğəğəw 'swarm of ants', č̣əč̣əw 'kind of a small ant'.",
+        "ethiopic_script": "ፅፍዕ፣ ፀፍዕ",
+        "amharic_translation": "አንድ ዓይነት ጉንዳን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəfʿ (dəfəʿ)",
+        "meaning": "excrement, filth",
+        "origin_explanation": "SEMITIC: Ar. dafʿ 'excrement', Mh. dōfəʿ 'cow dung', Heb. ṣōpāʿ 'dung'.",
+        "ethiopic_script": "ፅፍዕ፣ ፀፍዕ",
+        "amharic_translation": "እዳሪ፣ ቆሻሻ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däfäna",
+        "meaning": "bury, fill up",
+        "origin_explanation": "ETHIOPIC: Te. däfnä 'bury', Tna. däfänä, Amh. däffänä, probably passed into Cushitic: Bil. dāf 'excrement'.",
+        "ethiopic_script": "ፀፈረ፣ ጸፈረ",
+        "amharic_translation": "መቅበር፣ መሙላት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däfara (yədfər)",
+        "meaning": "braid, plait, drape, weave, interwine, be linked to one another, plot, intrigue, subvert",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀፈረ፣ ጸፈረ",
+        "amharic_translation": "መጎንጎን፣ መጠለፍ፣ መሸፈን፣ መሸመን፣ መተሳሰር፣ እርስ በርስ መያያዝ፣ ማሴር፣ ሴራ መሸረብ፣ ማፍረስ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däfər",
+        "meaning": "braid",
+        "origin_explanation": "SEMITIC: Tna. ṣəfər 'braid', Te. ṣäfər 'braid' (Praetorius 1871:127), Amh. təfər 'braid' is woven (leather strap). Amh. hat təfər, dəfər 'braid' is probably borrowed from a Sem. language. See also däfərt.",
+        "ethiopic_script": "አፅፋር",
+        "amharic_translation": "ጥፍር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dīr, dəfār",
+        "meaning": "tapeworms",
+        "origin_explanation": "probably from däfara 'intertwine', the tapeworms being intertwined to one another or to the interior of the stomach.",
+        "ethiopic_script": "አፅፋር",
+        "amharic_translation": "ትል",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəga, dug",
+        "meaning": "see dwg.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፃገ፣ ፁግ",
+        "amharic_translation": "ይመልከቱ dwg.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägʿa (yədgəʿ)",
+        "meaning": "make up a bed, lean upon, be close to",
+        "origin_explanation": "the time of the miracle of Christ with the paralytic).",
+        "ethiopic_script": "ፀግዐ",
+        "amharic_translation": "አልጋ ማዘጋጀት፣ መደገፍ፣ መቅረብ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägʿ",
+        "meaning": "lie on one's side, recline, couch, bed",
+        "origin_explanation": "SEMITIC: Te. dägʿa 'lie on one's side, recline', Tna. dägʿe 'lie down', mədgəʿ 'seat, support', dəngwəʿ 'lie on the side', mədgəʿ 'place for reclining, seat, crib'. The meanings 'lean upon, rest against, recline, place to lean upon, rest' > 'be paralytic' (denominative from mədgəʿ 'place for reclining') get near, take shelter under, ʾədgəʿ 'lean one thing against the other', mədgəʿ 'cushion decorated with silk and gold braids'. See also dängwəʿ, and təgəʿa 1.",
+        "ethiopic_script": "ፀግዐ",
+        "amharic_translation": "በጎን መተኛት፣ መደገፍ፣ ሶፋ፣ አልጋ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägäma (yədgəm)",
+        "meaning": "be on the left hand, be left-handed",
+        "origin_explanation": "H 223) be distorted, be left, go left.",
+        "ethiopic_script": "ፀገመ፣ ጸገመ",
+        "amharic_translation": "በግራ በኩል መሆን፣ ግራ እጅ መሆን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägim",
+        "meaning": "left, left hand",
+        "origin_explanation": "(D) from left side, left hand.",
+        "ethiopic_script": "ፀገመ፣ ጸገመ",
+        "amharic_translation": "ግራ፣ ግራ እጅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägmay",
+        "meaning": "being twisted, being on the left side",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀገመ፣ ጸገመ",
+        "amharic_translation": "የተጣመመ መሆን፣ በግራ በኩል መሆን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägmäwtawi",
+        "meaning": "things that one disapproves of",
+        "origin_explanation": "SEMITIC: Ar. dgm 'be distorted, be crooked' (Dillmann 1336). W. Müller suggests, with reservations, G. dgwam speak out of the side of the mouth.",
+        "ethiopic_script": "ፀገመ፣ ጸገመ",
+        "amharic_translation": "የማይወደዱ ነገሮች",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dängwəʿ",
+        "meaning": "lie down",
+        "origin_explanation": "ETHIOPIC: Tna. tədägäʿe 'left (dägam 'left-handed')', perhaps also Tna. tədägäʿe 'be inconvenienced, disturbed', Te. dägäʿ 'lie down', dägämay 'sinister, evil'. The root is possibly common with Cushitic: Awngi. təgəh 'left' (with alternation h:m), Bil. qua-lungah, with inserted n, hence Te. Tna. tədägäʿ 'left', Aw. təgəh 'left'.",
+        "ethiopic_script": "ፁገት",
+        "amharic_translation": "መተኛት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dägät",
+        "meaning": "see dwg.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፁገት",
+        "amharic_translation": "ይመልከቱ dwg.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däḥasa (yədḥas)",
+        "meaning": "beat the ground with the feet (one's feet and legs), move about on the feet, pace up and down, move about, dance, clap the hands in time to the music",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀሐሰ፣ ጸሐሰ፣ ጽሕሰ",
+        "amharic_translation": "እግርን መሬት ላይ መምታት (እግሩንና እግሩን)፣ በእግር መዞር፣ ወደ ላይና ወደ ታች መሄድ፣ መዞር፣ መደነስ፣ ከሙዚቃው ጋር እጅ ማጨብጨብ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däḥas",
+        "meaning": "part. of däḥasa",
+        "origin_explanation": "SEMITIC: related to Ar. daḥasa 'throw about (the feet), dahasa 'agitate the feet', daḥdaḥa 'jerk' (slaughtered animal)'",
+        "ethiopic_script": "ፀሐሰ፣ ጸሐሰ፣ ጽሕሰ",
+        "amharic_translation": "የ däḥasa አካል",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäṣa",
+        "meaning": "stamp on a sown field, figuratively in rabbinical language 'overtake, break through, violate (the law), Amh. dms 'crash through (an obstacle), break through, violate (agreements), Gur. zms 'violate (the law)'.",
+        "origin_explanation": "ETHIOPIC: Tna. ṣəbəṭ 'stamp on a sown field'.",
+        "ethiopic_script": "ፀመመ",
+        "amharic_translation": "በተዘራ እርሻ ላይ መርገጥ፣ በምሳሌያዊ አነጋገር በረቢ ቋንቋ 'ማለፍ፣ መስበር፣ መጣስ (ሕግን)፣ አምሃ. ድምስ 'እንቅፋትን መስበር፣ መስበር፣ መጣስ (ስምምነቶችን)፣ ጉራ. ዝምስ 'ሕግን መጣስ'።",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däḥawa (T) dähut",
+        "meaning": "shout",
+        "origin_explanation": "related to tənsaʾe; see above.",
+        "ethiopic_script": "ፀሐወ",
+        "amharic_translation": "መጮህ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däḥay",
+        "meaning": "sun",
+        "origin_explanation": "SEMITIC: Ar. ḍḥw 'sun', Heb. ṣaḥ (so Eitan, HUCA 12-13, 1937-8, p. 61; in connection with ṣḥy, ṣḥḥ, for which see ṣäḥwa, above. Note that Ar. ḍḥw 'sun' is formed as Reinwortbildung with ḥw 'air' as second element (Brockelmann Gr. 927:14-16).",
+        "ethiopic_script": "ፀሓይ",
+        "amharic_translation": "ፀሐይ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däḥyä",
+        "meaning": "be like the sun, warm oneself (in the sun)",
+        "origin_explanation": "ETHIOPIC: Te. Tna. ṣäḥay 'sun', Gaf. č̣äy, č̣e (literary language), Arg. č̣äḥay, Gur. č̣e. See also dḥy.",
+        "ethiopic_script": "ፀሓይ",
+        "amharic_translation": "እንደ ፀሐይ መሆን፣ ፀሐይ መሞቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dḥyy, tədäḥayaya",
+        "meaning": "be like the sun, warm oneself (in the sun)",
+        "origin_explanation": "denominative of däḥay (see above).",
+        "ethiopic_script": "ተፃሕየየ",
+        "amharic_translation": "እንደ ፀሐይ መሆን፣ ፀሐይ መሞቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəkʿ, dəkʾ, dəkʾ, dəkʾe",
+        "meaning": "hip, hipbone, thigh, thighbone, flesh of thigh, shoulder blade",
+        "origin_explanation": "SEMITIC: The connection with Ar. šāq 'thigh', Heb. šōq, Syr. šāqā suggested by Brockelmann 1908:239 is unlikely.",
+        "ethiopic_script": "ፀኲ፣ ፃኲ፣ ጸኲ፣ ጸክ፣ ጾክ፣ ፀኮ",
+        "amharic_translation": "ዳሌ፣ የዳሌ አጥንት፣ ጭን፣ የጭን አጥንት፣ የጭን ሥጋ፣ የትከሻ አጥንት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəm",
+        "meaning": "left",
+        "origin_explanation": "from dgm 'left', above. It is an analogical formation with ymn 'right', above.",
+        "ethiopic_script": "ፂም",
+        "amharic_translation": "ግራ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəmʿa",
+        "meaning": "see sədmaʿa",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀምአ",
+        "amharic_translation": "ይመልከቱ sədmaʿa",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäʿa (yədməʿ)",
+        "meaning": "listen, hearken, heed, incline (the ear), give ear",
+        "origin_explanation": "SEMITIC: related to syʿ/šmʿ (from swʿ) 'overhear, listen in silence'. Amh. č̣əmäč̣əmä 'rumor' (that is, what one hears).",
+        "ethiopic_script": "ፀመመ",
+        "amharic_translation": "ማዳመጥ፣ መስማት፣ ትኩረት መስጠት፣ ጆሮ መስጠት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäda (yədməd)",
+        "meaning": "harness, bind together, join, link, subjugate",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀመረ፣ ጸመረ",
+        "amharic_translation": "ማሰር፣ አንድ ላይ ማሰር፣ መቀላቀል፣ ማገናኘት፣ ማስገዛት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tadmäda",
+        "meaning": "yoke oneself, be yoked, bind oneself, join oneself, be an adherent of, adhere, be a disciple, subjugate oneself, be associated, be in attendance, dedicate oneself, devote oneself to, serve, be subject, be a slave, be addicted, serve, serve in a devout manner, be devoted to something assiduously",
+        "origin_explanation": "passed into Cushitic: Bil. č̣əmədən 'reckon, surround'. For the meaning 'dry', see also ṣəmṣəma.",
+        "ethiopic_script": "ፀመረ፣ ጸመረ",
+        "amharic_translation": "ራስን ማሰር፣ መታሰር፣ ራስን ማሰር፣ ራስን መቀላቀል፣ የአንድ ነገር ተከታይ መሆን፣ መከተል፣ ደቀ መዝሙር መሆን፣ ራስን ማስገዛት፣ መያያዝ፣ መገኘት፣ ራስን መስጠት፣ ራስን ለአንድ ነገር መስጠት፣ ማገልገል፣ ተገዢ መሆን፣ ባሪያ መሆን፣ ሱስ መያዝ፣ ማገልገል፣ በአክብሮት ማገልገል፣ ለአንድ ነገር በትጋት መሰጠት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämara (yədmər)",
+        "meaning": "unite, join, affix, connect, attach, fasten together, nail down, impale together",
+        "origin_explanation": "SEMITIC: Heb. ṣmd 'join', Aram.-Syr. ṣmd 'bind so-gether, yoke', Ar. ḍmd 'bind, join', Ug. ṣmd 'join, pair, yoke', Jib. ṣmd 'bind', Arg. č̣ämäda, Gur. č̣ämäda; passed into Cushitic: Qab. č̣imad 'yoke', Qab. č̣im-id 'pair of oxen', Aw. č̣əmad 'a yoke'. Or. č̣imada.",
+        "ethiopic_script": "ፀመረ፣ ጸመረ",
+        "amharic_translation": "ማዋሃድ፣ መቀላቀል፣ ማያያዝ፣ ማገናኘት፣ ማያያዝ፣ አንድ ላይ መቸንከር፣ አንድ ላይ መወጋት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämana (yədmən)",
+        "meaning": "bind, tie around, patch up, restrain, tie up, heal, strengthen, cover, dry it, treat a fracture, strengthen",
+        "origin_explanation": "SEMITIC: Ar. ḍamana 'bring together', join, enclose, surround', PHH ṣimṣem (from ṣmṣm) 'press, oppress'. For 'hard', cp. also Ar. ṣawmaʿ (from ṣwm) 'hard'.",
+        "ethiopic_script": "ፀመወ፣ ጸመወ",
+        "amharic_translation": "ማሰር፣ ማሰር፣ መጠገን፣ መገደብ፣ ማሰር፣ ማዳን፣ ማጠናከር፣ መሸፈን፣ ማድረቅ፣ ስብራትን ማከም፣ ማጠናከር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämʿa",
+        "meaning": "squeeze together",
+        "origin_explanation": "ETHIOPIC: Te. č̣ämäʿa 'squeeze together', Amh. č̣ämäqqä 'bind, tie with a'.",
+        "ethiopic_script": "ፀመመ",
+        "amharic_translation": "አንድ ላይ መጨፍለቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämara",
+        "meaning": "unite, add, put together",
+        "origin_explanation": "ETHIOPIC: Te. tämara, Tna. tämärä, Amh. ṭämmärä, Arg. č̣emärä, Gaf. č̣ämmärä, Gur. č̣ämmärä. A connection with mḥr (t, and (d)mḥr) with t seems to be borrowed from Amharic. Tigrinya təmbərhā, təbərhā 'mix', augmented by n (becoming m before b) is to be re-examined. W. Müller rather connects with a root with augmented r, suggested in Wright 1937b:18; this is because an augmentation with h is more normal than an augmentation with b. The root passed into Cushitic: Bil. dämmar 'tie, gather'.",
+        "ethiopic_script": "ፀመረ፣ ጸመረ",
+        "amharic_translation": "ማዋሃድ፣ መጨመር፣ አንድ ላይ ማስቀመጥ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "damr",
+        "meaning": "wool, fleece, woolen garment",
+        "origin_explanation": "SEMITIC: Heb. ṣemer 'wool', Aram.-Syr. ʿmr, Md. ʿamra, Syr. ʿmrā 'wool'.",
+        "ethiopic_script": "ፀምር",
+        "amharic_translation": "ሱፍ፣ የበግ ፀጉር፣ የሱፍ ልብስ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäwä",
+        "meaning": "white",
+        "origin_explanation": "SEMITIC: Ug. ṣmd (with alternance t:r), see above, Borer, Lg 23 (1968) 132.",
+        "ethiopic_script": "ፀመወ፣ ጸመወ",
+        "amharic_translation": "ነጭ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäw",
+        "meaning": "silver, wood, ash",
+        "origin_explanation": "ETHIOPIC: Tna. ṣəmd 'wood', Amh. ṣəmd 'white cloth made of a mixture of silk and wool' (from Geez); also in Cushitic: Kham. səmər 'hair, hairy'. Aw. ṣəmər, Bil. šəmər.",
+        "ethiopic_script": "ፀመወ፣ ጸመወ",
+        "amharic_translation": "ብር፣ እንጨት፣ አመድ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämäma (yədməm)",
+        "meaning": "be quiet, not emit a sound, be lonely, be separated from others, lead a quiet life",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀመመ",
+        "amharic_translation": "ዝም ማለት፣ ድምፅ አለማሰማት፣ ብቸኛ መሆን፣ ከሌሎች መለየት፣ ጸጥ ያለ ሕይወት መምራት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dämam",
+        "meaning": "quietly, silently, peacefully, carefully, in a low voice",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀመመ",
+        "amharic_translation": "በጸጥታ፣ በዝምታ፣ በሰላም፣ በጥንቃቄ፣ በዝቅተኛ ድምፅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəmmuna",
+        "meaning": "stillness, tranquility, quietness, loneliness, solitude, solitary life, contemplative life, contemplation, life of asceticism, sedateness",
+        "origin_explanation": "SEMITIC: Tna. təmbəlo 'be lonely, be solitary', Amh. č̣əm alä 'become quiet, become silent', təbəlo 'alone, by oneself', č̣əm 'in a quiet way' (being alone, from Geez). The connection with Te. č̣əmlə 'be lonely' suggested by Littmann-Höfner 624 is unlikely. See for this root Praetorius 1890:35, no. 27.",
+        "ethiopic_script": "ፅሙና",
+        "amharic_translation": "መረጋጋት፣ ሰላም፣ ጸጥታ፣ ብቸኝነት፣ ብቸኝነት፣ ብቸኛ ሕይወት፣ አሳቢ ሕይወት፣ ማሰላሰል፣ የ asceticism ሕይወት፣ መረጋጋት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dənš",
+        "meaning": "is also the name of a person and the name of a city",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀና",
+        "amharic_translation": "የሰው ስም እና የከተማ ስም ነው።",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dänbäl",
+        "meaning": "ornament for the forehead, diadem, black silk",
+        "origin_explanation": "ETHIOPIC: Te. ṣəmbəl, ṣəmbəli 'frontal', Amh. ğənbəl, ğəbəla 'headcloth'.",
+        "ethiopic_script": "ፀንብል፣ ፅንብል፣ ጸንቢል፣ ጽንብል",
+        "amharic_translation": "ለግንባር ጌጥ፣ ዘውድ፣ ጥቁር ሐር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dänfäṣa",
+        "meaning": "see dəmdaṣa",
+        "origin_explanation": "note that m:f of dmd became n:f in dnf.",
+        "ethiopic_script": "ፅንድ",
+        "amharic_translation": "ይመልከቱ dəmdaṣa",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dänfärt",
+        "meaning": "trap, snare",
+        "origin_explanation": "from dəfära 'braid, weave, intertwine' (see above) with inserted n, but it is also possible to derive it from a kind of creeping plant used to make a snare (see below) with the development of meaning, cp. Amh. əṭkəlla (translation of sənfər) 'kind of creeping rty', and trap that is made of the əṭkəlla). The connection with Amh. wəṭəmmər 'trap for catching mice or birds' suggested by Praetorius 1879:116 is unlikely.",
+        "ethiopic_script": "ፀንፈርት፣ ጽንፍርት",
+        "amharic_translation": "ወጥመድ፣ ወጥመድ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dängʷəʿa",
+        "meaning": "lie on the couch, recline on a cushion",
+        "origin_explanation": "Source: the connection with Heb. ṣlʿ 'lie on the side', from rln 1878:404 is unlikely.",
+        "ethiopic_script": "ፀንግዐ፣ ጸንግአ",
+        "amharic_translation": "በሶፋ ላይ መተኛት፣ ትራስ ላይ መደገፍ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dängʷəʿ",
+        "meaning": "lie on the side, recline on cushions, place where one reposes, wall to lean against, stable, stall, crib, pen",
+        "origin_explanation": "ETHIOPIC: Te. č̣əläʿe 'lie on the side', from č̣lʿ suggested by syʿ, see dägʿa, above.",
+        "ethiopic_script": "ምፅንጋዕ፣ ምጽንጋዕ",
+        "amharic_translation": "በጎን መተኛት፣ ትራስ ላይ መደገፍ፣ ማረፊያ ቦታ፣ ለመደገፍ ግድግዳ፣ በረት፣ በረት፣ ጋጣ፣ እስክርቢቶ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däng, mədängəğ",
+        "meaning": "intense heat",
+        "origin_explanation": "perhaps connected with mə-dägəʿ 'paralytic', the disease being identified with intense heat.",
+        "ethiopic_script": "ምፅንጋዕ፣ ምጽንጋዕ",
+        "amharic_translation": "ከፍተኛ ሙቀት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dänäṣa (yədnəṣ)",
+        "meaning": "become pregnant, conceive",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀንሰ፣ ጸንጸ",
+        "amharic_translation": "ማርገዝ፣ መፀነስ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dənəst",
+        "meaning": "conception, pregnancy",
+        "origin_explanation": "ETHIOPIC: Tna. təbəla-ṣe 'she conceived', Amh. ṭənäsä 'conceive', Gur. ṭənäsä.",
+        "ethiopic_script": "ፀንሰ፣ ጸንጸ",
+        "amharic_translation": "ፅንስ፣ እርግዝና",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dənqʷaṣ",
+        "meaning": "wedge, hooks to make a hedge, wall of a house",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀቈነ፣ ጸቈነ",
+        "amharic_translation": "ሽብልቅ፣ አጥር ለመሥራት መንጠቆዎች፣ የቤት ግድግዳ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dəqʿ, dəqʿan",
+        "meaning": "hedge, fence, enclosure, wall, fortification, sticks used for making a wall",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀቈነ፣ ጸቈነ",
+        "amharic_translation": "አጥር፣ አጥር፣ አጥር፣ ግድግዳ፣ ምሽግ፣ ግድግዳ ለመሥራት የሚያገለግሉ እንጨቶች",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dar",
+        "meaning": "guinea hen",
+        "origin_explanation": "(Gr.443) guinea hen",
+        "ethiopic_script": "ፀር (I)",
+        "amharic_translation": "የጊኒ ዶሮ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därʿa (yədrəʿ)",
+        "meaning": "be annulled, be made of no effect, be idle",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀርዐ፣ ጸርዐ፣ ጸርአ",
+        "amharic_translation": "መሰረዝ፣ ውጤት አልባ መሆን፣ ስራ ፈት መሆን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däräb",
+        "meaning": "bring to a stop, make stop, neglect, cease, make cease, make worthless, be idle, leave idle, abandon, give up, interrupt, abrogate, omit, keep back, hinder, divert, leave aside, abolish, make void, use up; also causative of the meanings of däräb",
+        "origin_explanation": "SEMITIC: Barth 1902:42 connects it with Ar. daraba 'he which he hindered, he set (false before the truth), he turned'. G. (däräb 'useless') is interpreted as 'coming to an end', but in fact it means 'draw near, approach' and not 'come to an end'.",
+        "ethiopic_script": "ፀረብ",
+        "amharic_translation": "ማቆም፣ ማቆም፣ ችላ ማለት፣ ማቆም፣ ማቆም፣ ከንቱ ማድረግ፣ ስራ ፈት መሆን፣ ስራ ፈት መተው፣ መተው፣ ማቆም፣ ማቋረጥ፣ መሰረዝ፣ መተው፣ መከልከል፣ ማዘናጋት፣ ወደ ጎን መተው፣ ማጥፋት፣ ባዶ ማድረግ፣ መጠቀም፤ እንዲሁም የ däräb ትርጉሞች መንስኤ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däräb",
+        "meaning": "back, step, foetus, train",
+        "origin_explanation": "ETHIOPIC: Tna. drb 'back', embryo.",
+        "ethiopic_script": "ፀረብ",
+        "amharic_translation": "ጀርባ፣ እርምጃ፣ ፅንስ፣ ባቡር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därdär",
+        "meaning": "patch, rag, tatter",
+        "origin_explanation": "ETHIOPIC: Tna. č̣ərqi 'rag', Te. Amh. Arg. Gaf. Gur. č̣ärq, into Cushitic: Kam. č̣ərqu, Qab. č̣ərqa, Bil. č̣ərq.",
+        "ethiopic_script": "ፀርቅ፣ ጸርቅ",
+        "amharic_translation": "ጠጋኝ፣ ጨርቅ፣ የተቀደደ ጨርቅ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "drr, əndərarra",
+        "meaning": "turn about, be troubled, be restless, be tormented, be afflicted",
+        "origin_explanation": "ETHIOPIC: Te. ənsərora, ənsərora 'be dizzy', Tna. ənsərora 'produce dizziness', zrwr bälä 'feel dizzy'.",
+        "ethiopic_script": "አንፆረረ፣ አንጾረ፣ አንጾረረ፣ አንጸረረ",
+        "amharic_translation": "መዞር፣ መጨነቅ፣ እረፍት ማጣት፣ መሰቃየት፣ መታመም",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därara (yədrər)",
+        "meaning": "become an enemy, become a foe, be hostile, be an adversary, rebel, revolt, stir up trouble, start a fight, start a war",
+        "origin_explanation": "SEMITIC: Ar. ḍarra 'be harmful', SAr. ḍrr 'show wage war', Soq. ḍer(r) 'strike', Heb. ṣārar 'show hostility toward, ṣar 'enemy', Aram. ʿrr 'enemy', Ug. ʿrr 'hurt, affect', ʿr 'enemy', Md. ʿara, Jib. ʿer 'enemy, enmity', also 'rival wife' (< Ar. ḍarra, Heb. ṣar 'rival wife'), cp. also Akk. ṣerru.",
+        "ethiopic_script": "ፀረረ",
+        "amharic_translation": "ጠላት መሆን፣ ጠላት መሆን፣ ጠላት መሆን፣ ተቃዋሚ መሆን፣ ማመፅ፣ ማመፅ፣ ችግር መፍጠር፣ ጠብ መጀመር፣ ጦርነት መጀመር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därar",
+        "meaning": "enemy, hostile",
+        "origin_explanation": "ETHIOPIC: Tna. ṣär 'enemy', Te. ṣär, Amh. ṭälat, Arg. ṭälat, Gaf. ṭälata, Gur. ṭälat, Har. ṭäy, also in Cushitic: Bil. ṣär 'enemy'.",
+        "ethiopic_script": "ፀረረ",
+        "amharic_translation": "ጠላት፣ ጠላት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därs",
+        "meaning": "blaspheme, slander, vilify, abuse, revile",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀርሰ",
+        "amharic_translation": "መስደብ፣ ማጥላላት፣ መሳደብ፣ ማዋረድ፣ መርገም",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däräbä (MA)",
+        "meaning": "sustain, help",
+        "origin_explanation": "metathesis of dämara 'unite, join'.",
+        "ethiopic_script": "ፀረብ",
+        "amharic_translation": "መደገፍ፣ መርዳት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därs",
+        "meaning": "tooth",
+        "origin_explanation": "SEMITIC: Ar. ḍirs 'tooth', ḍarisa 'become dull (tooth)', SAr. ḍrs 'molar tooth'. Bittner 1909:30 compares Mh. ḥarśēt 'molar tooth' (with ḥ:ḍ).",
+        "ethiopic_script": "ፀርሱ",
+        "amharic_translation": "ጥርስ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därsä",
+        "meaning": "be set on edge (teeth), become dull (teeth), break off the edge of the teeth",
+        "origin_explanation": "denominative of dərs;",
+        "ethiopic_script": "ፀርሱ",
+        "amharic_translation": "ጥርሶች መሳል፣ ጥርሶች መደብዘዝ፣ የጥርሶችን ጫፍ መስበር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därsä",
+        "meaning": "break the teeth",
+        "origin_explanation": "ETHIOPIC: Tna. tə(ʾa)daraṣä 'have an angry look, be sullen, be gloomy', Te. (ʾa)daraṣä 'look gloomy, distort one's face', (ʾa)dawaṣä 'be surly'.",
+        "ethiopic_script": "ፀርሱ",
+        "amharic_translation": "ጥርሶችን መስበር",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därsä",
+        "meaning": "precious stone",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀርሱ",
+        "amharic_translation": "የከበረ ድንጋይ",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därini",
+        "meaning": "see darara.",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀረዊ",
+        "amharic_translation": "ይመልከቱ darara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "därwä I, xewä",
+        "meaning": "army unit",
+        "origin_explanation": "ETHIOPIC: Tna. č̣äwa 'freedborn'. Brockelmann 1950 b derives from Bil. č̣ä 'family' (probably 'a good family > freeborn').",
+        "ethiopic_script": "ፄዋ (I)፣ ጼዋ",
+        "amharic_translation": "የጦር ሰራዊት ክፍል",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "dwg, doga (yədwəg)",
+        "meaning": "be malignant, be perverse, be vicious, be cruel, be ferocious, be fierce, be savage",
+        "origin_explanation": null,
+        "ethiopic_script": "ፆገ፣ ፀወገ",
+        "amharic_translation": "ክፉ መሆን፣ ጠማማ መሆን፣ ጨካኝ መሆን፣ ጨካኝ መሆን፣ ጨካኝ መሆን፣ ጨካኝ መሆን፣ አረመኔ መሆን",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däwawi",
+        "meaning": "perverseness, depravity, baseness, wickedness, ferocity",
+        "origin_explanation": null,
+        "ethiopic_script": "ፆገ፣ ፀወገ",
+        "amharic_translation": "ጠማማነት፣ ብልሹነት፣ ዝቅጠት፣ ክፋት፣ ጨካኝነት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däwaṣa (yədawəṣ)",
+        "meaning": "be weakened, be crippled, be lamed, be paralyzed, be twisted",
+        "origin_explanation": null,
+        "ethiopic_script": "ፀወሰ",
+        "amharic_translation": "መዳከም፣ ሽባ መሆን፣ አንካሳ መሆን፣ ሽባ መሆን፣ መጣመም",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däwaṣa",
+        "meaning": "weakened, feeble, twisted, drooping, maimed, paralyzed, crippled, one palsied, defective",
+        "origin_explanation": "is a variant of dəbṭa (see above). For 'castrate', cp. Ar. ḥawwala, from which Te. ḥəwla is borrowed.",
+        "ethiopic_script": "ፀወሰ",
+        "amharic_translation": "የደከመ፣ ደካማ፣ የተጣመመ፣ የደረቀ፣ የተጎዳ፣ ሽባ፣ አንካሳ፣ ሽባ የሆነ፣ ጉድለት ያለበት",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "däwäha (yədwəh)",
+        "meaning": "take prisoner, capture, carry captives, deport, exile, seize (goods)",
+        "origin_explanation": "SEMITIC: Te. səwa 'take prisoner, steal', Tna. č̣äwä 'kidnap to sell as slaves'. Brockelmann, ZS 8 (1932) 116-7 compares it with Ar. dawwa 'be lean, scrawny, weak'. Egyptian dw 'bad', for the meaning 'weak' take prisoner, but dw 'bad' is a late coptic adition. This comparison is not convincing.",
+        "ethiopic_script": "ፄወወ",
+        "amharic_translation": "ማሰር፣ መያዝ፣ ምርኮኞችን መውሰድ፣ ማባረር፣ ማባረር፣ መያዝ (ዕቃዎች)",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    }
+]

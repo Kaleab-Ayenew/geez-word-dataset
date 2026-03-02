@@ -1,0 +1,919 @@
+[
+    {
+        "phonetics": "-hā",
+        "meaning": "possessive suffix pronoun of the 3rd fem. singular ('her, its') used with a noun ending in a vowel",
+        "origin_explanation": "it is also used with expressions of time; e.g. sobe-hā 'afterward', 'ame-ha 'then'; SEMITIC: Ar. -hā, SAr. (Sabaean) -h, Heb. -hā in special occurrences, Aram.-Syr. -āh. For this suffix pronoun in the other Semitic languages, see Brockelmann 1908:311-2; Barth 1913:56ff. ETHIOPIC: Te. -ha, Gaf. -hā. For the other Ethio-pian languages, see Leslau 1956:58.",
+        "ethiopic_word": "-ሃ(I)",
+        "amharic_meaning": "የ3ኛ መደብ አንስታይ ነጠላ ባለቤትነት አገናዛቢ ተውላጠ ስም (የእሷ፣ የሱ/ለነገር) በአናባቢ ለሚያልቁ ስሞች"
+    },
+    {
+        "phonetics": "-hā II",
+        "meaning": "marker of the accusative with proper nouns (e.g. yəhudā-hā 'Judah' [acc.]).",
+        "origin_explanation": "",
+        "ethiopic_word": "-ሃ (II)",
+        "amharic_meaning": "በተጸውዖ ስሞች ላይ የተሳቢነት አመልካች"
+    },
+    {
+        "phonetics": "-he",
+        "meaning": "'there, here, away to' (e.g. kʷ'əlla-he, ba-kʷ'əlla-he 'everywhere', kʷ'əlla-he [acc] 'in every direction').",
+        "origin_explanation": "",
+        "ethiopic_word": "-ሄ",
+        "amharic_meaning": "እዚያ፣ እዚህ፣ ወደ"
+    },
+    {
+        "phonetics": "-hi",
+        "meaning": "'also, and, further, even, the very, for one's part' (e.g. 'ana-hi 'I, for my part'); is attached to mannu, mənt, 'ayte (mannu-hi, mənta-hi, 'ayte-hi), mostly in negative sen-tences; it expresses the indefinite 'no one, noth-ing, nowhere'; it is combined with 'amma- in 'amma-hi 'though, even though'; 'amma...wəla'amma-hi 'either...or'; 'amma-hi...wə'amma-hi 'either...or'; in the meaning 'and' it can be repeated, as in 'ana-hi wəwə'ətu-hi 'both I and he, I and he'; or in -hi...-ni, as in 'əmmuntu-hi wə'əbuhomu-ni 'they as well as their father'.",
+        "origin_explanation": "",
+        "ethiopic_word": "-ሂ",
+        "amharic_meaning": "እንዲሁም፣ እና፣ በተጨማሪ፣ እንኳን፣ በበኩሉ"
+    },
+    {
+        "phonetics": "-hu I",
+        "meaning": "possessive suffix pronoun of the 3rd masc. sg. ('his, its') used with a noun ending in a vowel; occasionally used as the definite article;",
+        "origin_explanation": "SEMITIC: Ar. -hu 'his, its', SAr. (Sabaean) -hw, -h, Mh.Soq. -h, -eh, Heb. -hū (occasionally), Aram.-Syr. -h, -eh, Ph.Ug. -h. For more details on this suffix pronoun, see Brockelmann 1908:311-2; Barth 1913:49 ff. ETHIOPIC: Te. -hu, Gaf. -ho; for the contracted form -u in the other Ethiopian languages, see Leslau 1956:58.",
+        "ethiopic_word": "-ሁ(I)",
+        "amharic_meaning": "የ3ኛ መደብ ተባዕታይ ነጠላ ባለቤትነት አገናዛቢ ተውላጠ ስም (የእሱ፣ የሱ/ለነገር) በአናባቢ ለሚያልቁ ስሞች፤ አልፎ አልፎ እንደ መስተአምር ያገለግላል"
+    },
+    {
+        "phonetics": "-hu II",
+        "meaning": "it serves as an interrogative particle (e.g. ta'ammənu-hu 'do you believe?'); it expresses doubt or uncertainty (see Dillmann 1907:378, 514); it also serves for the reinforce-ment of a conditional sentence (e.g. 'əmma-ssa 'anta-hu 'if it is indeed thou'); see also Dill-mann 1907:550;",
+        "origin_explanation": "SEMITIC: Ar. -hu in the dialects, and occasionally in classical Arabic; see Brockelmann 1913:190, and Landberg 1909:1362 who identifies it with the suffix pronoun of the 3rd masc. singular. ETHIOPIC: also in Cushitic: Sa. -ho, interrogative.",
+        "ethiopic_word": "-ሁ (II)",
+        "amharic_meaning": "እንደ መጠይቃዊ ቅጥያ ያገለግላል፤ ጥርጣሬን ወይም አለመረጋጋትን ይገልጻል"
+    },
+    {
+        "phonetics": "hab",
+        "meaning": "(masc.sg.), habu (masc.pl.), habā (fem.pl.) 'then!, now then!, well!, come on!';",
+        "origin_explanation": "from wahaba 'give', below; SEMITIC: Ar. hab, hāb, exclamation (see Schulthess, ZA 19 [1905].131; Noeldeke, ZDMG 66 [1912].736-7), Soq. habu, hibo 'let (one do something!)', Heb. hab, hābā 'go on, now then!'.",
+        "ethiopic_word": "ሀብ፣ ሁቡ፣ ሀባ",
+        "amharic_meaning": "እንግዲያውስ!፣ በል!፣ እንግዲህ!፣ ና!"
+    },
+    {
+        "phonetics": "habo (habo)",
+        "meaning": "'dew'; habawa (T.Y.MA.M) 'become dewy, fall (dew)' (denominative);",
+        "origin_explanation": "SEMITIC: related to Ar. habāba 'dew drops'. ETHIOPIC: Tna. hubo 'dew', Gur. ab°ā, awā.",
+        "ethiopic_word": "ሀቦ፣ ህቦ",
+        "amharic_meaning": "ጤዛ፤ ማጤዝ፣ ጤዛ መውደቅ"
+    },
+    {
+        "phonetics": "hababa I (MA; rather than habba given by MA) 'blow, be windy';",
+        "meaning": "'blow, be windy'",
+        "origin_explanation": "SEMITIC: Ar. habba 'blow (wind)'; related to haffa 'blow'. ETHIOPIC: Te. habba (hbb) 'roar (wind)'; Har. ha-bāb bāya 'roar (wind)' also in Cushitic: Bil. habba 'wind'.",
+        "ethiopic_word": "ሀበበ (I)",
+        "amharic_meaning": "መንፈስ፣ ነፋሻማ መሆን"
+    },
+    {
+        "phonetics": "hababa II (K*DTW 415) 'despise, revile';",
+        "meaning": "'despise, revile'",
+        "origin_explanation": "tahababa (tahababa) 'defame, reproach, revile, slander, (T.M) disparage, grumble'; also 'be insulted, insult one another'. astahababa, mastahababa (T.M) 'grumble, revile, disparage, insult one another'. habābī, māhbabī, māhbāb (K*), part. of tahabba. mastahabāb, act. part. of astahababa. ETHIOPIC: Amh. habhabāb 'mock, deride'. See also hababa I.",
+        "ethiopic_word": "ሀበበ (II)",
+        "amharic_meaning": "መንቃት፣ መዝለፍ፣ መሳደብ"
+    },
+    {
+        "phonetics": "habhab 'reward, gift';",
+        "meaning": "'reward, gift'",
+        "origin_explanation": "from wahaba 'give', below. SEMITIC: Heb. habhāb-īm interpreted as 'gifts, offerings'; see Buhl 172, Baumgartner 227.",
+        "ethiopic_word": "ሀብሀብ",
+        "amharic_meaning": "ሽልማት፣ ስጦታ"
+    },
+    {
+        "phonetics": "hablaya 'ridicule, mock, make fun of';",
+        "meaning": "'ridicule, mock, make fun of'",
+        "origin_explanation": "tahablaya 'amuse oneself, procure for oneself a spectacle'. habluy 'spectacle'. hablayā (Lt) 'welcome sight'. SEMITIC: The connection with Heb. habal 'be vain' suggested by Stade 45 is unlikely. ETHIOPIC: Tna. hablaya (with h) 'deceive by a hoax'. See also hawlaya I.",
+        "ethiopic_word": "ሀብለየ",
+        "amharic_meaning": "ማሾፍ፣ መሳለቅ፣ መቀለድ"
+    },
+    {
+        "phonetics": "habrata (MA) 'tremble with fear';",
+        "meaning": "'tremble with fear'",
+        "origin_explanation": "to be connected with harbada, below.",
+        "ethiopic_word": "ሀብረተ",
+        "amharic_meaning": "በፍርሃት መንቀጥቀጥ"
+    },
+    {
+        "phonetics": "habt 'gift, donation';",
+        "meaning": "'gift, donation'",
+        "origin_explanation": "from wahaba 'give', below.",
+        "ethiopic_word": "ሀብት",
+        "amharic_meaning": "ስጦታ፣ ልገሳ"
+    },
+    {
+        "phonetics": "habawa; see habo.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀበወ",
+        "amharic_meaning": "ማጤዝ (ሀቦን ይመልከቱ)"
+    },
+    {
+        "phonetics": "hobāy (pl. hobāyāt, wahbūy) 'kind of hawk, kite, (T.M. Sw. in D 9) ape';",
+        "meaning": "'kind of hawk, kite, (T.M. Sw. in D 9) ape'",
+        "origin_explanation": "ETHIOPIC: Te. habāy, humbay 'baboon, monkey', hobāy 'kite', Tna. habāy 'monkey', hobāy samay 'kind of hawk'. Amh. eba 'monkey', monkey's cry', from Cushitic: Sa.Af. habu, habūbā 'ape', habū. The sound of the ape'. There is the possibility of separating hobāy I 'kite' from hobāy II 'monkey'. However, the root hobāy meaning 'monkey' and 'kite' could be explained by a sound that may be considered common to both the monkey and the kite; in this case there would be a single root hobāy.",
+        "ethiopic_word": "ሆባይ",
+        "amharic_meaning": "የጭልፊት ዓይነት፣ ዝንጀሮ"
+    },
+    {
+        "phonetics": "hado (T) 'midday heat';",
+        "meaning": "'midday heat'",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀዶ",
+        "amharic_meaning": "የቀትር ሙቀት"
+    },
+    {
+        "phonetics": "heda; see hyd.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ሄደ",
+        "amharic_meaning": "ሄደ (hyd ይመልከቱ)"
+    },
+    {
+        "phonetics": "had'a (yahdā') , (L.T) had'a 'be tranquil, be quiet, quiet oneself, be at peace, be appeased, abate, subside';",
+        "meaning": "'be tranquil, be quiet, quiet oneself, be at peace, be appeased, abate, subside'",
+        "origin_explanation": "ahdā'a 'calm, quiet, appease, make pacify, mitigate'. hadā'i (Gr. 13), see hadu. hadū' 'calm, quiet, tranquil, placid, relieved, calmed down'. hadūwāwī 'inclined to quiet, to calm'. had'āt, (T) had'at 'tranquility, serenity, quietness, calm, repose, peace, modesty, bashfulness, gentleness'. (bahad'at 'quietly'). ahdā'i, māhdā'i (Gr), part. of ahdā'a. māhdā'i 'who brings quiet, who tranquilizes, who calms'. SEMITIC: Ar. hada'a 'be quiet', Soq. hyode, Sh. hede. For Heb. hdy, see Greenspahn 85. ETHIOPIC: Te. had'a 'become quiet'. Tna. had'e. Amh. da alā 'be quiet'; also in Cushitic. Be. ad, haduw 'tranquility'. Af. idiyā. See also hdy.",
+        "ethiopic_word": "ሀድአ፣ ኀድአ፣ ሀድዐ",
+        "amharic_meaning": "መረጋጋት፣ ጸጥ ማለት፣ ሰላም መሆን፣ ማብረድ፣ መቀነስ"
+    },
+    {
+        "phonetics": "hadafa (MA) 'be dirty, be soiled';",
+        "meaning": "'be dirty, be soiled'",
+        "origin_explanation": "from Amh. addāfā 'be dirty'.",
+        "ethiopic_word": "ሀደፈ",
+        "amharic_meaning": "መቆሸሽ፣ እድፍ መሆን"
+    },
+    {
+        "phonetics": "haddama (D.Y), haddama 'sleep, slumber, (T.Y) tell idle stories, (K) be dark (night)'; note that KG differentiates between hadama 'slumber' and haddama 'tell stories';",
+        "meaning": "'sleep, slumber, (T.Y) tell idle stories, (K) be dark (night)'",
+        "origin_explanation": "tahaddama, (L) tahadma, (T) tahadma 'come drowsy, be overcome by sleep, be created, be invented' (connected with the meaning 'phantom', below). hadmat, (T) hadmat 'deep sleep, numbness, torpor, absurdity'. mahaddamat, māh(a)damat 'dreaminess, reverie, phantom stories, fable, frivolity, absurdities, insani. ty, (Lt) imagination, hallucination, drolleries' (nagara mahaddamt 'fictitious story'); mohdəm (M), mohdām (T) 'place where one sleeps, place where one stretches out to to sleep, rug, carpet, mat'. it is doubtful whether the various meanings belong to the same root. SEMITIC: Ar. hudūm 'giddiness'. Hurwitz 95 identifies it with the root dmm, dwm. Heb. dāmām 'silence', dūmā 'silence'. Bittner, WZKM 30 (1917-8), 425 connects it with Soq. hidem-an 'dream', šodim 'to dream', back to dmy. Heb. dāmā (dmy) 'take a rest'. Praeto-rius, ZDMG 57 (1903), 271 connects it with hrm (with alternance r:d), but hrm expresses kind of misfortune and does not agree in meaning with G. hdm.",
+        "ethiopic_word": "ሀደመ(I)፣ ሐደመ(I)",
+        "amharic_meaning": "መተኛት፣ ማንቀላፋት፣ ተረት ማውራት፣ (ሌሊት) መጨለም"
+    },
+    {
+        "phonetics": "hadama I (Lt), hadama 'escape, run away';",
+        "meaning": "'escape, run away'",
+        "origin_explanation": "ETHIOPIC: Te. hadma 'escape, run away'. Tna. ma.",
+        "ethiopic_word": "ሀደመ (II)፣ ሐደመ(II)",
+        "amharic_meaning": "ማምለጥ፣ መሸሽ"
+    },
+    {
+        "phonetics": "hadama II (Y), hadama 'delimit, establish, determine, fix';",
+        "meaning": "'delimit, establish, determine, fix'",
+        "origin_explanation": "tahadama (Lt), passive. ETHIOPIC: Tna. haddāmā 'build an enclosure'. Addāmā 'build a fence or enclosure of stone', 'fence of stone constructed around the city'.",
+        "ethiopic_word": "ሀደመ (II)፣ ሐደመ(II)",
+        "amharic_meaning": "መወሰን፣ ማቋቋም፣ ማረጋገጥ"
+    },
+    {
+        "phonetics": "hadmat (Lt) 'a garment of several pieces sewn together';",
+        "meaning": "'a garment of several pieces sewn together'",
+        "origin_explanation": "SEMITIC: Ar. hidm 'worn-out garment'. (ta)haddama 'be worn-out (garment)'. ETHIOPIC: Te. hadāmāt 'shabby clothes'.",
+        "ethiopic_word": "ህድመት",
+        "amharic_meaning": "ከተለያዩ ቁርጥራጮች ተሰፍቶ የተሰራ ልብስ"
+    },
+    {
+        "phonetics": "hidat; see hyd.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ሂደት",
+        "amharic_meaning": "ሂደት (hyd ይመልከቱ)"
+    },
+    {
+        "phonetics": "hdy, ahdāyi (M) 'one who pacifies';",
+        "meaning": "'one who pacifies'",
+        "origin_explanation": "related to had'a, above.",
+        "ethiopic_word": "አህዳዪ",
+        "amharic_meaning": "አስታራቂ፣ የሚያረጋጋ"
+    },
+    {
+        "phonetics": "hadaya, hadaya (T.Y.K*.M) 'dissolve by overcooking, cook completely';",
+        "meaning": "'dissolve by overcooking, cook completely'",
+        "origin_explanation": "tahadya, (Lt) tahadya 'be burned through, be scorched, be dissolved by being cooked too much, be macerated, be fully cooked, be sepa-rated, (K*) become soft, (Lt) dry up'. SEMITIC: related to Ar. hdy, ahdā 'boil meat to shreds' (Dillmann 18). Fisher 73 compares Ug. hdy 'lacerate'.",
+        "ethiopic_word": "ሀደየ፣ ሐደየ",
+        "amharic_meaning": "በመብሰል መሟሟት፣ በደንብ ማብሰል"
+    },
+    {
+        "phonetics": "haf, haf; see hafawa.",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀፍ፣ ሐፍ",
+        "amharic_meaning": "ሙቀት፣ ላብ (ሀፈወን ይመልከቱ)"
+    },
+    {
+        "phonetics": "hafawa (T) hafawa 'be hot, get heated, sweat, perspire';",
+        "meaning": "'be hot, get heated, sweat, perspire'",
+        "origin_explanation": "hafāwī (Gr.15) 'who perspires'. hafāw (Gr.15) 'full of perspiration'. haf, hāf, haf 'heat, sweat, (Gr) dampness, moisture'. hafwat (Gr.15) 'act of perspiring'. SEMITIC: related to Ar. hawf, hayf 'hot wind'. ETHIOPIC: Te. haf 'heat', Tna. hafa 'fever'.",
+        "ethiopic_word": "ሀፈወ፣ ሐፈወ",
+        "amharic_meaning": "መሞቅ፣ ማላብ"
+    },
+    {
+        "phonetics": "hag 'la (yahg'al) , (L) hag'la 'be lost, be destroyed, perish, be deprived of';",
+        "meaning": "'be lost, be destroyed, perish, be deprived of'",
+        "origin_explanation": "hag'alā (yahg'al) 'lose, suffer a loss, destroy'. ahg'alā 'destroy, lose, make lose, waste, ruin, defraud, put off'. tahag'la, tahag'la (T) tahag'la 'perish, be destroyed, be ruined, be lost, fail, die'. tahāg'alā (M) 'destroy one another, ruin one another'. vastahag'alā (DTW), caus. of tahāg'alā. hag'al (hagul) 'lost, who loses, destroyed, ruined, debased, decaying, doomed to destruction, rejected, pernicious'. hag'l 'destruction, perdition, loss, waste, corruption, perfidy, havoc, ruin, end; place of perdition' (that is, abode of the dead). hag'lat 'loss, perdition'. yahg'ālī, act. part. of ahg'alā. māhg'al (māhgūl) 'destroying, deceitful, destructive, pernicious'. māh(a)g'ālī 'destroyer, who causes ruin, pernicious, who corrupts, destructive'. mohg'ālī (Lt) 'place of destruction'. tahag'ālī, part. of tahag'alā. tahag'lo (t) 'ruination, extermination, destruction'. tahg'ālī, same. SEMITIC: Ar. hgl, ahgala 'lose (wealth)'. The connection with Ar. halaka 'perish, die' suggested by Dillmann 18 is not convincing. ETHIOPIC: Te. hagla 'vanish, perish', Tna. hag'alā 'abandon, impoverish'. Amh. agg'alā 'put off'; also in Cushitic. Kham. ak'el 'disappear'. See also hagala.",
+        "ethiopic_word": "ሀጒ፣ ሐጒለ",
+        "amharic_meaning": "መጥፋት፣ መደምሰስ፣ መሞት፣ ማጣት"
+    },
+    {
+        "phonetics": "(pl. ahgur, ahgurāt)",
+        "meaning": "'city, town, village, province, district, country, homeland, inhabited region';'(hagar taqm 'walled city')';'(hagara saqam 'walled city')';'(hagar ṣanāt 'strong city')';'(saba hagar 'citizens')';'(ra'sa hagar 'capital')';'hagarit, (T) hagarīt 'town, city, state, towns-people, citizens, intimate(s), friends, acquaint-ance(s), (K*) uneducated'';'hagarāwī 'urban, pertaining to a city, civic, citizen'';'hagarītāwī, (Lt) hagarītāy 'citizen, townsman, (K*) pagan'';",
+        "origin_explanation": "SEMITIC: Ar. (Dat) hagar 'village in ruins', (Yem) hiġreh 'protected enclave', SAr. hgr 'city'. ETHIOPIC: Te. Tna. hagar 'land, country', Amh. Gur. agār. See on this root Cohen 1947:no. 1.",
+        "ethiopic_word": "ሀገር",
+        "amharic_meaning": "ከተማ፣ መንደር፣ ግዛት፣ አውራጃ፣ ሀገር፣ የትውልድ ሀገር፣ ሰው የሚኖርበት አካባቢ"
+    },
+    {
+        "phonetics": "(K)",
+        "meaning": "hag\"re 'red vermilion, red color';hagure (T) 'inkhorn';",
+        "origin_explanation": "ETHIOPIC: Te. haggära 'dye red'.",
+        "ethiopic_word": "ህጒሬ፣ ሂጎሬ፣ ሄጎሬ፣ሕጒሬ",
+        "amharic_meaning": "ቀይ ቀለም፤ የቀለም ቀንድ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hagar.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀገሪት",
+        "amharic_meaning": "ሀገርን ይመልከቱ"
+    },
+    {
+        "phonetics": "(T.Y.M)",
+        "meaning": "'be eager, be intent on something, be diligent, hurry, be fast';hagrut, (T) hagruī 'intent on something, atten-tive, eager, solicitous, who applies oneself, anxious';hagratannā, (T) hagratannā 'assiduity, applying oneself, anxiety, solicitude, (T) speed';",
+        "origin_explanation": "ETHIOPIC: Hommel 1877:56, n. 54 considers it a denominative of hagarit (see hagar) with the mean-ing 'in der Politik nach etwas streben'. This connec-tion is doubtful. See also (ta)agrata, gāhrata.",
+        "ethiopic_word": "ሀግረተ",
+        "amharic_meaning": "መጓጓት፣ በአንድ ነገር ላይ ማተኮር፣ ትጉህ መሆን፣ መቸኮል፣ መፍጠን"
+    },
+    {
+        "phonetics": "",
+        "meaning": "'whey';",
+        "origin_explanation": "from Amh. agg\"āt; also in Tna. angat (recorded by Reinisch 1890:189); perhaps from Cushitic: Sa. han-gāt 'buttermilk'.",
+        "ethiopic_word": "ሀጓት",
+        "amharic_meaning": "አጓት"
+    },
+    {
+        "phonetics": "(instead of hagawaza)",
+        "meaning": "given by MA 232) 'produce light, make pro-duce light';",
+        "origin_explanation": "a misprint in relation to hanwaza, below.",
+        "ethiopic_word": "ሀግወዘ፣ ሀገወዘ",
+        "amharic_meaning": "ብርሃን ማመንጨት፣ እንዲያበራ ማድረግ"
+    },
+    {
+        "phonetics": "(pl. hohayāt)",
+        "meaning": "'letter of the alphabet, (Lt) one iota';hohayāta fidal, (Lt) hohayāta fidal 'letters';",
+        "origin_explanation": "ETHIOPIC: Amh. hahu alā 'learn the alphabet, 'syllabary symbol, letter', Te. hahuhi be 'read the alphabet', from the first letter of the alphabet, read ha, hu, hi, and so on.",
+        "ethiopic_word": "ሆሄ",
+        "amharic_meaning": "የፊደል ገበታ ፊደል፣ ቅንጣት"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hwk, hoka.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሆከ",
+        "amharic_meaning": "ሆከን ይመልከቱ"
+    },
+    {
+        "phonetics": "(yahkak) (Lt.Y)",
+        "meaning": "hakaka (TS) 'quarrel, cause insurrection, agitate, per-turb, trouble';ahkaka (Gr.6), causative;tahakaka (K) 'be tumultuous';tahakaka (Gr.6) 'cause to be tumultuous';hakakī (Gr.6) 'tumultuous';hakuk 'turbulent, seditious, perturb-ed, troubled';hakak 'tumult, riot, revolt, turmoil, terror, alarm, uproar, quarrel, dissension, consternation, commotion, chaos, disorder, (Gr.6) religious persecution';hakak (T), same;",
+        "origin_explanation": "ETHIOPIC: related to hwk, hoka.",
+        "ethiopic_word": "ሀከከ፣ ሐከከ",
+        "amharic_meaning": "መጣላት፣ አመጽ ማስነሳት፣ ማነሳሳት፣ ማወክ፣ ማስቸገር"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hakaya.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀኬት",
+        "amharic_meaning": "ሀከየን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hwk, hoka.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሁከት",
+        "amharic_meaning": "ሆከን ይመልከቱ"
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "hakaya 'be lazy, be slug-gish, be slack, be inactive, be weary, lan-guish, be indolent';ahkaya, causative;tahakaya, (Gr.7) tahakkaya 'be sluggish, be slack, be slothful, be weary, be nonchalant, neglect, be negligent, be lazy, be indolent, be inert, be tranquil, be idle, be remiss, cease, hes-itate, delay, decline, disdain';astahakaya, caus. of tahakaya; also (Gr.7) 'de-spise, disdain, bring about dissension';hakkāy 'sluggard, indolent, inert, idle, lan-guishing, lazy, slothful, negligent';hakāyī 'weariness, idleness, slothfulness, lazi-ness, apathy, inertia, negligence';tahakāyī, part. of tahakaya;mahakāy 'one who causes weariness, wearisome';mastahakāy (Gr.7, K*), part. of astahakaya;",
+        "origin_explanation": "SEMITIC: Ar. kahiya (with metathesis) 'be weak, cowardly'. Mh. hatki (from hky) 'bend down'. Heb. kāhā (khy) 'grow dim, grow dull'. Syr. qāhā (qā) 'blunt, be dull' (so also Brockelmann 1928:650). Note that Dillmann 10 compares G. hakaya to these roots, but with reservations. Holma, ZA 28 (1914).147 identifies it with Akk. akū 'destitute, weak' (and other related Semitic roots), but von Soden 30 considers akū 'cripple' a Sumerian loan-word. ETHIOPIC: Te. hakka (hky) 'be weary, be indolent'. Tna. hakayā. Amh. haket 'indolence' (from Ge'ez), and a denominative takkātā (from t-akkātā) 'be tired, become weary'; passed into Cushitic: Bil. hakay 'tired, weary'. Qem. akēt 'laziness'.",
+        "ethiopic_word": "ሀከየ፣ ሐከየ",
+        "amharic_meaning": "መሰነፍ፣ መዝለፍለፍ፣ መንቀራፈፍ፣ መድከም፣ መታከት"
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'Gospel'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀላ",
+        "amharic_meaning": "ወንጌል"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see (halaya), halle.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀሌ",
+        "amharic_meaning": "ሀለየን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hallawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀሎ",
+        "amharic_meaning": "ሀለወን ይመልከቱ"
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "'spring (of water)';hela, (T) hela 'go out';",
+        "origin_explanation": "ETHIOPIC: Amh. hela 'cistern, deep well'; variant of (ela).",
+        "ethiopic_word": "ሄላ(I)፣ ኄላ",
+        "amharic_meaning": "የውሃ ምንጭ፤ መውጣት"
+    },
+    {
+        "phonetics": "",
+        "meaning": "'date cluster, sycamore fruit';see ahil.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሄላ(II)",
+        "amharic_meaning": "የተምር ዘለላ፣ የሾላ ፍሬ"
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'vase, utensil, object'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሁል (I)",
+        "amharic_meaning": "ዕቃ፣ መገልገያ፣ ቁሳቁስ"
+    },
+    {
+        "phonetics": "(KG)",
+        "meaning": "hul (K*) 'which is unclean';",
+        "origin_explanation": "probably transcription of Heb. hol 'profane'.",
+        "ethiopic_word": "ሁል (II)",
+        "amharic_meaning": "ርኩስ የሆነ"
+    },
+    {
+        "phonetics": "(KG)",
+        "meaning": "'skin bag for provisions'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሆሎብ",
+        "amharic_meaning": "የስንቅ አቁማዳ"
+    },
+    {
+        "phonetics": "(yəhləd)",
+        "meaning": "see hallada II.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀለደ",
+        "amharic_meaning": "ሀለደን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see əlhəluhi.",
+        "origin_explanation": "",
+        "ethiopic_word": "ህሉሂ",
+        "amharic_meaning": "እልህሉሂን ይመልከቱ"
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'whirlwind, tornado'.",
+        "origin_explanation": "ETHIOPIC: It is tempting to connect it with Sa. halkas 'cause discord'; the whirlwind would be something that causes atmospheric disturbance.",
+        "ethiopic_word": "ህልክስ",
+        "amharic_meaning": "አውሎ ነፋስ"
+    },
+    {
+        "phonetics": "(Gr.2)",
+        "meaning": "'jubilate, utter cries of joy';",
+        "origin_explanation": "SEMITIC: Ar. hallala 'rejoice, cheer', Heb. hillel 'praise, intone the Hallelujah', Aram. hallel 'praise', Syr. hellel 'rejoice', Md. hll 'utter cries of praise', Ug. hll 'shouting', Akk. alālu, atlulu 'shout' (an exclamation of joy)'.",
+        "ethiopic_word": "ተሀለለ",
+        "amharic_meaning": "እልል ማለት፣ የደስታ ድምጽ ማሰማት"
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀለሌ",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "ህላል",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'male equine at rut';",
+        "origin_explanation": "ETHIOPIC: Tna. halali, halāla 'donkey that bray's when at rut', Te. halla 'cover (animal)'. Amh. allalā 'be in heat', alāle 'of dissolute life', Gur. alāle 'donkey that is used for sexual intercourse'; also in Cushitic: Or. alali. See also allala.",
+        "ethiopic_word": "ሀለሌ",
+        "amharic_meaning": "የጋለ/የሚያቃስት አህያ (ወንድ)"
+    },
+    {
+        "phonetics": "",
+        "meaning": "'new moon';halālī 'lunar';halala (KG) 'shine, be bright' (denominative);",
+        "origin_explanation": "from Ar. hilāl 'new moon'; also in Amh. halāl 'full moon'.",
+        "ethiopic_word": "ህላል",
+        "amharic_meaning": "አዲስ ጨረቃ"
+    },
+    {
+        "phonetics": "(Gr.2)",
+        "meaning": "see hll I.",
+        "origin_explanation": "",
+        "ethiopic_word": "ህሉል",
+        "amharic_meaning": "ህሉልን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "'hallelujah';hälletā 'the chanting of hallelujah', (Gr.2) col-lection of various modes of singing halle-lujah';('anqaṣa hälletā 'index of type of melodies');",
+        "origin_explanation": "from Heb. hal(l)əlū yāh 'praise God!' through Gk. allēlouia; also Tna. halleluya. See also hll.",
+        "ethiopic_word": "ሃሌሉያ",
+        "amharic_meaning": "ሃሌሉያ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hallawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "ህሉና",
+        "amharic_meaning": "ሀለወን ይመልከቱ"
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "helänsän (K*) 'turban, referring to wrapping, (KG) carpet, rug';",
+        "origin_explanation": "perhaps from Gk. heliksin, acc. sg. of heliksis 'rolled bandage'. The difference (k:n) could be explained by confusing n and h k.",
+        "ethiopic_word": "ሄላንስን፣ ሄላንሳን",
+        "amharic_meaning": "ጥምጣም፣ ምንጣፍ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hälleluya.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሃሌታ",
+        "amharic_meaning": "ሃሌሉያን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see hallat.",
+        "origin_explanation": "",
+        "ethiopic_word": "ህለት",
+        "amharic_meaning": "ህለትን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "see (hallawa), halləw.",
+        "origin_explanation": "",
+        "ethiopic_word": "ህሉት",
+        "amharic_meaning": "ሀለወን ይመልከቱ"
+    },
+    {
+        "phonetics": "",
+        "meaning": "'be, exist, be present, be extant, there is, be available, abide, live';also as present 'is';the verb hallawa, hallo + imperfect of another verb (or imperfect + hallawa, hallo) expresses duration in the past or in the future;",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀለወ፣ ሀሎ",
+        "amharic_meaning": "መኖር፣ መገኘት"
+    },
+    {
+        "phonetics": "hallawa",
+        "meaning": "the verb hallawa with object suffix pronouns followed by a jussive expresses an obligation or an instant future (e.g. hallawakkəmu tərwaya-wo 'you will be obliged to see him'); for more details, see Cohen 1924:94-6; (za-hallo 'existing'); (za-hallo 'non-existing'); hallawa 'give existence, make live'; hallawi 'essential, substantial, unfailing, who exists, who lives'; hallaw (fem. hallut) 'existing, who exists, who lives, that lasts, lasting, constant, that is pres-ent, who originates, that is true, that is exact'; (ba-hallaw, hallawa 'really, exactly, truly'); halläwe 'substance, essence, nature, existence, hypostasis, being, state, presence, position, condition, (Lt) dwelling, residence'; (i-halläwe 'absence'); halläwayät (pl. of halläwe) 'elements'; halläwo(t), see halläwe; also 'vicissitude, chance'; (i-halläwo, i-hallo 'nothingness'); hallunä 'essence'; məhallaw 'dwelling place, domicile';",
+        "origin_explanation": "SEMITIC: Ar. (Yemen) hallo 'there is' (W. Müller, ZDMG 131 [1981].399). Dillmann 3 connects it with Ar. hāl 'state'. Praetorius 1890:34 identifies it with Ar. halala which he translates 'wait and hesitate' according to the Qāmūs, and with hallala 'remain behind'. This identification is doubtful. Cohen 1924: 94 quotes Som. hay, al 'be' according to Reinisch. Cohen 1947:no.27 connects hallawa with Ar. (Ta'izz) ma 'allōš 'there is not', but see Rodinson, JA 238 (1950).160 who analyzes ma 'allōš as coming from ma lahu šay' and does not see a connection with hallawa. ETHIOPIC: Te. halla 'be', Tna. 'allo, Arg. halla, Har. hal, Amh. allä, Gur. alä. For more details, see Leslau 1956:79-80. For G. halläwe 'hypostasis', see Cerulli 1957:20-23. For the combination of hallawa with various tenses, see Cohen 1924:94-6, 198-9, 254.",
+        "ethiopic_word": "ሀለወ፣ ሀሎ",
+        "amharic_meaning": "ግዴታን ወይም የቅርብ ጊዜን ለማመልከት ያገለግላል"
+    },
+    {
+        "phonetics": "helōyälef",
+        "meaning": "(T) name of a star;",
+        "origin_explanation": "perhaps from Gk. hēlios 'sun' combined with the letter alef; or could it be identified with həlāl 'new moon'?",
+        "ethiopic_word": "ሄሎያሌፍ",
+        "amharic_meaning": "የኮከብ ስም"
+    },
+    {
+        "phonetics": "-homu",
+        "meaning": "-homu, suffix pronoun of the 3rd masc. pl. attached to nouns ending in a vowel;",
+        "origin_explanation": "",
+        "ethiopic_word": "-ሆሙ",
+        "amharic_meaning": "የ3ኛ መደብ ተባዕታይ ብዙ ቁጥር አገናዛቢ ተውላጠ ስም (የእነሱ) በአናባቢ ለሚያልቁ ስሞች"
+    },
+    {
+        "phonetics": "homer",
+        "meaning": "(T) 'kind of measure';",
+        "origin_explanation": "transcription of Heb. 'omer. See also gomor.",
+        "ethiopic_word": "ሆሜር",
+        "amharic_meaning": "የመለኪያ ዓይነት"
+    },
+    {
+        "phonetics": "-hon",
+        "meaning": "-hon, suffix pronoun of the 3rd fem. pl. attached to nouns ending in a vowel;",
+        "origin_explanation": "SEMITIC: Ar. -hunnā, SAr. (Sabaean) -hn, Heb. -hen after a vowel, Aram. -hōn, Ug. -hn. For more details, see Brockelmann 1908:312-3; Barth 1913:66ff. ETHIOPIC: Te. -han.",
+        "ethiopic_word": "-ሆን",
+        "amharic_meaning": "የ3ኛ መደብ አንስታይ ብዙ ቁጥር አገናዛቢ ተውላጠ ስም (የእነሱ) በአናባቢ ለሚያልቁ ስሞች"
+    },
+    {
+        "phonetics": "hanb",
+        "meaning": "(Lt) 'big-mouthed jar';",
+        "origin_explanation": "",
+        "ethiopic_word": "ህንብ",
+        "amharic_meaning": "ትልቅ አፍ ያለው ማሰሮ"
+    },
+    {
+        "phonetics": "henbeliyäl",
+        "meaning": "(T+) 'white millet'",
+        "origin_explanation": "see also henäli.",
+        "ethiopic_word": "ሄንቤሊያል",
+        "amharic_meaning": "ነጭ ማሽላ"
+    },
+    {
+        "phonetics": "hank",
+        "meaning": "(Gr.6), hankä (Lt) 'take!, so then!, please!';",
+        "origin_explanation": "ETHIOPIC: Tna. hanka 'take!', Te.Tna. 'anka 'take!, Amh. 'ənka 'take!, have!, here!'. See also ka III, and 'ənka.",
+        "ethiopic_word": "ህንክ፣ ህንካ",
+        "amharic_meaning": "እንካ!፣ እባክህ!"
+    },
+    {
+        "phonetics": "hanos",
+        "meaning": "(KBT.M), hanos (T) 'sphere above the sky which is one-third water, (KG) turbid water', (L) proper name of an ocean",
+        "origin_explanation": "in view of the variant haros it is perhaps derived from Gk. ouranos 'sky'; also in Amh. hanos (from Geez).",
+        "ethiopic_word": "ሀኖስ፣ ሐኖስ",
+        "amharic_meaning": "ከሰማይ በላይ ያለ የውሃ ክምችት፣ የውቅያኖስ ስም"
+    },
+    {
+        "phonetics": "hansat",
+        "meaning": "(Lt) 'banana-like plant'",
+        "origin_explanation": "ETHIOPIC: Amh. ənsät 'Ensete muse'; also ənsät (for which see Strelcyn 1973:no.90).",
+        "ethiopic_word": "ህንሶት",
+        "amharic_meaning": "እንሰት"
+    },
+    {
+        "phonetics": "hansot",
+        "meaning": "(T+) 'plain' (n).",
+        "origin_explanation": "",
+        "ethiopic_word": "ህንሶት",
+        "amharic_meaning": "ሜዳ"
+    },
+    {
+        "phonetics": "hanwaza",
+        "meaning": "(MA) 'produce light, shine';",
+        "origin_explanation": "is a misprint in relation to hagwaza , or the other way around.",
+        "ethiopic_word": "ሀንወዘ",
+        "amharic_meaning": "ብርሃን ማመንጨት፣ ማብራት"
+    },
+    {
+        "phonetics": "happala",
+        "meaning": "(Lt) 'wash clothes';",
+        "origin_explanation": "happäli (K*) 'one who washes clothes', mahappäl, mahappel, mahappil 'one who washes clothes, fuller';",
+        "ethiopic_word": "ሀፐለ",
+        "amharic_meaning": "ልብስ ማጠብ"
+    },
+    {
+        "phonetics": "habala",
+        "meaning": "(T) 'bind, tie, plait';",
+        "origin_explanation": "SEMITIC: Ar. wabala 'hit with a stick', wabäl 'stick with which one beats clothes that are being washed to remove the dirt' (Dillmann 22).",
+        "ethiopic_word": "ሀበለ",
+        "amharic_meaning": "ማሰር፣ መቋጠር፣ መጎንጎን"
+    },
+    {
+        "phonetics": "hepa",
+        "meaning": "hepa, hepa (T) 'see hyp I, II'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሄጵ፣ ሄጰ",
+        "amharic_meaning": "ሄጰን ይመልከቱ"
+    },
+    {
+        "phonetics": "heppo diyäqon",
+        "meaning": "(T) heppo diyäqon 'assistant deacon';",
+        "origin_explanation": "from Gk. hypodiakon.",
+        "ethiopic_word": "ሂጶ፡ዲያቆን፣ ሔጶ፡ዲያቆን",
+        "amharic_meaning": "ረዳት ዲያቆን"
+    },
+    {
+        "phonetics": "hippoditen",
+        "meaning": "hippoditen, heppoditen, həppodite (T) həppodite, heppoditen 'vestment of priest';",
+        "origin_explanation": "from Gk. hypodytēs 'undergarment'.",
+        "ethiopic_word": "ሂጶዲጤን፣ ሄጶዲጤን፣ ህጶዲጤ፣ ሕጶዴጤ፣ ሔጶዴጤን፣ ሄጶዲጤ",
+        "amharic_meaning": "የካህን ልብስ"
+    },
+    {
+        "phonetics": "hippiläpi",
+        "meaning": "(MA) 'see hepeläpu'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሂጲላጲ",
+        "amharic_meaning": "ሂጲላጲን ይመልከቱ"
+    },
+    {
+        "phonetics": "heppapa",
+        "meaning": "(MA) 'bring out, make go out';",
+        "origin_explanation": "see hyp II.",
+        "ethiopic_word": "ሄጰጰ",
+        "amharic_meaning": "ማውጣት፣ እንዲወጣ ማድረግ"
+    },
+    {
+        "phonetics": "heppopä",
+        "meaning": "(Gr.14) heppäpä (T) heppäpä, heppopas 'hoopoe, (Gr.14) 'screech owl';",
+        "origin_explanation": "from Gk. epops, acc.sg. epopa 'hoopoe'. See also 'eppopä, heppan. Note that the second p is probably also geminated.",
+        "ethiopic_word": "ሄጶጳ፣ ሄጳጳ፣ ሂጳጳ፣ ሄጶጰስ",
+        "amharic_meaning": "ኡድኡድ (የወፍ ዓይነት)፣ ጉጉት"
+    },
+    {
+        "phonetics": "hipat",
+        "meaning": "hipat, see hyp I, hepa.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሂጵ",
+        "amharic_meaning": "ሄጰን ይመልከቱ"
+    },
+    {
+        "phonetics": "haqqu",
+        "meaning": "(T.M) 'deacon';",
+        "origin_explanation": "any connection with heppo ?",
+        "ethiopic_word": "ህቁ",
+        "amharic_meaning": "ዲያቆን"
+    },
+    {
+        "phonetics": "harbada",
+        "meaning": "(T.Y) harbada 'be vio-lently mad, be maddened, be furious, tremble with fear, (K) be spoiled, behave in a fashion not in keeping with one's true condition, (L) 'wallow in mire';",
+        "origin_explanation": "taharbada 'be driven by madness'; harbud (L) 'enraged, full of wrath'; harbadənnä (K) 'arrogance, state of being pam-pered'; taharbədo 'violent madness'; SEMITIC: related to Ar. 'arbada 'be quarrelsome, be ill-natured'. ETHIOPIC: Te. harbäda 'stupidity', Tna. 'arbäd-bädä 'gesticulate wildly', 'əbädəbäd bälä, same. Amh. 'aräbädbädä 'be agitated'; enlarged with r in relation to 'əbäda 'be insane, be enraged', above; see also Rū-žička 124. For the initial ' of Ar. and Tna., cp. Tna. 'abädä 'go mad'.",
+        "ethiopic_word": "ሀርበደ፣ ሐርበደ",
+        "amharic_meaning": "በኃይል ማበድ፣ መቆጣት፣ በፍርሃት መንቀጥቀጥ"
+    },
+    {
+        "phonetics": "herodäyänos",
+        "meaning": "(T) 'heron';",
+        "origin_explanation": "see 'arodayon.",
+        "ethiopic_word": "ሄሮድያኖስ",
+        "amharic_meaning": "ሽመላ"
+    },
+    {
+        "phonetics": "haraka",
+        "meaning": "(Y.M) 'bind, tie, plait';",
+        "origin_explanation": "seems to be a reconstructed form of mähraka, for which see below.",
+        "ethiopic_word": "ሀረከ",
+        "amharic_meaning": "ማሰር፣ መቋጠር፣ መጎንጎን"
+    },
+    {
+        "phonetics": "harmäs",
+        "meaning": "(Lt) 'elephant';",
+        "origin_explanation": "probably to be identified with harmaz, below. In this case harmäs would be reconstructed from a pl. *harmäst < harmäzət, by assimilation. Note that h of harmäs could be a variant of harmaz. As for Ar. hirmīs 'lion, rhinoceros, buffalo', it is puzzling in relation to G. harmäs. See also Noeldeke 1910:58.",
+        "ethiopic_word": "ሀርማስ",
+        "amharic_meaning": "ዝሆን"
+    },
+    {
+        "phonetics": "haros",
+        "meaning": "(T) 'sky';",
+        "origin_explanation": "see hanos.",
+        "ethiopic_word": "ሀሮስ",
+        "amharic_meaning": "ሰማይ"
+    },
+    {
+        "phonetics": "harəstiyos",
+        "meaning": "(T+) 'weasel';",
+        "origin_explanation": "perhaps corrupt from Gk. hystriks 'porcupine' (Hommel 1877:xxiii).",
+        "ethiopic_word": "ህርስቲዮስ",
+        "amharic_meaning": "ፍልፈል"
+    },
+    {
+        "phonetics": "hosē",
+        "meaning": "(T) 'help!';",
+        "origin_explanation": "transcription of Heb. hōšīa, hōšī 'help!'.",
+        "ethiopic_word": "ሆሴዕ",
+        "amharic_meaning": "እርዳ!"
+    },
+    {
+        "phonetics": "hosä'nä",
+        "meaning": "(T) 'Hosanna, palm tree, Palm Sun-day';",
+        "origin_explanation": "(zahosä'nä, ba'äla hosä'nä, 'alata hosä'nä 'Palm Sunday'); (mahätowa hosä'nä 'eve of Palm Sunday'); see hatawa; From Heb. hōšī-'nā 'help, please!' through Gk. hōsanna; also in Te. hosa'ana, 'awsa'ana, Tna. hosa-'na; in Cushitic: Kham. ausana.",
+        "ethiopic_word": "ሆሳዕና",
+        "amharic_meaning": "ሆሳዕና፣ የዘንባባ ዛፍ"
+    },
+    {
+        "phonetics": "hasapa",
+        "meaning": "(MA) 'be violent, be rebellious, be unjust';",
+        "origin_explanation": "undoubtedly a misprint in relation to harapi with the same meaning.",
+        "ethiopic_word": "ሀሰጰ",
+        "amharic_meaning": "ዓመፀኛ መሆን፣ ፍትሃዊ አለመሆን"
+    },
+    {
+        "phonetics": "hasop",
+        "meaning": "hasop, hašopu, haspu, hušpu, husopu, hosopu 'hyssop';",
+        "origin_explanation": "(hamla haspu 'hyssop'); from Gk. hyssōpos 'hyssop'; also in Te. hisop. See also 'azäb.",
+        "ethiopic_word": "ህሶጵ፣ ህሥጱ፣ ህስጱ፣ ሁስጱ፣ ሁሶጱ፣ ሆስጱ",
+        "amharic_meaning": "ሂሶጵ (ዕፅ)"
+    },
+    {
+        "phonetics": "hesəqäpa",
+        "meaning": "(T.M) 'plow, cultivate the land' (the form is strange);",
+        "origin_explanation": "hesəqäpe (T.M) 'cultivated land, plantation';",
+        "ethiopic_word": "ሄስቀፐ",
+        "amharic_meaning": "ማረስ፣ መሬት ማልማት"
+    },
+    {
+        "phonetics": "husāse (KG)",
+        "meaning": "see hašāša.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሁሳሴ",
+        "amharic_meaning": "ሁሳሴን ይመልከቱ"
+    },
+    {
+        "phonetics": "hawā (KP)",
+        "meaning": "instead of hawā (KBT), hawā (K) 'atmosphere';",
+        "origin_explanation": "from Ar. hawā; also Amh. hawā, Har. hawā, Tna. hawāwā 'air'.",
+        "ethiopic_word": "ህዋ፣ ሕዋ፣ኀዋ",
+        "amharic_meaning": "አየር፣ ከባቢ አየር"
+    },
+    {
+        "phonetics": "hwk, hoka (yəhuk)",
+        "meaning": "'stir up, move, disturb, agitate, excite, toss about, perturb, unsettle, trouble, vex, molest'; 'ahoka (J), causative; tahawaka, tahawaka, tahoka, passive; also 'move about, quake, rebel'; hawāki, act. part. of hoka; also 'inconstant, who causes unrest, agitator'; həwwuk, həwwuk, pass. part. of hoka; huk same as hukat; hukat 'movement, motion, trouble, turmoil, disturbance, tumult, perturbation, commotion, uproar, turbulence, agitation, disorder, riot'; tahawāki 'perturbed, moved violently'; tahawāko 'tumult, disorder, perturbation, unrest, agitation'; mahawāk, māhəwāk, act. part. of hoka;",
+        "origin_explanation": "SEMITIC: Ar. (ta)hawwaka 'be stupefied, be astounded' (Armbruster 14). The connection with Biblical Aram. hāk in yəhāk 'he goes' suggested by Noel-deke, ZA 20 (1907).142, n.1 is unlikely. ETHIOPIC: Te. hawwāka 'confound, excite', Tna. hawwākā 'agitate, excite, stir up', Amh. awwākā; passed into Cushitic: Bil. hawāk 'excite, stir up', Sa. hawk-e 'tumult'.",
+        "ethiopic_word": "ሆከ",
+        "amharic_meaning": "ማነሳሳት፣ ማንቀሳቀስ፣ ማወክ፣ ማስቸገር"
+    },
+    {
+        "phonetics": "hawlaya I (T)",
+        "meaning": "ridicule, mock, make fun of, jeer at, (T.M) despise, (Lt) underestimate, (T) be distrustful'; tahawlaya 'amuse oneself, procure for oneself a spectacle'; hawlayo (Lt) 'spectacle';",
+        "origin_explanation": "SEMITIC: Could be considered a variant of hablaya (above), with weakening of b, but this root could also be considered related to Heb. hll (polel) 'make a fool of', Syr. hll (afel) 'deride, mock'. ETHIOPIC: Te. halāwlaw 'fool'; see hablaya.",
+        "ethiopic_word": "I ሀውለየ፣ ሐውለየ",
+        "amharic_meaning": "ማሾፍ፣ መሳለቅ፣ መቀለድ፣ መንቃት"
+    },
+    {
+        "phonetics": "hawlaya II (Y.M)",
+        "meaning": "mix, mingle, confuse'; see hawala I.",
+        "origin_explanation": "",
+        "ethiopic_word": "II ሀውለየ፣ ሐውለየ",
+        "amharic_meaning": "መቀላቀል፣ ማደባለቅ"
+    },
+    {
+        "phonetics": "hawlaya III (Y)",
+        "meaning": "'burn brightly, be vivid (color), be restless';",
+        "origin_explanation": "",
+        "ethiopic_word": "III ሀውለየ",
+        "amharic_meaning": "ደምቆ ማብራት፣ ደማቅ ቀለም መሆን"
+    },
+    {
+        "phonetics": "hewlāyāt (Gr.7)",
+        "meaning": "'the elements';",
+        "origin_explanation": "W. Müller suggests Gk. hýlē 'matter', perhaps rather metathesis of hallāwe (see hallawa).",
+        "ethiopic_word": "ሄውልያት",
+        "amharic_meaning": "ንጥረ ነገሮች"
+    },
+    {
+        "phonetics": "hawwata (MA)",
+        "meaning": "'decorate, adorn, embellish';",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀወጠ",
+        "amharic_meaning": "ማስጌጥ፣ ማሳመር"
+    },
+    {
+        "phonetics": "hayya, hiyya",
+        "meaning": "'there, thither, in that place'; bahayya 'there'; əmhayya 'from there, thence'; ənta hayya 'that way, through it'; haba hayya 'thither, to that place';",
+        "origin_explanation": "SEMITIC: Barth 1907:20.25 connects it with PbH. hē 'behold!, here is!'. Philippi, ZDMG 29 (1875).172 analyzes hayya and zaya as coming from hā, and za with -(y)ya 'a pronominal root' which he sees in Ar. hiya 'she'. For the final -(y)ya, see zaya, below.",
+        "ethiopic_word": "ህየ፣ ሂየ",
+        "amharic_meaning": "እዚያ፣ ወደዚያ"
+    },
+    {
+        "phonetics": "hayb",
+        "meaning": "'coagulated milk';",
+        "origin_explanation": "from Amh. ayb.",
+        "ethiopic_word": "ሀይብ",
+        "amharic_meaning": "አይብ"
+    },
+    {
+        "phonetics": "hyd, heda (yəhid)",
+        "meaning": "'rob, take by force, plunder, spoil, break (the law), carry away by force, wrest, snatch away, confiscate, seize, wrong, outrage, (figurative) ravish, be witch' (for the figurative meaning 'ravish, be witch', cp. Amh. marrākā 'take prisoner in war, capture, captivate, fascinate'); hayyada, intensive of the preceding meaning 'aheda (Gr.12), causative of heda; tahayyada, passive; hayyādi, act. part. of hayyada; also 'rapacious'; hayyud (Gr.12) 'robbed'; hayyād (Lt) 'extortioner, robber'; hayd 'plunder, pillage, robbery, wresting'; hidat 'plundering, robbery, abduction'; tahayyādi (Gr.12) 'who was robbed'; təhayyədənna 'the condition of being robbed' (təhəddənna of M 283 is perhaps a misprint for təhayyədənna); məhayyəd 'robber, extortioner';",
+        "origin_explanation": "SEMITIC: comes close to the meaning of Ar. hāda (hyd) 'distress, oppress'.",
+        "ethiopic_word": "ሄደ፣ ሔደ",
+        "amharic_meaning": "መዝረፍ፣ በኃይል መውሰድ፣ መቀማት"
+    },
+    {
+        "phonetics": "haydādā",
+        "meaning": "'prevent, interdict', hedā 'be taken away (object)'.",
+        "origin_explanation": "ETHIOPIC: Tna. haydādā 'prevent, interdict', hedā 'be taken away (object)'.",
+        "ethiopic_word": "ሀይዳዳ",
+        "amharic_meaning": "መከልከል"
+    },
+    {
+        "phonetics": "hayada (Y.KG), hayada",
+        "meaning": "'glitter, shine'; hayādi (KG) 'that glitters, that shines'.",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀየደ፣ ሐየደ",
+        "amharic_meaning": "ማንጸባረቅ፣ ማብራት"
+    },
+    {
+        "phonetics": "haydo (T)",
+        "meaning": "'guide of the blind', perhaps hayyādō 'making go, walk' hayyāda 'make go';",
+        "origin_explanation": "from Amh. hedā 'go, walk'; it could also be in connection with Ar. hadā (hdy) 'guide'.",
+        "ethiopic_word": "ሀይዶ",
+        "amharic_meaning": "የዕውር መሪ"
+    },
+    {
+        "phonetics": "haykal I , haykal",
+        "meaning": "'temple, sanctuary, altar, (T) Noah's ark';",
+        "origin_explanation": "from Ar. haykal, Syr. haykalā, Aram. hēkālā (hēkal 274), also Heb. hēkāl, Ug. hkl < Akk. ekallu. Sumerian origin. For a bibliography, see D. Cohen 1970:18; add Blau 50, n.14, Kaufman 27.",
+        "ethiopic_word": "I ሀይከል፣ ኀይከል",
+        "amharic_meaning": "ቤተ መቅደስ፣ መሠዊያ"
+    },
+    {
+        "phonetics": "haykal II , haykal",
+        "meaning": "(Lt) 'amulet';",
+        "origin_explanation": "Getatchew, BSOAS 43 (1980). 225, n. 127 connects it with Ar. haykal 'frame'; also Te. Tna. haykāl.",
+        "ethiopic_word": "II ሀይከል፣ ሐይከል",
+        "amharic_meaning": "ክታብ"
+    },
+    {
+        "phonetics": "haykāntos (T)",
+        "meaning": "'precious stone';",
+        "origin_explanation": "from Gk. hyakinthos 'jacinth'. See also yākānt.",
+        "ethiopic_word": "ህያክንቶስ",
+        "amharic_meaning": "የከበረ ድንጋይ"
+    },
+    {
+        "phonetics": "hayyal (pl. hayyalāt) (L.T) hayyal",
+        "meaning": "'ibex, mountain goat';",
+        "origin_explanation": "SEMITIC: Ar. 'ayyal 'mountain goat, stag', Šh. hayyol, Sar. 'yl, Heb. 'ayyāl, Aram. 'ayyālā, 'ayyālā, Md. aiāla 'deer', Ug. 'yl, Akk. ayyālu. For a bibliography, see D. Cohen 1970:17. ETHIOPIC: Tna. hay(y)al 'antelope', Amh. hayyal (from Geez).",
+        "ethiopic_word": "ሀየል፣ ኀየል",
+        "amharic_meaning": "ዋልያ፣ የተራራ ፍየል"
+    },
+    {
+        "phonetics": "haymana (Gr.11)",
+        "meaning": "'be a believer, be faithful (in the religious sense), have the faith' (denominative); tahaymana (Gr.11), causative; tahaymana (Gr.11) 'believe, show oneself a believer'; hāymānot, haymānot 'belief, creed, faith, religion'; (hāymānot rətu't 'orthodox religion'); (hāymānot masihāwit 'faith of the Unitedists'; see Crummey 20-3); (hāymānotəna 'abaw 'the Faith of the Fathers', a collection of confessions and testimonies of the Church Fathers concerning their Christian belief; see Hammerschmidt 1977:82); (haddisa hāymānot 'heresy'); (rətu'a hāymānot 'orthodox'); (mazgaba hāymānot 'Treasure of the Creed', see Hammerschmidt 1977:62); hāymānotāwi (Gr.11) 'believer, faithful, religious'; məhayyam 'believer, faithful (in the religious sense), trusty, trustworthy, (Lt) coreligionist';",
+        "origin_explanation": "for the Aramaic or Syriac origin of hāymānot, see Polotsky 6-7 and others quoted in Polotsky's article, Noeldeke 1910:35; also in Tna.Amh.Gur. haymanot. For G. məhayyam, cp. Amh. māhayyaman, məhayyam, mayyam (from Geez), Gur. mayam (from Amharic).",
+        "ethiopic_word": "ሀይመነ",
+        "amharic_meaning": "አማኝ መሆን፣ ማመን"
+    },
+    {
+        "phonetics": "hayyanta",
+        "meaning": "'instead of, in place of, in return for, in substitution for, by reason of, (Gr.8) because of, in compensation, like'; the suffix pronouns are attached to the base hayyante-; e.g. hayyantehu lakrəstos 'the vicar of Christ';",
+        "origin_explanation": "ETHIOPIC: Tna. hayyānta 'replacement for, in place of'. Praetorius 1871:237 identifies it with Tna. kəndi 'instead of', with ni (of Geez) > nd, by assimilation (see also Brockelmann 1908:153), but the Geez h becoming k in Tigrinya is difficult to explain. Rundgren 1955:232 analyzes it either as hayya-n-ta or hayya-anta. Praetorius 1879:270 derives it from G. wahaya 'wander about' > hay(y)at, 'etwa 'Gang. Weg' (vgl. 'Wegen')' > hay(y)anta, with inserted n. However, the verb is wahaya, not wahaya. See also hayyata.",
+        "ethiopic_word": "ህየንተ",
+        "amharic_meaning": "በ... ፋንታ፣ በ... ምትክ፣ በ... ምክንያት"
+    },
+    {
+        "phonetics": "hyp I, hepa (yəhip) , hepa",
+        "meaning": "'strike, smite, shoot with an arrow, throw, hit with a bow and arrow, brandish a spear, pierce, split (someone's head), (L) hit the target by throwing a stone or by shooting an arrow'; ahepa (Gr.13), causative; tahaypa, passive; hayāpi (Gr.13), act. part. of hepa; hayyup (Gr.13), passive part. of hepa; hepu (T) 'disease' (from hepa 'strike', cp. Amh. mātta 'beat', māčč 'disease'); hipat, verbal noun of hepa; tahayāpi (Gr.13) 'struck'; hayp (Gr.13) 'noun'; hayp 'smite, wound'.",
+        "origin_explanation": "SEMITIC: Dillmann 16 compares Ar. habba 'cut, sever (sword)'.",
+        "ethiopic_word": "I ሄጰ፣ ሔጰ",
+        "amharic_meaning": "መምታት፣ በቀስት መወርወር፣ መውጋት"
+    },
+    {
+        "phonetics": "hyp II, hepa (MA)",
+        "meaning": "'go, leave, bubble, gush'",
+        "origin_explanation": "",
+        "ethiopic_word": "II ሄጰ",
+        "amharic_meaning": "መሄድ፣ መውጣት፣ መንተክተክ"
+    },
+    {
+        "phonetics": "hepapa",
+        "meaning": "'make go out'",
+        "origin_explanation": "",
+        "ethiopic_word": "ሄጰጰ",
+        "amharic_meaning": "እንዲወጣ ማድረግ"
+    },
+    {
+        "phonetics": "hep (instead of hep of MA)",
+        "meaning": "'spring'",
+        "origin_explanation": "",
+        "ethiopic_word": "ሄጵ",
+        "amharic_meaning": "ምንጭ"
+    },
+    {
+        "phonetics": "hepa I",
+        "meaning": "'shoot > go out, bubble'",
+        "origin_explanation": "(cp. English 'shoot [arrows, plants])'",
+        "ethiopic_word": "I ሄጰ",
+        "amharic_meaning": "መውጣት፣ መንተክተክ"
+    },
+    {
+        "phonetics": "hayyata, hayyate (T)",
+        "meaning": "'instead of, in place of'",
+        "origin_explanation": "it is difficult to decide whether hayyata is the original form developed into hayyanta (with an augmented n) or whether the original form is hayyanta becoming hayyata.",
+        "ethiopic_word": "ህየተ፣ ህየቴ",
+        "amharic_meaning": "በ... ፋንታ፣ በ... ምትክ"
+    },
+    {
+        "phonetics": "hyy, tahayyaya (T)",
+        "meaning": "'be free from care, be careless, be heedless, be unmindful, disregard, overlook, forsake, be indifferent, be neglectful, esteem lightly, disdain, scorn, despise'",
+        "origin_explanation": "",
+        "ethiopic_word": "ተሀየየ፣ ተሐየየ",
+        "amharic_meaning": "ቸል ማለት፣ አለማሰብ፣ መተው፣ መንቃት"
+    },
+    {
+        "phonetics": "ahyaya",
+        "meaning": "'cause to disregard, cause to overlook, cause to be dumbfounded'",
+        "origin_explanation": "",
+        "ethiopic_word": "አሀየየ",
+        "amharic_meaning": "ቸል እንዲባል ማድረግ፣ ዝም እንዲባል ማድረግ"
+    },
+    {
+        "phonetics": "hayyuy",
+        "meaning": "'who neglects, who is heedless, who holds in light esteem'",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀዩይ",
+        "amharic_meaning": "ቸልተኛ፣ ንቀኛ"
+    },
+    {
+        "phonetics": "hayyat (K)",
+        "meaning": "'negligence, carelessness'",
+        "origin_explanation": "",
+        "ethiopic_word": "ሀየት",
+        "amharic_meaning": "ቸልተኝነት፣ ጥንቃቄ የጎደለው መሆን"
+    },
+    {
+        "phonetics": "tahayyayi",
+        "meaning": "part. of tahayyaya",
+        "origin_explanation": "",
+        "ethiopic_word": "ተሀያዪ",
+        "amharic_meaning": "ቸልተኛ (ተሀየየን ይመልከቱ)"
+    },
+    {
+        "phonetics": "tahayyayo(t)",
+        "meaning": "'negligence, carelessness'",
+        "origin_explanation": "",
+        "ethiopic_word": "ተሀያዮ",
+        "amharic_meaning": "ቸልተኝነት"
+    }
+]

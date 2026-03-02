@@ -1,0 +1,2070 @@
+[
+    {
+        "phonetics": "ṭəm, aṭama",
+        "meaning": "'repay a debt';",
+        "origin_explanation": "ETHIOPIC: Amh. aṭ-ṭaṭamā (from ṭamā) 'finish, complete a task'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭp I, anṭaṭa",
+        "meaning": "'be agitated, be terrified, be worried, be dismayed';",
+        "origin_explanation": "ETHIOPIC: Tna. ṭaṭa' bālā 'be annoyed, be vexed', Amh. ṭaṭa 'trouble, tribulation, nuisance'. See ša'ša'a.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭp II, ṭaṭa (Y.Lt) ṭaṭa ṭaṭo, (T) ṭaṭa ṭaṭa",
+        "meaning": "'be properly arranged, be settled, be inclined favorably, (T.M) have good savor (food), be pleasant, (MA) speak clearly, be well-spoken, (K*) sweep'",
+        "origin_explanation": "(undoubtedly a transcription of Heb. ṭiṭe') SEMITIC: Noeldeke 1910:112, n. 3 connects G. ṭaṭa'a with Ar. waṭi'a 'level off by treading upon'. Wajnberg 1937a:35 compares G. (ṭa)ṭaṭa with Heb. ṭṭ (pi'el) 'sweep' (but see ṭaṭaṭa, above). Note that Heb. ṭṭ is connected by Kopf 146-7 with Ar. waṭi'a 'tread, trample down'. ETHIOPIC: Amh. (ṭa)ṭaṭṭa 'be well-arranged'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭeṣa ṭo",
+        "meaning": "see ṭy",
+        "origin_explanation": "None",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭoṣa ṭo",
+        "meaning": "see ṭw",
+        "origin_explanation": "None",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaṣf ṭoṣ (T)",
+        "meaning": "see ṭaḥf, ṭayf.",
+        "origin_explanation": "None",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭa'ma, ṭa'ama (yaṭ'am, yaṭ'əm) ṭəm: ṭəm → (T) ṭa'ama ṭəm",
+        "meaning": "'taste (intr), be tasty, be delicious, be savory, be sweet, experience (e.g. death)';",
+        "origin_explanation": "SEMITIC: Ar. ṭa'ima 'taste' (v), SAr. ṭ'm 'give enjoy-ment', Sh. ṭa'am 'taste', Heb. ṭa'am, Aram.-Syr. ṭa'am, Md. ṭam, Akk. ṭēmu 'sense, discernment' (also Heb. ṭa'am 'sense, discernment, decree'); for the meaning 'taste, understanding', see Palache 36. For Heb. Aram. 'order, decree' borrowed from Akkadian, see Kaufman 109. ETHIOPIC: Tna. ṭa'amā 'taste', Te. ṭa'amā, ṭəmaṭəma (from ṭm > ṭm > ṭmṭm), Amh. ṭamā, Har. ṭāma, ṭəma, Gur. ṭamā, Gaf. ṭamā, Arg. ṭaḥama; passed into Cushitic: Or. ṭami 'taste, flavor', Dar. ṭe'me 'taste good', Bil. ṭām, Sa. ṭa'am.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəṣənā ṭəṣ (T) ṭəṣənā ṭəṣ",
+        "meaning": "see ṭəṣya.",
+        "origin_explanation": "None",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta-aqa moq (T)",
+        "meaning": "'enclose, clasp around, (T.Y.M) tighten, put in straits'; 'at'aqa (Lt), same; also causative'; 'ta'uq (T.M) 'straitened''",
+        "origin_explanation": "SEMITIC: Aram. ta'aq 'be narrow, be oppressed'; related to twq, toqa (see below), and 'atqaqa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta'ot (pl. ta'otat)",
+        "meaning": "'idol, ungodliness'; '(mamlake ta'ot 'idolater')'; 'ta'awa (y'a'aw) (K*Y) 'err, worship idols' (de-nominative)'; 'at'awa 'worship idols, foretell, divine'; '(za-y'at'u 'idolater')'; 'ta'awi 'soothsayer, fortune-teller, (K) idol worshiper'; 'at'awo 'idolatry''; 'mat'awi, mat'awi, (Lt) mata'awi, (K*) at'awi 'idolater, heathen, fortune-teller, soothsayer'",
+        "origin_explanation": "from Aram. ta'uta 'idol' (Noeldeke 1910:35, Jeffery 202-3, Polotsky 6); also Tna. ta'ot 'idol', 'at'awa 'worship idols'. Te. Amh. ta'ot 'idol'. For Ar. tagut 'idolatry', coming from Aramaic (or possibly from Syriac ta'uta), see Noeldeke 1910:48, Jeffery 203. On the various opinions expressed by Western scholars and Arab lexicographers concerning Ar. tagut, see Wahib Atallah, Arabica 17 (1970), 71ff. On p. 78 he derives it from Thot, the ancient Egyptian divinity. See also (wgb I), gabt. SEMITIC: Heb. ta'a (t'y) 'stray, err', Syr. ta'a, Md. taa; for Ar. syr., see above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta'it",
+        "meaning": "see (t'a)ya, t'u'ay.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta'awa",
+        "meaning": "see ta'ot.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta-(a)wa (pl. at'awa)",
+        "meaning": "'suckling, fatted calf, young of a flock, young animal (calf, heifer, lamb)'; '(ta'awa lahm 'calf')'; '(ta'awa faras 'colt')'",
+        "origin_explanation": "ETHIOPIC: Tna. ta'awa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ta'aya (y'a'ay)",
+        "meaning": "'be healthy, prosper, heal (intr.), regain health'; 'at'a'aya 'make healthy, heal (tr.), keep (tr) in good health'; 'ta'uy (fem. ta'it) 'healthy, sound, sane'; '(ta'uy-a, ta'it-a 'in good health')'",
+        "origin_explanation": "ta'ay (Gr) 'health, soundness'; ta'ay 'prosperity'; ta'ina, (T) ta'ina 'health, soundness, prosperity'; ta'yat 'healing, health'; at'ayi, (Gr) mat'ayi 'who cures'; mat'ay (fem. mat'it) 'who heals, who cures'; mat'ay 'place where one heals, medicine'; ETHIOPIC: Tna. ta'aya 'be healthy', Tna.Te. ta'ay 'health', Amh.Gur. tena, from *t'y with the suffix -na.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabba mll",
+        "meaning": "see tbb I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "teba mll",
+        "meaning": "see tyb.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tab (pl. atbat)",
+        "meaning": "'female breast'; see tabawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tibb mll",
+        "meaning": "see tbb I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tobi, tub, tubah mll",
+        "meaning": "the fifth Coptic month from Coptic tobe through Chr.-Ar. tuba.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "taba I (yat'aba)",
+        "meaning": "'be ready, be willing, prepared, lend oneself spontaneously, be persevering, be steadfast, be bold, dare, be determined, be resolute, show zeal, be eager, be confident'; 'at'aba, causative; also 'make ready, make steadfast, decide upon, determine, be constant, dare, be firm, prepare (oneself) to act, persevere, affirm, do willingly, make bold, be courageous, encourage, strengthen, incite'; '(at'aba labbo 'he took courage')'; '(at'aba nafso 'he was decided, he decided')'; 'tabu 'steadfast, prepared, ready, willing, eager, constant, persevering, assiduous, decided, intrepid, bold, audacious, determined, resolute, courageous, confident, trustful'; '(tabu'a, ba-tabu' 'adverb from tabu')'; 'tab'at 'determination, perseverance, constancy, eagerness, assurance, confidence, stoutness (of heart), desire, zeal, energy, willingness, bravery, courage, boldness, ardor'; 'tab'anna 'audacity, boldness'; 'mat'aba (Lt) 'prompt''",
+        "origin_explanation": "ETHIOPIC: Te. tab'a 'be proud'; passed into Coptic. Bil. tabe.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "taba II mll",
+        "meaning": "(Lt) 'customary'; 'tab'ot, tab'at 'daily task, duty, daily salary'; 'tab'ot, tab'ot (Lt) 'nature'; 'tab'awt (Gr.346) 'daily task, duty, daily salary'",
+        "origin_explanation": "from Ar. tabia 'have a natural aptitude or disposition', tabia 'nature'; see also tabaya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tab'ot",
+        "meaning": "'brick'",
+        "origin_explanation": "from Ar. tub; also Te. tob, Tna. hatub, Amh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tab'awt",
+        "meaning": "see taba II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tbb I, tabba, tababa mll",
+        "meaning": "'be wise, prudent, be sage, gain wisdom, be intelligent, be reasonable, be clever, be sober, be skilled, be learned, be subtle, philosophize'; 'at'ababa 'make wise, give wisdom, inculcate knowledge, gain wisdom'; 'tatababa, (T) tatababa 'acquire wisdom, taught wisdom, grow wise, act wisely, be instructed, display wisdom, show off with wisdom, play the wise man, be cunning, be crafty, deal craftily, beguile'; 'astatababa 'consider oneself wise''; 'tababi (K*), act. part. of tababa'; 'tabib (fem. tabbab; pl. masc. tabiban, tabbabi, fem. tabibat) 'wise, wise man, scholar, clever, prudent, expert, skilled, craftsman, artisan, sober, philosopher, (Lt) magician'; 'tibb (Lt) 'wisdom'; 'tabab 'wisdom, knowledge, science, prudence, skill, experience, intelligence, cunning, ruse, ability'; '(ba-tabab 'skillfully')'; 'tabibanna 'the quality of being prudent or wise, intellect, (Lt) philosophy'; 'at'ababi (Gr), act. part. of at'ababa; 'mat'ababi 'instructor'; 'mat'ababi (Gr), part. of at'ababa; also 'erudite teacher, instructor, physician'; 'tatababi 'sagacious, clever'; 'tatababit (fem.) 'female diviner, fortune-teller'; 'tatab'at 'astuteness, skill, cleverness, craft,'; 'tat'abot 'guile, craft, cunning, (Lt) wisdom'; 'tat'abot (Lt) 'skill'; 'tat'ab 'cunning, guile''",
+        "origin_explanation": "SEMITIC: Ar. tabba 'be intelligent, treat medically', SAR. tbb 'teach, proclaim', Soq. teb 'know', Heb. tebib in Prov. 15:2 is read tatteb (from tbb 'announce') by Driver, Biblica 22 (1951),181-2, Syr. tab 'be informed, know, make inquiry', tebba 'knowledge'. ETHIOPIC: Tna. tababa 'be wise', Te. tabba (tbb), Amh. tabbaba 'invent a new technique or skill', Amh.Har.Gur. tabab 'wisdom', Tna.Te. tabib 'ironsmith', Amh. tabib, tayab 'wise person, artisan, metalsmith, ironworker, tanner', Gur. tibbe 'magic', tibbanna 'magician'. See also tatababa II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tbb II, tabba, tababa mll",
+        "meaning": "'be healed, be cured'; 'tabib 'physician''",
+        "origin_explanation": "from Ar. tabba 'practice medicine'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tab(b)ab mll",
+        "meaning": "'narrow, tight'",
+        "origin_explanation": "from Amh. tabbaba 'be narrow, be tight', tabbab 'tight, narrow'; the Geez form is sababa, sabbab.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabdan (pl. tabadan)",
+        "meaning": "(K*T.Sw. in D 1233) 'linen, hide worn as garment, (KG) robe of state, (T*) leather-edged rim of a measuring basket, leather back-pack for carrying a baby'",
+        "origin_explanation": "transcription of the Greek article ta, and baddin, from Heb. baddim, pl. of bad 'piece of cloth, linen'. See also tabnada, badn I, and dabdana.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tubah, tubah mll",
+        "meaning": "see tobi.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabha (yat'abha)",
+        "meaning": "'slaughter, slay, kill, cut up, (K*Y) sacrifice, skin'; 'at'abha (K*Gr), causative; also 'make an incision, sacrifice'; 'tat'abha 'passive of tabha'; 'tat'abaha (Lt) 'slaughter one another'; 'tabhi (K*), act. part. of tabha'; 'tabuh, pass. part. of tabha; also (Gt) 'meat'; 'tabh 'slaughter, sacrifice, sacrificial victim'; 'tabhat, verbal noun of tabha; also 'sacrifice'; 'mat'abhat 'place where one slays, place of sacrifice'; 'mat'abhat (pl. mat'abhat) 'sword, dagger, knife, sacrificial knife, hatchet'; 'mat'abhat (K*) 'owner of a sword or knife, pertaining to a sword or knife''",
+        "origin_explanation": "SEMITIC: Heb. tabah 'slaughter', Aram.-Syr. tabah,",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabaḥu",
+        "meaning": "slaughterer, cook, butcher",
+        "origin_explanation": "Ug. ṭbḥ (with ḥ), Ph. ṭbḥ 'slaughterer', Akk. ṭabāḥu (with ḥ) 'slaughterer', related to ṭbḥ 'cook, bake', in Ar. ṭabāḥa 'cook', Sar. ṭbḥ 'meat' (that which is cooked), Hars. ṭebōḥ 'cook, boil', Ug. ṭbḥ 'slaughterer, cook'. For the connection between 'slaughterer' and 'cook', cp. Fronzaroli 1972, VII, 620 who states that \"le funzioni di macellaio e di cuoco erano affidate alla stessa persona\". ETHIOPIC: Tna. ṭābḥe 'strip off the skin', Te. ṭābḥa, Har. ṭāḥāḥa, Amh. ṭābbā, Gur. ṭāba.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabal",
+        "meaning": "holy water, baptismal water",
+        "origin_explanation": "ETHIOPIC: Tna. sābāl 'holy water', Amh. ṭābāl, sābāl. In view of Tna. sābāl, it is possible that G. ṭābāl is taken from Amharic. If the root is ṭbl, cp. Heb. ṭābal 'dip into (a liquid)'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabl",
+        "meaning": "timbrel",
+        "origin_explanation": "from Ar. ṭabl < Aram.-Syr. ṭablā (Fraenkel 284); for its Persian origin, see Payne Smith 1425, Krauss 255); also Te. ṭabl, from Arabic; cp. also in Sh. ṭēl (from ṭbl) 'drum', Hars. ṭbl, Md. ṭabla.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tablala",
+        "meaning": "fold up, roll up, wind, envelop, wrap, swathe",
+        "origin_explanation": "SEMITIC: Heb. ṭābūl-īm 'turban'. ETHIOPIC: Tna. ṭāblālā 'roll up, wrap up', Te. ṭāblāla, Amh. ṭābālālā, ṭāmbālālā, Gur. ṭābālālā, ṭombālālā, Har. ṭālālā 'wrap up, roll up' (from ṭbll, with b > zero); passed into Cushitic: Bil. ṭāblāl 'wrap'. See also ṭawlala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabalqalānā",
+        "meaning": "trumpet",
+        "origin_explanation": "from Persian (ṭablakhāna) through Ar. ṭablakhāna.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tabnada",
+        "meaning": "put on a dress",
+        "origin_explanation": "metathesis of ṭabdan (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabqa",
+        "meaning": "glue, adhere (as by being glued), fasten, overtake, rejoin, be glued, be made to adhere",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabqaqa",
+        "meaning": "causative; also 'fasten, glue, fix, set'",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabqaga",
+        "meaning": "passive",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaṭābāqa",
+        "meaning": "be closely joined to one another, adhere to one another, cleave fast to one another",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'astāṭābāqa",
+        "meaning": "causative of ṭaṭābāqa 'also 'paste together, glue together, join firmly join by sewing'",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabūq",
+        "meaning": "joined together, glued together",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabqāt",
+        "meaning": "verbal noun of ṭabaqa",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "'aṭbāqi",
+        "meaning": "maṭbāqi (Gr), maṭbāq (K*) 'who tightens'",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "maṭbaq",
+        "meaning": "maṭbaqāt 'that which joins together (e.g. handle, hook), act of joining together, act of gluing together'",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "maṭbaq",
+        "meaning": "maṭbāq (pl. maṭābəq) 'paste, glue, sauce (causing various kinds of food to adhere to one another)'",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "maṭbāq",
+        "meaning": "that which joins together",
+        "origin_explanation": "SEMITIC: Ar. ṭabiqa 'be stuck to the side (arm)', Soq. ṭbq; related to Ar. dabīqa 'adhere', Heb. dābaq, Aram.-Syr. dābaq, Md. dbq; H. Bauer, ZS 10 (1935), 175 wrongly derives dbq from *ṭ-bay 're-main', where a form such as yaṭbaq becomes *yadbaq > dbq. Likewise ṭbq would go back to ṭbq, that is, *ṭ-baq > *yaṭbaq > yaṭbaq (by assimilation glottalization) > ṭbq. ETHIOPIC: Tna. ṭābāqā 'glue, adhere', Te. ṭābqa, Amh. ṭābbāqā 'be tight', ṭāṭābāqā 'be glued', Har. ṭābaqa 'be tight', Arg. (ṭi)ṭabbāqa 'glue', Gur. ṭābbāqā 'be tight, be glued'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabiq",
+        "meaning": "plate, platter",
+        "origin_explanation": "from Ar. ṭabaq 'plate'; also Te. ṭābaq 'plate of straw'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabiqu",
+        "meaning": "capon",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "teberenotos",
+        "meaning": "terebinth",
+        "origin_explanation": "for terebenotos; see tarbentos, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabasa, ṭabsa",
+        "meaning": "roast, parch, broil",
+        "origin_explanation": "ETHIOPIC: Tna. ṭābāśā 'fry', Te. ṭābśa, Amh. ṭābbāšā, Arg. ṭābbāšā, Gur. ṭābāśā; Amh. ṭābaśa, ṭābbāšā 'scar'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabt",
+        "meaning": "weapon, armor",
+        "origin_explanation": "from Amh. ṭābt, sābt, derived from sb: G. ṭabṭ 'fight', Amh. ṭāb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭābitā",
+        "meaning": "kind of gazelle",
+        "origin_explanation": "ETHIOPIC: probably to be connected with Amh. tubb alā 'jump down', tubb tubb alā 'jump repeatedly'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭbtb, anṭabṭaba",
+        "meaning": "drip, fall down drop by drop",
+        "origin_explanation": "SEMITIC: related to tf, ṭfṭf, nṭf; PBh. ṭippā 'drop (of liquid)', ṭipṭep 'drip, fall down drop by drop', Ar. ṭipṭā 'drop' (n), Syr. ṭawpəṭā; for nṭf, see nṭf above. ETHIOPIC: Tna. tubb bālā 'drip', Te. ṭebb bela, Amh. Arg. ṭābb alā (ala), Amh. (ṭān) ṭābaṭṭābā, Gur. *balā, ṭāṭābb balā, anṭabṭābā, Te. ṭāfṭāfṭa 'alternative de pluie et de beau temps'; also in Cushitic: Bil. ṭibb y 'trickle', Sa. ṭobb ya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabṭaba",
+        "meaning": "whip, lash",
+        "origin_explanation": "SEMITIC: Ar. ṭabṭaba 'stick used to hit a ball'. ETHIOPIC: Amh. ṭabṭābā 'whip' (v.), ṭabṭab 'whip' (n.), Gur. ṭibbā ṭabṭābā 'dust a mat (ṭibbā) by shaking it or by beating it with a stick', also in Cushitic: Bed. ṭib 'hit', Kham. ṭab, Som. ṭib 'stick'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabṭaba",
+        "meaning": "work skillfully, work dexterously, (M) be skillful, (Lt) be experienced, be ready, (K.Y) be fast, be swift, be arranged well, (KG 1,2) teach, (KG3) study",
+        "origin_explanation": "reduplicated root of ṭbb; see ṭbb I, ṭabba, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabṭabe",
+        "meaning": "Amh. lam 'cow'",
+        "origin_explanation": "seems to be a misunderstood form from an expression such as yä-lam anādä 'hide of a cow (serving a whip)' and does not mean 'cow'; for 'whip', see ṭabṭaba I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabawa",
+        "meaning": "suck (the breast), suck milk",
+        "origin_explanation": "SEMITIC: Ar. ṭaba'a 'to suck the breast, suck milk', Soq. ṭb' 'suck', Md. ṭba; H. Bauer, ZS 10 (1935), 175 wrongly derives ṭb' from *ṭ-bay 'remain', where a form such as yaṭba' becomes *yadba' > db'. Likewise ṭb' would go back to ṭb', that is, *ṭ-ba' > *yaṭba' > yaṭba' (by assimilation glottalization) > ṭb'. ETHIOPIC: Tna. ṭābā'ā 'suck', Te. ṭāb'a, Amh.Arg. ṭābbā'ā, Gaf. sābbā'ā, Har. ṭāba, Gur. ṭābbā'ā; for 'breast', cp. Tna.Gur. ṭub, Te. ṭub, Gaf. ṭəwwā, Amh.Arg. ṭut (from *ṭub-t), Har. ṭot. For the relationship between this root and Cushitic ṭam, see Cerulli 1938b:85. For 'milk', see ṣābā, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭabäyā",
+        "meaning": "natural disposition, nature, elements, essence",
+        "origin_explanation": "from Ar. ṭabāyi' (pl. of ṭabī'a) 'nature'; also in Te. ṭābäyat, Te.Tna.Amh. ṭābäy, Har. ṭabī'a. See also ṭab'a II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaf",
+        "meaning": "in the expression ṭaf wə'ətu rendered in Dillmann 1251 by 'child'",
+        "origin_explanation": "is undoubtedly the expression treated by M. Kropp, JSS 26 (1981),267-271. It is the Amharic form used in Geez with the meaning 'one who has no male descendant'. Amh. ṭāf 'abandoned, uncultivated', G. ṭāf mängəśt 'interregnum'; from ṭaf'a (see below).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaf",
+        "meaning": "child",
+        "origin_explanation": "if it exists, it is a transcription of Heb. ṭap.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaf'a",
+        "meaning": "be extinguished, be put out (light), be blotted out, cease, be lost, be quenched, perish, fail, disappear, vanish",
+        "origin_explanation": "SEMITIC: Ar. ṭafi'a 'be extinguished, go out (light)', Sh. ṭefe, Aram.-Syr. (Pal.) ṭafā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tafa",
+        "meaning": "'be lost, be ruined'.",
+        "origin_explanation": "ETHIOPIC: Tna. täfə'a 'be extinguished', Amh.Ärg. täffa, Gur. täfa. See also täf I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tafədä (Gr.442)",
+        "meaning": "'door, gate'",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tufähi (T)",
+        "meaning": "'holy'",
+        "origin_explanation": "ETHIOPIC: probably to be identified with Tna. täfä'a 'cover', Amh. täfäna 'close the eyes', täfänafäna 'be unable to see properly'. The Geez täfäha would then be augmented by h. See also täfäha, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfäha (yäfäha)",
+        "meaning": "'clap (the hands), (Y) make flat by patting with the hand, make bricks'",
+        "origin_explanation": "SEMITIC: Heb. täpah 'spread out' (perhaps by strik-ing), PBH. täpaḥ 'strike with the hand', Syr. täpaḥ 'spread out, clap the hands', Aram. täpaḥ 'hit, strike', Ar. talfaha (with augmented l) 'make thin' (by spreading, hitting), Akk. tepû 'lay on, apply (color)'. Barth 1902:26 compares Ar. fatäha (with metathe-sis) 'hit'. ETHIOPIC: Te. täfäha, tälfäha (with augmented l) 'be even, be flat' (from being patted with the hand), Tna. täfhe, täflähe (with augmented l) 'flatten', Amh. täfätäfä 'make flat, slap repeat-edly (reduplicated root of täfä > tf > tftf)', Gur. täfätäfä 'flatten, flatten dough', täfätäfä 'clap hands' passed into Cushitic: Bil. täfeḥ 'spread'. See also täfläha, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfäḥ (T.Lt)",
+        "meaning": "'kind of perfume, citrus fruit'",
+        "origin_explanation": "to be identified with täffuḥ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfḥ (K*)",
+        "meaning": "'span'",
+        "origin_explanation": "K transcribes the Heb. topaḥ. Note that Ezek. 40:5, 43:13, quoted by K., has səzr 'span' in the Asmara Bible edition.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfläha (T) täfläha (MA)",
+        "meaning": "'weigh'",
+        "origin_explanation": "täfätäfäläha (T) 'be stuck together (the weighed object is stuck to the scales)'; täfläḥt, (T) täfläḥt (pl. täfläḥ, täfläḥt) 'coin, piece of money, (T) three-quarters'; also = Amh. täbabbaq 'money secured by glue'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täffäyä, täffäyä, täfiyä",
+        "meaning": "'milt, spleen'",
+        "origin_explanation": "probably from Amh. täffäya, täffiya, also in Tna. täffäya, Gur. täfäyä; in Cushitic: Aw. täfi.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfäna",
+        "meaning": "'cover the eye'",
+        "origin_explanation": "ETHIOPIC: perhaps Tna. täfluḥ, täfläḥ 'flattened' for which see täfäha, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfnaḥa (T)",
+        "meaning": "'cover the eye'; täfnaḥ (D.T) 'shut (eyes)'",
+        "origin_explanation": "ETHIOPIC: probably to be identified with Tna. fänä'a 'cover', Amh. täffäna 'close the eyes', täfänafänä 'be unable to see properly'. The Geez täfäha would then be augmented by h. See also täfäha, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tufänqi (T*)",
+        "meaning": "'tempestuous wind'",
+        "origin_explanation": "see täfänqes, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfänqes (T), täfänqes (T.D 1408), täfunqis (K*)",
+        "meaning": "'tempestuous wind'",
+        "origin_explanation": "from Gk. typhōnikos 'stormy, tempestuous'. See also tufänqi, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfänqus (T.Sw. in D 1236)",
+        "meaning": "'shut (eyes)'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfant (Lt)",
+        "meaning": "'demon, evil spirit'",
+        "origin_explanation": "ETHIOPIC: Amh. täfänt 'idol' (for which see Guidi 837, Worrell III 138-9, Strelcyn 1955:336).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfara (yäfər)",
+        "meaning": "'cover a house, roof over, make a ceiling, floor over, (T.Y) in-twine boards for roof and walls'",
+        "origin_explanation": "SEMITIC: Rūžička 100 compares it with Ar. tammara 'cover', with alternance of labials. ETHIOPIC: Tna. täfər 'arch of roof, firmament', Amh. täfər 'roof of a house, firmament'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfər (K*)",
+        "meaning": "'rawhide, leather strip'",
+        "origin_explanation": "perhaps from Amh. täfər 'leather strip'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täfären (Lt)",
+        "meaning": "'kind of disease'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tägä I (yätgä'a) (MA) täg'a",
+        "meaning": "'stick, be stuck, cling fast, adhere tightly, be glued, be compact, be attached'",
+        "origin_explanation": "ETHIOPIC: Amh. (tä)tägga 'lean against, seek pro-tection, draw close', Gur. (tä)tegga 'approach near, be close'. The Geez root is related to sg'a säggä'a 'lean against', Tna. (tä)säggə'e 'approach, be near'. See also dag'a.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tägä II (K*T.Y.Sw. in D 1248)",
+        "meaning": "'become dry (female breast), be coagulated, be sunken (cheeks), be stagnant, stop'.",
+        "origin_explanation": "while Dillmann 1248 does not seem to consider dry, congeal' to be the correct meaning of this root, its meaning in several passages quoted by him be 'congeal'. ETHIOPIC: Tna. tägʷe 'wither, be about to dry', Amh. perhaps tägäggä'ä 'be dry'. Amh. (tä)tägga 'become emaciated (body)' seems to come from an original meaning of tä-tägga 'adhere, stick together, become gaunt', i.e., 'the skin adheres to the un-derlying bone'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tägä III (Y)",
+        "meaning": "= Amh. čäbäčäbä 'send out shoots (tree or bush) after being pruned or cut down'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tegan",
+        "meaning": "'pan, frying pan'.",
+        "origin_explanation": "either directly from Gk. teganon 'frying pan' (Dill-mann 1247) or through Ar. tağana 'fry', tägän 'frying pan' (also PBH. tegän). According to Fraenkel 69, Ar. tağana comes from Syr. tegnä. Aram. tigän. For a possible Iranian origin, see Eilers 613. See also tegan I and dägen.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tahara (yəthar) (T)",
+        "meaning": "'be pure'.",
+        "origin_explanation": "SEMITIC: Ar. tahara, tahura 'be clean', Sar. thr 'ritually clean', Sh. teher 'be ritually clean', Heb. täher 'be clean', Aram. täher, Pun. thr 'purity', Ug. thr '(pure) gem'. Jeffery 205 states that in the mean-ing 'to make religiously pure', Ar. ṭahara has been influenced by Jewish usage. ETHIOPIC: Te. täḥara 'be clean', Har. täḥir 'clean, pure', Gur. tuḥara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "täḥf (Gr.441)",
+        "meaning": "'cereal known as eragrostis teff (or eragrostis abyssinica)'; it is used for making bread.",
+        "origin_explanation": "SEMITIC: Ar. (Hadr. Dat) tahaf, tahaf (Landberg 1942:2195, 2226, W. Müller, OLZ 68[1973],484). ETHIOPIC: Te.Tna. täf, Amh.Ärg. tef, Har. täfi, Gur. täfi, also in Cushitic: Tem. täfa, Or. täfi, Bil. täba (coll. täfi), Sa.Af. däfi, Kham. däb, täb. Note also Te. täftafo 'graminée qui semble au tef rouge' (d'Abbadie). Tna. täftafo. Conti Rossini 1912: 255 thinks that tef originated in Ethiopia. However, in view of its occurrence also in South Arabia (see above), it is difficult to have a definite opinion. See also tayf.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tähla (yəthal)",
+        "meaning": "'throw'.",
+        "origin_explanation": "SEMITIC: perhaps related to Heb. yl, (hi'fil) hetil 'throw', reduplicated in yittel 'throw' (Dillmann 1216). Ar. taltala 'throw' is not in agree-ment with that given by Baumgartner 357 who compares Heb. hetil 'cast (from afar' with the root twl (Arabic) 'be long'; nor does it agree with the comparison made by Leslau 1958:23. ETHIOPIC: Amh.Gur. talä (root *thl) 'throw away', Ärg. täḥala; probably also Tna. täḥala 'penetrate > be thrown into'. See also thl II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "thi II, tahala, tahla, taha:la",
+        "meaning": "'remain as dregs, settle (dregs), be gathered (dregs), (T.Y) heap up, accumulate' (possibly 'dregs'); taṭa:hla (K*) 'become dregs'; ṭa:hl 'sediment, dregs'; taṭahlo:t (Gr.480) 'impurity, filth, excrement';",
+        "origin_explanation": "SEMITIC: Ar. tuḥl 'sediment, dregs', Ṣh. taḥal. ETHIOPIC: Te. ṭaḥal. It is possible to connect it with thl I 'throw, throw away', dregs being something that one throws away; the verb thl II would then be a denominative.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "taḥama maḥa (MA)",
+        "meaning": "'split in half, thin out plants'",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "taḥana (yaṭḥan) maḥa (T.Y), ṭaḥna Tḥ (Y.MA)",
+        "meaning": "'grind flour, grind fine'; ṭaḥani (K*), act. participle; ṭaḥn (K*) 'grindstone, (Gr) fine flour'; ṭaḥn 'fine flour, parched corn';",
+        "origin_explanation": "SEMITIC: Ar. ṭaḥana 'grind', SAr. ṭḥn 'flour', Soq. ṭaḥan 'grind', Heb. ṭaḥan, Aram. ṭaḥan, Syr. ṭḥen, Md. ṭḥn, Ug. ṭḥn, Akk. ṭe:nu. ETHIOPIC: Tna. ṭaḥana 'grind', Te. ṭaḥana, Har. ṭaḥana. A connection with Amh. ṭəhlo (also Tna. ṭəhlo) 'sort of pudding made of barley flour', sug- gested by Praetorius 1879:76, is doubtful. The root probably passed into Cushitic: Sa. ḍaḥan 'grind', Bil. ṭa:an, Qwa. ṭaxan.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaḥra, taḥara (yaṭḥar) Tḥ (T) ṭaḥra Tḥ",
+        "meaning": "'roar, snort, rage'; ʿaṭhara (K*), causative; ʿastaṭaḥara (K*), causative; ʿastaṭaḥara 'make roar one against another'; ṭəḥur (Gr) 'who groans'; ṭəḥr 'roaring, neighing'; ṭəḥrat 'roaring'; maṭhar 'that neighs';",
+        "origin_explanation": "SEMITIC: Ar. ṭaḥara 'sigh, groan'. ETHIOPIC: Te. ṭaḥara 'rage, grow wild', Tna. ṭaḥara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭaka: Tḥ",
+        "meaning": "'precious stone'",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭekson mḥḥ (Lt)",
+        "meaning": "'box tree'",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭala MA (KBT)",
+        "meaning": "'beer'",
+        "origin_explanation": "perhaps from Amh. ṭälla; passed into Cushitic: Qab. ṭalla, Kham. ṭälla. On the preparation of ṭälla,",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "talla MA, tall MA",
+        "meaning": "see ṭll I, II.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "tali (fem. talit, pl. ʿaṭa:li) MA",
+        "meaning": "'goat, kid'; talit 'she-goat';",
+        "origin_explanation": "SEMITIC: Ar. ṭala: 'young of an animal', SAr. ṭly 'yearling lamb', Heb. ṭale: 'lamb', Aram.-Syr. ṭalya:, Md. ṭalia. This root also means 'young, boy, servant'. Aram. ṭalya:, Palm.Sam. ṭly, Syr. ṭliṭa: 'girl', Aram. ṭalya:ṭa:. For 'young of an animal' coming to mean 'child, young', cp. Gurage kuṭara 'chick, chicken', Amh. 'small, young child'. ETHIOPIC: Te.Tna. ṭel 'goat', Har. ṭa:y 'sheep', ṭa:y; passed into Cushitic: Aw. ṭay.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "toli MA (T)",
+        "meaning": "'elephant'",
+        "origin_explanation": "ETHIOPIC: Amh. tole 'adult elephant'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "talʿa MAO (D.T), talʿa MAḥ (Y)",
+        "meaning": "'grow, prosper, be tall (plant)'; from Ar. ṭalaʿa 'rise'.",
+        "origin_explanation": "from Ar. ṭalaʿa 'rise'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*ṭolqa, ʿantolqa ḥmaO",
+        "meaning": "'spread, stretch out like a veil, veil, screen from view, cover over with a veil, protect'; ṭantolqa, passive; ʿantolqa:wi 'who protects'; ʿanṭulu 'veiled, covered over with a veil'; ʿanṭoli 'spreading'; ʿanṭulä:e 'veiling, curtain'; manṭola:t (pl. manṭawa:la:, manṭola:ta:t) 'vein, curtain, drapery, curtain of an altar, mantle, canopy, place curtained off (such as tent, cham- ber)'; (beṭa: manṭawa:la: [Gr.] 'storehouse, store- room'); manṭulu 'veiled';",
+        "origin_explanation": "ETHIOPIC: Te. (ʿan)ṭolqa 'spread, stretch out', Amh. manṭola:t 'curtain' (from Geez), Gur. manṭola:t 'curtain used by a newly married bride' (from Am- haric). See also *ṭolala II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭalafa MAṣ (Y)",
+        "meaning": "'snatch away, kidnap'",
+        "origin_explanation": "in view of ṭalafa 'snatch away' which also occurs outside of Y, the Amh. ṭalla:fa (translation of G.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "talafa by Y",
+        "meaning": "is likewise 'snatch away' and not 'embroider' as in M 524.",
+        "origin_explanation": "ETHIOPIC: Tna. ṭala:fa 'lay hold of', Amh.Gur. ṭa:la:fa 'snatch, kidnap a girl to marry her', Har. ṭa:lafa; passed into Cushitic: Al. ṭala:ffo, Aw. ṭala:f g*a.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭll I, ṭalla, ṭalala (yaṭlal) ma: maḥ",
+        "meaning": "'be humid, be wet, be covered with dew, be soft, be fertile, be verdant, be fat'; ʿaṭlala 'moisten, cover with dew, refresh, render verdant, distill like dew, refreshing drink, fatten, reinvigorate'; ṭalul 'watered, covered with dew, moist, ful, fertile, fat (food), prosperous, full of ness'; ṭalula:t (Lt) 'milk products, fat things'; ṭall 'dew, moisture, humidity, (M) fatness'; ṭalla:t (pl. of ṭall) 'drops of dew, fatness'; ṭalla:le (Gr), ṭalla:l (K*) 'humidity, moisture, ness, freshness, verdure, fertility, abundan- matlal (read maṭlal?), part. of ʿaṭlala; maṭlali, same;",
+        "origin_explanation": "SEMITIC: Ar. ṭall 'dew', ṭalla 'be covered with dew', ṭaṭlel 'be covered with dew', Heb. ṭal 'dew', Aram.-Syr. ṭalla:, Md. ṭala, Ug. ṭl 'dew' 'fall (dew)'. ETHIOPIC: Te. ṭälla (ṭll) 'be wet', ṭäṭäla:l 'mois- Tna. ṭälla:la 'be fresh, be verdant', Amh. ṭa:la ṭa:la:ččala:. For 'dew': cp. Tna. ṭa:lli, Te.Amh. passed into Cushitic: Bil. ṭella 'drops', ṭalul 'humid, verdant'. Sa. ṭalal 'be humid, be wet'. See talaya, (ʿan)ṭaltala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "mantolal (Gr)",
+        "meaning": "'suspension, loose, unfastened, released, slack';",
+        "origin_explanation": "possibly from ṭwll. The basic meaning may be that of hanging loosely or that of being loose or flabby, also referring to hanging loosely. For the basic meaning 'hang', cp. Tna. (ʿan)ṭa:ṭa:la 'suspend', Te. (ʿan)ṭa:ṭa:la, Amh. (ʿan)ṭa:ṭa:la 'hang, suspend'. Arg. (ʿan)ṭa:ṭa:la, Har. ṭa:ṭa:l a:ṣa, Gur. (ʿa)ṭa:ṭa:la; passed into Cushitic: Bil. ṭa:ṭa:l 'swing, hang'. For the basic meaning 'be loose, be flabby', cp. Tna. (ʿan)ṭola:la 'be undecided, hesitate', Te. (ʿan)ṭola:la 'dangle, swing', Amh. (ṭan)ṭola:ṭola 'wander about, move about aimlessly', ṭola 'wander about', ṭil alä 'dangle'. A connection with Ar. ṭa:la 'be long, tawil 'long', suggested by Dillmann 1237 (followed by Hommel 87), is unlikely.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*ṭolala II, ʿantolala ḥmaA (T.K*)",
+        "meaning": "'screen from view, conceal with a screen';",
+        "origin_explanation": "the root seems to be related to *ṭolqa. See also ṭawlala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭlm I, ṭalama maO",
+        "meaning": "'act unfairly or faithlessly, betray, desert'; ʿaṭalama (M), causative; ṭaṭalama (M) 'betray one another, act unfairly to one another'; ṭala:mi (M), act. participle; also 'traitor';",
+        "origin_explanation": "from Ar. ẓalama 'wrong, treat unjustly', also Tna. ṭa:lama 'deceive, betray', Te. ṭa:lma; in Cushitic: Bil. ṭala:m 'deceive', Sa. ṭalam. SEMITIC: Arabic (see above), Aram.-Syr. ṭalam 'wrong, deceive, oppress', Md. ṭulma 'oppression, injustice'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭll II, ṭalla, ṭalala (yaṭlal) ma: maḥ (K*)",
+        "meaning": "'pure'; ṭalul (K*) 'pure'; maṭlal (K*) 'filter, strainer';",
+        "origin_explanation": "SEMITIC: related to Ar. ṣalla (ṣll) 'percolate, filter', Heb. ṣa:lal 'be pure', Syr. ṣa:lla: 'pure'. ETHIOPIC: Amh. ṭälla:lä 'be pure, be filtered', Har. ṭa:la:la 'be pure', Gur. ṭa:la:la; related to Te. ṭala (ṭly) 'be clear (after a disease)', and Tna. ṭa:la:la 'filter'. The root passed into Cushitic: Qab. ṭa:lallo 'be filtered', Or. ṭa:lila 'pure', Bil. ṭal Y 'be pure'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭlm II, ṭalama maO (T.MA)",
+        "meaning": "'color (v), dye' (v)",
+        "origin_explanation": "perhaps from Ar. ẓalima 'be dark, become dark' (Müller). See also ṭalm, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭalm, ṭalma Tḥ",
+        "meaning": "'precious stone, jasper, (T) colored cloth (usually red)';",
+        "origin_explanation": "perhaps to be identified with ṭlm II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭalqa I, ṭalqa (yaṭlaq) ma: maṣ",
+        "meaning": "'be pol- luted, be contaminated, be impure, be stained, be defiled, be alienated, be disgusted, be averse, feel nausea (for having eaten too much)'; ʿaṭlaqa, causative; also 'arouse disgust, cause nausea (food), feel nausea';",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talaqa",
+        "phonetics": "(talaqa)",
+        "meaning": "'defile, pollute, contaminate', 'talaqaqa 'be contaminated, be polluted, be stained', 'təlaq 'impure, polluted, stained, contaminated, defiled, profane'; 'təlaqəge 'impurity, pollution, feeling of nausea (from having eaten too much)'; 'təlaqət 'blemish, sin, spot, stain, pollution, impurity, defilement, rubbish';",
+        "origin_explanation": "SEMITIC: The connection with Syr. təlaq 'vanish, disappear', Ar. talaqa 'be loosed', and Amh. təlaqaqa 'be deep', suggested by Brockelmann 1928:278, is unlikely. Arabic təlaqa 'stain' suggested by Dillmann 1215 coincides with the meaning of G. talaqa, but the phonetic correspondence is not regular. ETHIOPIC: Amh. təlaqlaqq ala 'feel nausea'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talaqa II",
+        "phonetics": "(K*)",
+        "meaning": "'be deep, be soaked, be drenched'; 'ətlaqa (Lt) 'submerge, plunge into, dip'; təluq 'deep'; təlqət 'depth';",
+        "origin_explanation": "ETHIOPIC: Amh. təlaqaqa 'dip, sink (sun), be deep', ətlaqaqa 'drench'. Tna. təlaqaqa 'immerse', təlqi 'depth', təlaqaya 'be drenched'. Har. təlaqa 'plunge' (tr), Gur. təlaqa 'dip into a dish, set (sun)'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talaqa III",
+        "phonetics": null,
+        "meaning": "'calumniate';",
+        "origin_explanation": "ETHIOPIC: Tna. təlaqaqa 'plot, conspire'; metathesis in relation to taqala, for which see below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talqat",
+        "phonetics": "(perhaps)",
+        "meaning": "'dissolution'; in ba-təlqata fäsika mənhab 'reading concerning the dissolution (end) of Passover';",
+        "origin_explanation": "from Ar. tallaqa 'set loose, release'; also in Te. təllaqa 'let loose, cease'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talsa",
+        "phonetics": "(yətləs) (K*)",
+        "meaning": "'be charred, be blackened (grass)'; 'ətlasa (K*), causative; təlas (K*) 'charred straw or wood';",
+        "origin_explanation": "SEMITIC: Ar. talisa, tahusa 'become of a dusty color, inclining to black' (Lane). ETHIOPIC: Amh. təlläsa 'be charred, be blackened'. Littmann-Höfner 607 compare Te. təlläsa 'overlay with metal', possibly becoming 'be dark'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talsam",
+        "phonetics": null,
+        "meaning": "'talisman';",
+        "origin_explanation": "from Gk. telesma 'talisman' through Ar. tilsam, tilasm; also in Tna. Amh. tälsäm, Syr. talisma.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talisan",
+        "phonetics": null,
+        "meaning": "'kind of outer garment, priestly vestment';",
+        "origin_explanation": "from Ar. taylasan, of Persian origin; also in Amh. tälsan 'garment made of green silk'. For Ar. taylasan, see Dozy 1845:278-80.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talit",
+        "phonetics": null,
+        "meaning": "see tali.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "titl, antaltala",
+        "phonetics": "(D 1214.M)",
+        "meaning": "'fall bit by bit'; the verb of the same passage is translated by K 'swing, shake';",
+        "origin_explanation": "ETHIOPIC: Tna. tältälä 'become wet, humid (field)' goes back to təll. talla 'be moist, be humid' (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tlwz, matlawz",
+        "phonetics": "(T.M)",
+        "meaning": "'knife';",
+        "origin_explanation": "see watlaza.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "talaya",
+        "phonetics": "(yətli) (Y.K)",
+        "meaning": "'be soft, be tender, be humid, be fresh'; a secondary form of təll I (see above).",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tamma",
+        "phonetics": null,
+        "meaning": "see tmm.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "toma",
+        "phonetics": null,
+        "meaning": "see twm.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tamu",
+        "phonetics": "(T)",
+        "meaning": "'torn bit of cloth, rag'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tama",
+        "phonetics": "(yətmä') (T.MA)",
+        "meaning": "'dip, immerse, plunge, dye, color'; 'ətama'a, passive; 'əstatäma'a (M) 'cause to immerse each other', 'təmu', pass. part. of tam'a; also 'steeped'; 'təm'at 'tincture, paint, dye, painting, dyeing', 'təm'atät, with , (T) 'henna'; 'matmä'a (T) 'means of dipping (pond, lake)', M 87 mistook Tayyä's mänkäriya 'means of or place for dipping' for mänäkariya 'caravan stop';",
+        "origin_explanation": "SEMITIC: Syr. (Pal) təmə' 'be dipped, be submerged'. Aram. təmə' 'sink', PBH. təmə' related to Heb. təba' 'sink', with alternance of labials b:m. Aram. Syr. təba', Akk. tebu. For the root tb', see Jeffery 204. ETHIOPIC: Tna. tämä'e 'dip, soak', Te. ətmə'a 'be-smear'. Amh. tämma 'suck up moisture', täjämma 'be soaked'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tmg, atmaga",
+        "phonetics": "(T)",
+        "meaning": "'make pleasing, arrange well, prepare well';",
+        "origin_explanation": "ETHIOPIC: Te. temag wäda 'make clear'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tmm, tamma, tamama",
+        "phonetics": "(T.Y)",
+        "meaning": "'wind, twist, wrap, roll up';",
+        "origin_explanation": "SEMITIC: the meaning 'wrap around' comes close to the meaning 'cover, close' and is to be compared with Ar. tamma (tmm) 'cover over', Aram. təməm 'stop up, close', Syr. təm (tmm), Akk. tummu 'stop (the ears), make deaf'. ETHIOPIC: Tna. tämtämä 'wrap around the wind around', Te. tämtämä, tamama, tema, tämtätämä 'wrap', Arg. tämtätämä 'wrap'. Q. mätämä passed into Cushitic: Qem. tämtämä, çamam, Sa. tamtam. See also twm, toma, tamtam.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "temen",
+        "phonetics": "(T.D 1408)",
+        "meaning": "'consecrated ground for idols, (T) image of idol';",
+        "origin_explanation": "from Gk. temenos 'sacred precinct'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tamaqa",
+        "phonetics": "(yətməq) (K*), see ətmaqa",
+        "meaning": "'dip, baptize, immerse'; 'ətamaqa 'dip oneself, be immersed, immerse oneself, wash, be baptized'; 'təmuq 'dipped, baptized'; 'təməqat 'immersion, ablution, baptism' (see Walker 4-11, Heyer 103ff); (na'əsa təməqata 'he was baptized'); (ba'ala təməqat 'Epiphany'); (mashaqa təməqat 'Epiphany ritual'); for a bibliography, see Hammerschmidt-Six 1983:198; 'təməqot 'immersion, baptism'; 'ətmaqi (K*) 'who baptizes'; 'mətməq 'who baptizes'; 'Yohannes mətməq 'John the Baptist'; 'mətməq 'place for baptizing, baptistery, font, pool'; (beta mətməq 'baptistery'); 'mətməqawi 'baptizer, baptist';",
+        "origin_explanation": "ETHIOPIC: Tna. ətmaqa 'baptize'. Te. tämmäqa. Amh. ətämmaqa. Gur. tämmäqa. Har. əçämaqa passed into Cushitic: Bil. tamaq, tabaq-s 'baptize'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tomär, tumär",
+        "phonetics": "(T.M.KG), tammara (MA)",
+        "meaning": "'epistle, letter, booklet, document, diploma'; (mashaqa tomär 'Book of Epistles', see Hammerschmidt 1977:82);",
+        "origin_explanation": "from Gk. tomarion 'small volume, tract'; also in Ar. tumar, Neo-Syr. tumar 'roll of paper, scroll'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tumat",
+        "phonetics": null,
+        "meaning": "see (twm), təwmat.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tamtama",
+        "phonetics": "(T.Y)",
+        "meaning": "'wrap, put on a turban';",
+        "origin_explanation": "məjtəmtəmiya (Lt) 'turban' (an Amharic form); see tmm, tamma.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tamaya",
+        "phonetics": "(T)",
+        "meaning": "'cut';",
+        "origin_explanation": "məjmay (D.T) 'instrument of torture'; ETHIOPIC: Tna. tämaya 'undergo hardship'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tan",
+        "phonetics": null,
+        "meaning": "see tnn I.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tanafa",
+        "phonetics": "(T.YM)",
+        "meaning": "'embroider, pierce with a needle'; 'tanaf (T) 'pierced';",
+        "origin_explanation": "ETHIOPIC: Amh. täffana 'embroider' (with metathesis); perhaps also Amh. tällaqa 'embroider', with alternance of liquids.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tanf",
+        "phonetics": "(pl. tənaf, ətnaf)",
+        "meaning": "'decoration, prominence, cornice, clasp, joints between pillars, cross beam, cross bar'; 'tənaf (T) 'circumference'; 'ətnafa 'construct cornices, decorate with cornices, (T) decorate, build' (denominative);",
+        "origin_explanation": "SEMITIC: Ar. tanaf, tunuf 'cornice, projection'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tanfəha",
+        "phonetics": "(T)",
+        "meaning": "'be blurry (vision)';",
+        "origin_explanation": "M translates Amh. täbrägärrägä which renders G. tənfəha as 'be mingled, agitated', but in view of tənfəh 'squint-eyed', Amh. täbrägärrägä has here its other meaning, 'be blurry (vision)'; 'tənfəh 'person with a squint, squint-eyed, cross-eyed'; metathesis in relation to tafnəha.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tngl, atangala",
+        "phonetics": "(T.MA)",
+        "meaning": "'write';",
+        "origin_explanation": "a variant of pngl, əpangala (see above), with alternance of the glottalized p:t, for which see also tekon, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "head_word": "tnn I, tanna",
+        "phonetics": "(yətnən) (K*)",
+        "meaning": "'be strong, be humid, be fresh'; 'ətnana (T) 'strengthen';",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭən (K)",
+        "meaning": "'strong, intrepid, young, (K) tender (leaf)' see ʿatnān, below; ṭənān (Gr.347) 'eager, zealous'; ʿatnān (T.M) 'intrepid, strong, marvelous, amazing, (K*) zeal, diligence, (T) marvel'; D 1236 registers ʿatnān, ʿatnon without any translation. From a Säwasäw, Dillmann ib., gives the meanings 'astute, one who makes his opinion prevail in an assembly, marvelous' and also 'wrong, harm'.",
+        "origin_explanation": "see on this root Euringer, OC 28 (1931). 222; note that ʿatnān is a plural of ṭənn; probably borrowed from Amh. ṭənna 'be strong' from ṭən? > ṭn. ʿatnān 'strong ones'. For the root 'be strong', see ṣənʿa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənn II, ṭənnat Ṭ†",
+        "meaning": "(T) 'inclination'.",
+        "origin_explanation": "ETHIOPIC: Amh. ṭənnənä 'incline the head'. Geez ṭənn is a variant of ṣənn, ṣənna (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənqʷala məṣəla",
+        "meaning": "'foretell the future, divine'; ṭənqʷali 'diviner, soothsayer'; ṭənqʷale 'divination, fortune-telling'; ṭənqʷali (Lt) 'fortune-telling, divination'; mäṭənqʷal (Lt.T) 'diviner, soothsayer'.",
+        "origin_explanation": "ETHIOPIC: Tna. ṭənqʷala 'divine', ṭənqʷali 'diviner'. Amh. ṭənäggʷala 'divine'. Amh.Arg. ṭənqʷay 'magician, sorcerer', Gur. ṭənqʷay. On the various definitions of ṭənqʷay, see Rodinson 52, n. 5. See also ṭəqqʷale.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənqaqa məṣəla",
+        "meaning": "'be exact, be strict, be accurate, be equal, fit exactly, do something accurately, with precision or with attention, (T) measure exactly, be accomplished'; ʿatənqaqa 'do something with precision, accurately, or carefully, see to it that things agree'; ṭətənqaqa 'be careful, be done carefully, accurately, or exactly'; ṭətənäqaqa 'be careful, observe strictly, do accurately or carefully or exactly, apply oneself with diligence, be assiduous, scrutinize'; ʿastätənqaqa 'explain accurately'; ʿastätənäqaqa, causative of tətənäqaqa; also 'rouse to zeal, do with exactitude'; ṭənqäqi, act. part. of ṭənqaqa; also 'cautious, inquirer'; ṭənquq 'accurate, exact, careful, precise, perfect, excellent'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənquqa (or ba-ṭənquq)",
+        "meaning": "'exactly, accurately'; ṭənqäqe 'carefulness, minuteness, precision, curacy, diligence, fitness, perfect harmony'; ṭənqəqənnä 'diligence, care, harmony'; mäṭənqäq (Lt) 'fine, minute'; ṭətənäqəq 'strictness, attention, exactness, carefulness, accuracy'; (ba-ṭətənäqəq, ba-ṭətənäqəq) 'strictly, exactly, carefully, accurately, scrupulously'.",
+        "origin_explanation": "ETHIOPIC: Tna. ṭənqäqa 'be careful', Amh. (ṭä-)ṭənqäqä, Arg. (əṭ)ṭənäqäqa, Gur. (ṭä)ṭənäqäqä. Dillmann 1234 compares G. ṭənqaqa with ṭəqqʷaccu-racy' (see *ṭəqq).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənqäqʷat, ṭənqäqʷat Ṭ†",
+        "meaning": "'holes, clefts, cracks'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənqur I Ṭ†C, (T) ṭənqʷar Ṭ†C, (T.M)",
+        "meaning": "'frog, (D) kind of animal'.",
+        "origin_explanation": "ETHIOPIC: Tna. ṭənqura 'frog'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənqur II Ṭ†C (K*)",
+        "meaning": "'kind of sore which afflicts the nose'.",
+        "origin_explanation": "ETHIOPIC: Amh. ṭənqur.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənsasa MṬ†D (Lt)",
+        "meaning": "'brew beer by mixing the geṣo-plant and bean sprouts'; ṭənsasa, passive.",
+        "origin_explanation": "from Amh. ṭənäsäsä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənnat Ṭ†",
+        "meaning": "see ṭənn II.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənt Ṭ†",
+        "meaning": "'beginning'; (za-ṭənt 'ancient, original').",
+        "origin_explanation": "ETHIOPIC: Tna. ṭənti 'early time', Amh.Gur. ṭənt 'beginning, ancient time', Har. ṭinti; from wṭn (see wäṭana).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəntayon, ṭəntayon Ṭ†Ṭ†Ṭ† : Ṭ†Ṭ†Ṭ†, (T) ṭəntayon MṬ†Ṭ†Ṭ†",
+        "meaning": "'the number of the days on which Maskaram may begin (but limited from one to seven, and not generally one), weekday of the first day of year in Maskaram'.",
+        "origin_explanation": "O. Neugebauer, Orientalia 44 (1975).487-8 derives it from Gk. tōn theōn '(day) of the (planetary) gods', the vowel of the 1st element (ṭənt) explainable by folk etymology connecting it to ṭənt 'beginning'. See also Chaine 107ff., Mauro da Leonessa 319, n. 1, Neugebauer 218ff.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənya I MṬ† (L.Gr.347)",
+        "meaning": "'investigate, scrutinize'.",
+        "origin_explanation": "ETHIOPIC: Te. ṭəntun bälä 'spy, go searching', Tna. ṭəntun bälä 'carry reports here and there', Amh. (ä)ṭänäṭänä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənya II MṬ† (T.H.M)",
+        "meaning": "'dip, dunk, plunge, swim'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭənyay (K)",
+        "meaning": "'cave, pond'.",
+        "origin_explanation": "ETHIOPIC: Te. ṭəntin 'pit'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəq MṬ† (K.D 1408), ṭəqä MṬ† (Lt)",
+        "meaning": "'bolt of cloth'.",
+        "origin_explanation": "from Ar. (Aden) ṭāqa 'piece of cloth'; also Te. ṭəqä 'cloth, stuff', Tna. ṭəqa, ṭəqät, Amh. ṭəqa, ṭəqa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqä, ṭəqä MṬ† : Ṭ†",
+        "meaning": "'proximity, by, near, close to, at hand, near by, along'; (ba-ṭəqä 'by, near'); (əntä ṭəqä 'along').",
+        "origin_explanation": "ETHIOPIC: Tna. ṭəqa 'proximity'; from Cushitic: Bil. ṭəqä-t 'come close', Kham. ṭəqe-t, Af. ṭak.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqä I MṬ†",
+        "meaning": "'darkness, obscurity, gloominess, fog'.",
+        "origin_explanation": "ETHIOPIC: Te. ṭəqyat 'fog, cloud, darkness'. Tna.Amh. ṭəqa. While the correspondence q:ḥ is irregular, Ar. ṭaḥā (ṭḥw) 'be dark (night)', ṭəḥā 'darkness' (Dillmann 1223) deserves mention.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqä II MṬ† (T)",
+        "meaning": "'mercury, medicine'.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqä III MṬ†",
+        "meaning": "see ṭəq.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqä Ṭ†",
+        "meaning": "see ṭəqä.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqqa Ṭ†",
+        "meaning": "see *ṭəqq.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqa MṬ†",
+        "meaning": "see ṭəq.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqa MṬ† (MA)",
+        "meaning": "'be intrepid, be harsh, be ruthless'.",
+        "origin_explanation": "on the basis of Tna. ṭəqʷe (see below), one would expect ṭəqʷa; ETHIOPIC: Tna. ṭəqʷe 'oppress', Amh. ṭəqqʷa 'strike, attack'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqʷa I MṬ†D",
+        "meaning": "see ṭəqʷa.",
+        "origin_explanation": null,
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqʷa II (yəṭəqʷa) MṬ†D, (T) ṭəqʷa MṬ†",
+        "meaning": "'sound, blow a trumpet, (T.M) ring a bell'; ʿatəqʷa (K*), causative; ṭəqʷa (K*), passive; ṭəqʷaṭ, act. part. of ṭəqʷa; also 'trumpeter'; ṭəqʷa, pass. part. of ṭəqʷa; ṭəqʷat 'a blowing of a trumpet'; mäṭəqʷa, mäṭəqʷat (pl. mäṭəqʷaʾt) 'trumpet, horn, church bell, gong' (see Euringer, ZS 10 [1935]. 137, Heyer 150-1); (ba-räʾäla mäṭəqʷa 'the Feast of the Trumpets', referring to the Jewish New Year'); see Chaine 106, Mauro da Leonessa 303-5, Neugebauer 187; (mäṭəqʷa bärur [T.Y.Sw. in D 1225] 'drum').",
+        "origin_explanation": "SEMITIC: Heb. tāqaʿ 'blow (a musical instrument)', Aram. ṭəqaʿ, Ar. (Syria) ṭaqaʿ 'crack a whip'; related to Ar. ṭaqqa (ṭqq) 'crack, pop', ṭaqṭaqa 'slap, tap' (Dozy); also Cushitic: Sa. ṭak, ṭaq 'strike'. For the original ṭqʷ > ṭqʷ by assimilation, see Brockelmann 1908:163. ETHIOPIC: Te. ṭəqʷa 'play an instrument, clap hands', mäṭəqʷa 'bell, stone used in striking a bell', Tna. ṭəqʷe 'strike a bell', Amh. ṭəqqʷa 'strike a bell', mäṭəqʷ 'small stone used in striking a bell'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqʷaba (yəṭəqʷab) MṬ†",
+        "meaning": "'sew together, stitch, patch, mend'; ʿatəqʷaba (K*), causative; ṭətəqʷaba (K*), passive of ṭəqʷaba; ʿastätəqʷaba, see ṭəqʷaba; ṭəqʷabi 'tailor'; ṭəqʷab 'patched, sewn together'; ṭəqʷabat 'sewing, stitch'; mäṭəqʷabt (T.Lt) 'covering, means of patching'.",
+        "origin_explanation": "ETHIOPIC: Tna. ṭəqʷabä, ṭəkäbä 'sew, stitch'; variant of ṭəqʷama II with alternance of labials; passed into Cushitic: Bil. ṭəqab, ṭakab, Qua. ṭabak. See also ṭəqʷama II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭəqʷala (yəṭəqʷal) MṬ†",
+        "meaning": "'lie, calumniate, slander, do wrong, (Gr.442) mistreat, humiliate, (K*) poke'; ṭəqʷali, act. participle.",
+        "origin_explanation": "ETHIOPIC: Amh. ṭəqqʷälä 'lie', Tna. ṭəqqʷärä 'lie, calumniate' (with alternance of liquids); perhaps a variant of ṭəqʷal, for which see ṭəqqʷalä, below, and mäṭəqʷala, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "teqala",
+        "phonetics": "teqala (T.MA.M)",
+        "meaning": "'write'",
+        "origin_explanation": "perhaps teqala, reconstructed from the imperfect yəṭeqqal.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəqq™ale",
+        "phonetics": "ṭəqq™ale ṬḲA.",
+        "meaning": "'divination, soothsaying'",
+        "origin_explanation": "from ṭəqq™ale (see ṭəqq™ala); cp. also Amh. mäṭəq™al 'liar', from *ṭəq™l with the prefix m-. See also ṭaqala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqalala",
+        "phonetics": "ṭaqalala ṬḲL",
+        "meaning": "'roll up, wrap up, bundle up'; ṭaṭaqalala (K*), causative; ṭataqalala (K*), passive of ṭaqalala; ṭaqlul 'rolled up, wrapped up'",
+        "origin_explanation": "ETHIOPIC: Tna. ṭaqläla 'wrap up', Te. ṭäqläla, Amh. ṭäqällälä, Arg. ṭäqällälä, Gur. ṭäqällälä; passed into Cushitic: Aw. tekäläl-ə\"a, Bil. ṭaqlal, Sa. taqlal.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqama I",
+        "phonetics": "ṭaqama I (yəṭəqəm) ṬḲM",
+        "meaning": "'build a wall, surround by a wall, build a fortress'; ṭataqma 'be surrounded by a wall, make a wall for oneself'; ṭaqami (K*), act. part. of ṭaqama; ṭaqam (Gr.K*) 'surrounded by a wall, protected by a wall'; ṭəqm (pl. ṭəqam) 'wall, fortification wall, hedge, fortress, bulwark, castle'; (ahgura ṭəqm 'fortified cities').",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqama II",
+        "phonetics": "ṭaqama II (yəṭəqəm) ṬḲM",
+        "meaning": "'sew, stitch, re-pair'; ṭaqami 'tailor'",
+        "origin_explanation": "ETHIOPIC: Amh. ṭäqqämä 'darn, stitch', Gur. ṭäqqämä 'pick with a small and sharp object'; var-iant of ṭaqaba 'sew, stitch' (see above), with alter-nance of labials.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəqəmt",
+        "phonetics": "ṭəqəmt ṬḲM.",
+        "meaning": "second Ethiopic month (11 Oct.-9 Nov);",
+        "origin_explanation": "ETHIOPIC: Tna. ṭəqəmt, Amh.Arg. ṭəqəmt; passed into Cushitic: Kam.Qab. ṭəqəmia. Conti Rossini 1923:376 derives it from the root ṭqm 'be useful' (Tna.Amh.Arg.Gur).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəqq",
+        "phonetics": "*ṭəqq ṬḲQ",
+        "meaning": "'exactly, precisely, accurately, certainly, surely, completely, greatly, exceed-ingly, extremely, very, very much, even, in-deed, more, how much!, how much more!'; ṭəqqa wə'i (verb) 'not even, in spite of'; 'i- (verb) + ṭəqqa 'not even, not at all'; (ba-həqqu ṭəqqa 'very, exceedingly, utterly');",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəqqat",
+        "phonetics": "ṭəqqat",
+        "meaning": "'excessive thrift, excessive rationing, parsimony, small amount'",
+        "origin_explanation": "is to be identified with ṭəqqaqa (Dillmann 1223), for which see above. SEMITIC: related to Ar. daqqaqa 'proceed with accu-racy', from dqq, and see daqaqa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqara",
+        "phonetics": "ṭaqara (yəṭəqər) ṬḲR",
+        "meaning": "'be black, be dusky, be sooty'; ṭaqar (T.DTW) 'soot'",
+        "origin_explanation": "ETHIOPIC: Tna. ṭäqärä 'be black', Amh. ṭäqq™ärä, Gur. ṭäq™ärä; for 'soot', see Tna. ṭäqär, Te. ṭäqäro, ṭuquərso, Amh. ṭäqära, ṭäqärša, Har. ṭəqär, Gur. ṭəqär.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqasa I",
+        "phonetics": "ṭaqasa I (yəṭəqəs) ṬḲS",
+        "meaning": "'gesture to someone by pointing with the finger, beckon'; ṭəqs 'gesture, gesturing'",
+        "origin_explanation": "ETHIOPIC: Tna. ṭäqäšä 'gesture to someone, allude', Amh. ṭäqäšä, Har. ṭäqäsa, Gur. ṭäqäsa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqasa II",
+        "phonetics": "ṭaqasa II (yəṭəqəs) ṬḲS (K*)",
+        "meaning": "'trim the wick of a lamp'",
+        "origin_explanation": "from Amh. ṭäqäšä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəqqat",
+        "phonetics": "ṭəqqat ṬḲṬ",
+        "meaning": "see *ṭəqq.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭuqat",
+        "phonetics": "ṭuqat ṬḲṬ",
+        "meaning": "see (ṭwq), ṭəwqaṭ.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaqawa",
+        "phonetics": "ṭaqawa ṬḲW (MA)",
+        "meaning": "'beat, pound'",
+        "origin_explanation": "either a variant of šaqawa (see above), or related to ṭaq™a (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭərr",
+        "phonetics": "ṭərr ṬR",
+        "meaning": "fifth Ethiopic month (9 Jan.-7 Feb.)",
+        "origin_explanation": "ETHIOPIC: Tna. ṭərri, Amh. ṭərr, Gur. ṭər; passed into Cushitic: Kam. ṭem, ṭirra, Had. ṭirire.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarə'e",
+        "phonetics": "ṭarə'e ṬR (K*)",
+        "meaning": "'raw'",
+        "origin_explanation": "see ṭəräy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭər",
+        "phonetics": "ṭər ṬR (K*)",
+        "meaning": "see ṭəyyara.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭora",
+        "phonetics": "ṭora ṬR",
+        "meaning": "see ṭwr.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭara'a",
+        "phonetics": "ṭara'a (yəṭarə') ṬR",
+        "meaning": "'shout, cry out, lift one's voice, (Lt.T) appeal, complain'; ṭarə'a, causative; ṭarə'i, act. part. of ṭara'a; ṭər, ṭarä 'loud call, shout, cry';",
+        "origin_explanation": "ETHIOPIC: Te. ṭarä 'complain, accuse', Tna. ṭarə'e; passed into Cushitic: Bil. ṭare 'shout'. Note that",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭrebunäs (cross-reference)",
+        "phonetics": "ṭrebunäs",
+        "meaning": "Amh. ṭärra 'call' goes back to šärḥa (see šärḥa, above).",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭrebunäs",
+        "phonetics": "ṭrebunäs ṬRB (K*)",
+        "meaning": "ṭrebunos ṬRB 'tribune (military officer)'; ṭarabanät (T) 'bodies of troops'",
+        "origin_explanation": "from Gk. tribounos 'tribune' (military rank), tran-scription of Latin tribunus; also Syr. ṭaribunā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarbəntos, ṭerbəntos, ṭerbäntos, ṭerebəntos, ṭebənto, ṭebərentos",
+        "phonetics": "ṭarbəntos, ṭerbəntos, ṭerbäntos, ṭerebəntos, ṭebənto, ṭebərentos ṬRBNṬS",
+        "meaning": "ṬRBNṬS 'terebinth, (T) juniper, sycamore'",
+        "origin_explanation": "from Gk. terebinthos 'terebinth'; also Te. ṭärbəntos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarbəzeber, ṭarzəbeter, ṭerzəjer",
+        "phonetics": "ṭarbəzeber, ṭarzəbeter, ṭerzəjer ṬRBC",
+        "meaning": "ṬRBC 'priest, function of priest'",
+        "origin_explanation": "perhaps a corrupt form of Gk. presbyteros through Arabic by misreading the Ar. b as t; the correct form should be burzəbeter (Getatchew). See also ṭarzebetel.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarappəza",
+        "phonetics": "ṭarappəza ṬRPZ",
+        "meaning": "'table, holy table on which the deacons prepare the Host, altar'",
+        "origin_explanation": "from Gk. trapeza 'table'; also in Amh. ṭäräppəza 'table', Ar. (Eg) ṭarabēza.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaraqa I",
+        "phonetics": "ṭaraqa I (yəṭarəq) ṬRQ",
+        "meaning": "'fortify, strengthen, (K*) make tight'",
+        "origin_explanation": "ETHIOPIC: Amh. ṭärräqä 'fasten with nails, reinforce with metal', ṭäräqqäqä 'fasten two boards together' and possibly Tna. ṭärqamä 'fasten with nails', Amh. ṭäräqqämä 'tie tightly', denominatives from a noun with suffixed -m from ṭrq. Tigre ṭärqa 'clear a way' suggested by Amsalu 55 is a denominative ṭäräqät 'way', from Ar. ṭarīq. See also ṭaraqa II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaraqa II",
+        "phonetics": "ṭaraqa II (yəṭarəq) ṬRQ (T.Y.M)",
+        "meaning": "'have diarrhea, (K*) crush the testicles of an animal until it has diarrhea, pierce'; ṭaraqa, same; ṭatarqa (K*), pass. of ṭaraqa; ṭaräqi 'that has broken testicles (animal), that has diarrhea (animal), (Gr.343) a bodily de-fect'; (həmämä ṭaräqi [Lt] 'dysentery'); ṭarqə (T.M) 'diarrhea'",
+        "origin_explanation": "SEMITIC: for the meaning 'crush', cp. Ar. ṭaraqa 'beat, strike'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarsa",
+        "phonetics": "ṭarsa (yəṭras) ṬRS (T)",
+        "meaning": "ṭarasa ṬRS 'have dull teeth, be set on edge (teeth)'; ṭar(r)asa (T) 'clench the teeth, be set on edge (teeth)'; ṭərs (pl. ṭəras, 'atras) 'molar tooth'",
+        "origin_explanation": "ETHIOPIC: Amh. ṭärräsa 'break the teeth', Gur. ṭä-räsä 'break off a piece', Har. (a)ṭäräsa 'make the teeth feel acid'. Tna. ṭärräšä 'finish' and Te. ṭärsa 'emaciate and become weak > *'come to an end' are to be compared with Amh. ṭärräsa 'finish, termi-nate' and not with G.Amh.Gur. ṭərs 'break the teeth, have dull teeth', as suggested by Littmann-Hofner 611. See also darsa, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarot (cross-reference)",
+        "phonetics": "ṭarot ṬRT",
+        "meaning": "see ṭarya.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarot",
+        "phonetics": "ṭarot ṬRT (K*DTW 586)",
+        "meaning": "'roof, poles for the roof'",
+        "origin_explanation": "ETHIOPIC: Amh. ṭara, ṭarəya 'roof'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarəṭṭare",
+        "phonetics": "ṭarəṭṭare ṬRṬR (Gr.481)",
+        "meaning": "'doubtful things'",
+        "origin_explanation": "from Amh. ṭäräṭṭare.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭartəwos",
+        "phonetics": "ṭartəwos ṬRTW (T*)",
+        "meaning": "'very poor'",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. ṭärättäšä 'become old and feeble, be dilapidated', unless G. ṭartəwos is the name of a poor person.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭaräw",
+        "phonetics": "ṭaräw ṬRW",
+        "meaning": "'constellation'",
+        "origin_explanation": "from Ar. turayyā 'Pleiades'; see also ṭarəyā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭarya, ṭarəya",
+        "phonetics": "ṭarya, ṭarəya (yəṭriy) ṬRY (K*)",
+        "meaning": "see ṭəṭraya; ṭəṭraya 'possess, take possession, purchase, ob-tain, acquire'; ṭatarya (Y) ṭatarraya, passive; ṭəruy, pass. participle; ṭəräy 'possessions'; ṭarət (pl. ṭarität) 'possessions, wealth, goods, property'; matriy (pl. matrayät) 'acquired things'; matrayi, matri (K*) 'who acquires, who pos-sesses, possessor'",
+        "origin_explanation": "SEMITIC: Aram. ṭərä (ṭry) 'give, negotiate', ṭarīṭā 'gift' (Perles 1917:300). ETHIOPIC: Tna. ṭäräyä 'acquire, gain possession', ṭarīt 'wealth, possessions', Amh. ṭärra 'amass",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(täräy)",
+        "meaning": "'money', 'tärīt 'accumulation of property', tärrätä 'amass money' (denominative of tärīt); passed into Cushitic. Bil. a-täräy-d 'cause to acquire'.",
+        "origin_explanation": "passed into Cushitic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(täräy)",
+        "meaning": "'raw, crude'.",
+        "origin_explanation": "SEMITIC: Ar. tariyy 'fresh', Sh. terī, Heb. țārī 'raw, fresh', Syr. tarrīnā 'fresh', Ug. try (de Moor). ETHIOPIC: Te. țaray 'raw, fresh', Tna.Amh.Arg.Gur. țare, Har. țiri 'raw'. See also țare.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Ṭ*)",
+        "meaning": "'partridge'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəṭraz) (T.Y.M)",
+        "meaning": "'sew together, bind a book'; täräz (T.M) 'volume, exercise book, ledger, fascicle of a book'.",
+        "origin_explanation": "SEMITIC: Ar. țarraza 'embroider', Ar. țirāz 'embroidery' is considered by Vollers 1896:645 a Persian loanword. For its relation to Ar. daraz 'embroider', see Marçais 1911:296. ETHIOPIC: Te. țärza 'bind a book', Tna.Amh. țärräzä; Tna.Amh. țaraz 'volume'. See also țärzä, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "see țarzabelq.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T')",
+        "meaning": "'deacon'.",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. țaraz 'very knowledgeable student', from țäräz 'book'. It could also be a misprint for *'arzo, or the other way around.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D), terzețer (T)",
+        "meaning": "'priest'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Sw. in D 1408)",
+        "meaning": "'covering for the ark whose width and length are equal'; possibly two different nouns: țarz, țarze, and belq. beleq.",
+        "origin_explanation": "possibly two different nouns: țarz, țarze, and belq. beleq.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "see țarbezer.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "see țarbezer.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'cause a wound to swell'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'be distended, be enlarged (stom ach)'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'enlarged (stom ach)'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(tän)",
+        "meaning": "'be distended, be enlarged', țärzaz 'enlarged (stom ach)'.",
+        "origin_explanation": "From Amh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.Sw.in D 1398)",
+        "meaning": "'eyebrow'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "see țys.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "'kind of dish (food)'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.M)",
+        "meaning": "'anoint, smear with butter'; țasm (Lt) 'butter'.",
+        "origin_explanation": "from Tna. țäsämä 'smear with butter', țäsmi 'butter' (since the source of țasama is Abba Ya'qob who was Eritrean). The root is perhaps related to Ar. dasima 'be greasy (food)'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'thyme'.",
+        "origin_explanation": "ETHIOPIC: Amh. țosäññ, Tna. țäsnä, țäsmi is identified by Bassano 905 with țäbsänay (țäbsänay Yohannes 771). If he is correct, the original form would be țäbsänay, with ab > o, ä in țosäññ, țäsnä with spirantization and loss of b. The root also occurs in Cushitic: Sa. țäsne. For Amh. țosäññ, see Strelcyn 1973:no. 260, Rodinson 39, n.9.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.H.M)",
+        "meaning": "'be tired, be weak'; Te. țäsäsa 'become weak, become dim (eyes)'. Amh. țäsäṭäsä.",
+        "origin_explanation": "ETHIOPIC: Tna. țästäsä 'become old, become weak'. Tigre țäsäsa is not to be derived from Ar. țäšša 'Schnupfen haben', as suggested by Littmann Höfner 613.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "see țys.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəṭsi)",
+        "meaning": "'blot out, crush to powder, destroy, annihilate, consume'; (note that while KG 1 has țasya, KG 2, 3 wrongly have țayyasa); țatäsya, passive; țäšuy, pass. part. of țasaya; țäsyat 'act of destroying, annihilation'.",
+        "origin_explanation": "SEMITIC: related to Ar. țassa (țss) 'beat', PbH. țišṭeš 'erase'. ETHIOPIC: Amh. țäsäṭṭäsä 'beat, thrash'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'cotton'.",
+        "origin_explanation": "SEMITIC: Ar. țuṭ 'cotton'. ETHIOPIC: Tna. țuṭ, Amh.Arg.Gur. țoṭ, Har. țūt; probably passed into Cushitic: Sa. țuṭ, Kham. țit, Qab.Al. țita, Aw. țoti.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K.DTW)",
+        "meaning": "'whip'.",
+        "origin_explanation": "ETHIOPIC: Amh. țiți 'whip'; perhaps also Te. țiți 'sound', if G. Amh. țiți also refers to the sound of the whip.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.M)",
+        "meaning": "'bite off the pods of beans or peas in order to eat the legumes'.",
+        "origin_explanation": "ETHIOPIC: Tna. țäṭämā 'strip off leaves'. Since Abba Ya'qob was Eritrean it is possible that G. țäṭäma, recorded by him, is of Tigrinya origin.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'Amh. doqma 'kind of tree' (for which see Strelcyn 1973:no. 74)'; perhaps to be identified with pițon, pețen, below, for the alternance p:ț, see pekson, pngl.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "'giants'.",
+        "origin_explanation": "from GK. Titanes, pl. of Titan, proper name of one dynasty of gods used by the Septuagint for translating 'giants'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(tw), țo'a, țo'a (yəṭu')",
+        "meaning": "'be stingy, be greedy, be miserly, be sparse, sparingly, covet'; țawwə'a, țawwə'a (T) 'harm by stinginess, (T.M) make smaller, diminish'; țawā'i 'stingy, miserly, greedy, envious'; țawī (T) 'greed, stinginess'.",
+        "origin_explanation": "SEMITIC: Reinisch 1895:229 connects it with the root țmr (with m > w): Ar. țamī'a 'be greedy', țamā'a; Cushitic: Bed. țäma', Sa. țama'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(MA)",
+        "meaning": "'make turn'.",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. țolā 'wander about'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'screen from view, cover something with a screen or a piece of cloth, curtain off'; a variant of țablala; see also *țolala II.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəṭum) (T.MA)",
+        "meaning": "'fold up, roll up, wrap together'; țatäwma, passive; țawāmi, act. part. of țoma; țawwum, pass. part. of țoma; țawwāme 'folding up, rolling up' (n.); țawmat, țumat (D.K*), same; see țmm, țamma.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yəṭuq)",
+        "meaning": "'be in dire straits, be oppressed, be afflicted, compress, constrain'; 'atwaqa, 'aṭaqa, 'aṭawwaqa 'oppress, squeeze, compress, constrain, compel, force, gag, harass, trample upon, torment, treat cruelly, afflict, distress, vex, choke'; țatäwqa, țatäwwaqa, passive of 'aṭwaqa; also 'be in dire straits'; 'aṣṭäwqa (K*) 'oppress one another'; 'aṣṭatäwqa (K*), causative of 'aṭatäwqa; țəwwuq 'afflicted, oppressed, compressed, tormented, constrained, abstruse (sermon)'; țəwwāqe 'straitened circumstances, affliction, oppression'; țəwqaț, (K*) țuqaț 'oppression, affliction'; țəwqännä, same.",
+        "origin_explanation": "SEMITIC: related to Ar. dāqa (dyq) 'be narrow', dayyaqa 'constrain, oppress', Heb. ṣyq (ḥi-yil) heṣīq 'bring into straits', Aram.-Syr. 'aq ('wq) 'be weary', ('etpo'el) 'be straitened'. Ug. š-ṣq 'exert pressure'. ETHIOPIC: Tna. țäwwäqä 'press, pressure', Amh. țäqäččäqä 'nag, pester'; related to Gur. țäqäqä 'be narrow, be squeezed together', țäq epä 'press hard, tighten'; passed into Cushitic: Kam. țuqqe'e 'be narrow'. Had. țäqä-kko. See also țaraqa, țawqaya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'be narrow, be under stress, be painful'; țatäwqaqaya 'oppress one another'; 'aṣṭatäwqaqaya (M), causative of 'aṭatäwqaqaya; a 4-radical augmented by y from țwq, țoqa.",
+        "origin_explanation": "a 4-radical augmented by y from țwq, țoqa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(MA)",
+        "meaning": "'intercede'.",
+        "origin_explanation": "From Amh. țorä 'support one's parents in old age', coming from șorä 'carry' (see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D 1408)",
+        "meaning": "'row (of masonry)'.",
+        "origin_explanation": "transcription of Heb. țūr.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "'peacock, pheasant'.",
+        "origin_explanation": "From Gk. taōs 'peacock'; also Amh. țawos; in Semitic: Ar. țāwūs, Aram. țawwāsā, Syr. țawsā, Md. țausa. See also țaws, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "None.",
+        "meaning": "'eagle'.",
+        "origin_explanation": "None.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "tawaya",
+        "phonetics": "(yəṭəway, yəṭwi)",
+        "meaning": "'be crooked, be tortuous, be winding, be perverse'",
+        "origin_explanation": "SEMITIC: Ar. ṭawā (ṭwy) 'fold'. Mh. ṭəwā, Heb. ṭāwā (ṭwy) 'spin'. Aram. ṭəwayyā 'spinning' (n). Syr. ṭwā 'be wrinkled'. Akk. ṭawū 'spin'. ETHIOPIC: Tna. ṭəwāyā ṭəwist', Te. ṭəwa 'wring, bend'. Amh. ṭəwayyə 'warped' (from Geez) related to Te. ṭəwsa (ṭəwsw) 'twist', ṭəwa (ṭwy) 'distort', and probably Heb. ṭəṣīṣ, ((from ṣyṣy-r) 'tuft of hair, tassel', Syr. ṭəṣīṣā 'lock of hair'. For more details in connection with Heb. ṭəṣīṣ, see Baumgartner 959. See also ṭəwy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "tawāyā",
+        "phonetics": "(K*)",
+        "meaning": "'make crooked, tilt up, make perverse, lead astray, distort, twist, curve, distress, embarrass'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "tawāyā",
+        "phonetics": "passive of tawaya",
+        "meaning": "'roll oneself around'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəṭawāyā",
+        "phonetics": "",
+        "meaning": "'act in a perverse way against someone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəway ṭəway",
+        "phonetics": "",
+        "meaning": "'twisting, colic'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəwayyə",
+        "phonetics": "",
+        "meaning": "'distorted, twisted, bent, winding, crooked, curved, jagged, depraved, perverse, villain'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəwayyət",
+        "phonetics": "",
+        "meaning": "'distortion, twisting, bending, perversion, wickedness'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəwayyə",
+        "phonetics": "",
+        "meaning": "'circlet, something twisted, (T) something embroidered'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəwayyənnā",
+        "phonetics": "",
+        "meaning": "'tortuous manner'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "maṭway",
+        "phonetics": "",
+        "meaning": "'instrument of torture'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "maṭwayi",
+        "phonetics": "(KG)",
+        "meaning": "maṭway. (K*) ṭəṭwayi, part. of ṭəwaya",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəwy, ṭəṭwayyə",
+        "phonetics": "(Lt)",
+        "meaning": "'be distorted (face)'",
+        "origin_explanation": "see ṭawaya, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəy, ṭəṭa",
+        "phonetics": "",
+        "meaning": "'besmear, anoint, cover over, fill up by besmearing, close up, stop up, plaster with mud, (T) put antimony on the eyes, (Lt) become deafened, become dull'",
+        "origin_explanation": "SEMITIC: related to Ar. ṭā (ṭw) 'mud'. Dillmann 1247 (followed by Koehler 350, Baumgartner 357) connects it with Ar. ṭāḥa (ṭyḥ) 'stain'. Heb. ṭāḥ (ṭwḥ), ṭāḥ (ṭḥḥ) 'plaster, coat'; add Ug. ṭy/wḥ 'plaster' (v).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəṭe'a",
+        "phonetics": "(K*)",
+        "meaning": "passive",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyyəw",
+        "phonetics": "(Lt)",
+        "meaning": "'smeared, filled up by besmearing, closed up'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyb, ṭəṭa",
+        "phonetics": "",
+        "meaning": "(Lt) 'plaster, coat, plug up'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəy, ṭəṭa",
+        "phonetics": "",
+        "meaning": "perhaps a misprint for ṭe'a m.θ; see ṭe'a, ṭe'a above.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayf",
+        "phonetics": "",
+        "meaning": "(Gr.442). see ṭāḥf, ṭārf.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayfāṣ",
+        "phonetics": "(K*)",
+        "meaning": "'pearl'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyaqa",
+        "phonetics": "",
+        "meaning": "'observe, look at, contemplate, perceive, beware, recognize, consider closely, examine, investigate strictly, know exactly, understand, be certain, make sure of, ascertain, inquire, inform oneself, ponder well, be aware, acknowledge, explore'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "'aṭayyaqa",
+        "phonetics": "",
+        "meaning": "'make sure, assure, make certain, ascertain, inform, make known, affirm, state explicitly, report, convey, expound, indicate, demonstrate, give explanations, tell'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəṭayyaqa",
+        "phonetics": "",
+        "meaning": "'make oneself certain, seek with certainty, inquire carefully, be ascertained, be manifest, recognize'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyāqi",
+        "phonetics": "(Gr)",
+        "meaning": "act. part. of ṭayyaqa",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyyuq",
+        "phonetics": "",
+        "meaning": "'certain, sure, exact, accurate, perfect, precise, well-known, sharp-sighted, penetrating, prudent'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyyuq-a",
+        "phonetics": "",
+        "meaning": "'exactly, clearly, accurately, certainly, perfectly, surely, thoroughly, closely, diligently, carefully'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyyāqe",
+        "phonetics": "",
+        "meaning": "'certainty, certitude, accurate knowledge, evidence, investigation, ascertaining'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "(ṣam'ā ṭəyyāqe",
+        "phonetics": "",
+        "meaning": "'reliable witness')",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyyəqənnā",
+        "phonetics": "",
+        "meaning": "'exactness, thoroughness, subtlety'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "maṭayyaq, 'aṭayyāqi",
+        "phonetics": "",
+        "meaning": "act. participle of 'aṭayyaqa",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyaqa",
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "SEMITIC: related to Heb. dwq (ḥif-il) 'review, inspect', Aram. dāq (dwq) 'observe, regard'. ETHIOPIC: Tna. ṭəyəyəqā 'investigate'. Amh. ṭəyəqā 'ask, inquire, query'. Gur. (a)čəqā. (a)čəqəqā 'make sure'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyara",
+        "phonetics": "(K*)",
+        "meaning": "'fly'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyara",
+        "phonetics": "",
+        "meaning": "causative",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyara",
+        "phonetics": "",
+        "meaning": "'divine by observing the flight of birds, foretell, predict the future, forebode, be superstitious, (Lt) observe the flight of birds'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭayyara",
+        "phonetics": "(MA)",
+        "meaning": "'be slow, calm down' (the meaning is strange)",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "'aṭayyara",
+        "phonetics": "(Lt)",
+        "meaning": "'predict the future by the flight of birds, divine'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭər",
+        "phonetics": "(K* KG)",
+        "meaning": "'magic, sorcery'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭatayyəro",
+        "phonetics": "(Lt)",
+        "meaning": "'magic, sorcery, augury by means of birds'",
+        "origin_explanation": "SEMITIC: Ar. ṭāra (ṭyr) 'fly', Syr. 'aṭīr (from ṭyr) 'make fly', ṭayrā 'bird'. Aram. ṭayyār 'bird'. For foretelling the future by the flight of birds, cp. Aram. ṭayyer, PBh. ṭəyyār 'divination'. As for the Ethiopic root *ṭyr 'fly', it is borrowed from Arabic. This is true of G. (ṭa)ṭayyara, Te. ṭera 'hover (eagle)'. Amh. ṭəyyārā 'fly'. Noeldeke 1910:64 considers G. ṭəṭayyara to be common with Ar. ṭaṭayyara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "maṭayyar, 'aṭayyāri",
+        "phonetics": "",
+        "meaning": "'augur, soothsayer'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "maṣṭaṭayyar",
+        "phonetics": "",
+        "meaning": "same",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭys, ṭesa",
+        "phonetics": "(yəṭis)",
+        "meaning": "'smoke' (intr.)",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəyasa",
+        "phonetics": "(MA)",
+        "meaning": "'extinguish'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "'aṭesa",
+        "phonetics": "(Lt)",
+        "meaning": "'aṭyasa 'emit smoke, produce smoke''",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəṣ",
+        "phonetics": "",
+        "meaning": "'smoke' (n)",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭəṣat",
+        "phonetics": "(Lt)",
+        "meaning": "'going up in smoke, destruction'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "'aṭyāṣi",
+        "phonetics": "(Gr)",
+        "meaning": "'who causes to smoke'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "headword": "ṭe",
+        "phonetics": "",
+        "meaning": "(a)ṭayəṣa 'to perfume'. Tna. (a)ṭeṣā, Amh. (a)ṭeṣā 'emit smoke, perfume' (v). Arg. (a)ṭeṣa, Gur. (a)čəṣā; for 'smoke' (n), cp. Tna. ṭəṣ, Te. ṭəṣ, Amh. ṭəṣ, čəṣ, Gur. čəṣ 'compound of several houses belonging to the same family', that is, the place of the smoke from the fireplace which is the central part in the house; cp. also Tna. ṭəṣəñña 'tenant farmer', Amh. ṭəṣəñña, čəṣəñña, Gur. ṭəṣəñña, that is, one who lives on someone else's property. Brockelmann 1950:33 (following Reinisch) derives the Ethiopic root from Cushitic. Aw. ṭəṣā 'smoke'. Bil. ṭəḍa, going back to Qem. ṭəḥṣa.",
+        "origin_explanation": "ETHIOPIC: (a)ṭayəṣa 'to perfume'. Tna. (a)ṭeṣā, Amh. (a)ṭeṣā 'emit smoke, perfume' (v). Arg. (a)ṭeṣa, Gur. (a)čəṣā; for 'smoke' (n), cp. Tna. ṭəṣ, Te. ṭəṣ, Amh. ṭəṣ, čəṣ, Gur. čəṣ 'compound of several houses belonging to the same family', that is, the place of the smoke from the fireplace which is the central part in the house; cp. also Tna. ṭəṣəñña 'tenant farmer', Amh. ṭəṣəñña, čəṣəñña, Gur. ṭəṣəñña, that is, one who lives on someone else's property. Brockelmann 1950:33 (following Reinisch) derives the Ethiopic root from Cushitic. Aw. ṭəṣā 'smoke'. Bil. ṭəḍa, going back to Qem. ṭəḥṣa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "phonetics": "-ya",
+        "meaning": "possessive suffix pronoun of the 1st person",
+        "origin_explanation": "SEMITIC: for this suffix pronoun in the Semitic languages, see Brockelmann 1908:307-8; Barth 1913: 35ff. ETHIOPIC: Tna. -y, -ay, Te. -ye, Amh.Arg. -yä, Gur. -(a)y; contracted into -e in Amh.Arg.Har. Gurage. For other Ethiopian languages, see Leslau 1956: 57.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "-ya, in sobeya",
+        "meaning": "(Lt) 'then'",
+        "origin_explanation": "from soba, sobe (see above), with the suffix -ya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ye, ye ye, yo, yo yo",
+        "meaning": "exclamation of admiration (oh!), of grief or pain ('alas!, ah!')",
+        "origin_explanation": "SEMITIC: Ar. yā + l + suffix pronoun 'oh what!' (admiration), Ug. y 'woe!'. ETHIOPIC: Te. yo, yāh, yāw 'woe!, oh!', Tna. ye, yāy, yāye, yāh, Amh. ye, ayä, exclamation of surprise, wonder, or sorrow.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəʾəti (acc. yəʾəta)",
+        "meaning": "'she, this, that, same, the'; yəʾəta gize 'then'; yəʾəta soba 'right then'; zəyəʾəti 'that is to say'; wəyəʾəti 'namely'; also serves as copula: e.g. 'ana yəʾəti 'I am', yəʾəti zətti 'this is'",
+        "origin_explanation": "SEMITIC: Ar. (Spain) hiet 'she', Ar. (Palestine) hite, SAr. hyt. For the final -tu, -ti, see wəʾətu, above. For the other Semitic languages, see Brockelmann 1908:302-4; Barth 1913:14-8. ETHIOPIC: Te. həta, Gaf. yət, Gur. x'it, x'ita, it; for other Ethiopian languages, see Leslau 1979:359, under kiya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəʾəze",
+        "meaning": "'now, just now, at the moment, at present'",
+        "origin_explanation": "with a negative verb, 'not yet'; wəyəʾəze-ssa 'but now'; wəyəʾəze-ni 'now then, and now'; ʾəskə yəʾəze 'till now'; ʾəmyəʾəze 'from this time forward, from now on, henceforth'; SEMITIC: Dillmann 1907:377 analyzes it as yəʾə-ze; he identifies (p. 121) yəʾə with yəʾə- of yəʾəti 'she', and compares -ze with zə of zəya 'there' and with Heb. ʾəzay 'then' (p. 377, n. 2). Barth 1893:59-60 analyzes yəʾəze as yə, originally the prefix of the 3rd person, imperfect (comparing it with various elements, such as Ar. ʾayy 'which?', G. ʾayy, but he does not explain the element ʾof yəʾə), and compares -ze with -ze of məʾəze 'when?', zəya 'there'. Torczyner 67 compares Ar. ʾidā 'then', Aram. ʾādayin 'until now, still' (which, however, is interpreted as coming from ʾad hēn, ʾad henā 'until now'). Eitan, AJSL 46 (1929-30). 39 explains yəʾəze as coming from a deictic element yə- and *ʾəze which he, like Dillmann, identifies with Heb. ʾəzay. Rundgren 1955:44 and Littmann 1964:374 compare -ze of yəʾəze with G. gize (from gi-ze) 'time'. Baumgartner 26 compares yəʾəze with Ar. ʾid 'then'. ETHIOPIC: Tna. həzi, həgi 'now', Te. ʾəze, Har. hōgi, Gur. awǧe, awǧi (with palatalization of z > *ž > ǧ).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəbe",
+        "meaning": "'he said'",
+        "origin_explanation": "formally it is the imperfect of bəhla, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəbbaba, yəbaba",
+        "meaning": "'jubilate, shout with joy, rejoice, exult, triumph, (Gr.311) applaud'; yəbbābəbe 'jubilation, cries of joy'",
+        "origin_explanation": "SEMITIC: Ar. ʾabbaba 'shout', Heb. yibbeb 'lament', Aram. yəbab 'shout an alarm', Syr. yəbbəb 'make a joyful noise, howl (as the wind)', Md. ybb 'groan, whistle'. ETHIOPIC: Amh. yäbbäbä 'rejoice, exult' (from Geez). See also babbaya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəḅn (Lt)",
+        "meaning": "'ibis'",
+        "origin_explanation": "from Gk. ἴβις, acc. sg. of ἴβις 'ibis'. See also ἴbn.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəbṣa (yəybas)",
+        "meaning": "'be dry, be arid, dry up, be withered (hand)'",
+        "origin_explanation": "SEMİTİC: Ar. yəbisa 'be dry', SAR. ybs., Heb. yābeš, Aram. yābeš, Syr. ἴbeš, Md. ybš. ETHIOPIC: Te. yābaṣa 'be dry', Tna. yābas 'dry land', Amh. yabs (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ybs, aybasa (T.M)",
+        "meaning": "'lend money'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāda (T+)",
+        "meaning": "= Amh. roman 'pomegranate'",
+        "origin_explanation": "since T is the only source for yādə one wonders whether it is a misprint or a misunderstanding of yādən (below), and Amh. roman would then stand for romay 'Latin' indicating the origin of yādən.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yd, ayda, (T)",
+        "meaning": "ayda 'make know, inform, tell, declare, announce, proclaim, report, relate'",
+        "origin_explanation": "SEMİTİC: Ar. ayda'a 'inform' (see Noeldeke 1910:202-3), Sar. yd 'find out', hyd 'inform', Soq. yədəh 'know', Šh. yədə' 'hear', Heb. yāda' 'Aram. yəda', Syr. idə', Md. ydə, Ph.Ug. yd', Akk. edū, idū, wadū. ETHIOPIC: See əndə'i, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yadāhi (Gr.312)",
+        "meaning": "'green peas'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yədən (K.KG)",
+        "meaning": "'middle of the month'",
+        "origin_explanation": "from ἴdūn, Greek rendering of Latin ἴduum, gen. of ἴdūs 'Ides'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāfəs (K.KG)",
+        "meaning": "'axe'",
+        "origin_explanation": "one recognizes Ar. fā's 'axe', Amh. fas.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yogi,",
+        "meaning": "'perhaps, possibly, by chance, per chance, peradventure, lest'",
+        "origin_explanation": "Praetorius, ZDMG 47 (1893).390-1 derives it from Cushitic: Or. məgī 'perhaps', Som. moyi 'I don't know' (from the negative mā, and og 'know'), Geez yogi coming from ʔi-ogi. Geez yogi perhaps comes rather from Bil yigā 'but'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəhūdā",
+        "meaning": "proper name of a person or tribe (Judah, Judea)",
+        "origin_explanation": "SEMİTİC: SAR. yhd 'Jews' (W. Müller), 'Judean, Jew'; for the Aramaic origin of see Jeffery 294, A. Fischer 1953:157. ETHIOPIC: Tna. yəhudi 'Jew', Te. yəhudanna 'Judaism', Amh. yəhudawi 'Jew'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yuhət (Lt)",
+        "meaning": "see yawwəha.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yəhəyə'a, (L)",
+        "meaning": "ayhə'a 'descend (from heaven), go down, fall down, bring down, make fall, (Lt) proceed'",
+        "origin_explanation": "is to be connected with G. ayh 'flood', but the final is enigmatic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yākənt",
+        "meaning": "'jacinth (gem), cloth or garment spun with a purple thread'",
+        "origin_explanation": "from Gk. hyakinthos 'jacinth'; also Amh. yakənt, yayqəntən, dəyāqəntən (see Krauss 212), Syr. yāqūndā (Noeldeke 1910:40), Ar. yāqūt 'ruby' (Jeffe ry 289, A. Fischer 1953:155). See also hayākəntos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yks, tayakasa (T)",
+        "meaning": "'examine, investigate'",
+        "origin_explanation": "ETHIOPIC: Amh. yäkkäsä, täyäkkäsä 'ask', Tna. wä kāsä. For Amh. täyäkkäsä coming from *täyäqqäsä > *tyks > tyks, see Leslau 1979:628-9 under təqäsä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yäkkätit",
+        "meaning": "sixth Ethiopian month (corresponding to 8 February-9 March)",
+        "origin_explanation": "ETHIOPIC: Amh. yäkkätit, Tna. yäkkattit, läkkattit (for the variant y;l, cp. yäwḥe, läwḥe, under wäwəḥa; lomi, yomi, under yom); also in Cushitic: Sa. yäkkätit.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yākiyārān (Lt)",
+        "meaning": "'kind of fish'",
+        "origin_explanation": "see also aktəyārān, yātəyārākəp.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yakāyasari (T+)",
+        "meaning": "'kind of fish'",
+        "origin_explanation": "see also yākiyārān, yātəyārākəp.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yom",
+        "meaning": "'today, this day, nowadays'",
+        "origin_explanation": "SEMİTİC: Ar. yawm 'day' (occasionally yam 'when'), Sar. ywm 'day, time', Soq. yōm, Heb. yōm 'day', yōmām 'daytime', Aram. yōmā 'day', ymā 'time', Syr. yawmā 'day', Md. ium, Ug. ym, imu. For this root, see also Noel deke 1910, ETHIOPIC: Te. yom 'today', Tna. lomi, lom (for l;y, see yäkkätit), Amh. yom 'day' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yamān, (T)",
+        "meaning": "yamin 'right (n), right side, right hand'",
+        "origin_explanation": "SEMİTİC: Ar. yamīn 'right', Sar. ymn, Šh. ymn), Heb. yāmīn, Aram.-Syr. yammīnā, Md. ug. ymn, Akk. imnu. ETHIOPIC: Tna. yämīn 'right', Te. man, dəmman (from *əd yämān 'right hand'), Amh. yämīn 'right hand' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāmīn (Lt)",
+        "meaning": "'shovel'",
+        "origin_explanation": "from Gk. amēn, acc. of amē 'shovel'; or could it be a corrupt form of Heb. yā'īm 'shovels'? (W. Müller). See also iyyāmīn.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yamun (Lt)",
+        "meaning": "'abundant, greatly, very much'",
+        "origin_explanation": "ETHIOPIC: Tna. yämāna 'very much'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yanbāhabāt (Lt)",
+        "meaning": "'a musical instrument'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yonānāwi (Lt)",
+        "meaning": "'Greek'",
+        "origin_explanation": "from Ar. yūnān 'Greeks' with the Geez suffix -āwi. See also yōnāyāwān, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yānos (T.M.Gr.312)",
+        "meaning": "'lion, strong, powerful'",
+        "origin_explanation": "seems to be an interpretation of a proper noun, perhaps Latin 'Ianus' (W. Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yonās (T)",
+        "meaning": "'dove'",
+        "origin_explanation": "an interpretation of the proper noun Jonah, Gk. Iōnas. See also wānos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yānwāryos (K.KG)",
+        "meaning": "= Amh. fərr, fifth Ethiopian month",
+        "origin_explanation": "from Latin Jānuārius 'January'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yonāwāyān",
+        "meaning": "'Greeks'",
+        "origin_explanation": "perhaps corruption of yonānāwī, above, with the plural marker -ān.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāqum (Sw. in D 1407.T.M)",
+        "meaning": "'hard, strong, firm'",
+        "origin_explanation": "interpretation of the Greek proper name of a col umn Iachum, transcription of Heb. yākin, in 3 Kings 7:21 (= 1 Kings 7:21). See also balaz.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yərbāḥ, yərbāḥ, yərbāḥ (L)",
+        "meaning": "yərbāḥ 'giant'",
+        "origin_explanation": "from rabha 'be wide, be large', with a prefixed y. For nouns formed with a prefixed y, see Barth 1894:226-233; Bauer, ZDMG 71 (1917).409.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yārəd of: (Gr.311)",
+        "meaning": "'a small bird, the bird which taught Yared the zemā-melodies'",
+        "origin_explanation": "(or perhaps 'Yared, the bird', a simile in a poem). See ʿof.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yərdā (T)",
+        "meaning": "'region where monkeys live'",
+        "origin_explanation": "perhaps a place-name.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāsbis (D.T)",
+        "meaning": "'jasper'",
+        "origin_explanation": "from Gk. iaspis 'jasper'; also Te. yaspis. See also iyyāspis, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yosār",
+        "meaning": "'precious stone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yotor",
+        "meaning": "'precious stone'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yātrāyākap",
+        "meaning": "'kind of fish'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yoṭā",
+        "meaning": "'leaf'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwaha, yawha",
+        "meaning": "be gentle, be mild, be modest, be innocent, be submissive, show clemency, soothe, mitigate, charm, flatter, pacify, persuade, deceive'; 'charm with flattering words'; 'be gentle, be mild, let oneself be pacified or persuaded, be flattered'; 'flatter one another, be gentle with one another'; 'gentle, meek, innocent, mild, modest'; 'gentle, meek, simple, mild, innocent, modest, sincere, candid, (Lt) silly, humble, submissive, courteous, amiable'; 'mild, gentle'; '(yawwaha 'mildly, gently')",
+        "origin_explanation": "SEMITIC: Ar. yayya'a 'show kindness, flatter', Soq. diye 'good' (from di-ye; see Leslau 1938:126), Heb. yād (yyy) 'be befitting', Aram. yā'e 'fitting, right', Syr. yā'e, ya(')yā 'fair, virtuous', Md. y', Ph. y' 'fine, fair'. ETHIOPIC: Amh. yāwwah 'meek, naive' (from Geez), Tna. yāwwaha, lāwwaha 'be meek, be gentle, be mild' (for y.l, see yakkā'it), Te. yawhe, lawha.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwāhe",
+        "meaning": "'gentleness, mildness, simplicity, na-ivetē, meekness, modesty, innocence, serenity, peace, peacefulness'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwaho(t)",
+        "meaning": "'meekness, mildness of manner, enticing words'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwāhat",
+        "meaning": "'mildness, gentleness, innocence, sim-plicity, modesty, meekness, graciousness, tran-quility, integrity, serenity, (Lt) stupidity'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwāhai",
+        "meaning": "same",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yuhāt (Lt)",
+        "meaning": "same",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawwahannā",
+        "meaning": "same as yawwāhe",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ayawwāhi",
+        "meaning": "act. part. of 'ayawwaha",
+        "origin_explanation": "Gr.423",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yawṭā",
+        "meaning": "iota (the Greek letter), name given to Jesus (from the initial letter of his Greek name Iēsous), the Ten Commandments",
+        "origin_explanation": "the Greek letter ι having the form of the Geez numeral ፲ 'ten'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "yāzer",
+        "meaning": "",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    }
+]

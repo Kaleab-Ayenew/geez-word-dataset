@@ -1,0 +1,3187 @@
+[
+    {
+        "phonetics": "-ka -h",
+        "meaning": "possessive suffix pronoun of the 2nd masc. sg.; subject suffix pronoun of the 2nd masc. sg. of the verb in the perfect and the gerund; object suffix pronoun of the 2nd masc. singular.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "-ki -h",
+        "meaning": "possessive suffix pronoun of the 2nd fem. sg.; subject suffix pronoun of the 2nd fem. sg. of the verb in the perfect and the gerund; object suffix pronoun of the 2nd fem. singular.",
+        "origin_explanation": "SEMITIC: for more details, see Brockelmann 1908:309-310; Barth 1913:43-48. ETHIOPIC: for more details, see Leslau 1956:58.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "-ke -h",
+        "meaning": "'now, then, so then, thus, therefore, of course, indeed, accordingly, to be sure, in fact, and yet, even, as for'",
+        "origin_explanation": "SEMITIC: Heb. kī 'surely, yea, then' (see V. Christian, WZKM 31[1924].178-182; Baumgartner 43), Ug.Ph. k, Aram.Akk. kī. See also D. Cohen 1970:16, under yy. ETHIOPIC: Tna. -kā, kā'a 'then', -kā 'and, then', Gur. xeta (from xe-ta) 'so then', Chaha -xe 'to be sure'. For kā in combination with various elements, see Dillmann 1907:120.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "-(k)ku -h",
+        "meaning": "an element expressing distance, as in zakku, ʔantakku, ʔallənku",
+        "origin_explanation": "SEMITIC: Ar. hunā-ka 'there', Heb. kākā 'thus', Aram. de-k 'that'. For more details, see Barth 1913:80-3.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔaṣa hʷaṣa (Lt)",
+        "meaning": "'entice, seduce', kʷaʔəkʷaʔe, kʷaʔəkʷaʔe (Lt) 'inducement'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔasa hʷaṣa (MA)",
+        "meaning": "'dig'; probably a misreading for kʷaʔata (see kʷaʔata 'dig').",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷoʔis, kʷaʔis, kʷoʔiso, kʷoʔisā, kʷaʔisi",
+        "meaning": "'measure for liquids, clay vessel, jar for transport and storage of water'",
+        "origin_explanation": "from Gk. khoeis (pl. of khoeus) 'measure for liquids'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔaba (yəkʷʔab) hʷaṣa (K*)",
+        "meaning": "'make double' (de-nominative)",
+        "origin_explanation": "ETHIOPIC: Te. kʷaʔaba 'to double', Anc. Har. kʷaʔab 'second', mod. Har. kāb 'additional (food)', Amh. kʷaʔəb 'second order of the Ethiopian syllabary'",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔəb",
+        "meaning": "'second, other, companion' (for the meanings 'other, companion', cp. also kālaʔ);",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔ(ə)ba",
+        "meaning": "'secondly, another time, a second time, twice, two (followed by a measure), again once more, furthermore, besides, moreover'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔub",
+        "meaning": "'double, doubly twined'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔuba",
+        "meaning": "'doubly'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔbo",
+        "meaning": "'doubling, reduplication'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷuʔabe (Gr)",
+        "meaning": "'repetition'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔ(ə)bāwi (fem. kʷaʔəbit)",
+        "meaning": "'second, other'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔ(ə)bat",
+        "meaning": "'doubling, double (n), double amount'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔ(ə)bata",
+        "meaning": "'doubly, twofold, twofold more, repeatedly, twice, double portion, -fold (with any number)'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷaʔbat",
+        "meaning": "same as kʷaʔ(ə)bat",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "makʷʔabit",
+        "meaning": "'doubling, double (n), double amount, two parts, twofold, multiplied, -fold (with any number)'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "makʷʔabita",
+        "meaning": "'twofold, doubly, a second time, twice, -fold (with any number)' (bəzuha makʷʔabita 'manifold'); (ʔa)kʷaʔbata, see below (ʔa)makʷʔaba, (ta)makʷʔaba, (ʔa)makʷʔabata; see below",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbā",
+        "meaning": "(from G. kʷəbā) kʷəbā ‘do twice (the work), make twice (the number)’. Gur. kʷəbā ‘do something again’. Tna. kʷəbī ‘measure of cereals equivalent to about two quintals’. For kʷəb ‘doubly twined’, cp. Amh. kʷəb ‘spool of thread’.",
+        "origin_explanation": "(from G. kʷəbā) kʷəbā ‘do twice (the work), make twice (the number)’. Gur. kʷəbā ‘do something again’. Tna. kʷəbī ‘measure of cereals equivalent to about two quintals’. For kʷəb ‘doubly twined’, cp. Amh. kʷəb ‘spool of thread’.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷə-ba hōdī (Y.M)",
+        "meaning": "‘be dry, dry up’",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. kʷəbā ‘build a dry wall of stones or bricks’, that is, without cement.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbt, akʷəbata hōdī-t",
+        "meaning": "‘duplicate, double (v), give twice as much’;",
+        "origin_explanation": "ETHIOPIC: denominative from a form such as kʷə(a)-bat: Te. kʷəbāt ‘loan at hundred percent interest’ (that is, double), Tna. akʷəbātä ‘double (v)’, Amh. (tä)kʷəbātä ‘double’ (intr); passed into Cushitic: Sa. kʷəbat ‘replacement at hundred percent’, Bil. kʷəbāt.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷə-ʾāläwa hōdīw (Sw. in D 1392)",
+        "meaning": "‘mow’; see also makʷəläwa, kʷəʾälawa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾənt I hōdī-t",
+        "meaning": "‘trouble, torment’.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾənt II hōdī-t",
+        "meaning": "‘kind of vegetable’;",
+        "origin_explanation": "ETHIOPIC: Te. kʷəʾən ‘truffle’, Tna. kʷəʾənti, Amh. kʷəʾənti, kunti ‘a vegetable slightly larger than a lentil which is eaten only during famine’.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾənt III hōdī-t (K*)",
+        "meaning": "‘excavating (n), hole’; from kʷəʾəta I ‘dig’ (below), with augmented n.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷərsä hōdī (D.T)",
+        "meaning": "‘excrement, dung, (T.M.Sw. in D 866) contents of the stomach’;",
+        "origin_explanation": "SEMITIC: related to Ar. ġars ‘excrement’ (Dillmann 866).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷərsī hōdī",
+        "meaning": "‘stomach’;",
+        "origin_explanation": "ETHIOPIC: Te. kʷərsä ‘broken meat in an animal’s stomach’, Te. kʷərsē, kʷərasē ‘animal’s stomach’, Tna. kʷərsī, Amh. kʷərs ‘kus ‘excrement (usually of fowl)’, also in Cushitic: Bil. kʷəʾad (pl. kʷəʾas) ‘stomach, contents of the stomach, excrement’.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾis hōdī",
+        "meaning": "see kʷəʾis.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾəso hōdī (K)",
+        "meaning": "‘ball’;",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəʾəso, Amh.Gur. kʷəʾas, Arg. kʷəʾasä, Har. in atännäkʷəš ‘ball’; also in Cushitic ʾic: Sa. kʷəʾso.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾəta I (yakʷəʾat) hōdī-t (T.Y.M), kʷəʾata hōdī-t (MA)",
+        "meaning": "‘dig, make a hole’;",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəʾätä ‘dig, break up the soil’, Amh. kʷəʾatä ‘break up the soil’, kʷəʾätäkʷä ‘cultivate, weed’. See also kʷəʾasa, and kʷəʾənt III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾəta II (yakʷəʾat) hōdī-t (T.Y.M)",
+        "meaning": "‘surround’;",
+        "origin_explanation": "Dillmann 1399 suggests the reading ‘agāta’.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾut hōdī-t (T.M)",
+        "meaning": "‘dung, manure, cow dung that serves as fuel’.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəʾawa (yakʷəʾaw) hōdīw, (T) kʷəʾa-wa",
+        "meaning": "‘pour out, spill, spread, disperse’;",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəʾawä ‘spill, pour out’, Te. kʷəʾa, Har. (a)kʷəʾa, Gur. kʷəʾä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəb hīlī (Lt)",
+        "meaning": "‘fortress, fort’;",
+        "origin_explanation": "from Amh. kʷəb ‘fort’; possibly of Cushitic (Or. kʷəb) origin; also in Gur. kʷəb ‘wall made of stone’, Gaf. kʷəbä ‘village’. W. Müller, ZDMG 131 (1981). 400 compares, with reservations, SAr. kʷəb-t ‘part of dam structure’, and perhaps Ar. (Yem) kʷəbä ‘pillar’ (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbī hīlī (T)",
+        "meaning": "‘calf of leg’;",
+        "origin_explanation": "ETHIOPIC: Har. kʷəbī ‘calf of leg’ (quoted in Reinisch 1902:236); also Som. kʷəb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbo hīlī (T.K)",
+        "meaning": "‘dry cow’s dung’;",
+        "origin_explanation": "SEMITIC: Ar. kʷəba ‘sweepings’, Ar. (Dat) kʷəbī ‘dry dung’, Aram. kʷəbūyā, Syr. kʷəbūṭā, Akk. kʷəbī ‘excrement, dung’. For the biradical root, see Noeldeke 1910:162–3, contrary to Levy II, p. 284 who derives the Aram.-Syr. noun from kʷəb ‘be round’. ETHIOPIC: Te. kʷəbo, kʷəboṭāt ‘dry excrement of animal’, Tna. kʷəbo, Amh.Arg.Gaf. kʷəbāt, Gur. kʷəbä, also in Cushitic: Had kʷəbäṭa, Aw. kʷəbʾet, Or kʷəbota.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kababa I (yakʷəbab) hōdī",
+        "meaning": "‘encircle, surround, go around in a circle, (K*) gather, (Lt) roll or into a ball’;",
+        "origin_explanation": "SEMITIC: Ar. kʷəbaba ‘form into a ball’, kʷəbba ‘ball of thread, lump’, kʷəbāb ‘ball of thread’ (Dizy), PBH. kʷirkeb ‘encircle’ (from kʷirkeb), by dissimilation; see Rūžička 119). ETHIOPIC: Tna. kʷəbābä ‘surround’, Te. kʷəbba (kʷəb), Amh. kʷəbābä, (an)kʷəbābä ‘make something round like a ball’ (from kʷəb-kʷəb), Gur. kʷəb ‘surround’, passed into Cushitic: Qab. kʷəbabbo, Had. kʷəbbä-kʷəbbo, Bil. kʷəbāb ‘go around, surround’. See also kʷəbaba II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kababa II hōdī (T.T.S.M)",
+        "meaning": "‘appoint to an office, invest with an office’;",
+        "origin_explanation": "denominative from makʷəb (see kʷəbaba I).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbaba hīlī (Gr)",
+        "meaning": "‘restore integrity’.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbabaräs hōdīC-N",
+        "meaning": "see kʷəbaba I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbda (yakʷəbad, yakʷəbad) hōdī",
+        "meaning": "‘be heavy, be burden, be serious, be severe (sickness) come hardened (heart)’; with indirect object suffix pronouns ‘be heavy for’;",
+        "origin_explanation": "SEMITIC: Ar. kʷəbada ‘afflict, press hard’, takʷəbada ‘thicken (milk)’, SAr. (Min) kʷəbdt ‘taxes’, Heb. kʷəbēd ‘be heavy’, Ug. kʷbd ‘heavy’, Akk. kʷəbātu, kʷəbādu ‘be heavy’; developed into ‘honor, glory’: Heb. kʷəbōd, Ph.Ug. kʷbd, Akk. kʷəbātu ‘become honored’. ETHIOPIC: Te. kʷəbda ‘be heavy’, Tna. kʷəbādä, Amh.Gur. kʷəbādä, Arg. kʷəbādä, Gur. (a)kʷəbādä ‘respect, honor’. See also kʷəbd.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbd hīlī",
+        "meaning": "‘liver, stomach, belly’;",
+        "origin_explanation": "SEMITIC: from the root kʷbd ‘be heavy’ (for ‘liver’, originally ‘heavy heart’, see Buck 252); Ar. kʷəbid ‘liver’, Soq. šibdeh (with ki > š), Heb. kʷəbēd, Aram.-Syr. kʷəbda, Md. kʷəbda, Ug. kʷbd, Akk. kʷəbattu, kʷəbittu. ETHIOPIC: Te. kʷəbəd ‘belly’, Tna. kʷəbdī, Gur. kʷəbd, Amh. hōd (< kʷəbd > *hōd > *hōd > hod), Har. kʷəd (with b > *b > *w > zero).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbta hīlīw (MA)",
+        "meaning": "‘hide’;",
+        "origin_explanation": "perhaps a misprint or a misreading for kʷəbata hōdī.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəbkʷəba hīlī-t (T.Y.M)",
+        "meaning": "‘give a wedding feast, cause to celebrate a wedding’;",
+        "origin_explanation": "SEMITIC: Noeldeke 1904:112, n. 3 connects it with Ar. wakʷəba, but none of the meanings of Ar. wakʷəba fits the meaning of kʷəbkʷəba. Bittner, WZKM 27 (1913) 129 compares Soq. ʾekʷəb ‘enter’ (add Mh. wēkʷəb), with the specific meaning ‘enter the bridegroom’s house’; for the development of the meanings, cp. Amh. agʷəbba ‘marry’, lit. ‘bring (into the house)’.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbkäba",
+        "meaning": "'hold a feast or wedding reception'; connected by Dillmann 1432 with Te. kəbkäba 'hop, skip', that is 'dance', the dancing being an essential part of the wedding festivities. For kəbkäb 'assembly, congregation', cp. Te. kəbkäba 'gather'.",
+        "origin_explanation": "ETHIOPIC: Tna. kəbkäba 'give a banquet', Amh. kəbkäba 'hold a feast or wedding reception'; connected by Dillmann 1432 with Te. kəbkäba 'hop, skip', that is 'dance', the dancing being an essential part of the wedding festivities. For kəbkäb 'assembly, congregation', cp. Te. kəbkäba 'gather'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbälo",
+        "meaning": "'hook, ring (on a sandal or on a carrying pole), loop'",
+        "origin_explanation": "SEMITIC: Ar. kabl, kibl 'leg iron, chain, shackle' (for its Syriac origin, see Fraenkel 243), Heb. kebel 'fetter, bond' (Aramaism according to Wagner 64), Aram. kiblā, Syr. keblā, Md. kublia 'bonds, fetters', Akk. kabālu 'tie, fetter' (Zimmern 35); also in Cushitic: Sa. kəbälo 'traveling bag'. See M. Cohen 1926 7:103, and kənbäl, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəblala (Lt)",
+        "meaning": "'flee, run away'; tankoblala (Lt) 'flee'",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəblalä 'stroll about', Te. (tə)kəbläla 'roll while falling', Amh. kʷəbälälä 'run away'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbaro I (pl. kəbarəw)",
+        "meaning": "'drum, timbrel' (see Powne 16-19)",
+        "origin_explanation": "SEMITIC: Ar. kəbaro considered by Noeldeke 1910:56 a Geez loanword, Ar. (Sudan) kəbūr 'drum'. ETHIOPIC: Te.Tna.Amh. kəbaro 'drum', Arg. kəräbo, Har. kəräbu, Amh.Gaf.Gur. kəbäro, kəräbo; also in Cushitic: Sa.Af. kəbaro, Bil. kəbūr, Aw. kiriwi.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbaro II",
+        "meaning": "'woven basket'; metathesis in relation to kəräbo.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbra (yakbar)",
+        "meaning": "'be honored, be glorious, be magnificent, be great, be famous, be illustrious, be precious'; 'akbara, causative; also 'pay honor, glorify, venerate, value'; takəbara 'be honored, behave haughtily, boast'; takəbara 'honor one another'; kəbur 'honored, honorable, glorious, magnificent, famous, illustrious, noble, precious'; kəburat (Gr) 'exploits'; kəbr 'honor, glory, reverence, prestige, splendor, pomp, magnificence'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbr yəʔəti",
+        "meaning": "'name of a type of a Geez poem, lit. \"she is the glory\"'; (kəbra nagaśt 'The Glory of the King's', title of a book \"which has as its central-piece the legend of the Queen of Sheba\" [see Ullendorff 1968:74ff., 139ff; Hammerschmidt, in Assfalg-Krüger 164).",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbrat (Gr.464)",
+        "meaning": "'glory'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbrətawi (Lt)",
+        "meaning": "'revered'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbrännā (K)",
+        "meaning": "'honor, (Gr) glorification'; 'akbäri, part. of 'akbara; 'akbärot 'honor'; takäbäri, part. of takäbara; takäbä(a)ro (Gr.464) 'honor, esteem'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbūr",
+        "meaning": "'be big, be great, be SAT. kəbr 'great, magistrate', Heb. kəbīr 'powerful', Aram.-Syr. kəbar 'abound, increase', Md. kəbar 'great', Akk. kəbāru 'become fat, thick,",
+        "origin_explanation": "SEMITIC: Ar. kəbura 'be big, be great, be SAT. kəbr 'great, magistrate', Heb. kəbīr 'powerful', Aram.-Syr. kəbar 'abound, increase', Md. kəbar 'great', Akk. kəbāru 'become fat, thick, ETHIOPIC: Tna. kəbära 'be honored', Amh.Gur. kəbbära; Gur. kəbbära 'become nominative from Ar. kəbīr 'rich'; also a kəbbärte 'rich', Arg. kəbar; passed into Bil.Sa kəbar 'be honored', Be. kəbär.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbrit (K) kabrit",
+        "meaning": "'sulphur'; kəbritäwi 'sulphurous'",
+        "origin_explanation": "From Ar. kibrīt 'sulphur' (for its Syriac origin, see Fraenkel 153; considered by Zimmern 60 to be of Akkadian [kibritu] origin); also in Te. kərbīt 'wood for making fire', Tna. kərbīt 'matches', Amh. kəbrīt.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbasa (yakbas)",
+        "meaning": "'wrap (a cloth or scarf around the head), wind around, decorate (the hair), fasten with a hairnet, tie up (the hair with cloth)'; takabsa, passive; kəbso 'hairnet, woman's covering, chaplet worn around the head, head veil cloth'; kəbasa (M) 'headband, diadem, (Gr.263) bracelet worn by women, ornament of women'.",
+        "origin_explanation": "SEMITIC: Ar. kəbasa 'surround (a town), lay siege', kəbasa raʔsahu fī 'muffle one's head (with a garment)'. ETHIOPIC: Te. kəbsa 'fold', Amh. kəbbäsa 'wrap cloth around one's head', kəbbäsa 'wrapping-cloth around one's head'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbäs",
+        "meaning": "'timber for building'",
+        "origin_explanation": "Dillmann 1432 interprets it as a transcription of Heb. kāpīs 'stuccowork (laid over paneling)'. Note that the Asmara Bible does not have this noun for 1 Kings 7:2 (= 1 Kings 7:2) quoted by Dillmann.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kobs, kʷəbs",
+        "meaning": "'dropsy, swelling, mucus'",
+        "origin_explanation": "ETHIOPIC: Amh. kəbbäsä 'make the leg thick', kʷəbäs 'sore which does not heal, elephantiasis'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbata I (yakbət)",
+        "meaning": "'hide, conceal, keep secret, take away by hiding'; takabta, passive; also 'disappear'; kəbäti, act. part. of kəbata; kəbut, pass. part. of kəbata; also 'secret, clandestine'; kəbut-a, ba-kəbut 'secretly'; kəbäta 'hidden thing, hidden nature, secret'; kəbtat 'act of hiding, concealing, keeping secret'; kəbutäwi 'hidden, concealed, secret, pertaining to hidden things'.",
+        "origin_explanation": "SEMITIC: Ar. kəbata in kəbata ḡayzahu fī ḡawfihi rendered by Lane 2583 'he restrained his rage in his insides (or bosom)', but by Hava 640 'he concealed his anger in his bosom'. Bittner, WZKM 30 (1917-18). 425 identifies it with Soq. qabit 'teach', and the meanings 'teach, hide' he compares Ar. 'allama 'teach', and Heb. 'lm (nif-al) 'hide'. This identification is not convincing. ETHIOPIC: Tna. kəbätä 'hide', Te. kəbt 'treasure', Amh. kəbbätä 'steal money and go into hiding'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbata II (Lt)",
+        "meaning": "'humiliate, degrade'",
+        "origin_explanation": "SEMITIC: Ar. kəbata 'debase'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbawa (K*)",
+        "meaning": "'be extinguished, disappear, become dull (eyes)'",
+        "origin_explanation": "is probably a transcription of Heb. kābā (kby) 'be extinguished'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbiyon, kəbiyon, kəbeyon, kəbeyon",
+        "meaning": "'convent'",
+        "origin_explanation": "corruption of Gk. koinobion 'monastery'; see also kənubyā, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəbaza (T.M), kəbaza (MA)",
+        "meaning": "'bake bread'",
+        "origin_explanation": "from Ar. ḫabaza 'bake', ḫubz 'bread' (with ḫ be coming k in the loanwords); also in Som. kibis 'bread'. For the Geez root, see ḫabaza, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəda",
+        "meaning": "see kyd.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kədʔa (DTW 639), kədʔa (Lt)",
+        "meaning": "'betray, abandon'; 'akdʔa (DTW), causative; takadʔa (DTW), passive; takadʔa (DTW) 'betray one another'; kadʔi (DTW), act. part. of kədʔa; kadʔot (DTW) 'betrayal'.",
+        "origin_explanation": "from Ar. ḫadāʔa; also Te. kədʔa 'betray', Tna. kədʔe, Amh.Gur. kədäda, Har. xädäʔa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kədəkəd",
+        "meaning": "'precious stone'",
+        "origin_explanation": "variant of karakand.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷədʔakʷədʔa I (H)",
+        "meaning": "'bind, tie'; MA has kodkoda with the Amharic translation näqqäfä 'blame'. It is quite possible that näqqäfä is a misprint or a misreading for əqqäfä 'embrace, take in one's arms', a meaning that comes close to 'bind, tie' given by H;",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəkkʷədä (< kʷədʔädä) 'tie', Amh. kʷədäkkʷədä 'tie up (a criminal or a prisoner)'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷədʔakʷədʔa II (KBT)",
+        "meaning": "'be bloated (stomach due to illness)'",
+        "origin_explanation": "ETHIOPIC: Amh. kʷədäkkʷədä, same.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kədäna (yakdən)",
+        "meaning": "'cover, wrap, clothe, hide, veil, close, protect, forgive (sins)'; 'akdäna, causative; takdäna, takadäna 'be covered, cover oneself, be clothed, clothe oneself, be protected'; kədäni, act. part. of kədäna; also 'protector'; kədun 'covered, hidden, protected'; kədän 'cover, covering, hiding place, garment, tunic, veil placed on top of the ṣəwwa and säḥn (for which see below); kədnät 'covering, protection'; makdən, makdən, makdənt, (T) makdän, (T) makdäni (pl. makdänəm, makdämt, makdäntät) 'cover, covering, veil, silk veil of an altar'; (makdäna rəʔs 'helmet'); makdän 'cover'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kidān",
+        "meaning": "cover > thatch a house, put on clothes, protect",
+        "origin_explanation": "SEMITIC: 'cover > thatch a house, put on clothes, protect': Ar. kadana bi 'wrap oneself in (clothes)', Ar. (Dat) makdana 'cover of an oven', Akk. kadānu 'protect'. Brockelmann 1928:318 also compares Aram.-Syr. kədan 'yoke, couple, bind' (cp. also Md. kədn). Praetorius 1890:25 derives G. kdn from Ar. ik-t-anna 'be covered'; Brockelmann 1908:533, n. 3 rightly expresses doubts about this comparison. ETHIOPIC: Tna. kādānā 'cover, clothe', Te. kādāna 'cover', Amh. kādādānā 'cover the roof with straw, cover a pot', Har. xādāna 'cover, thatch', Gur. kādānā 'cover with a lid', tāxādādārā (with r < n) 'wear clothes'; passed into Cushitic: Bil. kadān 'cover'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kidān h.7",
+        "meaning": "see kyd II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kidat h.7",
+        "meaning": "see kyd I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kadawā h.P",
+        "meaning": "precious material, brocade, precious stone'",
+        "origin_explanation": "ETHIOPIC: Amh. kādāwā 'brocade' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāf I h.9",
+        "meaning": "heel, palm of hand, sole of foot'",
+        "origin_explanation": "probably transcription of Heb. kap 'palm of hand'; also Amh. kaf (from Geez). In the other Semitic languages: Ar. kaff 'palm of hand', Mh. keff 'back of hand', Aram-Syr. kappā 'palm of hand', Md. kapa, Ug. kp, Akk. kappu.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāf II h.9 (T.M)",
+        "meaning": "shoe, sandal'",
+        "origin_explanation": "is either an extension of kāf I 'sole of foot', or confused with kuf (for which see below).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kefā, kifā, kefās h.4.4. : h.4.4.n",
+        "meaning": "stone', nickname of the apostle Peter;",
+        "origin_explanation": "from Aram.-Syr. kepā 'rock, stone'; Heb. kep comes likewise from Aramaic (Wagner 65). Akk. kāpu 'cliff'; for kefās, cp. Gk. kēphās; ETHIOPIC: Amh. kefā 'stone, precious stone' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*kofa, akofa h.h.L",
+        "meaning": "see kawafa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kuf, k°of (pl. 'akfāf) h.9 : h.9",
+        "meaning": "shoe';",
+        "origin_explanation": "from Ar. huff; also in Amh. kuf, kof, Har. xuffi. See also kāf II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafa (yaxfā) h.L.L",
+        "meaning": "become blunt, become dull (eye), become obtuse, become weak', 'akfāfa 'causative', takafā 'become blunt'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafu (Gr)",
+        "meaning": "blunt, obtuse, weakened'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaf'at",
+        "meaning": "bluntness, deformity';",
+        "origin_explanation": "ETHIOPIC: Tna. kāf'e 'be bad', Te. kāf'a, Amh.Arg.Gur. kafu 'bad, evil'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafala (yəxfəl) h.L.L",
+        "meaning": "distribute, divide, separate, distinguish, allot, assign, apportion, give a share, grant, bestow, impart, make someone a participant'; takafala, passive; also 'be given a portion' (za'iyyətkāffal 'indivisible'); takāfala 'share among themselves, divide up among themselves, become a partner, participate'; 'astakāfala, caus. of takāfala; also 'divide among many'; kafl, act. part. of kafala; kaful, pass. part. of kafala; kafl 'distribution'; kafl 'part, portion, share, lot, division, tion, category, chapter, section, verse'; kufāle (k°āfāle) 'partition, division, tion, separation'; (masāhafa kufāle 'Book of Jubilees'); bibliography, see Hammerschmidt-Six 1983:278; kaflāt 'division, distribution, (Lt) portion'; makfāl (Gr) 'cross-roads'; makfalt 'part, portion, share, lot, division, tafalot (Lt) 'share';",
+        "origin_explanation": "SEMITIC: Ar. kifl 'part, share', kafala 'provide for someone', Mh. kafelēt 'half of a fraction'. For its relation with Heb. kāpal 'fold, double', see Dillmann 876, Noeldeke 1910:97; also Ug. kpl 'duality'. ETHIOPIC: Tna. kāfəlā 'pay, divide, share'; Amh. kāffālā, Arg. kāfālā, Gur. kāfālā; passed into Cushitic: Sid. kaffali, Dar. kafale, Or. kafala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kufāle h.L.L (T)",
+        "meaning": "colored cloth'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafana h.L.L (T.Y.M)",
+        "meaning": "cover, veil'; kafan (K*) 'shroud'",
+        "origin_explanation": "SEMITIC: Ar. kafana 'envelop, shroud', Sh. əkəfən 'enshroud'. ETHIOPIC: Te. kāfəna 'wrap in shrouds', Har. kāfəna, Gur. gāfənā; Te. kāfən 'shroud', Amh.Har.Gur. gāfən, Gaf. kāfənā; passed into Cushitic: Or. kafana, Sa. kafan.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafar I (pl. 'akfār) h.L.C",
+        "meaning": "basket, container for measuring, bushel'",
+        "origin_explanation": "SEMITIC: Ar. kāfira 'jar' (from kafara 'cover, conceal'), Heb. kəpōr 'bowl, jar', Syr. kapurṭā, Akk. kapru, a type of sacrifice and the platter for it. ETHIOPIC: Tna. kāfər 'big basket'; also in Cushitic: Bil. kabār (pl. kafāt). See also M. Cohen 1926-7:95.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafar II (pl. 'akfār) h.L.C",
+        "meaning": "grave, hole';",
+        "origin_explanation": "from Ar. kafar 'the netherworld'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafara h.L.C. (KG)",
+        "meaning": "Amh. affārā 'be ashamed, be embarrassed';",
+        "origin_explanation": "it is possible that Amh. affārā has here the meaning 'turn to dust', and G. kafara would then be a denominative of kafar II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafūr h.L.C",
+        "meaning": "camphor'",
+        "origin_explanation": "from Sanskrit karpūra through Ar. kāfūr (Littmann 1926:415); also Amh. kanfur. For Ar. kāfūr, see Jeffery 246.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°əfār, kufār h.L.C : h.L.C",
+        "meaning": "kind of vestment of a bishop, (T.M) headgear of a bishop';",
+        "origin_explanation": "SEMITIC: Ar. kafara 'cover, hide', kāfiru d-durū'i 'garment that is worn over a coat of mail'. For Heb. kipper 'make good, pardon sin, make atonement' for (also Ar. kaffāra 'atonement') from an original meaning 'cover', see Koehler 452, Baumgartner 470. ETHIOPIC: Amh. kufar 'silken turban, white silk cloth'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kefāz h.L.n. (Lt) kefāz h.L.n",
+        "meaning": "precious gold'",
+        "origin_explanation": "from Gk. kai phaz 'and phaz' (transcription of Heb. ūpāz) read kaiphas as one word (Euringer, OC 24[1927]:145). See also qəfāz.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafata I h.L.t (K*)",
+        "meaning": "open'; amh. kāffātā 'open'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafata II h.L.t (K*)",
+        "meaning": "form a group or a party'; makfat (K*) 'clan, tribe'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaftur h.L.C (T)",
+        "meaning": "circumcised'; nute (KG) kāfətor 'uncircumcised'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaftawa h.L.t.w.L (MA)",
+        "meaning": "Amh. abāččā 'separate, divide; make fun of, belittle'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafāyī h.L.Y (Lt)",
+        "meaning": "garment'",
+        "origin_explanation": "ETHIOPIC: Tna. kāfāy 'kind of silken shirt', Amh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāfāy, kafāy",
+        "meaning": "kind of fine cloth', Har. kāfəyi 'kind of cloth'. See also kafāyā II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafāyā I h.L.Y.L (Y.M.H)",
+        "meaning": "be sufficient';",
+        "origin_explanation": "from Ar. kafā (kfy) 'be sufficient'; also in Te. kāfā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kafāyā II h.L.Y.L (K*)",
+        "meaning": "see kafāwī. makfe 'wrapper, cover, belt, (Lt) towel, (L) bundle, parcel, (KG) wraparound, apron-like garment'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kefāz h.L.n",
+        "meaning": "see kefās.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāhī (pl. kāhāyāt) h.Y. (T.K*)",
+        "meaning": "heifer';",
+        "origin_explanation": "see also 'akāhī.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kahla h.U.L",
+        "meaning": "(imperf. yəxl, subj. yaxhal) 'be able, can do things, prevail (against), overcome, master, have power to do things, avail (against)'; with object suffixes: 'be able to endure, be possible for one' (i-kəhla 'be unable, be inept'); (za-yaxl 'able'); 'akhalā 'enable, make able, make prevail, give superiority, give strength'; takahlā 'be possible (also used with object suffixes), gain power over'; takāhalā 'agree (with), come to an agreement (with), be in accord (with)', lit. 'make things be possible for one another'; 'astakāhala (K*) 'make agree'; kahalī 'mighty, all-powerful, capable'; (kahāle k°allu 'omnipotent'); kahul (Gr.255) 'powerful'; kəhəl, kəhl, kəhəlot 'means, ability, power, faculty'; 'akhālī, makhāl (K*), part. of 'akhalā; takahālī 'possible'; takahəlo 'power'.",
+        "origin_explanation": "SEMITIC: Ar. (Dat) kahil 'be able', kāhil 'powerful', Ar. kahala 'reach maturity', that is, 'be in a position to do things', SAr. khl 'be successful', Soq. kḥel 'be able, know', Aram. kḥel 'be able'; related to Heb. yākōl 'be able'. ETHIOPIC: Te. kāhala 'be able', Tna. kāwəlā, Amh.Gur. čala, Arg. čahala, Gaf. šala 'know', Gur. xarā 'know'. The palatalized č, š comes from a form such as *yakhal > *yakayal > yačal, yašal. The root passed into Cushitic: Bil. kahal 'be able'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°āhelā I h.Y.L (Sw. in D 813)",
+        "meaning": "meadow'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä II kʷäḫäla (K*)",
+        "meaning": "'plaything that one places on the forehead on the Thursday after the fast of Nineve to amuse people'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä I kʷäḫäla",
+        "meaning": "'refuse, dirt, rubbish, sweepings, filth, scum, dregs, mud, things without value, trifle, little thing';",
+        "origin_explanation": "SEMITIC: Ar. qaḫila 'be unclean' (with the variant k:q). Dillmann 813 compares Ar. qaḫila 'be unclean' (with the variant k:q).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä II kʷäḫäla",
+        "meaning": "'tamarisk, juniper';",
+        "origin_explanation": "SEMITIC: Ar. kuḫaylā 'marigold' (Dillmann 1856: 239).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä III kʷäḫäla (T.Sw. in D 813)",
+        "meaning": "'ball of wood or woven leather, game in which spear-like sticks are thrown at a target (often a cactus or euphorbia), an object thrown (to serve) as a target';",
+        "origin_explanation": "note that T.K. and Sw. in D 813 also have the Amharic translation alama 'target' which may come from the above-mentioned practice of throwing at a target in the kʷäḫälä-game.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä IV kʷäḫäla (T)",
+        "meaning": "'hole of a stone marten';",
+        "origin_explanation": "probably the same as kʷäḫälä V.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫälä V kʷäḫäla (Sw in D 813)",
+        "meaning": "'fox-like animal, (K*) solitary animal of the wilderness';",
+        "origin_explanation": "see kʷäḫälä IV.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫäl TYA (Gr.436)",
+        "meaning": "'vase';",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. (ma)kaḫal 'container of skin'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫan (pl. kʷäḫnāt)",
+        "meaning": "hʷU 'priest, clergyman'; (kʷäḫan 'abiyy 'high priest'); (kʷäḫan näsfq, näsfqa kʷäḫan 'assistant priest'); (liqa kʷäḫnāt 'high priest'); kʷäḫnāt 'priests, clergy'; takäḫna 'perform the priestly duties, officiate as priest, be assigned the office of priesthood' (denominative); kʷäḫnāt 'priesthood, office of priesthood, sacerdotal duty'; (liqannā kʷäḫnāt 'high priesthood'); (za-kʷäḫnāt 'priestly, sacerdotal)';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫnātāwi, kʷäḫnātāwi",
+        "meaning": "'sacerdotal, priestly'; takäḫno 'ministration of a priest, priesthood, office of a priest';",
+        "origin_explanation": "SEMITIC: Ar. kāhin 'diviner, priest', Heb. kohen 'priest', Aram.-Syr. kāhnā, Md. kahna, Ph.Ug. kḫn. On the Aramaic origin of G. kāhon, and Ar. kāhin, see Noeldeke 1910:36, and n. 6, Jeffery 247. On the etymology of kāhin, see bibliography in Baumgartner 440. See also Rabin 1976:246. ETHIOPIC: Tna.Amh. kahan 'priest'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫapa hʷUT (MA)",
+        "meaning": "'be sweet, be tasty';",
+        "origin_explanation": "probably misprint or misreading of kʷarapa; see korep II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫis hʷZN",
+        "meaning": "variant of kʷois, above.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫa, kʷäḫa hʷḫa i hʷḫa, (K) kʷäḫā hʷ",
+        "meaning": "'yonder, away, to yonder place, thither, farther on, down there'; bakäḫa 'in yonder place, thither, on the other side, beyond'; ḫaba kʷäḫa 'to yonder'; ʾəmkʷäḫa 'from yonder, from the other side'; kʷäḫaka, kʷäḫak, kʷäḫ(ə)ka 'there, back there, yonder, on that side, onwards, beyond, (and) upwards'; bakäḫaka 'there, beyond'; ʾəmkʷäḫaka, ʾəmkʷäḫak 'on that side'; with suffixes, as in kʷäḫakātīhomu 'beyond them';",
+        "origin_explanation": "kʷäḫa is composed of ka and ḫa; kʷäḫak is composed of ka-ḫa-k. The initial k is to be identified with the preposition kʷa 'from, to' (Amh.Gaf.), ke (Mh.Soq), and probably Tna. kʷaḫ 'from' from ka and -ab. The final k is an element expressing distance; cp. Ar. dā 'that', Aram.-kā, Heb. la-kā 'there' (in lek ləkā 'go thither'). See also Dillmann 1907:116, 377; Brockelmann 1908:323; Rundgren 1950:105, 117.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫhʷa hʷT.M",
+        "meaning": "'hook';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫā I, kʷäḫā hʷḫā i hʷḫā, (T*) kʷäḫā",
+        "meaning": "'willow';",
+        "origin_explanation": "ETHIOPIC: Amh. kʷaya 'weeping willow', Tna. kʷiḫa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫā II hʷḫā (K 269, MK)",
+        "meaning": "'blowing of bellows';",
+        "origin_explanation": "ETHIOPIC: Tna. kʷaḫālä 'crackle', Amh. kʷa alā; also in Cushitic: Sa.Af. kʷāh 'sound, resound'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫda (yakʷḫad) hʷN.S. (T)",
+        "meaning": "kʷäḫda hʷU 'deny, abjure, denounce, repudiate, renounce, rebel, be perfidious, be treacherous, disobedient, turn aside, apostatize'; ʾakʷḫada 'convict of falsehood, contradict, faith, be an unbeliever, not believe, lead from faith, lead to apostasy'; also causative of kʷäḫda; takʷäḫda 'pass. of kʷäḫda; takʷäḫadä 'argue with, dispute, contradict one another, disagree with one another, oppose, stimulate controversy, be an adversary, contest'; ʾastakʷḫada, ʾastakʷḫadä 'induce to fall away from a faith, create controversy, declare untrue, deny'; kʷäḫādī 'infidel, impious, unbeliever, rebel, rebellious, apostate, disobedient, contentious'; kʷäḫud (Gr.257) 'infidel, apostate'; kʷäḫd 'lack of faith, apostasy, impiety, perfidy, disobedience, denial, rebellion, sedition, contention, controversy, contradiction, offense, stumbling'; kʷäḫid, makʷḫad, makʷḫadi, part. of kʷäḫada; takʷäḫ(ə)do 'argument, strife, dispute';",
+        "origin_explanation": "SEMITIC: Ar. (Dat) kʷhd 'deny', Heb. kʷhd (piʿel) 'hide', 'conceal'. The connection with Syr. kʷhad 'revere' is modest suggested by Brockelmann 1928:234 (followed by Drower-Macuch 205 for Mandaic) is unlikely. The root kʷhd is related to Ar. gaḫada 'negate, deny' (Dillmann 824). ETHIOPIC: Tna. kʷäḫadä 'deny', Te. kʷäḫada, Amh.Gur. kʷadä passed into Cushitic: Bil.Sa. kʷadä 'deny'. Qua. kʷād. Cerulli 1936:257 connects kʷhd with the root kʷd 'betray' (see kʷadʷa, above), however, kʷd is borrowed from Arabic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫaka, kʷäḫaka, kʷäḫak hʷḫa i hʷḫa",
+        "meaning": "see kʷäḫa.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷḫḫkʷ, ʾaskʷḫkʷaha hʷNḫhʷ (H)",
+        "meaning": "'neigh';",
+        "origin_explanation": "SEMITIC: onomatopoetic, related to Ar. qaqawa 'make noise', Aram. kʷkaʾ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫala (yakʷḫal) hʷḫa, (DTW 648)",
+        "meaning": "kʷäḫala hʷU 'use antimony for the eyelid, anoint the eyelid, (T.K.Li) mark with an iron, cauterize'; takʷäḫala, takʷäḫala, passive; also 'paint the eyelid (with antimony)'; takʷäḫala (DTW 648) 'paint one another's eyelids'; ʾastakʷäḫala (DTW 648), caus. of takʷäḫala; kʷäḫali (K*), act. part. of kʷäḫala; kʷäḫl 'antimony, dye for the eyelid'; kʷäḫl 'blue'; ʾar kʷäḫl 'antimony for the eyelid';",
+        "origin_explanation": "from Ar. kʷuḫl 'antimony' (Noeldeke 1910:40 thinks that G. kʷuḫl is of Aram.-Syr. kʷuḫlā origin); also in Tna. kʷuḫlā 'apply antimony', Te. kʷuḫala, Amh. kʷuḫlā, Gur. (Tä)kʷalā 'antimony'; Te. kʷuḫal, Amh. kʷuḫal, Gur. kʷuḫl. According to Zimmern 61 the origin of this root is Akk. guḫlu 'antimony' > Aram.-Syr. kʷuḫlā, Md. kʷula > Heb. kʷuḫal 'paint the eyelid', Ph. kʷuḫl 'antimony', Ar. kʷuḫl > alcohol (Lo kotsch, no. 1227).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫäla",
+        "meaning": "Tna. kʷaḫ bälä 'make noise (a falling object)', Te. kʷaḫaḫ bälä 'make noise', Amh. kʷaḫ kʷaḫ 'crack, explode', ʾaskʷaḫa 'neigh, cluck', Har. kʷaḫkʷaḫ 'sound of knocking';",
+        "origin_explanation": "also Cushitic: Af. kʷaḫ.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷäḫkʷaḫa hʷNḫhʷ (instead of kʷaḫkʷaḫa of K*)",
+        "meaning": "'mix, grind coarsely, break open (a seed), crash'; ʾankʷaḫkʷaḫa (T.H. should read ʾankʷäḫkʷaḫa) 'crumble up bread and mix it with sauce, water, butter, and so on'. (It is strange that M quoting T renders it 'trot'; one gets the impression that M mistakenly translated the line above, namely, G. ʾanbaḫbaḫa = Amh. dubb dubb alä 'trot'); kʷäḫkʷaḫat (M) 'dish made of small pieces of meat cooked in a sauce'; nakʷäḫkʷaḫ (instead of nakʷaḫkʷaḫ of K*) 'dish made of crumbled-up bread, sauce, butter, and so on, dregs or residue floating on the surface of a beverage';",
+        "origin_explanation": "ETHIOPIC: Amh. kʷakka 'grind coarsely, smash the head', Te. kʷaḫ ʾabälä 'hit the head making a wound'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "'compensate, replace'; kahasa 'replacement, compensation'",
+        "origin_explanation": "ETHIOPIC: Tna. kähasä 'compensate', Te. kähasa, Amh. kasä, Arg. kähasa, Har. kähäsa; passed into Cushitic: Aw. kasu. Note that Praetorius 1879:7 does not connect this root with Heb. kähas 'grow lean', as suggested by Appleyard 50.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yäkʷhas)",
+        "meaning": "'become thin, skinny, lean'",
+        "origin_explanation": "SEMITIC: Heb. kähas 'grow lean' (so also Praetorius 1879:7), Aram. kahās. ETHIOPIC: related to Amh. kässa 'be thin' (from ks²), kʷäššäsa, Tna. kʷäššäsä, Arg. kʷäššäha.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yäkʷhas)",
+        "meaning": "'be inflamed (wound), fester (wound), (T.T.S.H) be large (wound), ooze (wound), (K) be superficially healed'; kʷahs (T.M) 'inflammation, (T.M) widening of a wound, (K) woman's genitalia'",
+        "origin_explanation": "ETHIOPIC: Tna. kʷäshe (with metathesis) 'become large (wound)'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "'raven'",
+        "origin_explanation": "SEMITIC: onomatopoetic: Ar. kākā 'cluck (hen), cackle, chatter' (Dozy II, 435). ETHIOPIC: Te. kak bela 'croak', käkay 'raven', Tna. kʷak bela 'croak', kʷak 'raven', Amh. kʷak, call or cry made by a chicken, (tän)kʷakkʷa 'clatter', (as) kʷakka 'cluck'. See also Gur. ka balä, kʷa balä, kaka III (Leslau 1979:331, 340). The root also occurs in Cushitic: Sa. Af. käk 'shout, noise', Sa. käko 'raven', Af. kakō, Bil. kʷikʷay. See also Gugä 'raven', qʷär I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'scarlet, purple, (OT) black felt cloak with an attached hood, (T) a red worm that produces scarlet color'",
+        "origin_explanation": "from Gk. kokkos 'grain, seed, scarlet'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'plum, peach'",
+        "origin_explanation": "from Ar. hawkh(a) 'plum, peach' (for its Aramaic origin, see Fraenkel 142); also in Te.Amh. kok 'peach', Tna. kuk, Gur. kuk, Har. xūxi; in Cushitic: Sa. kak 'peach', Bil. kok. See also kokah, hoh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(kʷokab)",
+        "meaning": "'star'; (kʷokab zabottu zanab 'comet', lit. 'a star that has a tail')",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "> kʷkʷb",
+        "meaning": "'star'",
+        "origin_explanation": "Sär. kʷkʷb, Mh. kʷokʷib, Soq. kʷibšib (with ki kʷkʷb, Aram. kōkābā, Syr. kawkabā, Mg. kʷkʷb, Ph. kkb, Akk. kakkabu. Moscati, Biblica 27 (1946).269-72 connects the noun with the root kbb 'shine' (Akk. kabābu 'burn'). For a bibliography on the etymology, see Baumgartner 441-2. ETHIOPIC: Te.Amh.Arg. kʷokab 'star', Tna. kʷokob, Gaf. kʷokʷobä, Gur. kʷkʷäb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(pl. kawkʷah)",
+        "meaning": "'stone, rock, stony ground'; (abn kʷakʷah 'flinty rock'); in construct state 'stony'; e.g. garähta kʷakʷah 'stony field'",
+        "origin_explanation": "SEMITIC: Ar. kāh, kīh 'rugged face of a mountain, side of a valley consisting of the hardest and roughest stone'. Dillmann 859 (so also Koehler 430, Baumgartner 447) suggests Heb. ko²h 'strength'. ETHIOPIC: Tna. käwhi, kʷäkʷhi 'rock', Amh. kʷäkʷa 'stony place', kʷäkʷa 'hit with a rock', kʷäkʷa (from Geez); also in Cushitic: Sa. kakʷah 'rock'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt) kʷakʷah",
+        "meaning": "'peach, plum'",
+        "origin_explanation": "see kok.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(KG)",
+        "meaning": "'border, boundary'",
+        "origin_explanation": "misprint for kelul hʷl-A; see kallala I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T), kakam hʷg (M), hʷg (Gr.266), kokamä hʷg (L), pl. kʷkamät, kokamät, kokamät (D)",
+        "meaning": "'hollowed gourd used for liquids, bowl, pan, (K.T.) scoop removing ashes, potsherd (for borrowing coals for a fire), (Gr.266) cauldron'",
+        "origin_explanation": "SEMITIC: Fraenkel 70 derives it, with reservations, from Ar. qumqum 'long-necked bottle'. Noeldeke 1910:41 suggests Syr. qūmā 'jar'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'hurt, ache'",
+        "origin_explanation": "ETHIOPIC: Amh. kakkämä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'a measure of time, the sixtieth part of the day, (Gr.207) interval of twenty-four minutes'",
+        "origin_explanation": "the derivation from Gk. kirkos, Lat. circus, suggested by Dillmann 859 is not accepted by Neugebauer 175. For more details on G. kikros, kekros, see Neugebauer 175-7.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(K*)",
+        "meaning": "'turn' (intr); ankʷkʷawa 'roll around, make roll'; mankʷokʷot, pl. mankʷkut (D.T), mankʷokʷt mankʷakt (KG) 'axis, wheel, rotation, spindle' (note that KG I mankʷakt = Amh. kʷkʷat 'thumb' is copied by mistake from mankʷokʷat Amh. awratatʷo²e 'thumbs' of the line above)",
+        "origin_explanation": "ETHIOPIC: Amh. (tän)kʷäkʷäkʷä 'run here and there, rush around', kʷäwʷa 'wandering'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'break or chip the set the teeth on edge (sour fruit)'",
+        "origin_explanation": "ETHIOPIC: Tna. (a)kʷokʷäyä 'set the teeth on edge'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'dark mourning dress'",
+        "origin_explanation": "perhaps from Ar. hall 'old and worn-out garment'; also Amh. käll.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'vinegar'",
+        "origin_explanation": "from Amh. käll, of Arabic (hall) origin; also in Te. käll.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'butter'",
+        "origin_explanation": "kʷalä hʷa; see kʷawwala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'all, every, each'; without suffix pronouns in kʷallähe, kʷallahe (see below); kʷallu is also used with a feminine singular or with a plural noun; e.g. kʷallu mangäst 'the whole kingdom', kʷallu mawä²aliihu 'all his days'; kʷallu (adv.) 'altogether, completely'; with a negative 'not at all'; kʷallähe, kʷallähe 'everywhere, in every direction, wherever'; bakʷallähe, bakʷallähe 'everywhere, wherever, in every way, completely'; amkʷallähe, amkʷallähe 'from everywhere, from all parts'; kʷallawi 'universal'; kʷalläntä 'totality, entirety, the whole person'; with suffix pronouns 'all together, the whole of, wholly'; e.g., kʷalläntähu (Gr. also kʷallun-tähu) 'he wholly, the whole of him, all of it'; also with a noun: kʷalläntähä lelita 'the whole night', kʷalläntähu sägaka 'the whole of thy body'; kʷalläntäwi 'total'; kʷalläntäwit 'the whole person'",
+        "origin_explanation": "SEMITIC: Ar. kull 'all', Sär. kʷll 'all, every', Soq. kol 'every', Heb. Aram. kol, Syr. kul, Md. kul, Ph.Ug. kl, Akk. kullatu 'all, the totality'. ETHIOPIC: Tna. kʷall-u 'all', Te. kʷol, Gur. kʷull-əm, Har. kull, Amh. hullu, Gaf. al-əm.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D 1406,OT)",
+        "meaning": "'glue'",
+        "origin_explanation": "transcription of Gk. kolla 'glue'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(pl. kʷakʷal)",
+        "meaning": "'apple'; kʷola haqʷl 'mandrake'",
+        "origin_explanation": "from Ar. kʷula 'fruit dans l'Inde qui ressemble à l'orange' (Dozy II, p. 501); also Amh. kʷol.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'eighth Hebrew month'",
+        "origin_explanation": "undoubtedly wrongly for elul hA even though elul is not the eighth month. See also kalil.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yäkʷlä)",
+        "meaning": "'hinder, prohibit, forbid, prevent, keep back, hold back, deprive, restrain, impede, decline, reject, refuse'; takalʷa, passive; also 'abstain, restrain oneself, hold oneself back, refrain, withdraw'; kalʷi, act. part. of kalʷa; kalʷu, pass. part. of kalʷa; kalʷi 'prohibition'; kalʷat 'restraint, hindrance, prohibition, prevention'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "makalla, maklā'i (LLK), act. part. of kal'a",
+        "meaning": "also 'adversary, opponent'; maklā'i (Ll) maklā'i 'hindrance, impediment'; (zavalbo makla' 'indisputable'); maklā'i (K*) 'that which prevents someone from entering (gate, enclosure)'; takal(a)'ot 'abstinence, impediment, restraint, hindrance, obstacle, prohibition'",
+        "origin_explanation": "SEMITIC: Ar. kallā'a 'retain, detain', Soq. kole 'turn away', Heb. kālā' 'restrain, keep from', Aram.-Syr. kalā', Md. kla 'hold back, withhold', Akk. kalû 'detain, hold back, refuse'. ETHIOPIC: Te. kāl'a 'hinder, prevent', Tna. kāl'e, Amh.Gur. kālla; also in Cushitic: Sa. Af. kal, kale 'hold back'. See also kalkala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalaba hāñ (T)",
+        "meaning": "'pass, go beyond'; takalaba (T.Y.Sw. in D 1397) 'pass'",
+        "origin_explanation": "would it mean 'go or run like a dog'? If so it would be a denominative from kalb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalb (pl. kalabāt, 'aklabt, 'aklab, hāñ)",
+        "meaning": "'dog'; takallaba 'have a canine nature'; takalbotannā 'canine nature'",
+        "origin_explanation": "SEMITIC: Ar. kalb 'dog', Sar. klb, Soq. klb, köb (with l > zero), Heb. keleb, Aram.-Syr. Md. kalba, Ph.Ug. klb, Akk. kalbu, denominative; Ar. kaliba 'behave like a rabid dog', Syr. kalb. ETHIOPIC: Te. kālb, Tna. kālbi. See also kalala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalbane, kalbanen hāñ : hāñ",
+        "meaning": "'a resinous soap'",
+        "origin_explanation": "from Gk. khalbāné 'galbanum', of Semitic origin (Masson 60); also in Amh. kalbāne. In the other Semitic languages: Ar. halbanā 'storax', Heb. helbana, PbH. helbōn, Aram. hilbēntā, helbānā, Syr. helbānā, Md. hilbuna. See also qalbāne.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalidin, kaldān hāñ : hāñ (Lt)",
+        "meaning": "'swallow'",
+        "origin_explanation": "from Gk. khelidōn 'swallow'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalādewon hāñ (T)",
+        "meaning": "'magician'; originally 'Chaldean' (in Hebrew kaśdî)",
+        "origin_explanation": "Chaldea being considered the seat of astrology. Gk. khaldaion, acc. sg. of khaldaios 'astrologer'. SEMITIC: Ar. kaldānī 'astrologer', Aram. kaldā'ā 'Chaldean, soothsayer', Syr. kaldāyā, Md. kaldaia. On Kaldu: Kaśdîm, see Steiner 137-143.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalifa hāñ",
+        "meaning": "'caliph'",
+        "origin_explanation": "from Ar. halīfa; also in Tna.Te.Amh. kālīfa 'disciple of a sheik'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalla (yoklāh), kallaha hāñ",
+        "meaning": "'cry out, shout, cry aloud, howl'; 'akallaha, causative'; takallaha, passive",
+        "origin_explanation": "ETHIOPIC: Amh. kālla 'take off the clothes', also in Cushitic: Sa. kalā', Af. kal. The root is related to ql (see qala'a). Guidi Aethiops 1 (1922). 51 has kal'a and he derives it from Ar. hala'a 'take off'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallaha (K*)",
+        "meaning": "'shout to or at one another'; vastakāllaha 'roar, shout, cause to shout at one another, cause to cheer one another'; kalāhi, act. part. of kalha",
+        "origin_explanation": "ETHIOPIC: Har. kālaha, kalha 'call someone by shouting'. Amh. (a)kālla 'make a thundering noise (a reduplicated a-stem of kālla, root kl?), and probably also kāllalā 'resound' (formed by reduplication of the 2nd radical), Te. kālah 'little bell', (tā)kalhe 'argue with one another, quarrel'; probably passed into Cushitic: Sa. kallāh, Aw. kālāx-xā 'shout', Be. kalā 'bell'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallaha hāñ (Y.M)",
+        "meaning": "'puncture, cut a vein in the forehead in order to bleed or cup a person'",
+        "origin_explanation": "ETHIOPIC: Te. kālha 'incise the skin on the forehead so that blood flows out', Tna. kālhahe, Gur. k'ōlāk'ālā (reduplicated klh > kl > klkl) 'scratch the ground (hen, cock, bull), make little holes'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalkala hāñ",
+        "meaning": "'hinder, prevent, prohibit'; takalkala, passive'; kalkāli (Lt), act. part. of kalkala",
+        "origin_explanation": "ETHIOPIC: reduplicated verb of kl coming from (see kal'a): Te. kālkāla 'hinder, keep back', kālkāla, Amh.Gaf. kālakkālā, Arg. kālakkālā, (tā)klakkālā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k'alk'ol, k'alk'alt hāñ",
+        "meaning": "'kind of black ant'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallak (Y.M)",
+        "meaning": "'two, make another, (L) change, alter (denominative)'; kal'e 'two, both, double, twofold'; with suffix pronouns: 'both of..., two of...'; (ba-kal'e 'twofold'); kal'ettu (acc. kal'etta) 'two (with masc. and fem. nouns), both, double'; kal'etti 'two (with fem. nouns), both'; kal'e (fem. kal'o) 'other, another, anyone else, second, successor, companion, friend, neighbor'; (kāl'a lakāl'a'u 'one to another'); (kāl'a 'amkāl'a'u 'one more than another'); kāl'a 'again'; kāl'e'it (Lt) 'second section of a day'; kāl'a'āwi (fem. kāl'āwit) 'second'",
+        "origin_explanation": "SEMITIC: Ar. kālā'a 'both', Sar. kly, Soq. kalā, kalā, Heb. kil-'ayim 'of two kinds', Ug. kla-t 'both', Akk. kilallû (m). For more details on the Arabic root, see Rabin 69. ETHIOPIC: Te. kal'ot 'two', Tna. kal'aite (root kl), Har. k'ot, k'ot (l > zero), Arg. ket, Gur. k'ett, h'ett, Amh. hulätt, Gaf. alatta (k > h, zero), Tna. kal'a 'another'. Amh. also kālla 'to double, make two' (from G. kal'e); passed into Cushitic: Som. kall 'another'. Rabin 69 seems to connect this root with kl 'restrain' (see kal'a, above) with an original meaning 'yoke'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kal'a (yoklāh) hāñ",
+        "meaning": "'pull out (the weeds), peel off, undress, strip off, remove (Lt), break, dislocate'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallak'astemā hāñ (T)",
+        "meaning": "'honey'",
+        "origin_explanation": "from Gk. glykiston 'sweetest', from glykys 'sweet', or from glykysma 'sweetness' (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallala hāñ",
+        "meaning": "'surround, surround for protection, cover over, protect, encompass, encircle, fence in, crown'; 'akallala (K*), causative'; takallala, pass. of kallala; kallāli (K*), act. part. of kallala; kallul, pass. part. of kallala; kallālē 'crowning, coronation, surrounding, encompassing'; 'aklīl 'crown, diadem, garland, tiara, headdress worn by the deacons at the liturgy, (Lt) ban'",
+        "origin_explanation": "makallal (Gr) 'who crowns'; 'aklīl 'coronation, church wedding, nuptial ceremony (reserved for those who marry the first time)'; SEMITIC: Ar. kallala 'to crown', takallala 'be crowned' are denominatives. As for Ar. 'aklīl 'crown' and G. 'aklīl, they are considered to be of Aramaic origin (Fraenkel 62), as is Heb. kallīlā (Wagner 64). On the Akkadian (kalīlu) origin of this root, see Zimmern 36, von Soden 476. See also on this root Kaufman 63-4. For kll being the origin of Sem. kul(l) 'all', see Baumgartner 457. Hebrew kallā 'bride' (for the other Semitic languages, see Baumgartner 455) is perhaps also connected with this root. ETHIOPIC: Te. kāllala (kll) 'go around', 'akāllala 'encircle', kalal 'circuit', 'aklīl 'crown', Tna. k'allalā 'go around', 'aklīl 'crown', tāklīl 'sacrament of indissoluble marriage', Amh. kāllalā 'surround, crown, guard, protect', 'aklīl 'crown', tāklīl 'sacrament of indissoluble marriage' (see Walker 36ff); passed into Cushitic: Sa. kulel 'circle', Bil. kalāl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallala II hāñ (T.TS)",
+        "meaning": "'cut, (M) decree, grant, (T.Y.K) thank'; kallil (Lt) 'who cuts, who assigns'",
+        "origin_explanation": "ETHIOPIC: Te. kāllala (kll) 'examine', 'akāllal 'the separation of good and bad', Amh. kāllalā 'demarcate, delimit a boundary, set the limits'. Note that the meaning 'thank' could also be derived from kallala I 'crown' > express thanks'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalil hāñ (T)",
+        "meaning": "'Hebrew fourth month'",
+        "origin_explanation": "corrupt form of 'elul hāñ, from Heb. 'elūl even though 'elūl is not the fourth month. See also kul.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*kolkala, *'ankolala, 'ank'alala hāñ",
+        "meaning": "'roll (intr), roll down (tears), fall (fruit, tears), be (become) giddy, be tossed about, turn (one's head; tr. intr), make giddy'; 'akolala (Gr.266) 'be dizzy'; nakolāl 'dizziness, giddiness, spinning of the head, (Gr.221) agitation, excitement; lock, curl, tuft of hair' (< 'turn'); nakulāl (T.M), nakawall (L) 'who loses his power of reasoning by being inebriated, one whose head turns (due to drunkenness, or for any reason)'; mankolāl (Lt) 'dizziness'; nakul, see below;",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "makalla, maklā'i (LLK), act. part. of kal'a",
+        "meaning": "also 'adversary, opponent'; maklā'i (Ll) maklā'i 'hindrance, impediment'; (zavalbo makla' 'indisputable'); maklā'i (K*) 'that which prevents someone from entering (gate, enclosure)'; takal(a)'ot 'abstinence, impediment, restraint, hindrance, obstacle, prohibition'",
+        "origin_explanation": "SEMITIC: Ar. kallā'a 'retain, detain', Soq. kole 'turn away', Heb. kālā' 'restrain, keep from', Aram.-Syr. kalā', Md. kla 'hold back, withhold', Akk. kalû 'detain, hold back, refuse'. ETHIOPIC: Te. kāl'a 'hinder, prevent', Tna. kāl'e, Amh.Gur. kālla; also in Cushitic: Sa. Af. kal, kale 'hold back'. See also kalkala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalaba hāñ (T)",
+        "meaning": "'pass, go beyond'; takalaba (T.Y.Sw. in D 1397) 'pass'",
+        "origin_explanation": "would it mean 'go or run like a dog'? If so it would be a denominative from kalb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalb (pl. kalabāt, 'aklabt, 'aklab, hāñ)",
+        "meaning": "'dog'; takallaba 'have a canine nature'; takalbotannā 'canine nature'",
+        "origin_explanation": "SEMITIC: Ar. kalb 'dog', Sar. klb, Soq. klb, köb (with l > zero), Heb. keleb, Aram.-Syr. Md. kalba, Ph.Ug. klb, Akk. kalbu, denominative; Ar. kaliba 'behave like a rabid dog', Syr. kalb. ETHIOPIC: Te. kālb, Tna. kālbi. See also kalala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalbane, kalbanen hāñ : hāñ",
+        "meaning": "'a resinous soap'",
+        "origin_explanation": "from Gk. khalbāné 'galbanum', of Semitic origin (Masson 60); also in Amh. kalbāne. In the other Semitic languages: Ar. halbanā 'storax', Heb. helbana, PbH. helbōn, Aram. hilbēntā, helbānā, Syr. helbānā, Md. hilbuna. See also qalbāne.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalidin, kaldān hāñ : hāñ (Lt)",
+        "meaning": "'swallow'",
+        "origin_explanation": "from Gk. khelidōn 'swallow'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalādewon hāñ (T)",
+        "meaning": "'magician'; originally 'Chaldean' (in Hebrew kaśdî)",
+        "origin_explanation": "Chaldea being considered the seat of astrology. Gk. khaldaion, acc. sg. of khaldaios 'astrologer'. SEMITIC: Ar. kaldānī 'astrologer', Aram. kaldā'ā 'Chaldean, soothsayer', Syr. kaldāyā, Md. kaldaia. On Kaldu: Kaśdîm, see Steiner 137-143.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalifa hāñ",
+        "meaning": "'caliph'",
+        "origin_explanation": "from Ar. halīfa; also in Tna.Te.Amh. kālīfa 'disciple of a sheik'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalla (yoklāh), kallaha hāñ",
+        "meaning": "'cry out, shout, cry aloud, howl'; 'akallaha, causative'; takallaha, passive",
+        "origin_explanation": "ETHIOPIC: Amh. kālla 'take off the clothes', also in Cushitic: Sa. kalā', Af. kal. The root is related to ql (see qala'a). Guidi Aethiops 1 (1922). 51 has kal'a and he derives it from Ar. hala'a 'take off'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallaha (K*)",
+        "meaning": "'shout to or at one another'; vastakāllaha 'roar, shout, cause to shout at one another, cause to cheer one another'; kalāhi, act. part. of kalha",
+        "origin_explanation": "ETHIOPIC: Har. kālaha, kalha 'call someone by shouting'. Amh. (a)kālla 'make a thundering noise (a reduplicated a-stem of kālla, root kl?), and probably also kāllalā 'resound' (formed by reduplication of the 2nd radical), Te. kālah 'little bell', (tā)kalhe 'argue with one another, quarrel'; probably passed into Cushitic: Sa. kallāh, Aw. kālāx-xā 'shout', Be. kalā 'bell'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallaha hāñ (Y.M)",
+        "meaning": "'puncture, cut a vein in the forehead in order to bleed or cup a person'",
+        "origin_explanation": "ETHIOPIC: Te. kālha 'incise the skin on the forehead so that blood flows out', Tna. kālhahe, Gur. k'ōlāk'ālā (reduplicated klh > kl > klkl) 'scratch the ground (hen, cock, bull), make little holes'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalkala hāñ",
+        "meaning": "'hinder, prevent, prohibit'; takalkala, passive'; kalkāli (Lt), act. part. of kalkala",
+        "origin_explanation": "ETHIOPIC: reduplicated verb of kl coming from (see kal'a): Te. kālkāla 'hinder, keep back', kālkāla, Amh.Gaf. kālakkālā, Arg. kālakkālā, (tā)klakkālā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k'alk'ol, k'alk'alt hāñ",
+        "meaning": "'kind of black ant'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallak (Y.M)",
+        "meaning": "'two, make another, (L) change, alter (denominative)'; kal'e 'two, both, double, twofold'; with suffix pronouns: 'both of..., two of...'; (ba-kal'e 'twofold'); kal'ettu (acc. kal'etta) 'two (with masc. and fem. nouns), both, double'; kal'etti 'two (with fem. nouns), both'; kal'e (fem. kal'o) 'other, another, anyone else, second, successor, companion, friend, neighbor'; (kāl'a lakāl'a'u 'one to another'); (kāl'a 'amkāl'a'u 'one more than another'); kāl'a 'again'; kāl'e'it (Lt) 'second section of a day'; kāl'a'āwi (fem. kāl'āwit) 'second'",
+        "origin_explanation": "SEMITIC: Ar. kālā'a 'both', Sar. kly, Soq. kalā, kalā, Heb. kil-'ayim 'of two kinds', Ug. kla-t 'both', Akk. kilallû (m). For more details on the Arabic root, see Rabin 69. ETHIOPIC: Te. kal'ot 'two', Tna. kal'aite (root kl), Har. k'ot, k'ot (l > zero), Arg. ket, Gur. k'ett, h'ett, Amh. hulätt, Gaf. alatta (k > h, zero), Tna. kal'a 'another'. Amh. also kālla 'to double, make two' (from G. kal'e); passed into Cushitic: Som. kall 'another'. Rabin 69 seems to connect this root with kl 'restrain' (see kal'a, above) with an original meaning 'yoke'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kal'a (yoklāh) hāñ",
+        "meaning": "'pull out (the weeds), peel off, undress, strip off, remove (Lt), break, dislocate'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallak'astemā hāñ (T)",
+        "meaning": "'honey'",
+        "origin_explanation": "from Gk. glykiston 'sweetest', from glykys 'sweet', or from glykysma 'sweetness' (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallala hāñ",
+        "meaning": "'surround, surround for protection, cover over, protect, encompass, encircle, fence in, crown'; 'akallala (K*), causative'; takallala, pass. of kallala; kallāli (K*), act. part. of kallala; kallul, pass. part. of kallala; kallālē 'crowning, coronation, surrounding, encompassing'; 'aklīl 'crown, diadem, garland, tiara, headdress worn by the deacons at the liturgy, (Lt) ban'",
+        "origin_explanation": "makallal (Gr) 'who crowns'; 'aklīl 'coronation, church wedding, nuptial ceremony (reserved for those who marry the first time)'; SEMITIC: Ar. kallala 'to crown', takallala 'be crowned' are denominatives. As for Ar. 'aklīl 'crown' and G. 'aklīl, they are considered to be of Aramaic origin (Fraenkel 62), as is Heb. kallīlā (Wagner 64). On the Akkadian (kalīlu) origin of this root, see Zimmern 36, von Soden 476. See also on this root Kaufman 63-4. For kll being the origin of Sem. kul(l) 'all', see Baumgartner 457. Hebrew kallā 'bride' (for the other Semitic languages, see Baumgartner 455) is perhaps also connected with this root. ETHIOPIC: Te. kāllala (kll) 'go around', 'akāllala 'encircle', kalal 'circuit', 'aklīl 'crown', Tna. k'allalā 'go around', 'aklīl 'crown', tāklīl 'sacrament of indissoluble marriage', Amh. kāllalā 'surround, crown, guard, protect', 'aklīl 'crown', tāklīl 'sacrament of indissoluble marriage' (see Walker 36ff); passed into Cushitic: Sa. kulel 'circle', Bil. kalāl.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kallala II hāñ (T.TS)",
+        "meaning": "'cut, (M) decree, grant, (T.Y.K) thank'; kallil (Lt) 'who cuts, who assigns'",
+        "origin_explanation": "ETHIOPIC: Te. kāllala (kll) 'examine', 'akāllal 'the separation of good and bad', Amh. kāllalā 'demarcate, delimit a boundary, set the limits'. Note that the meaning 'thank' could also be derived from kallala I 'crown' > express thanks'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalil hāñ (T)",
+        "meaning": "'Hebrew fourth month'",
+        "origin_explanation": "corrupt form of 'elul hāñ, from Heb. 'elūl even though 'elūl is not the fourth month. See also kul.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*kolkala, *'ankolala, 'ank'alala hāñ",
+        "meaning": "'roll (intr), roll down (tears), fall (fruit, tears), be (become) giddy, be tossed about, turn (one's head; tr. intr), make giddy'; 'akolala (Gr.266) 'be dizzy'; nakolāl 'dizziness, giddiness, spinning of the head, (Gr.221) agitation, excitement; lock, curl, tuft of hair' (< 'turn'); nakulāl (T.M), nakawall (L) 'who loses his power of reasoning by being inebriated, one whose head turns (due to drunkenness, or for any reason)'; mankolāl (Lt) 'dizziness'; nakul, see below;",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ṭe. ankolala",
+        "meaning": "'hoop, wheel', Tna. kolāliə 'go around', ənkəlīl bālā 'surround', ənkəlīlw 'round', Amh. (ṭān)k°əllalā, (an)k°əllalālā, k°əllalā alā 'roll, make turn', Har. kulul bāya 'roll', Gur. (aṭ)kulāle. See also kawlala.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°əllāṭāfā",
+        "meaning": "'hobble (domestic animal), stammer (that is, be tongue-tied)', Gur. (ṭā)k°əllāṭāfā 'stammer'. The root is augmented by l in relation to kaṭafa (see below). It is strange that it is similar in meaning to kalṭəha, below.",
+        "origin_explanation": "ETHIOPIC: Amh.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kələməda, kələmədä",
+        "meaning": "'robe scarlet robe, vestment'",
+        "origin_explanation": "from Gr. khlamyda (acc. of khlamys 'cloak'); also in Amh. kələməda 'red silk, red velvet' (from Geez), Syr. kaləmida. For Gk. khlamys, cp. Aram. kalmūs, kalmūs 'cloak', Syr. kalmūs.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kələməṣe",
+        "meaning": "'language'",
+        "origin_explanation": "could it be borrowed from Ar. kalimāt 'words'? (Ambros); cp. also Te. kaləmāṭa 'incite to fight by praising speeches', kaləmaṭ 'song'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kelemewon",
+        "meaning": "'chameleon'",
+        "origin_explanation": "see kamelewon I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°allanṭa",
+        "meaning": "see k°əll.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kelqədon",
+        "meaning": "'chalcedony (precious stone)'",
+        "origin_explanation": "kalqədonāwi (Lt) 'pertaining to chalcedony'; from Gk. khalkēdōn; also Amh. kelqədon (from Geez), Syr. qalīḍūn.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalsasa",
+        "meaning": "'bind sheaves'; takalsasa (K*), passive; kalsəsṭ (pl. kalsəsāt, kalāsəsṭ) 'sheaf, bundle'.",
+        "origin_explanation": "SEMITIC: Dillmann 818 compares Ar. kalaza 'gather' > kls by partial assimilation (for which see Brockelmann 1908:153). ETHIOPIC: Tna. kəlsāsä 'bind the sheaves'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°əlalīt",
+        "meaning": "'kidney'",
+        "origin_explanation": "SEMITIC: Ar. kulyā 'kidney', Soq. keloih 'intestines', Heb. kilyā 'kidney', Aram.-Syr. kulyā, Md. kulai, Ug. klyt, Akk. kalītu. ETHIOPIC: Tna. k°əlīt 'kidney', Te. kəlkəl°ot, kəlwat, kəlawa. Amh. k°əlalīt, Gur. kulalīt, kilāyo, Gaf. kullalīt, Arg. kullay. Har. kulay; also in Cushitic: Bil. kilbīt, Som. kelī, Or kalē; see also Sasse 12.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalṭaha",
+        "meaning": "'tie, bind'",
+        "origin_explanation": "see also kalṭəwa, kalṭafa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalṭafa",
+        "meaning": "(T.Y.Sw. in D 1397) 'bind, tie'; takalṭafa (Lt), passive; kalṭuf (T) 'bound, tied'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°āləwa",
+        "meaning": "(T) 'reap, mow'.",
+        "origin_explanation": "see also k°āləwa, mak°āləwa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kalaya (yəkli)",
+        "meaning": "(K*) 'measure'",
+        "origin_explanation": "seems to be a reconstructed form from makliṭ 'tal (weight)'. SEMITIC: Dillmann 822 compares it with Ar. kāla (kyl) 'measure', Aram. Heb. kāl (kwl, kyl) 'contain', Aram. kāl 'measure', Syr. kayl 'a measure'. For G. makliṭ, see Pankhurst 1970, 1:55.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°alāyāt",
+        "meaning": "see k°əliṭ.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kām",
+        "meaning": "(T) 'black scar, fever'.",
+        "origin_explanation": "ETHIOPIC: Amh. kam, same (from Geez) perhaps an interpretation of the biblical Ham, one of Noah's sons, referring to blackness.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kama",
+        "meaning": "(adverb, preposition, and conjunc-tion) 'as, just as, even as, like, as if, such'",
+        "origin_explanation": "SEMITIC: Ar. kamā 'like, as', Heb. kəmō, Aram. kəmā, Ug.Ph. km, Akk. kima; it represents Semitic k 'like' with -ma, -mā, conceived either as an interrogative or as an indefinite particle (Brockelmann 1908:326). ETHIOPIC: Tna. kām 'like, as, according to'. Te. kəm, Amh. kəmā (from Geez), Arg. kəmāy 'how' (lit. 'like what?'), Gur (yä)-kəma, (yä)-kəm 'like'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmā",
+        "meaning": "'that, so that, in order that'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmā hənəy",
+        "meaning": "'Pleiades (constellation of seven stars)'",
+        "origin_explanation": "from Aram.-Syr. kīmā, Heb. kīmā (Noeldeke 1910:45), Md. kima; also in Te. kema; passed into Cushitic: Be. hēma, Bil.Sa. kaymāt. Kaufman 64 connects it with Akk. kimtu 'family'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmā hənə",
+        "meaning": "'thus, also, even, nearly, almost, just, merely, alone, the same, yet'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmāṣ",
+        "meaning": "(T+) 'disease of the heart'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "koməl",
+        "meaning": "(T) komal hənə (Lt) 'kind of tree (rendered by T as Amh. əše 'tree of the hot lowlands which has edible berries')'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamelewon I",
+        "meaning": "(L) kāməlewon hənə (T) 'chameleon, lizard'.",
+        "origin_explanation": "from Gk. khamaileōn 'chameleon'; also Aram. kamele'ōn. See also kelemewon, galāməwos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamelewon II",
+        "meaning": "(T+) = Amh. qammo 'a tree whose fruit grows in bunches'; could it be the same as komol?",
+        "origin_explanation": "could it be the same as komol?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamama",
+        "meaning": "(T.M.A) 'cut, (K) equalize by cutting'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamam",
+        "meaning": "(KBT) 'cut (n)'.",
+        "origin_explanation": "ETHIOPIC: Amh. kəmāmā, kəmākkəmā, kārākəmam 'trim', Tna. kəmākəmā 'equalize by cutting, trim', kārkəmā (by dissimilation), Te. kəmākəmā 'put in order'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamām (pl. əkmām, əkmāmāt)",
+        "meaning": "(K.Lt) 'fine vestment worn by an officiating priest, embroidered cuffs, maniple' (Brightman 591; Hammerschmidt 1970:153); from Ar. kumm (pl. əkmām) 'sleeve'.",
+        "origin_explanation": "from Ar. kumm (pl. əkmām) 'sleeve'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamin, kamin, kamun, kamen",
+        "meaning": "(Sw. in D 832,T.B) linseed, cress'",
+        "origin_explanation": "from Gk. kyminon 'cumin', possibly through Ar. kammūn; also in Te. kamun, Tna.Amh. kāmūn, Har. kammūn, kummōn. SEMITIC: Heb. kammōn, Aram. kammōnā, Syr. kammūnā, Md. kamuna, Ph.Ug. kmn. For its Akkadian origin, see Zimmern 57. On Gk. kyminon in relation to Semitic, see Masson 51-2.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamānim I",
+        "meaning": "(T) 'bread'",
+        "origin_explanation": "note that KG has kawānim 'provisions for a journey'. For the confusion kawānim: kamānim, see also kamānim II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamānim II",
+        "meaning": "(D 1406) 'golden coin'.",
+        "origin_explanation": "Dillmann 1406 considers it a corruption of Heb. (ədār)konim of Ezra 8:27. Note that KS26 and KG have kawānim, but the Asmara Bible has kamānim. For kawānim: kamānim, see also kamānim I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamānyo",
+        "meaning": "(T) 'panther'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamanyōn ḥFPP (T*)",
+        "meaning": "'fenugreek'",
+        "origin_explanation": "perhaps from Gk. kyminon 'cumin' (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamara HPP",
+        "meaning": "'heap, accumulate'",
+        "origin_explanation": "takamra (Gr 258), passive;kəmr, kəmr (pl. 'akmār) 'heap, pile';makmar (Lt) 'heap';SEMITIC: Ug. kmr 'pile', Akk. kamāru 'pile up'.ETHIOPIC: Te. kəmmāra 'pile up', Tna. kəmmārā, Amh. kəmmārā, Arg. kəmmārā, Gaf. kəmmārā, Gur. kəmmārā; passed into Cushitic: Sa.Af. kamar 'accumulate', Bil. kəmmār. For its connection with gmr (see gamara), see Cohen 1926-7:97, n. 2.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamr HPP C",
+        "meaning": "'wine'",
+        "origin_explanation": "from Ar. ḥamr; also in Te. kāmṛ 'fermented drink', Amh. kāmṛ, Har. xamri.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamārəm HPP C (T.K)",
+        "meaning": "'idolatrous priests'",
+        "origin_explanation": "transcription of Gk. khōmarim, from Heb. kəmārīm 'idolatrous priests'; also Chr.-Ar. kumar (from Syr. kumrā).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kms",
+        "meaning": "see məkmās I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamasa HPP (K*)",
+        "meaning": "'deprive oneself of food'",
+        "origin_explanation": "SEMITIC: perhaps Ar. kamasa 'be stern-looking'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamos, kəmos, komos HPP (T.K), kəmos HPP (D 1406)",
+        "meaning": "'name of an idol (Moabite)'",
+        "origin_explanation": "transcription of Gk. khamōs, from Heb. kəmōš, the God of the Moabites.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "komos HPP (T.M)",
+        "meaning": "'religious clerk who assigns lodgings to believers gathered for a festivity'",
+        "origin_explanation": "is to be identified with qomos, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kamosasa HPP (Lt)",
+        "meaning": "'be somewhat serious'",
+        "origin_explanation": "akmosasa 'smile, deride, chide, rebuke in a mild manner, reproach';kamosəs, kamosās 'mild gravity, cheerfulness, smile' (n);kəmsəs (Gr.258) 'who smiles';ETHIOPIC: Te. kəmsəs bela 'smile', Tna. kəmass bälä, (-a) kəmäsmäsä.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmāt HPP (T)",
+        "meaning": "'gourd, flask'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmāt, akmotata HPP (T.M)",
+        "meaning": "'shorten'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəməʿ",
+        "meaning": "'be short (cloth, garment, due to shrinkage)'",
+        "origin_explanation": "ETHIOPIC: Amh. kəməʿəčč alä 'be short (cloth, garment, due to shrinkage).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəmaz HPP (T.K*)",
+        "meaning": "'kind of beetle'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəna HPP",
+        "meaning": "see kyn I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kən HPP (T*)",
+        "meaning": "'straw'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "-k(k)ən -HPP",
+        "meaning": "'suffix pronoun of the 2nd plural fem. with nouns, verbs, and particles'",
+        "origin_explanation": "see -ka, -ki, -k(k)ə(k)mu, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kin HPP",
+        "meaning": "'art, craft, handicraft, workmanship'",
+        "origin_explanation": "kinat 'art, craft, handicraft, workmanship';kenəyā (pl. kenəyāt, kinat, kenāt) 'artisan, craftsman, fashioner, workman';kenəwi (pl. kenawi) 'skillful, accomplished in art, artistic, artificial';takenawa 'fabricate with skill, be skilled in, use a stratagem';takenəwo(t) 'handiwork, skill, work of art';SEMITIC: related to Ar. qayṇ 'blacksmith', qaynā 'beat iron', Aram. qēnay, qēnāwā 'metalworker, silversmith', Syr. qaynayā, Md. qanaia, Ug. qyn 'blacksmith'. On Heb. qayīn, see H. Rabin, 1974:315, 325.ETHIOPIC: Te. kin 'intention, will', Tna. kən, Amh. kin 'art', kenya 'skilled, artisan' (from Geez); also in Cushitic: Kham. kin 'custom, manners, way of life', Qua. kin. See also kəʿināt.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kona HPP",
+        "meaning": "see kwn.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanbal, kanbalo HPP",
+        "meaning": "'comb, pin, hook or ring (of a sandal)'",
+        "origin_explanation": "is augmented by n in relation to kabalo, see above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanbala HPP (DTW.K*)",
+        "meaning": "'turn over'",
+        "origin_explanation": "ETHIOPIC: Tna. kənbälä 'turn over', kəmbälbal bälä 'tumble down', Te. kəmbälä (< kənbəl) 'turn and flow out', Amh. kənbälbälä 'pour out (liquids), fall backward', kənbäl alä 'be turned over', Gur. ka-nəbälä 'return, bring back' (for the various meanings of the root in Gurage, see Leslau 1979:345); passed into Cushitic: Aw. kəmbəli 'roll'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanubya, kənubyā HPP (Gr.464)",
+        "meaning": "'dining hall, refectory (probably of a monastery)'",
+        "origin_explanation": "from Gk. koinobia, nom. acc. pl. of koinobion 'religious community, monastery'; cp. also Chr.-Ar. qanūbiyā 'cloister'. See also kabyon, above.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kənāf HPP (Lt)",
+        "meaning": "'calf, ox'",
+        "origin_explanation": "ETHIOPIC: Amh. kənāf, kənāf 'animal led by a rope passed through a nose ring'; see also Praetorius, ZDMG 64 (1910).623.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kənf (pl. kənaf, 'aknāf) HPP",
+        "meaning": "'wing, fin (of fish), branch of tree, border (of garment, land)'",
+        "origin_explanation": "kənafa (yaknaf) (K*) 'fly' (denominative);SEMITIC: Ar. kanaf 'wing', Sar. knf 'border', side', Heb. kānāp 'wing', Aram. kənap, Syr. kənap, Md. kanpa, Ug. knp, Akk. kappu.ETHIOPIC: Te.Amh.Arg. kənf 'wing', Tna. kənf, Gur. kənfa, Amh. also (tä)kənāfənāfä 'fly, flutter about'; common with Cushitic: Qab. kənf 'a wing', Bil. kanfe, Kham. Kuff (see on this root Dolgopolsky 65). Conti Rossini 1912:214 also compares Qem. kämbi.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kənif HPP (L), kənif HPP (T)",
+        "meaning": "'border, limit'",
+        "origin_explanation": "possibly in connection with kənf 'border', with reduplicated last radical.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanfar (pl. kanāfər) HPP C",
+        "meaning": "'lip, brim, edge, hem'",
+        "origin_explanation": "Lagarde 231 compares Ar. kinfira 'tip of the nose'. In this case knfr would indicate the extremity of a part of the body, that is, the relation to the mouth, and the tip of the nose in relation to the nose. The root would then be common with Cushitic rather than borrowed from Cushitic (Bil. kanfar, Qua. kanpar) as suggested by Bravmann 508f is not convincing. The connection with Mh. karfif 'lip', Sh. qifrir suggested by Bittner 1916:29 is unlikely.ETHIOPIC: Te.Tna.Amh.Gur. kənfār 'lip'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kənfār HPP C (T.Sw. in D 404, top), kənfār HPP C (T)",
+        "meaning": "'hump, arm, front of leg of an animal'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kənk HPP 'al HPP A (Lt)",
+        "meaning": "'kind of garment'",
+        "origin_explanation": "from Gk. konkylion, neuter of konkylios 'purple colored'; G. kənk 'al could probably mean 'garment dyed purple'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "knn",
+        "meaning": "see maknun I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kən'anna HPP",
+        "meaning": "'regulate rule, over, have dominion, govern, judge, pass judgment, pass sentence, plead, convict, condemn, punish, avenge, torture, vex, chastise, exercise power'",
+        "origin_explanation": "'ak'annana, causative; also 'appoint a judge, give authority over, establish, put in charge of';tak'annana, pass. of kən'anna; also 'be executed, be subject to power, serve';(tak'annāni 'punished');tak'anna 'plead, carry on a lawsuit, litigate, press for justice, become reconciled';'astak'annana 'let appear for judgment, let appear in court';kən'annāni, act. part. of kən'anna; also 'ruler, governor';kən'annun, pass. part. of kən'anna;kən'annäne 'rule, domain, sentence, judgment, trial, law, ordinance, damnation, condemnation, doom, punishment, torment, torture';(kən'annäne fatḥ 'judicial punishment');kən'annəno 'judgment';kən'annat 'judgment, judging, condemnation';kən'annanāwi, (M) kən'annaneyāwi 'judicial';mak'annən (pl. mak'annən) 'ruler, prince, governor, magistrate, officer, high official, headman, prefect, judge, noble, nobleman, dignitary';mak'annən 'court of justice, hall of judgment, judgment seat, office, place of punishment, tribunal, jurisdiction, judgment, dominion, government, governorship, authority, territory subjected to the jurisdiction of';tak'annənot 'lawsuit';SEMITIC: The comparison with Heb. kōnen 'establish' suggested by Grimme 1901:424 is unlikely since Heb. kōnen is a pōlel-stem of ken (kwn) One might perhaps identify G. kən'ann with Semitic kwn (Heb. kēn, Syr. kawwen 'erect, admonish') with reduplicated last radical, without comparing it with the Hebrew pōlel-stem. The connection between mak'annən and Soq. qaninḥin 'master' suggested by Rabin 1978:400 is possible.ETHIOPIC: Te. kənnāna 'judge', Tna.Amh. kən'annänä 'judge, punish, condemn', passed into Cushitic: Sa. Bil. kənən 'judge'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanun, kānūn",
+        "meaning": "name of a Syrian month;",
+        "origin_explanation": "from Syr. kānūn; also Chr.-Ar. kānūn, in the expression 'first kānūn = December; second kānūn = January'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kannawī",
+        "meaning": "(Lt) 'heretic'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kannasa",
+        "meaning": "(D.Lt) 'assemble in church, unite, convene';",
+        "origin_explanation": "SEMITIC: probably to be identified with kin 'art, workmanship'. The connection with Heb. ḥānīṭ 'spear' suggested by Dillmann 870, Cohen 1947: no. 254 and others, is unlikely. As for Heb. ḥānīṭ, it is considered an Egyptian (ḥnyṭ) loanword (Buhl 244, Baumgartner 320). Brockelmann 1950:16 considers G. k\"ināṭ a Kafa (g\"inā) loanword. ETHIOPIC: Te. konat 'spear', Tna. k\"anat. See also kanaya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kantara",
+        "meaning": "(T) 'make a pedestal or a bench' (denominative);",
+        "origin_explanation": "SEMITIC: related to Ar. qanṭara 'arched vaulted passage, arch' (Ambros).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kantaros",
+        "meaning": "(Gr.267), pl. kantarōsāt, kəntərōsāt (D) 'cycle, a fourth part of the year, (Gr.267) interval of two minutes'.",
+        "origin_explanation": "Neugebauer 178 states that kantaros indicates 1/30. from Gk. kentron, name of a parameter (see Neugebauer 175, 177-8).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kantu",
+        "meaning": "(acc. kanto) 'nothingness, empty thing, emptiness, vanity, vain thing, vain, useless'; in the construct state 'vain, empty'; e.g., nagara kantu 'vain words, empty words'; kanto, bakantu, lakantu 'without reason, fortuitously, without purpose, without a cause, in vain, for nothing, unjustly, gratis, freely'.",
+        "origin_explanation": "Dillmann 1907:363 analyzes kantu as a noun kant with the suffix pronoun -u of the 3rd pers. sg. masculine. SEMITIC: the connection with Aram. kaḍū 'without special reason' suggested by Barth 1893:40 is doubtful. Note that Aram. kaḍī is explained by Levy II:296 as coming from kaḍūb 'falseness'. ETHIOPIC: Tna. Amh.Gur. (bä)kantu 'without reason'; passed into Cushitic: Qem.Qua. kantu. The root is not to be connected with Te. kändo 'perhaps' as suggested by Brockelmann 1950:54. Likewise unlikely is the suggestion made by Praetorius 1879:336 that kantu) is an original bakant for bakat (with an inserted n), bakat being a feminine of bak 'useless, valueless' (for which see above).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kenotāṭ",
+        "meaning": "(KG II, III; but KG I has wrongly kerotāṭ); see (kwn), kawāniṭ.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kin, takenawa",
+        "meaning": "see kin.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kanaya",
+        "meaning": "(yakni) (K*) 'parry a blow, fend off, ward off';",
+        "origin_explanation": "seems to be a denominative from k\"ināṭ 'shield' with the original meaning 'ward off with a shield'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kenayā",
+        "meaning": "see kin.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "käppä",
+        "meaning": "(MA) käp 'an over-vestment of priests'; in former times it had a hood, later the hood was removed and the käppä was lengthened to reach the ankles (see Guidi, ZA 11[1896].404; Hammerschmidt 1970:154);",
+        "origin_explanation": "from Lat. cappa through Greek kappa 'hood'; in Tna.Amh. kabba, kappa, Gur. kubba; in Cushitic: Or. kabba.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "käpe",
+        "meaning": "(T) 'basket, inkpot';",
+        "origin_explanation": "probably a secondary form of qafo.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kop",
+        "meaning": "(T) 'head';",
+        "origin_explanation": "kup (MA) 'top of skull'; see also kup II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kopa",
+        "meaning": "see kwp.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kup I",
+        "meaning": "(T.M) 'nose';",
+        "origin_explanation": "could there be a graphic error for rop?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kup II",
+        "meaning": "(MA) 'top of skull';",
+        "origin_explanation": "see also kop.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kup III",
+        "meaning": "(T.M) 'light' (n).",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kopu",
+        "meaning": "(T) 'perfume';",
+        "origin_explanation": "either from Gk. kyphi 'an Egyptian compound incense', of Egyptian (kšpt) origin, or from Coptic kōp 'fumigation' (Müller). See also (swp), sopa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karra",
+        "meaning": "see krr I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kärrä",
+        "meaning": "(originally 'knife'), name given a sect of the Ethiopian Orthodox church which followed an extreme interpretation of Monophysitism maintaining that Christ anointed himself. This sect referred to itself as (the Son [is] the unction'), but received the name kärrä 'knife' because it 'cut off' the human nature of Christ by declaring this to have been absorbed by the divine nature or because it reduced His nature to one like the kärrä-knife which has only a single edge (definition given by J.J. Baeteman, Dictionnaire amarigna-français, 1929, col. 717);",
+        "origin_explanation": "SEMITIC: the derivation of kärrä from Sem. wqr 'punch' suggested by Praetorius 1879:72, 144-5 is unlikely. ETHIOPIC: Tna.Amh. karra 'knife' (also the sect), Gaf. karrā, Har. karrā 'curved sword'; Cushitic: Or. kara. Kham. karrā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k\"ar",
+        "meaning": "(K) 'kind of measure';",
+        "origin_explanation": "transcription of Heb. kor 'dry measure'; see for this noun Kaufman 65.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kir",
+        "meaning": "in həmāma kir 'the 'kir disease';",
+        "origin_explanation": "H.G (Lt)",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kor",
+        "meaning": "(T) 'saddle';",
+        "origin_explanation": "kora (K*) 'carry, transport a load' (denominative); from Ar. kīr 'saddle', also Te. kor, Amh. kor, korəčča; in Cushitic: Bil.Sa.Af.Be. kōr, Som. Or. kōra.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kora",
+        "meaning": "see kawra",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "korā I",
+        "meaning": "(pl. korāṭ) , kore 'cup, bowl, jar';",
+        "origin_explanation": "ETHIOPIC: Tna. k\"arro 'jar', Amh. kora, Gur. kuro; also in Cushitic: Sa. kurro 'jar', Af. kōrā, Som. kōra. See also kore.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "korā II",
+        "meaning": "(K*) 'salt lick, water containing a mineral sought by animals for its salt content, pond';",
+        "origin_explanation": "ETHIOPIC: for 'pond'; cp. Amh. kure.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kore",
+        "meaning": "'spout of a pitcher, mouth of a vessel'.",
+        "origin_explanation": "see also korā I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kore 'əppisqoppos",
+        "meaning": "kore 'auxiliary bishop';",
+        "origin_explanation": "from Gk. khōrepiskopos 'country bishop'; also in Chr.-Ar. ḥūrābiskubūs, Syr. kūrēpīšqūpā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k\"arra, k\"arrā",
+        "meaning": "(CO) (T) k\"arra 'hit on the head with the fist (or palms), strike, smite, oppress';",
+        "origin_explanation": "tak\"arra 'passive'; k\"arru (K*) 'struck (head), hit (head)'; k\"arrāṭ 'striking, assault, reviling'; SEMITIC: related to Ar. qar'a 'knock (at a door), beat (a drum), strike on the head' (Dillmann 840; Grimme 1901:476). ETHIOPIC: Tna. k\"ärra 'abālā 'hit on the head', Amh. k\"ärra. See also qara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k\"arra II",
+        "meaning": "(CO) (Y.K) 'be proud, be arrogant';",
+        "origin_explanation": "k\"arru (DTW) 'proud, arrogant'; k\"arrāṭ 'arrogance'; ETHIOPIC: Tna. k\"ärre 'be proud, be conceited', Amh. k\"ärra; passed into Cushitic: Kham. k\"ər 'be arrogant', Or. kōra 'pride'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°räb",
+        "meaning": "see mək°räb, below.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karaba (T.Y.K.*M)",
+        "meaning": "'hang up, (K*) gather, collect'",
+        "origin_explanation": "SEMITIC: Ar. karaba 'fasten tightly', perhaps SAr. (h)krb, (s)krb 'unite a bride with one's family' (Müller); ETHIOPIC: Te. kåräba 'tie up'. Amh. kårråbä 'hang, suspend from a hook'. See also k°ärbat.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°araba (T.Y.K.*M)",
+        "meaning": "'hew (wood, stones), carve, (K) dig, plow, destroy'; mak°rabi (T.K.*M) 'plow, axe';",
+        "origin_explanation": "SEMITIC: Ar. karaba 'plow' (for a possible Aram.-Syr. [karab] origin, see Fraenkel 127), Md. krb. See also krp.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karabo",
+        "meaning": "'woven basket, (KG) pouch';",
+        "origin_explanation": "SEMITIC: Buhl 347 (followed by others) compares Heb. kəlûb 'basket', PBh. kalîbā; Syr. kulbāšā 'basket for carrying grapes' seems to be derived from Gk. klobos 'bird cage' rather than the other way around. See also M. Cohen 1926-7:105. A. Beeston, Muséon 91 (1978), 197 connects the root of 'woven basket' with mək°räb 'gathering place' from a meaning 'tie, bind, unite', but 'woven basket' is karabo and not karab as given by Beeston, ib. See also kabaro II. ETHIOPIC: Tna. karibbo 'small skin used as a bag', Amh. kåråbo 'basket'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karbe",
+        "meaning": "'myrrh';",
+        "origin_explanation": "ETHIOPIC: Te.Tna.Amh.Gur. kårbe 'myrrh', Har. kåråbi; also in Cushitic: Bil. karbi, Sa. karbe.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°aräbi (Lt)",
+        "meaning": "'crane';",
+        "origin_explanation": "a misprint for k°aräki hčh, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kirub, kerub (pl. kiruben, keruben, kirubel)",
+        "meaning": "'cherub'; kirubäwi 'cherubic';",
+        "origin_explanation": "from Gk. kheroub, transcription of Heb. kərûb.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "koreb (M)",
+        "meaning": "'mountain of God, (T) place of fire';",
+        "origin_explanation": "transcription of Gk. khōrēb (from Heb. horeb) 'the mountain of Horeb' which is the mountain of legislation, according to Deuteronomy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kurb (T)",
+        "meaning": "'center of the earth';",
+        "origin_explanation": "ETHIOPIC: Amh. kurb, same (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kirubel, kiruben",
+        "meaning": "'cherubs'; kirubelawi (Lt) 'cherubic';",
+        "origin_explanation": "from kirub with the ending -el, probably under the influence of the names of angels such as mika'el, gabra'el.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°ärbat",
+        "meaning": "'amulet, talisman, charm'; k°ärbatäwi 'phylacteries, (L) magic words';",
+        "origin_explanation": "SEMITIC: perhaps from karaba 'hang up', amulets being worn around the neck; or to be compared with SAr. krb 'blessing, favor'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karäbezä (T.M)",
+        "meaning": "'female genitalia';",
+        "origin_explanation": "ETHIOPIC: Amh. kåräbeza, same.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kardada (K*)",
+        "meaning": "'be rough, be coarse'; kardud (K) 'rough, coarse';",
+        "origin_explanation": "ETHIOPIC: Amh. kåräddädä 'be rough'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kardäd",
+        "meaning": "'weed, nettle'; kardud 'covered with weeds';",
+        "origin_explanation": "kardädäwäyän, in the pl. kardädäwäyän 'one who arouses dissension', derived from an original meaning 'covered with weeds' > bad > vicious'; ETHIOPIC: Te.Tna. kårdad 'weed, nettle', Amh. kårdad, ånkårdad.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karädäryon, karädayon",
+        "meaning": "'heron';",
+        "origin_explanation": "from Gk. kharadrios (acc. of kharadrios 'a yellowish bird'); also in Amh. kårädayon (from Geez). See Conti Rossini, RSO 10 (1951).18-9, and 18, n. 5.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karädayon",
+        "meaning": "see karädäryon.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karfas (Lt)",
+        "meaning": "'iron ring that holds the plowshare to the plow beam';",
+        "origin_explanation": "from Amh. kårfäs.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kirogalyon, kårgalyon",
+        "meaning": "see kirogårliyos.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°arg°ana (T.Y.M)",
+        "meaning": "'assemble, gather, collect';",
+        "origin_explanation": "k°arg°äne 'camp, surrounding of a camp, court, hall (of palace, church), public place, circuit, an enclosed place, enclosure, (T.B.M) assembly, retinue'; (k°arg°äne tä'ayyänt 'camp'); (k°arg°äne mangaśt 'royal palace'); see also k°ark°ana.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karginos (Lt)",
+        "meaning": "'kind of leprosy'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kirogårliyos, karogårliyon, kirogal°yon (Lt)",
+        "meaning": "'hare, rock hyrax';",
+        "origin_explanation": "from Gk. khoirogryllos 'hyrax'. See also 'akrigalyon, 'agrågalyon, garågalyo, garogårliyos, garogårla.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karägayo (T*)",
+        "meaning": "'pig';",
+        "origin_explanation": "for karägayo; see kirogårliyos.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karha (D 833)",
+        "meaning": "wrongly for k°arha, below.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°arha (yak°räḥ) (D 1432 instead of karha in D 833), (T) k°arha",
+        "meaning": "'constrain, force'; k°arḥ 'compulsion, constraint, aversion' (ba-k°arḥ 'involuntarily, by force');",
+        "origin_explanation": "SEMITIC: Ar. 'akraha ('alā) 'compel', karḥ 'aversion'; related to PBh. krh (ḥif-'il) 'to Aram. karḥā 'force'. Brockelmann 1928:343 identifies it with Aram.-Syr. krh 'be ill, be ill-tempered'. The connection with Akk. karû 'be short' suggested by von Soden 452 is unlikely. The connection between G. k°arḥ and Amh. k°ärra 'be proud' (also Tna. k°är'e, Arg. kårräḥa, Gur. k°ärra) suggested by Cohen 1939:25 is doubtful.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karha",
+        "meaning": "in the meaning 'aversion', G. k°arḥ comes close to Te. kårḥa 'decline', Tna. kårḥe 'keep back'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°aräki (T) korki",
+        "meaning": "'crane';",
+        "origin_explanation": "from Ar. karåkiyy (pl. of kurkiyy 'crane'); also in Som. kurki. In the other Semitic languages: Aram. kurkāyā, Syr. kurkāyā, Md. kurkia, Akk. kurkû going back to Sumerian (von Soden 510).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karuk (T), karuk (Sw. in D 1397)",
+        "meaning": "'dry, miserly';",
+        "origin_explanation": "could it be a misprint for kårur hčč?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkä'",
+        "meaning": "'almond, walnut, almond nut, citrus tree';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkara",
+        "meaning": "ETHIOPIC: Te.Tna. ka°ka° 'almonds and nuts', Amh. kårka.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkabaden",
+        "meaning": "see karkaden II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°ark°ada (T.Sw. in D 1397,M)",
+        "meaning": "'embrace, take in one's arms';",
+        "origin_explanation": "ETHIOPIC: Amh. k°åråkk°ådä 'tie up, shackle'. The root is not to be compared with ('an)k°ark°ara 'roll', as suggested by Růžička 35. See also k°adk°ada.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkaden I",
+        "meaning": "'jasper';",
+        "origin_explanation": "also Amh. kårkåden, Amh. kårkådən, kadkådən, kadkådanä, Syr. karkadnā, Ar. karkand. Note that Krauss 299 quotes Gk. karkhēdonios 'Carthaginian' that he translates 'Karfunkelstein', that is 'Carthaginian stone'. See also karkand.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkaden II, karkabaden",
+        "meaning": "(T¹) 'kind of bird'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkaden III",
+        "meaning": "'kind of wood';",
+        "origin_explanation": "this seems to be the meaning of karkaden on the basis of the only example quoted in Dillmann 839. Dillmann ib. interprets it as wood that is red, and connects it with karkaden I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°ark°ana (T.Y.M), korhana",
+        "meaning": "(MA) 'assemble, gather, collect';",
+        "origin_explanation": "see also k°arg°ana.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkand (L.M) karkand",
+        "meaning": "(Gr.261) karkande 'precious stone';",
+        "origin_explanation": "from Ar. karkand; to be identified with karkaden I. Růžička 161 compares it with Heb. kadkod 'precious stone'. On the Hittite origin, see Rabin 1964:152. See also kådkod.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkand",
+        "meaning": "'unicorn, rhinoceros';",
+        "origin_explanation": "ETHIOPIC: Amh. kårkånd, kårkåndä 'unicorn' (from Geez). Hommel 328, 332 considers Ar. karkaddan, karkadann 'rhinoceros' a Geez loanword. On Syr. karkadānā (and Ar. karkadann) being considered a Sanskrit (khadgin) loanword, see Brockelmann 1928:346.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karkara (T.Y.M)",
+        "meaning": "'grind coarsely'; makarkar 'that which grinds (jaw, teeth), (T) means of grinding coarsely';",
+        "origin_explanation": "SEMITIC: Ar. karkara 'cut in big pieces, grind'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rk*r*",
+        "meaning": "'grind coarsely'",
+        "origin_explanation": "Tna. k*rk*r* 'grind coarsely'. Tna. k*r- k*r*, Amh. k*rk*r*, Gur. k*r*k*r* (< krkr). While Sa. k*rk*r 'grind' is taken from Semitic-Ethiopic, the root is probably common with Cushitic in view of Bil. k*r 'break'. See also makark, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rk*r* I, *ank*ark*r*",
+        "meaning": "'roll (tr., intr), roll around, roll along, roll off, revolve, overturn'; '(T) 'pulverize, render fine' seems to refer to karkara, above. *nak*ark*r* or, *nak*ark*r* 'rotation, rolling, whirl- pool'; (*nak*)*ark*r* *ar*a naf*s* 'whirlwind'; *ank*ark*r* or (Lt) 'rolled'; *ank*ark*r* *ar*o (T) 'rolling' (n); *mank*ark*r* or, *mank*ark*r* 'turning round, wheel, chariot, circle, circuit, path';",
+        "origin_explanation": "SEMITIC: Ar. karkara 'turn the millstone', karra 'turn round', Ar. (Dat) karkara 'turn round', Ar. (Syria) karr 'roll, roll up', Ar. kura(t) 'ball' (see for this root Noeldeke 1910:158-9), SAr. krr 'measure of weight' (for the possibility of its being round, cp. Akk. kakk*r*u 'metal disk weighing one talent', Heb. kikk*r* (from k*rk*r) 'round loaf of bread, disk of gold or silver used as a weight', PBH. kiker 'go around', Aram. kakk*r* 'ball', Ug.Ph. kkr 'talent'. Akk. kakk*r*u 'metal disk weighing one talent, round loaf of bread'; also Aram.-Syr. k*r*k 'go round, encircle', Md. krk, for krkr. The root krkr 'dance' occurs in Heb. kirker, Ug. krkr (Aistleitner, no. 1383). ETHIOPIC: Tna. *ank*ark*r* *ar*a 'roll', *ank*ar*r*w*, k*r*k*r* 'be round', Te. k*rk*r* 'roll', *ank*ark*r*, *ank*ar*r* 'roll down', kori 'ball', m*nk*rk*r 'car- riage, wheel', Amh. (t*n*)k*r*k*r* *ar*a 'roll', *m*nk*ark*r* or 'wheel', Gur. (t*k*)k*r*k*r* *ar*a 'be lumpy (flour)'; also in Cushitic: Sa.Bil. karkar 'be round'. The root k*rk*r 'be round' is not to be connected with karkara 'grind coarsely', as suggested by Marrassigni 1971:99 and Conti 1980:85. See also karir, and k*rk*r* II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rk*r* II, *ank*ark*r* *ar*a *h*C*h*C* (T)",
+        "meaning": "'make thin'",
+        "origin_explanation": "possibly to be identified with k*k*r* I, the making thin derived from being rolled.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rk*r* *ar* I *h*C*h*C*",
+        "meaning": "'pillage'",
+        "origin_explanation": "see q*r*q*r* III.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rk*r* *ar* II *h*C*h*C* (T)",
+        "meaning": "'commotion, shouting, argument'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kir*k*os",
+        "meaning": "(B) 'church'",
+        "origin_explanation": "from Gk. kyriak*n* 'church'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kerlagyan",
+        "meaning": "(Lt) 'carbuncle'",
+        "origin_explanation": "perhaps distorted from Lat. carbunculus (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*losotobe",
+        "meaning": "",
+        "origin_explanation": "see k*r*l*y*son.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*l*y*son",
+        "meaning": "",
+        "origin_explanation": "see k*r*l*y*son.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karama, karma (y*k*r*m*, y*k*r*m*)",
+        "meaning": "'spend the rainy season, spend the win- ter, be of the preceding year (wine)', '*akrama, causative'; kar*m* 'who spends the rainy season, one of preceding year (wine), one year old (wine)'; k(a)ramt (pl. k(a)r*m*t, k(a)r*m*t) 'rainy season, rains (June-July to Sep- tember), year'; m*kr*m* 'wintery'; m*kr*m* 'winter quarters, winter residence where one spends the rainy season' (*beta m*kr*m* 'winter residence'); makramiy* (Lt) 'winter quarters, place where one spends the rainy season' (from Amharic);",
+        "origin_explanation": "SEMITIC: connected with Ar. karuma 'be > yield rain' (cp. Ar. rahma 'rain', rah- mercy on'; for dialectal rahma, see 1923:1201). Note that Dillmann's statement \"karuma 'pluviam profundit (nubes)'; dein- ficeus, generosus fuit'\" should read 'beneficus, generosus fuit'; deinde \"pluviam profundit (nu also the three months el-karam*t (dialectal \"sans doute ainsi appel*s parce qu'il pleut (Landberg 1923:1453). ETHIOPIC: Tna. kr*m*ti 'rainy season', Te. Amh. Arg. k*r*m*t, Gaf. k*r*m*t*, Har. k*r*m. Praetorius 1879:158 identifies Amh. m*s- k*r*m, name of the first month (correspo September) with m*sk*r*m 'Regen bringend' from",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*m*",
+        "meaning": "(T*) 'spring (of water)'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*m* (h*C*C*)",
+        "meaning": "'vine, grapevine'",
+        "origin_explanation": "from Ar. karm. In the other Semitic languages: Heb. kerem 'vineyard', Aram.-Syr. karm*, Ug. krm, Akk. karr*nu 'vine, grapevine, grapes' rather than k*r*m* 'ruin, ruin heap' as suggested in Orientalia 37 (1968). 357. W. Müller 1985:272 compares Mh. karmaym 'mountain', Hars kermaym with Heb. k*r*m.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "keramur*du",
+        "meaning": "(T) 'jar'",
+        "origin_explanation": "the first element is perhaps from Gk. keramos (gen. keramou) 'potter's clay, jar' (Müller).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karm*l*",
+        "meaning": "(T) karmel (T*D 1406) 'low-growing bush' (called *afrag in Am- haric);",
+        "origin_explanation": "could it be a transcription of Heb. karmel 'new corn'?",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k(a)ramt",
+        "meaning": "",
+        "origin_explanation": "see karama.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rn*",
+        "meaning": "(T*S*D) 'elbow, forearm'",
+        "origin_explanation": "SEMITIC kr*: Ar. kur* 'front leg, shank', SAr. kr* 'leg of an animal', Ar. (Yemen) kir*n, Soq. *er*eh*n* 'foot' (with ki > *), Heb. k*r*-*ayim* 'shank, split bone', Aram. kar* 'leg', Syr. k*r*a, Md. kraia, Akk. kuritu. ETHIOPIC: Tna. k*rn* 'elbow, forearm', Amh. k*rn* 'elbow', kand 'arm', Gaf. k*nd* (for nd:rn, see Cohen 1931:380), Arg. k*rr* 'arm, elbow', Gur. k*rr* 'arm, cubit', Har. kurru 'cubit'; also in Cushitic: Wol. kure, Mo. hiro 'arm, cubit' (h < k). For the other Cushitic languages, see Cerulli 1951:45 under hill*o*. Reinisch 1887:225 also compares k*r* 'foot of bed'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karap",
+        "meaning": "(T.M), korp (Lt) 'body, corpse';",
+        "origin_explanation": "perhaps from Lat. corpus 'body'. See also *olkorap, korep I.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "korep I",
+        "meaning": "(T) 'divinity';",
+        "origin_explanation": "perhaps from Lat. corpus (Christi); see karap.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "korep II",
+        "meaning": "(MA) 'sweet, tasty, agreeable';",
+        "origin_explanation": "see k*ahapa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*rapr*p",
+        "meaning": "(MA) 'angel'",
+        "origin_explanation": "probably in connection with kirub.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*p*t*",
+        "meaning": "(T) k*r*p*t* (K) k*r*p*t* 'pencil, pen, (T) tablet, ink';",
+        "origin_explanation": "from Gk. graphida (acc. sg. of graphis) 'stylus for writing on tablets'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "krp, *akrapa",
+        "meaning": "(Lt) 'scratch (writing) into a hard surface';",
+        "origin_explanation": "see k*araba, above, but perhaps to be connected with karapa 'cleanse through rubbing or scratching'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karapa",
+        "meaning": "(T) 'wash, cleanse'; *akrapa (T.Sw. in D 1397), causative; also 'wash, cleanse'; *akrap (T) 'pure';",
+        "origin_explanation": "SEMITIC: Grimme 1914:261 connects it with SAr. m- krb 'Reiniger, Gereinigter (= priestlicher König)'. See also krp.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*r*p*",
+        "meaning": "'work'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karipor*s*",
+        "meaning": "(T) 'precious stone'",
+        "origin_explanation": "corrupt form of karasp*r*s*s, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "karaqa",
+        "meaning": "(T) 'be wet'; kerq* 'wet';",
+        "origin_explanation": "ETHIOPIC: Te. k*r*qa 'rain heavily'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kir*q*",
+        "meaning": "(T) 'steep, narrow path'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kir*q*",
+        "meaning": "(T) 'day of judgment'",
+        "origin_explanation": "see k*r*y*q*, below.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "krr I, karara (y*k*r*r*)",
+        "meaning": "(T.K*) 'be dry, dry up (spring)';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(vəbiyy kristiyān 'adult Christian')",
+        "meaning": "'Christian'",
+        "origin_explanation": "ETHIOPIC: Tna. kristiyānā 'be a Christian', Amh. kristiyānāwī 'Christian'. From Gk. khristos; also Tna.Amh. kristiyān 'Christian'. Te. kastan; Tna. kāstānā 'become a Christian'. On the church building, see Hyatt 109ff., Hammerschmidt 1967:91-2, Heyer 27ff.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(pl. karṣātī)",
+        "meaning": "'belly, stomach, womb, abdomen, interior (of ship, ark, vessel)'",
+        "origin_explanation": "SEMITIC: Ar. kirs, karšī 'belly', Sh. ekreš (pl. of širs), Heb. kāreš, Aram.-Syr. karsā, Md. karsa, Akk. karšu. ETHIOPIC: Tna. karsī 'belly'. Te. kāras, kärsät, Arg. Gur. kärs, Har. kärsi, Gaf. ǝrsā (k > h zero), Amh. kärsam 'one who eats much, one who has a big stomach'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'purse, pouch, sack, bag'",
+        "origin_explanation": "from Ar. harīta 'bag'; also Tna.Amh. karāğīt, Har. xarīğa, Gur. kärātit; in Cushitic: Or. karātit. The form karāšit (with š) is probably hypercorrection through Amharic where s > š is normal; therefore t > š by hypercorrection.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "see (karaya I), karuy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'leaf of a book, scroll, roll, letter, slate, parchment, paper, leaf of paper; kartasa 'write' (denominative);'",
+        "origin_explanation": "from Gk. khartēs 'leaf of papyrus', through Ar. qirṭās; also Tna.Amh. kartas 'parchment, paper', Syr. kartīsa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(KG), misspelling for",
+        "meaning": "Tǝ kǝrǝpātā.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yǝkri, yakray)",
+        "meaning": "'dig (a well in the ground), make holes, dig up, excavate, peck (the eyes), make cuts or incisions'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "causative; also 'dig'; takaraya, passive; karāyī (pl. karayt, karāyǝyān), act. part. of karaya; karuy (fem. kǝrīt) 'dūg, excavated'; karyat 'digging, excavation, hole, pit'; makray (Gr.260) makrāy 'instrument for digging, pickaxe, spade'; makrīt (D.Gr.260) 'shovel, spade';",
+        "origin_explanation": "SEMITIC: Ar. karā (kry) 'dig', Heb. kārā (kry), Aram. karā (kry), Md. kra, Ph. kr, Ug. kry (Ga- quot 339). ETHIOPIC: Te. kāra (kry) 'cut off (by digging), kāre, Har. xara, Amh. kärāyäyā 'dig, till the earth'. Could Te. kāray 'hyena', Be. karāy be connected with G. karāyī 'that which digs', referring to the hyena that digs up corpses?. See also karaya II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(D.T)",
+        "meaning": "'stir, excite, incite, make haughty, puff up, blow up, (Y.M) get takarya (Lt) 'become glowing, become hot';'",
+        "origin_explanation": "(Note that B 75 ጽጋብ ጸጋብ näfäw sǝgäb näfäw corrected to ጽጋብ ጸጋብ sǝgäb näfäw karayo rendered by Amh. ṭǝgäb 'satieté, plenitude' is doubtful. The correct reading seems to be karayo 'the plenty pf of food (ṭǝgäb) made haughty or puffed him up (karayo)'. ETHIOPIC: Tna. kǝrrāyäyā 'become enraged', (kry) 'attack'. Or could it be a transferred meaning of karaya I 'dig > stir up, incite'? See also kǝrǝrātātā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.M)",
+        "meaning": "'become angry';",
+        "origin_explanation": "perhaps to be identified with karaya II 'incite', takaraya 'become gloomy'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'Lord, have mercy!'",
+        "origin_explanation": "from Gk. kyrie eleēson, same.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M), kǝrāy",
+        "meaning": "(KG) 'pitcher, jug'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'fourth Coptic month;'",
+        "origin_explanation": "corrupt from Coptic khoiahk, koiahk. See also hǝk, kǝrāq, qǝryāq'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'day of judgement';",
+        "origin_explanation": "from Gk. kyriakē 'day of the Lord, of Last Day'. See also kǝrāq'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Y.K.M)",
+        "meaning": "'proclaim, decree, edict, teach'; takriz 'proclamation, preaching'; karz (K*) 'proclamation, preaching'; takriz 'proclamation, edict, (K) blessing, sanctification';",
+        "origin_explanation": "from Gk. kǝryssō 'I proclaim, I preach' through Chr.-Ar. karaza. On the Greek origin of this root, see Buhl 911, Koehler 1087. On the Aramaic origin, see Eilers 594.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.Y.M.Sw. in D 840)",
+        "meaning": "'hang'; karuz, kāruz, (T) karzu, kǝrǝz 'cross';",
+        "origin_explanation": "SEMITIC: perhaps Ar. karaza 'lean toward'. For karuz, Müller suggests Lat. crux.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T)",
+        "meaning": "'purse, pouch, wallet';",
+        "origin_explanation": "from Ar. Kurz 'shepherd's bag, sack'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(Lt)",
+        "meaning": "'ant'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(T.M)",
+        "meaning": "'poison'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "see kws.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "'purse';",
+        "origin_explanation": "from Ar. kīs (of Aramaic kīsā) origin; see Fraenkel 197. For the Akkadian (kīsu) origin of this noun, also for the origin of Heb. kīs, see Zimmern 20; also in Te.Amh.Arg. Gur. kīs, Har. kīs.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "",
+        "meaning": "",
+        "origin_explanation": "see kws.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yǝksǝb)",
+        "meaning": "'circumcise'; ǝksaba, causative; takasaba, passive, reflexive; kǝsub 'circumcised'; kasbat 'circumcision'; maksab (K*) 'foreskin';",
+        "origin_explanation": "SEMITIC: Ar. kawāšib (pl. of kāsib) 'wild animals, birds of prey', from a root ksb 'snatch away', cp. Mh. kesōb 'snatch, disarm', Ar. (Oman) kassāb 'highwayman'; related to Heb. kāsap 'break' (Driver 1935:62-3), Ar. kasafa 'cut out (clothes), hock (a beast), Akk. kasāpu 'cut, break off a piece'. ETHIOPIC: Te. kāsba 'circumcise', Tna. kānsābā, kānsābā (with augmented n), Gur. (a)kāssābā 'pound the shell of grain'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "(yǝksǝb)",
+        "meaning": "(K*) 'earn money, make a profit';",
+        "origin_explanation": "from Ar. kasaba; also Amh. kāšābā, Te. kāsba, Tna. kāšābā.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəsäd, kəsäd (pl. kəsädät, kəsäwäd, kəsäwäd)",
+        "meaning": "'neck'; '(əgzəfə kəsädo 'he is stiff-necked, he is stubborn'); (kəsäd yəbəs 'stiff neck, stubbornness');",
+        "origin_explanation": "SEMITIC: Sh. kensed 'shoulder', Md. ksada 'throat' (so Drower-Macuch 224; Kaufman 64 translates it 'a neck ornament'), Akk. kišadu 'neck, throat'. Dietrich 298 considers Md. ksada an Akkadian loanword. ETHIOPIC: Tna. kəsäd 'neck', Te. səgad (with metathesis and assimilation: *səkad > səgad), Amh. kəsäd 'back of the neck'. Reinisch 1895:150 compares Be. kešiya.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kasgu",
+        "meaning": "'army'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəšä (yəḳʷšäḥ)",
+        "meaning": "'defecate, relieve the bowels'; ḳʷšä 'causative, also 'defecate'; kʷš 'filth, excrement, dung'; (məkäna kʷšä, mudäya kʷš 'ash 'latrine'); makʷšäḥ 'latrine'.",
+        "origin_explanation": "SEMITIC: Dillmann 842 connects it with Ar. kasaha 'sweep' with a possible development 'sweep > sweepings > filth > dung'; ETHIOPIC: Te. kʷšä 'soil, desecrate', Tna. kʷšäḥi 'excrement (of chicken)', Amh. kʷšäsa 'defecate', kʷšas, kus 'excrement', Arg. kaš 'dung (of chicken)', Gur. kʷšä barä 'have dysentery'; also in Cushitic (rather than 'passed into Cushitic' as in Leslau 1979:354): Al. kus, Sid. kose, Or. koši 'dirt'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "koša",
+        "meaning": "(M 432 going back to kʷšä) 'make peace with one another' is given by M on the authority of Tayyä, but Tayyä has only the meaning of kʷšä mentioned above.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsä (kʷəsä)",
+        "meaning": "see kʷəsä.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəšäš (pl. kʷəšäšt, kʷəšäšt)",
+        "meaning": "'pitcher, pot'; kʷšäš əsa mäy 'watering trough';",
+        "origin_explanation": "ETHIOPIC: Tna. kʷšäšti 'phial of glass or metal', Amh. kʷšäš 'water jug'; also in Cushitic: Kham. kuskusä, Af. kuskusti.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kəslä (D), käsele (L), kaslu, kəslä",
+        "meaning": "(T.M.) Hebrew month; transcription of Heb. kisləw.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kasilä (K) kesel",
+        "meaning": "'Orion (constellation)'; transcription of Heb. kasîl; could kasilä be Aramaic with the Aramaic article -ā?",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ksm, aksama (M)",
+        "meaning": "'dedicate';",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəšmi 'saint to whom a church is dedicated', to be identified with ksm 'cut' (Heb. kəšam, Akk. kasāmu) > *separate > *assign > dedicate'. For Heb. kirsem, see Greenspahn 130.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "käsmä (Lt)",
+        "meaning": "'stake'; kasama (MA) 'plant stakes' (denominative);",
+        "origin_explanation": "ETHIOPIC: Tna. Amh. kasma 'tent peg'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kosmos (M)",
+        "meaning": "'world, universe';",
+        "origin_explanation": "from Gk. kosmos, same.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsära",
+        "meaning": "for kʷəsära, below.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kasasa (Lt)",
+        "meaning": "'accuse';",
+        "origin_explanation": "from Amh. käššäšä. Grébaut, Aethiops 3 (1930), 45 renders it 'break to pieces' and derives it from Ar. kassa. However, in the sentence given by Grébaut the verb kss could also mean 'accuse'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsät",
+        "meaning": "see kʷəsaya I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kosata (L)",
+        "meaning": "'mix'; contraction of kawsata, below.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsätära",
+        "meaning": "'sweep, cleanse, wipe away, get rid of debris, dust (and so on), purify, prune (trees), correct'; takʷəsätära, passive; kʷəsätäri, act. part. of kʷəsätära; kʷəsätur, pass. part. of kʷəsätära; also 'dirt (that 'what is swept')'; kʷəsätär 'sweepings'; kʷəsätär (K*) 'sweepings'; makʷəsätär 'rubbish heap, sweepings, refuse (T.S.K) broom, (L.D) twigs (serving as a broom), (L) snuffers for a candle'; makʷəsätär, (Lt) makʷəsätär 'broom, snuffers'.",
+        "origin_explanation": "ETHIOPIC: Tna. kʷəsätäri 'sweep, wipe off, filter', Te. kʷəsätära 'sweep away', Amh. kʷəsättära 'wipe off, sweep away', Gur. kʷəstärä 'filtered'. See also kʷəsara.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsaya I (yəḳʷsi)",
+        "meaning": "'separate, divide, in → stroy, dissolve, decompose, belittle, disprove, refute'; takʷəsaya, passive; kʷəsyat, kʷəset, verbal noun of kʷəsaya; also 'abrogation, dissolution';",
+        "origin_explanation": "SEMITIC: related to kss, ksh, as in Ar. kassa, kaskasa 'pound, grind', Heb. kāsas 'divide into portions', kāsah 'cut off brushwood', Syr. kas 'break into', Akk. kasāsu 'chew up'. ETHIOPIC: Tna. kʷəsäya 'break into pieces', to kʷəšhe 'break into pieces', Amh. kʷəsäkʷäsä 'break a stone or a clod of earth'. For 'belittle, disparage', cp. Amh. kʷəššä (from kʷsy) 'joke', Gur. (a)kʷəšä, Har. qʷəsa; also in Cushitic: Or. qōsi, Som. qōš.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsaya II",
+        "meaning": "'bear a surname, have the same name as someone else'; makʷsi, makʷsəy 'who has the same surname'; makʷsäyäyan (pl) 'homonyms';",
+        "origin_explanation": "ETHIOPIC: Tna. mäkʷsi 'si 'namesake', Te. Amh. mäkʷse, mokʷse, Gur. mokʷse; passed into Cushitic: Qem. mokʷse. See also mkʷsy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kʷəsäkʷəsä (K*)",
+        "meaning": "'be variegated, speckled'; kʷəsäkʷəsä, kʷəsäkʷəsä, kʷəsäkʷəsä, kʷəsäkʷəsä, (T) kʷəsäkʷəs, (L) kʷəsäkʷəs 'speckled, variegated, multicolored, spotted, black and white (horse, cow)'; (həbra kʷəsäkʷəs 'of variegated colors');",
+        "origin_explanation": "ETHIOPIC: Amh. kʷəsäkʷəsä 'paint something multicolored, speckle'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kašata (yəḳšat)",
+        "meaning": "'uncover, disclose, lay bare, expose, reveal, make manifest, discover, open (eyes, mouth, box)'; takašata, passive; also 'be visible, appear, uncover oneself'; kašati, act. part. of kašata; (kašate bärhan 'illuminator'); kašut (fem. kašatt) 'revealed, uncovered, manifest, obvious, clear, evident, public (eye), visible'; (kəšuta, ba-kəšut 'visibly, openly, obviously, plainly'); kašutawi (Gr) 'pertaining to being revealed'; kašit 'disclosure';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kašita",
+        "meaning": "(kašita täšəṭa 'incarnation'); kəšät 'uncovering, disclosure, revelation, opening, (Gr) prayer composed of verses taken from the Psalms and recited at funeral services'; makšat 'opening (n), act of opening, (KG) who uncovers, who reveals';",
+        "origin_explanation": "SEMITIC: Brockelmann 1927:28 compares it with Ar. kašafa 'reveal, disclose' > G. kšt, the r of which is due to 'Reimwortbildung' with the opposite kšr 'hide'. ETHIOPIC: Te. kästa 'open', Tna. käšätä, Amh. käšätä (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katta",
+        "meaning": "see ktt I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kataba (yəktab) (Y.Lt)",
+        "meaning": "'write down, write, register'; takatba (Lt), passive; kətabi 'scribe'; kətab 'writing, message, letter, book, text, document, charm, amulet';",
+        "origin_explanation": "from Ar. kataba 'write', kitab 'book'. Also Te. kätba 'write', Har. kätäba, Gur. kätäbä, Amh. kättäbä 'vaccinate', Tna.Amh.Gur. kətab 'charm, amulet'. Let see also katapa.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kətba",
+        "meaning": "'linseed'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katafa (yəktəf)",
+        "meaning": "'bind firmly, tie up'; takatfa (K), passive; kətuf 'bound firmly, tied up'; kʷətfat, kutfat, (T) kətfat 'binding (n), bond, tie';",
+        "origin_explanation": "SEMITIC: Ar. katafa 'tie the hands behind the back'. Soq. kətf; but also a metathesis in: PBh. kəpaṭ 'tie', Aram. kəpaṭ, Syr. kəpaṭ 'form into a knot', Md. kpt 'tie, bind', Akk. kapātu 'become compact'. ETHIOPIC: Amh. kʷətfat-ä əd 'hands bound behind the back' (from Geez). See also kʷətfat.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katolikä, katolikä",
+        "meaning": "'Catholic';",
+        "origin_explanation": "from Gk. katholikos; also Te.Amh. katolik, Tna. katolik, Har. kotälik.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katama I (T.Y.M)",
+        "meaning": "'seal, stamp, close, vaccinate, tattoo, incise'; (Amh. atäggärä given by Y as the translation of G. katama means 'tattoo' rather than 'be black', as rendered by M);",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "takatma",
+        "meaning": "'be vaccinated, be tattooed'; (in the meaning 'disguise oneself' takatma is the transcription of Ar. taḥattama, according to Guidi 1899:458);",
+        "origin_explanation": "(from Ar. ḥatama 'seal'; also Te. (ˀa)kātäma 'make an end', katmät 'end', Amh. (ˀa)kātämä 'be finished, come to an end', Tna. kātämä 'be finished'; Te. kātma 'seal', Amh. kātämä 'print'; in Cushitic: Sa. kātīm 'seal' (n.). See also katama II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katama II (Lt)",
+        "meaning": "'assign a garrison (de-nominative)';",
+        "origin_explanation": "ETHIOPIC: Te.Tna.Amh.Gur. kātāma 'military camp, city', Har. in kātämbäri 'gate of the com-pound' (from kātäm[a] bäri); Tna. kātämä 'estab-lish a permanent camp'. However, it is also possible that the original meaning of katama is 'compound' (as in Har. kātämbäri 'gate [bäri] of the compound [kātäm]) and could be derived from katama I 'seal', that is, 'close in'. Ludolf 402 (followed by Dillmann 852) identifies katama 'camp, military camp' with katama 'extremity, top, stating, \"vulgo vocantur 'castra regina', scil. summa\", that is, 'top, summit'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "takatama (Lt)",
+        "meaning": "'camp, be encamped, (Y) move here and there';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katamā",
+        "meaning": "'extremity, utmost, tip, top, summit; camp, military camp';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katum (Lt)",
+        "meaning": "'conscripted';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katmat (Lt)",
+        "meaning": "'conscription';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kotān",
+        "meaning": "'flax, linen, cloth, tunic';",
+        "origin_explanation": "from Ar. kattān 'linen' (for its Aramaic origin, see Fraenkel 42; for its Persian origin, see Vollers 1896:647); also Amh. koṭān 'linen'. Som. kiṭān. In the other Semitic languages: Heb. kuṭṭōnet 'tunic', Aram. kittānā, Syr. kettīnā, Md. kitana 'linen', Ug. Ph. ktn, Akk. kiti, kitintu (considered to be of Sumerian origin). For Gk. khitōn 'undergarment, coat' borrowed from Semitic, see Masson 29. For more details on this root, see Baumgartner 480-1.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaṭap (T.M)",
+        "meaning": "'write';",
+        "origin_explanation": "see kataba.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaṭāp (T)",
+        "meaning": "'wood, tree, bramblebush';",
+        "origin_explanation": "ETHIOPIC: perhaps Amh. kaṭābe 'kind of tree'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katara (T.Y)",
+        "meaning": "'curtain off, screen from view, bar, prohibit, forbid access, hinder, stop, abstain, detain, determine a boundary, (K*) make an enclosure, surround';",
+        "origin_explanation": "(katara bäḥra 'build a dam'); (bä'ala katara 'eve of Epiphany', cel. the 10th of Torr; so called because of the practice of damming a stream to form a pond); katārīt, fem. of katārī (T*) 'lion's den', lit. 'that which bars, encloses'; SEMITIC: connected with the root ktr 'surround, make a hedge', a meaning that developed into 'prohibit access'. Heb. kitter 'surround', Md. kṭir 'detain, retain'. ETHIOPIC: Tna.Gur. kaṭāra 'prohibit, prevent access', Har. xātāra, Tna. kātāra 'make a fence-in place', Te. kātära 'surround, a hedge', Amh. kātāra 'screen, surround a fence, dam a flowing stream'; passed into Qem. kaṭār 'dam up, embank'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katār, kətr, k°ätārīt, kotārīt, k°ätīrāṭ (Gr.264)",
+        "meaning": "'capital of a pillar, (Gr) crown, wreath of flowers';",
+        "origin_explanation": "transcription of Gk. khōtar, khōthareth, kotere! 'capital (of pillar)' also Amh. k°ätār 'capital of a column' (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "katārāqāṭen",
+        "meaning": "see kaṭārāqen.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ktt I, kaṭṭa (yakṭaṭ) (K*)",
+        "meaning": "'cut in little pieces, beat';",
+        "origin_explanation": "SEMITIC: Ar. (Dat) kaṭṭ 'demolish, cut down', Heb. kaṭṭ 'crush fine, crush to pieces', Aram. kaṭṭet 'pound, crush', Ug. kṭṭ 'beaten (copper)'. Ak. kaṭṭa 'be short' (from a meaning 'be cut down'). ETHIOPIC: Te. kaṭṭa 'hurt, beat', Tna. kaṭṭa 'cut', Amh. kaṭṭa 'cut in little pieces, chop up (wood)', Gur. kaṭṭa 'break into pieces, 'break bread in half' (from kṭ?), k°äčče 'hashed meat' (from kṭy).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ktt II, kaṭṭa (K*)",
+        "meaning": "'gather';",
+        "origin_explanation": "'askataṭa (Lt) 'mobilize' (from Amharic). ETHIOPIC: Te. kaṭṭa (kaṭṭ) 'call together', ˀaṭaṭa 'gather', Tna. kaṭṭa 'gather, be mobilized', Amh. Gur. kaṭṭa 'gather, mobilize troops', Har. kaṭṭa 'store', also in Cushitic: Sa. Af. kaṭ 'gather, come together'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "ketem (OT)",
+        "meaning": "'house';",
+        "origin_explanation": "from Gk. khettīm, a wrong transcription of Heb. bäyit resulting from a misreading of ב י ת.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kotme (T.M)",
+        "meaning": "'kind of herb';",
+        "origin_explanation": "from Ar. hiṭmiyy.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kiṭrogawlos, keṭro gawlos",
+        "meaning": "'basin, bowl, jar, kind of measure';",
+        "origin_explanation": "from Gk. khytrogawlos 'kind of pot'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaṭārāqāṭen (Lt)",
+        "meaning": "'pelican';",
+        "origin_explanation": "see qaṭārāqten, and kaṭārāqāṭen.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k°äṭatme (T.M)",
+        "meaning": "'cotton plant';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawafa (yakuf) (Gr.267)",
+        "meaning": "'draw (water)';",
+        "origin_explanation": "ˀakwafa 'collect (liquid that falls into a receptacle), (L) draw forth, (T) cause a puddle to form'; SEMITIC: Ar. (ta)kawwafa 'assemble (people)' that Dillmann 866 suggests reading yāwakkafa 'accept, they receive' (see wkf) instead of yākawwafu. ETHIOPIC: Tna. (ˀa)kofa 'collect the urine of cows'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawakabt",
+        "meaning": "see kokab.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawakəh",
+        "meaning": "see k°ak°aḥ.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kiwakilu (KG)",
+        "meaning": "'small house';",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawwala",
+        "meaning": "'form the rearguard, hide';",
+        "origin_explanation": "takawwala 'stay behind, remain behind, follow behind, be the rearguard'; kawwal (K*) 'who remains behind'; kawala, kawala, k°äla, (Gr.465) k°äwla 'hind, hind part, back part, rearguard'; kawala, kawala (adv) 'in the rear, afterwards, later on, in the back'; SEMITIC: related to Ar. (ta)kayyala 'keep on the rear' (Dillmann 860). ETHIOPIC: Te. k°awal 'rearguard', käwwala 'hide', Amh. h°äla 'behind', Gur. f°äla, with k° > *f (Praetorius 1879:522; Leslau 1979:231); also käwwala 'hide, protect' from an original meaning 'stand behind to protect'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kwl, takewala (T)",
+        "meaning": "'foretell, predict'",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawlala (Lt)",
+        "meaning": "'become giddy'",
+        "origin_explanation": "see *kolala, ankōlala.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawama (MA)",
+        "meaning": "'burst'",
+        "origin_explanation": "SEMITIC: perhaps Ar. kāma 'cover (an animal)' [Am-bros].",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kwn, kona (yakun)",
+        "meaning": "'be, become, there is, there was, exist, happen, occur, come into being, come to pass, take place, be done, be permissible', with object suffix pronouns 'be sufficient (for), be enough (for), behoove (to)'. Note that the predicate noun or adjective with kona 'become' is used in the accusative; e.g., kona naguśa 'he became king'.",
+        "origin_explanation": "kona + imperfect expresses habitual action in the past; kona + perfect expresses the pluperfect; zakona, zakona kawino 'whoever, whatsoever, whatever happens, whosoever he may be'; takawana (K*) 'be finished'; ˀakona (D 1432) 'cause to be'; kon 'sufficiency'; the attested example is that of the 1st pers. sg., that is, konaya 'it is suf-ficient for me'; or would it be from kona with a not-attested suffix pronoun of the 1st person?; kawani, act. part. of kona; kawaniṭ, kawaniṭ (pl. kawānāyaṭ, [KG] kenotāṭ) 'creature, being, image, column, obelisk; that which is a place of rest (that is, that which serves for something)'; kawwan 'established'; kawin 'being (n), nature'; kawina 'condition, quality'; kawwāne 'being, origin, generating, essence, existence, nature, statute, condition, quality, manner'; kunaṭ, k°ənaṭ 'being (n), coming about, origin, essence, mode, situation, station'; makān (pl. makānāt) 'place, space, room, occa-sion'; (makāna 'in the place [of])'; makānāṭ (pl. of makān) 'oratory'; SEMITIC: Ar. kāna 'be, exist', SAr. kwn 'be, occur', Mh. kān 'be', Heb. kwn (hif'il) 'be firmly estab-lished', Aram. ken 'so, thus', Syr. kān 'be, exist',",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "Md. kan, Ph.Ug. Kn 'be', Akk. kānu",
+        "meaning": "'be firmly in place, last'.",
+        "origin_explanation": "SEMITIC: Tna.Gur. konā 'be', Te. vi.kon 'no', Amh.Gaf. honā (with k > h), Arg. honā, Har. xāna; also in Cushitic: Bil. kun 'be', Sa. kān.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawānim I, II",
+        "meaning": "see kawānim I, II.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawānim III",
+        "meaning": "'priestly garment', undoubtedly confusion with kawānim (see above), the form kawānim being corrupt from kawām.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k\"awānaw",
+        "meaning": "see k\"ināt.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kwp, kopa (T)",
+        "meaning": "'create', kop (MA) 'creator'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kwr, kora (K*)",
+        "meaning": "'carry, load', denominative from kor 'saddle'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawr (T)",
+        "meaning": "= Amh. agodo 'pit in which the blacksmith melts iron'.",
+        "origin_explanation": "SEMITIC: Ar. kūr 'blacksmith's furnace', Heb. kūr, Aram.-Syr. kūrā. Zimmern 32 derives it, with reser-vations, from Akk. kūru (not so von Soden 512; Kaufman 65). There is also a form kūr (Heb.Ar) considered an Akkadian loanword according to von Soden 484, but not according to Kaufman 65. ETHIOPIC: Tna.Amh. kāwr 'furnace, melting pot'; Cushitic: Af. kūr borrowed from Arabic.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawra, kora (Gr.267), kawwara (K*)",
+        "meaning": "'steer a ship', takawwara 'steer a ship, keep a steady helm, (T) turn, go back and forth'.",
+        "origin_explanation": "SEMITIC: Ar. (South Arabia) kawwara 'place a boat in the water'. ETHIOPIC: 'turn', cp. Amh. (tān)kāwarrārā 'wan-der while searching'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawwara (K*)",
+        "meaning": "'set traps, catch fish'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kws I, kawasa, kosa (T.Y.M)",
+        "meaning": "'agitate, stir, incite, shake, mingle, mix'; akosa, takosa, (T) akwasa 'move (tr), con-found, trouble, perturb, disturb'; takawsa, takawsa, passive; also 'move (intr), be turned away, blaze'; takāwasa 'be perturbed, be moved (tossed) here and there'. kawwus, pass. part. of kawasa;",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "SEMITIC: Ar. (ta)kawwasa",
+        "meaning": "'be thrown up side down'.",
+        "origin_explanation": "ETHIOPIC: Tna. (ak)kawāsā 'stir up', (from a root kss or from ks with reduplication of the last radical), kus bela 'move', Amh. kāwwāsā 'shake, stir'. Reinisch 1895:149 compares kwās 'stir'. The root is perhaps to be identified with kws II.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kws II, k*asa (T.M)",
+        "meaning": "for kosa 'rate, sweep, destroy'; see also kws I.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawsata (L)",
+        "meaning": "'mix', denominative from *kawsat, from kawasa I). See also kosata.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kawawa (yəkwəw) (T.Y.K)",
+        "meaning": "'hasten, hurry, be quick, be swift, be agile, be smooth (words), lie, cheat'. kawāw 'rapid, energetic, swift, agile, (words)'; kəwāw (K) 'rapidity, speed, agility'.",
+        "origin_explanation": "ETHIOPIC: Amh. kāwwa 'wandering'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāy (D 1407)",
+        "meaning": "'precious stone'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kiyā-",
+        "meaning": "with nominal suffix pronouns expresses the personal pronoun as direct ob-ject; it is used for special emphasis, e.g. kiyā-ya 'me', kiyā-hu 'him, it, the very same'. It is followed by a noun in the accusative: e.g. kiyā hā mādra 'even it, the land', that is, 'the land itself'. At times it takes the place of a demon-strative pronoun; e.g. ba-kiyā-hom mawā'əl 'in those days', kiyā-hā lelita 'on that night'. The direct object may also be expressed with the object suffix pronouns attached to the verb and with kiyā-; e.g., kiyāka tašāhalakka 'he was gracious to you' (possibly with emphasis).",
+        "origin_explanation": "the derivation of kiyā from k*əlayāt (pl. of k*əlit) 'kidneys' > 'self' suggested by Praetorius, ZDMG 27 (1873), 640 is not convincing. Note that for a noun with suffix pronouns used as a pronoun he quotes Tna. nəssu-u 'he' from nāfsu 'his soul', or Amh. əssu, əssu 'he' from rā'su 'his head'. It would seem that kiyā- comes from *kə-a, to be compared with zīv-a- from zə- (see also Rundgren 1955:188). As for kə it is perhaps a prepositional element (cp. Amh. kā) which becomes in Geez an element for the expression of the direct object.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kyd I, keda (yəkid)",
+        "meaning": "'tread, tread down, trample, trample down, thresh (by treading), akeda, same; also 'make tread, make trample'. takayəda, passive; takayəda 'tread one upon another, trample'; kayəd, act. part. of keda; kayyəd 'trodden down'; kayyəd (Lt) 'trampling, treading'; kayyəd 'something trodden down'; kidat 'tread down, stepping, footstep'; makayəd, makayəd (pl. makayəd) 'footstool, stool, step, platform, footprint, base (of a column or of an altar), sole of foot, foot (as measure), shoe'. məkyād (pl. məkyādāt) 'tramping-ground, trampled ground, threshold, threshing floor, winepress, oil press, footprint, foot (as meas-ure)'. (məkyāda wayn 'winepress'); (məkyāda 'əkl 'threshing floor');",
+        "origin_explanation": "SEMITIC: related to Ar. kadda 'press hard', kadīd 'ground trampled upon' (Dillmann 872). In connection with Heb. kīdōn 'dart' suggested by Buhl 343 and Koehler 433 is unlikely. ETHIOPIC: Te. keda 'tread upon'. Tna. kādā 'walk', Amh.Gur. hedā (with k > h) 'walk, go', Arg. hedā, Har. xēğa 'stamp, trample'; passed into Cushitic: Sa. kayad 'tread upon'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kyd II, 'akeda",
+        "meaning": "'take testimony (of wit-ness)'. takayəda 'stipulate, demand a promise, enter into a confederacy, make a treaty, form an alliance, make a pact, make a covenant, be bound by a covenant, promise, pledge'; (takayəda kidāna 'make a treaty'); 'astakayəda, causative of takayəda; also 'unite by covenant'; kidān 'covenant, pact, treaty, testimony, alli-ance, will, testament, promise made by God to the Virgin'; (kidān balit wahaddəs 'Old and New Testa-ment'); (kidāna mahrat 'testament [pact] of grace' [epithet of Mary]), promise made to a saint to grant all the prayers performed in his name'; (mas(a)hafa kidān 'The Book of the Covenant' containing the teachings of Jesus during the 40 days before the resurrection); for a bibliogra-phy, see Hammerschmidt-Six 1983:62.",
+        "origin_explanation": "ETHIOPIC: Tna. kidān 'pact, covenant', Amh. (tā)kayyādā 'enter into a pact with one another', kidān 'pact, treaty'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kyd III, keda",
+        "meaning": "'rob'.",
+        "origin_explanation": "could it be for heda, above, with k > h? W. Müller suggests Ar. kāda (kyd) 'outwit, deceive, plot'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kiyāhak (K*)",
+        "meaning": "the fourth Coptic month (corresponding to G. tāhsās); from Coptic khoiahk, kiahk; also Chr.-Ar. kiyahk. See also kiyārəq*, k*əryāq* I, qəryāq*.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kyn I, kena (K*)",
+        "meaning": "'be sharp, be clever'; a denominative from kin, created by KWK.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kyn II, takayana (T.M)",
+        "meaning": "'be covered'; misprint for takadana.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "k*ayānaw",
+        "meaning": "see k*ināt.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kiyārəq* (T)",
+        "meaning": "the fourth Coptic month; see kiyāhak.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "*kys",
+        "meaning": "see akist.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kaysi (pl. 'akyasī)",
+        "meaning": "'serpent, dragon';",
+        "origin_explanation": "ETHIOPIC: Te. kāys 'snake', Tna. kāyəs, kāysi. Amh. kāysi (from Geez).",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kāyse (T*)",
+        "meaning": "'liver';",
+        "origin_explanation": "could it be a corrupt form of kā'əse (see above) 'contents of the stomach' and possibly also 'stom-ach', as in Te. kā'əs 'stomach'? For 'stomach' and 'liver', cp. G. kābd 'liver' and Amh. hod (< kābd) 'stomach'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kizā (T.M)",
+        "meaning": "'arrow'.",
+        "origin_explanation": "W. Müller suggests an Arabic origin: hizā, pl. of hizwa, huzwa 'arrow'; however, Ar. h becoming k in loanwords is not normal.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kazabal",
+        "meaning": "(T) 'measure of grain'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kazama",
+        "meaning": "(MA) = Amh. dällašä 'repair something broken by plastering over the cracks, anoint the hair, anoint the hair with butter and plaster down the hair with it'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kzr, takzir",
+        "meaning": "(T) 'souvenir, remembrance';",
+        "origin_explanation": "metathesis of the root zkr, zakara, tazkir 'remembrance'.",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    },
+    {
+        "phonetics": "kazara",
+        "meaning": "(MA) 'migrate, be uprooted'.",
+        "origin_explanation": "",
+        "ethiopic_word": "",
+        "amharic_meaning": ""
+    }
+]

@@ -50,7 +50,7 @@ def main() -> None:
     if not json_files:
         print("No .json files found in", script_dir)
         return
-    json_files = [Path("ለ copy.json")]
+    json_files = [Path("ሐ copy.json")]
     for json_path in json_files:
         csv_path = json_path.with_suffix(".csv")
         try:
